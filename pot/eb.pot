@@ -1,0 +1,4 @@
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Report] - undefined
+msgid "Report"
+msgstr ""

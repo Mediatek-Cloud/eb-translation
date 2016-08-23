@@ -3,16 +3,153 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.8\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Language: zh_TW\n"
+
+#. [Header.AccountSetting] - undefined
+#. [AccountSetting.AccountSetting] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/containers/AccountSetting.json
+msgid "Account Setting"
+msgstr "帳號設定"
+
+#. [SleepReportList.Asleep] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Asleep"
+msgstr ""
+
+#. [SleepReportList.Awake] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Awake"
+msgstr ""
+
+#. [LangingPage.BloodPressureTitle] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Blood Pressure"
+msgstr ""
+
+#. [LangingPage.CalorieTitle] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Calorie"
+msgstr ""
+
+#. [AccountSetting.ChangePassword] - undefined
+#: build/messages/src/scripts/containers/AccountSetting.json
+msgid "Change Password"
+msgstr ""
+
+#. [StepPanel.DailyAvg] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+msgid "Daily avg."
+msgstr ""
+
+#. [Header.Dashboard] - undefined
+#. [ExercisePage.Dashboard] - undefined
+#. [SleepReportList.Dashboard] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/containers/ExercisePage.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Dashboard"
+msgstr ""
+
+#. [LangingPage.CalorieContent] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid ""
+"Detailed analytics help you get in tune with each heartbeat. Not for Medical "
+"use - for Fitness use only!"
+msgstr ""
+
+#. [StepPanel.Exercise] - undefined
+#. [ExercisePage.Exercise] - undefined
+#. [LangingPage.ExerciseTitle] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/containers/ExercisePage.json
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Exercise"
+msgstr ""
+
+#. [StepPanel.GoalAchieved] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+msgid "Goal Achieved"
+msgstr ""
+
+#. [LangingPage.HeartRateTitle] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Heart Rate"
+msgstr ""
+
+#. [Header.Logout] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Logout"
+msgstr "登出"
+
+#. [SleepReportList.Note] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Note"
+msgstr ""
+
+#. [AccountSetting.ProfileDetail] - undefined
+#: build/messages/src/scripts/containers/AccountSetting.json
+msgid "Profile Detail"
+msgstr ""
 
 #. [Header.Report] - undefined
 #: build/messages/src/scripts/components/common/Header.json
 msgid "Report"
 msgstr "報告"
+
+#. [SleepReportList.SleepEfficiency] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Efficiency"
+msgstr ""
+
+#. [SleepReportList.SleepReport] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Report"
+msgstr ""
+
+#. [SleepReportList.SleepReportList] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Report List"
+msgstr ""
+
+#. [LangingPage.SleepTrackTitle] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Sleep Track"
+msgstr ""
+
+#. [StepPanel.Step] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+msgid "Step"
+msgstr ""
+
+#. [LangingPage.StepsTitle] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+msgid "Steps"
+msgstr ""
+
+#. [SleepReportList.Title] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Title"
+msgstr ""
+
+#. [SleepReportList.Total] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Total"
+msgstr ""
+
+#. [StepPanel.Walk] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+msgid "Walk"
+msgstr ""
+
+#. [StepPanel.step] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+msgid "step"
+msgstr "步"

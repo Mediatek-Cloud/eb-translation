@@ -1,3 +1,8 @@
+#: build/messages/src/scripts/containers/Layout.json
+#. [Layout.MediaTekIncAllRightReserved] - undefined
+msgid "MediaTek Inc. All Rights Reserved."
+msgstr ""
+
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Report] - undefined
 msgid "Report"

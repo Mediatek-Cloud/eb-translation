@@ -1,9 +1,429 @@
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.AccountSetting] - undefined
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.AccountSetting] - undefined
+msgid "Account Setting"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Activeness.json
+#. [personalReport.Activeness.Activity] - undefined
+msgid "Activity"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.Additional] - undefined
+msgid "Additional"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/SuccessSection.json
+#. [landingPage.SuccessSection.title] - undefined
+msgid "Application successful !"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.BMR] - undefined
+msgid "BMR"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#. [EfficiencyIndicator.Bad] - undefined
+msgid "Bad"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.BiologicalAge] - undefined
+msgid "Biological Age: {formattedBioAge}"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.BloodPressure] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.BloodPressureTitle] - undefined
+msgid "Blood Pressure"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.bloodPressure] - undefined
+msgid "Blood Pressure Measurement"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CaloriePanel.json
+#. [CaloriePanel.Calorie] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.Calorie] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.CalorieTitle] - undefined
+msgid "Calorie"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Header.json
+#. [landingPage.Header.Campaign] - undefined
+msgid "Campaign"
+msgstr ""
+
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.ChangePassword] - undefined
+msgid "Change Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.DailyAvg] - undefined
+msgid "Daily avg."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Dashboard] - undefined
+#: build/messages/src/scripts/containers/ExercisePage.json
+#. [ExercisePage.Dashboard] - undefined
+msgid "Dashboard"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.Detail] - undefined
+msgid "Detail"
+msgstr ""
+
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.CalorieContent] - undefined
+msgid "Detailed analytics help you get in tune with each heartbeat. Not for Medical use - for Fitness use only!"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.Diastolic] - undefined
+msgid "Diastolic"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.diet] - undefined
+msgid "Diet Control"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.content] - undefined
+msgid "Download the App for your iPhone or Android smartphone."
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.Duration] - undefined
+msgid "Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.Exercise] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.Exercise] - undefined
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.Exercise] - undefined
+#: build/messages/src/scripts/containers/ExercisePage.json
+#. [ExercisePage.Exercise] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.ExerciseTitle] - undefined
+msgid "Exercise"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.exercise] - undefined
+msgid "Exercise or Fitness"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#. [EfficiencyIndicator.Fair] - undefined
+msgid "Fair"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.FatBurn] - undefined
+msgid "Fat Burn"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.GoalAchieved] - undefined
+msgid "Goal Achieved"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#. [EfficiencyIndicator.Good] - undefined
+msgid "Good"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.HF] - undefined
+msgid "HF {hf}"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.HRV] - undefined
+msgid "HRV"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.hrvDescription] - undefined
+msgid "HRV: {formattedDescription}"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.title] - undefined
+msgid "HealthBand"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.HeartRate] - undefined
+#: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
+#. [HeartRatePanel.HeartRate] - undefined
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.HeartRateTitle] - undefined
+msgid "Heart Rate"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.button] - undefined
+msgid "JOIN NOW !"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.submitButton] - undefined
+msgid "JOIN NOW!"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.title] - undefined
+msgid "Join health band and get a band now!"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.LF] - undefined
+msgid "LF {lf}"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.LFHF] - undefined
+msgid "LF/HF {lfHf}"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Header.json
+#. [landingPage.Header.Leaderboard] - undefined
+msgid "Leaderboard"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.LegalNotice] - undefined
+msgid "Legal Notice"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Logout] - undefined
+msgid "Logout"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#. [HeartRateChart.Max] - undefined
+msgid "Max"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.MeasuredTime] - undefined
+msgid "Measured time"
+msgstr ""
+
 #: build/messages/src/scripts/containers/Layout.json
 #. [Layout.MediaTekIncAllRightReserved] - undefined
 msgid "MediaTek Inc. All Rights Reserved."
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#. [HeartRateChart.Min] - undefined
+msgid "Min"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.inputEmailPlaceholder] - undefined
+msgid "Please input your MediaTek email address"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#. [EfficiencyIndicator.Poor] - undefined
+msgid "Poor"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.pressure] - undefined
+msgid "Pressure Analytics"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.PrivacyPolicy] - undefined
+msgid "Privacy Policy"
+msgstr ""
+
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.ProfileDetail] - undefined
+msgid "Profile Detail"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.RecentMeasurements] - undefined
+msgid "Recent measurements"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.Remaining] - undefined
+msgid "Remaining"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Report] - undefined
 msgid "Report"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/Hrv.json
+#. [personalReport.HRV.SDNN] - undefined
+msgid "SDNN {sdnn}"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.button] - undefined
+msgid "SEND IT"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.ShowMore] - undefined
+msgid "Show more"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Header.json
+#. [landingPage.Header.signInOrCreateAccount] - undefined
+msgid "Sign In / Create Account"
+msgstr ""
+
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.SleepTrackTitle] - undefined
+msgid "Sleep Track"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.sleep] - undefined
+msgid "Sleep Tracking"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.option.social] - undefined
+msgid "Social Contest"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.Step] - undefined
+msgid "Step"
+msgstr ""
+
+#: build/messages/src/scripts/containers/LandingPage.json
+#. [LangingPage.StepsTitle] - undefined
+msgid "Steps"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.Systolic] - undefined
+msgid "Systolic"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.Today] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.Today] - undefined
+msgid "Today"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#. [HeartRateChart.TodayAvg] - undefined
+msgid "Today avg."
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.Walk] - undefined
+msgid "Walk"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/SuccessSection.json
+#. [landingPage.SuccessSection.content] - undefined
+msgid "We've received your application for the Health Band,
+          please check your email inbox for the confimation email,
+          which is sent to {formattedEmail}."
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.goalCompleted] - undefined
+msgid "You have completed the goal!"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.jumboText] - undefined
+msgid "Your Activity Tracker And Health Keeper"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.At] - undefined
+msgid "at"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.AvgBpm] - undefined
+msgid "avg bpm"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#. [HeartRateChart.Bpm] - undefined
+#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
+#. [personalReport.HeartRateChart.bpm] - undefined
+msgid "bpm"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.subtitle] - undefined
+msgid "by MediaTek"
+msgstr ""
+
+#: build/messages/src/scripts/components/personalReport/CalorieChart.json
+#. [personalReport.CalorieChart.cal] - undefined
+msgid "cal"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.H] - undefined
+msgid "h"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.kcal] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.Kcal] - undefined
+msgid "kcal"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.kcalBurned] - undefined
+msgid "kcal burned"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.Min] - undefined
+msgid "min"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressurePanel.MmHg] - undefined
+msgid "mmHg"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/CalorieChart.json
+#. [CalorieChart.remainKcal] - undefined
+msgid "remain {remaining} kcal"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#. [StepPanel.step] - undefined
+msgid "step"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.Copyrights] - undefined
+msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr ""

@@ -25,6 +25,11 @@ msgstr ""
 msgid "BMR"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/NotFoundPage.json
+#. [NotFoundPage.BackToLastPage] - undefined
+msgid "Back to last page"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 #. [EfficiencyIndicator.Bad] - undefined
 msgid "Bad"
@@ -233,6 +238,11 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 #. [HeartRateChart.Min] - undefined
 msgid "Min"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/NotFoundPage.json
+#. [NotFoundPage.SomethingBroke] - undefined
+msgid "Oops! Looks like something broke."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json

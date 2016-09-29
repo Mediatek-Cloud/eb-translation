@@ -42,8 +42,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.BloodPressure] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.BloodPressureTitle] - undefined
 msgid "Blood Pressure"
 msgstr ""
 
@@ -56,8 +54,6 @@ msgstr ""
 #. [CaloriePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Calorie] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.CalorieTitle] - undefined
 msgid "Calorie"
 msgstr ""
 
@@ -88,11 +84,6 @@ msgstr ""
 msgid "Detail"
 msgstr ""
 
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.CalorieContent] - undefined
-msgid "Detailed analytics help you get in tune with each heartbeat. Not for Medical use - for Fitness use only!"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.Diastolic] - undefined
 msgid "Diastolic"
@@ -101,11 +92,6 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.diet] - undefined
 msgid "Diet Control"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.content] - undefined
-msgid "Download the App for your iPhone or Android smartphone."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -121,8 +107,6 @@ msgstr ""
 #. [StepPanel.Exercise] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Exercise] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.ExerciseTitle] - undefined
 msgid "Exercise"
 msgstr ""
 
@@ -166,17 +150,10 @@ msgstr ""
 msgid "HRV: {formattedDescription}"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.title] - undefined
-msgid "HealthBand"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.HeartRateTitle] - undefined
 msgid "Heart Rate"
 msgstr ""
 
@@ -305,11 +282,6 @@ msgstr ""
 msgid "Sign In / Create Account"
 msgstr ""
 
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.SleepTrackTitle] - undefined
-msgid "Sleep Track"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.sleep] - undefined
 msgid "Sleep Tracking"
@@ -323,11 +295,6 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Step] - undefined
 msgid "Step"
-msgstr ""
-
-#: build/messages/src/scripts/containers/LandingPage.json
-#. [LangingPage.StepsTitle] - undefined
-msgid "Steps"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
@@ -364,11 +331,6 @@ msgstr ""
 msgid "You have completed the goal!"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-#. [landingPage.VideoJumbo.jumboText] - undefined
-msgid "Your Activity Tracker And Health Keeper"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExercisePanel.At] - undefined
 msgid "at"
@@ -384,11 +346,6 @@ msgstr ""
 #: build/messages/src/scripts/components/personalReport/HeartRateChart.json
 #. [personalReport.HeartRateChart.bpm] - undefined
 msgid "bpm"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.subtitle] - undefined
-msgid "by MediaTek"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/CalorieChart.json
@@ -436,4 +393,124 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/Footer.json
 #. [landingPage.Footer.Copyrights] - undefined
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsContentLine2] - undefined
+msgid "上班更輕鬆"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.jumboText] - undefined
+msgid "任何地點 任何時刻 掌握你的健康"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.title] - undefined
+msgid "個人化數據"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureTitleLine2] - undefined
+msgid "健康一手掌握"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.SleepTrackContentLine1] - undefined
+msgid "偵測你的睡眠狀態，提供數據量表"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureContentLine1] - undefined
+msgid "內建光學與心電式生物傳感器"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.HeartRateContentLine2] - undefined
+msgid "全新的運動體驗"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.CalorieContentLine2] - undefined
+msgid "共同努力完成目標"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.HeartRateContentLine1] - undefined
+msgid "即時更新你的健身數據"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.CalorieTitle] - undefined
+msgid "多人健身 樂趣多"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsTitleLine1] - undefined
+msgid "多功能合一"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureTitleLine1] - undefined
+msgid "天天量血壓"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.HeartRateTitle] - undefined
+msgid "心率・計步・卡路里"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.content] - undefined
+msgid "手環與手機數據即時同步"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.ExerciseContentLine2] - undefined
+msgid "揮揮手即完成付款"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.ExerciseContentLine1] - undefined
+msgid "搭載電子錢包功能"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsTitleLine2] - undefined
+msgid "簡單又方便"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsContentLine1] - undefined
+msgid "結合公司門禁卡功能"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.ExerciseTitle] - undefined
+msgid "行動支付 戴著走"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.SleepTrackContentLine2] - undefined
+msgid "讓你睡得更好"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureContentLine2] - undefined
+msgid "輕鬆量測血壓，健康每一天"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.SleepTrackTitle] - undefined
+msgid "追求更好的睡眠品質"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.content2] - undefined
+msgid "透過 mBrace 平台獲得個人化報告及建議"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.CalorieContentLine1] - undefined
+msgid "隨時與朋友連線分享健身成果"
 msgstr ""

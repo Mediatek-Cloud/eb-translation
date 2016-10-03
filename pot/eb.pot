@@ -5,6 +5,16 @@
 msgid "Account Setting"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.failMessage] - undefined
+msgid "Account verification fail."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.successMessage] - undefined
+msgid "Account verification success."
+msgstr ""
+
 #: build/messages/src/scripts/components/personalReport/Activeness.json
 #. [personalReport.Activeness.Activity] - undefined
 msgid "Activity"
@@ -18,6 +28,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 #. [landingPage.SuccessSection.title] - undefined
 msgid "Application successful !"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.ArmLengthLabel] - undefined
+msgid "Arm Length"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -38,6 +53,11 @@ msgstr ""
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 #. [personalReport.HRV.BiologicalAge] - undefined
 msgid "Biological Age: {formattedBioAge}"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.birthdayLabel] - undefined
+msgid "Birthday"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
@@ -62,9 +82,19 @@ msgstr ""
 msgid "Campaign"
 msgstr ""
 
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.cancelButton] - undefined
+msgid "Cancel"
+msgstr ""
+
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.ChangePassword] - undefined
 msgid "Change Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.ConfirmPassowrd] - undefined
+msgid "Confirm Passowrd"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -77,6 +107,11 @@ msgstr ""
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Dashboard] - undefined
 msgid "Dashboard"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.Day] - undefined
+msgid "Day"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -94,9 +129,19 @@ msgstr ""
 msgid "Diet Control"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.actionMessage] - undefined
+msgid "Don't have an account?"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Duration] - undefined
 msgid "Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.emailPlaceholder] - undefined
+msgid "Email"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -123,6 +168,26 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.FatBurn] - undefined
 msgid "Fat Burn"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/GenderSelect.json
+#. [GenderSelect.female] - undefined
+msgid "Female"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
+#. [ProfilePhoto.fileSizeExceeds] - undefined
+msgid "File size exceed 512kB"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.forgotpasswordLink] - undefined
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.genderLabel] - undefined
+msgid "Gender"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -155,6 +220,11 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
 msgid "Heart Rate"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.HeightLabel] - undefined
+msgid "Height"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
@@ -192,9 +262,24 @@ msgstr ""
 msgid "Legal Notice"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.loginButton] - undefined
+msgid "Log In"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.login] - undefined
+msgid "Login"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Logout] - undefined
 msgid "Logout"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/GenderSelect.json
+#. [GenderSelect.male] - undefined
+msgid "Male"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
@@ -217,9 +302,44 @@ msgstr ""
 msgid "Min"
 msgstr ""
 
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.Month] - undefined
+msgid "Month"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.NewPassowrd] - undefined
+msgid "New Passowrd"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.nickNameLabel] - undefined
+msgid "Nick Name"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.OldPassowrd] - undefined
+msgid "Old Passowrd"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 #. [NotFoundPage.SomethingBroke] - undefined
 msgid "Oops! Looks like something broke."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.passwordPlaceholder] - undefined
+msgid "Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.ConfirmPassowrdPlaceholder] - undefined
+msgid "Please enter new password again"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.OldPassowrdPlaceholder] - undefined
+msgid "Please enter old password"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
@@ -272,6 +392,13 @@ msgstr ""
 msgid "SEND IT"
 msgstr ""
 
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.saveButton] - undefined
+#: build/messages/src/scripts/components/accountSetting/SaveButton.json
+#. [SaveButton.Save] - undefined
+msgid "Save"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.ShowMore] - undefined
 msgid "Show more"
@@ -280,6 +407,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/Header.json
 #. [landingPage.Header.signInOrCreateAccount] - undefined
 msgid "Sign In / Create Account"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.signupLink] - undefined
+msgid "Sign up now"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -314,6 +446,16 @@ msgstr ""
 msgid "Today avg."
 msgstr ""
 
+#: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
+#. [ProfilePhoto.UploadPicture] - undefined
+msgid "Upload Picture"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#. [ChangePasswordDialog.NewPassowrdPlaceholder] - undefined
+msgid "Use at least 8 alphanumeric characters"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
 msgid "Walk"
@@ -324,6 +466,16 @@ msgstr ""
 msgid "We've received your application for the Health Band,
           please check your email inbox for the confimation email,
           which is sent to {formattedEmail}."
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.WeightLabel] - undefined
+msgid "Weight"
+msgstr ""
+
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#. [ProfileForm.Year] - undefined
+msgid "Year"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json

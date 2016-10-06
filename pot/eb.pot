@@ -227,13 +227,10 @@ msgstr ""
 msgid "Height"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-#. [landingPage.VideoJumbo.button] - undefined
-msgid "JOIN NOW !"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.button] - undefined
 msgid "JOIN NOW!"
 msgstr ""
 

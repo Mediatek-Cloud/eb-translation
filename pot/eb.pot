@@ -74,6 +74,8 @@ msgstr ""
 #. [CaloriePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Calorie] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#. [ExerciseCharts.Calorie] - undefined
 msgid "Calorie"
 msgstr ""
 
@@ -150,6 +152,8 @@ msgstr ""
 #. [ExercisePanel.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Exercise] - undefined
+#: build/messages/src/scripts/components/exercise/ExercisePanelList.json
+#. [ExercisePanelList.Exercise] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Exercise] - undefined
 msgid "Exercise"
@@ -219,6 +223,8 @@ msgstr ""
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#. [ExerciseCharts.HeartRate] - undefined
 msgid "Heart Rate"
 msgstr ""
 
@@ -419,6 +425,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.social] - undefined
 msgid "Social Contest"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/ExerciseChart.json
+#. [ExerciseChart.Start] - undefined
+msgid "Start"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json

@@ -1,3 +1,8 @@
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.Account] - undefined
+msgid "Account"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.AccountSetting] - undefined
 #: build/messages/src/scripts/containers/AccountSetting.json
@@ -337,6 +342,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.passwordPlaceholder] - undefined
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.Password] - undefined
 msgid "Password"
 msgstr ""
 

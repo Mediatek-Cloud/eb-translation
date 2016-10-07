@@ -99,6 +99,11 @@ msgstr ""
 msgid "Confirm Passowrd"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Report] - undefined
+msgid "Daily Activity"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.DailyAvg] - undefined
 msgid "Daily avg."
@@ -378,11 +383,6 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.Remaining] - undefined
 msgid "Remaining"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/Header.json
-#. [Header.Report] - undefined
-msgid "Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Hrv.json

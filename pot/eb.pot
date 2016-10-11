@@ -84,6 +84,8 @@ msgstr ""
 msgid "Calorie"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Campaign] - undefined
 #: build/messages/src/scripts/components/landingPage/Header.json
 #. [landingPage.Header.Campaign] - undefined
 msgid "Campaign"
@@ -184,6 +186,11 @@ msgstr ""
 msgid "Fat Burn"
 msgstr ""
 
+#: build/messages/src/scripts/containers/Campaign.json
+#. [Campaign.BannerTitle] - undefined
+msgid "Fat Burn 30 minutes"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 #. [GenderSelect.female] - undefined
 msgid "Female"
@@ -197,6 +204,11 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.forgotpasswordLink] - undefined
 msgid "Forgot Your Password?"
+msgstr ""
+
+#: build/messages/src/scripts/containers/Campaign.json
+#. [Campaign.BannerDescription] - undefined
+msgid "Gain more than 3 stars to be eligible for the drawing!"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -265,6 +277,13 @@ msgstr ""
 msgid "LF/HF {lfHf}"
 msgstr ""
 
+#: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
+#. [WeekPaginator.LastWeek] - undefined
+msgid "Last Week"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Leaderboard] - undefined
 #: build/messages/src/scripts/components/landingPage/Header.json
 #. [landingPage.Header.Leaderboard] - undefined
 msgid "Leaderboard"
@@ -323,6 +342,11 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.NewPassowrd] - undefined
 msgid "New Passowrd"
+msgstr ""
+
+#: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
+#. [WeekPaginator.NextWeek] - undefined
+msgid "Next Week"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -471,6 +495,11 @@ msgstr ""
 msgid "Use at least 8 alphanumeric characters"
 msgstr ""
 
+#: build/messages/src/scripts/containers/Campaign.json
+#. [Campaign.PanelTitle] - undefined
+msgid "Users Eligible for The Drawing"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
 msgid "Walk"
@@ -550,6 +579,11 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.remainKcal] - undefined
 msgid "remain {remaining} kcal"
+msgstr ""
+
+#: build/messages/src/scripts/components/campaign/CampaignListRow.json
+#. [CampaignListRow.Stars] - undefined
+msgid "stars"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json

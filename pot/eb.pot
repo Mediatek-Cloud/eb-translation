@@ -47,7 +47,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 #. [NotFoundPage.BackToLastPage] - undefined
-msgid "Back to last page"
+msgid "Back to the last page"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -359,8 +359,8 @@ msgstr ""
 msgid "Old Passowrd"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/NotFoundPage.json
-#. [NotFoundPage.SomethingBroke] - undefined
+#: build/messages/src/scripts/components/common/ErrorPage.json
+#. [ErrorPage.SomethingBroke] - undefined
 msgid "Oops! Looks like something broke."
 msgstr ""
 
@@ -456,6 +456,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.social] - undefined
 msgid "Social Contest"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/NotFoundPage.json
+#. [NotFoundPage.PageNotFound] - undefined
+msgid "Sorry! Page not found."
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseChart.json

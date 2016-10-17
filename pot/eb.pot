@@ -339,6 +339,11 @@ msgstr ""
 msgid "Month"
 msgstr ""
 
+#: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
+#. [MyRankingList.MyRanking] - undefined
+msgid "My Ranking"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.NewPassowrd] - undefined
 msgid "New Passowrd"
@@ -490,6 +495,11 @@ msgstr ""
 msgid "Today avg."
 msgstr ""
 
+#: build/messages/src/scripts/containers/Leaderboard.json
+#. [Leaderboard.Top100] - undefined
+msgid "Top 100"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 #. [ProfilePhoto.UploadPicture] - undefined
 msgid "Upload Picture"
@@ -515,6 +525,11 @@ msgstr ""
 msgid "We've received your application for the Health Band,
           please check your email inbox for the confimation email,
           which is sent to {formattedEmail}."
+msgstr ""
+
+#: build/messages/src/scripts/containers/Leaderboard.json
+#. [Leaderboard.BannerTitle] - undefined
+msgid "Weekly Step Count"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json

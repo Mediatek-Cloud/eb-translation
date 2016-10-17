@@ -607,8 +607,8 @@ msgid "上班更輕鬆"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-#. [landingPage.VideoJumbo.jumboText] - undefined
-msgid "任何地點 任何時刻 掌握你的健康"
+#. [landingPage.VideoJumbo.jumboTextLine1] - undefined
+msgid "任何地點 任何時刻"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
@@ -669,6 +669,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 #. [landingPage.ProductOverview.content] - undefined
 msgid "手環與手機數據即時同步"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.jumboTextLine2] - undefined
+msgid "掌握你的健康"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json

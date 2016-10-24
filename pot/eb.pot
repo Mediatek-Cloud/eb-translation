@@ -421,6 +421,11 @@ msgstr ""
 msgid "Remaining"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/StepChart.json
+#. [StepChart.Run] - undefined
+msgid "Run"
+msgstr ""
+
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 #. [personalReport.HRV.SDNN] - undefined
 msgid "SDNN {sdnn}"
@@ -515,6 +520,8 @@ msgstr ""
 msgid "Users Eligible for The Drawing"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/StepChart.json
+#. [StepChart.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
 msgid "Walk"

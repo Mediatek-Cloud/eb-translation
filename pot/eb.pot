@@ -118,6 +118,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Dashboard] - undefined
+#: build/messages/src/scripts/components/landingPage/Header.json
+#. [Header.Dashboard] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Dashboard] - undefined
 msgid "Dashboard"

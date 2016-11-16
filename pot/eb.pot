@@ -423,7 +423,7 @@ msgstr ""
 msgid "Remaining"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/StepChart.json
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #. [StepChart.Run] - undefined
 msgid "Run"
 msgstr ""
@@ -522,7 +522,7 @@ msgstr ""
 msgid "Users Eligible for The Drawing"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/StepChart.json
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #. [StepChart.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
@@ -568,14 +568,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 #. [HeartRateChart.Bpm] - undefined
-#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
-#. [personalReport.HeartRateChart.bpm] - undefined
 msgid "bpm"
-msgstr ""
-
-#: build/messages/src/scripts/components/personalReport/CalorieChart.json
-#. [personalReport.CalorieChart.cal] - undefined
-msgid "cal"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json

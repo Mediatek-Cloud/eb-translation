@@ -135,6 +135,8 @@ msgstr ""
 msgid "Detail"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#. [BloodPressureChartMeta.Diastolic] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.Diastolic] - undefined
 msgid "Diastolic"
@@ -282,6 +284,11 @@ msgstr ""
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 #. [WeekPaginator.LastWeek] - undefined
 msgid "Last Week"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#. [BloodPressureChartMeta.Latest] - undefined
+msgid "Latest"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
@@ -447,7 +454,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.ShowMore] - undefined
-msgid "Show more"
+msgid "Show All"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Header.json
@@ -485,6 +492,8 @@ msgstr ""
 msgid "Step"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#. [BloodPressureChartMeta.Systolic] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.Systolic] - undefined
 msgid "Systolic"
@@ -593,6 +602,8 @@ msgstr ""
 msgid "min"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#. [BloodPressureChartMeta.mmHg] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 #. [BloodPressurePanel.MmHg] - undefined
 msgid "mmHg"

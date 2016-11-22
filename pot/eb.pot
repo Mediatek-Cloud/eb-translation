@@ -137,8 +137,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Diastolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.Diastolic] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.Diastolic] - undefined
 msgid "Diastolic"
 msgstr ""
 
@@ -328,8 +328,8 @@ msgstr ""
 msgid "Max"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.MeasuredTime] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.MeasuredTime] - undefined
 msgid "Measured time"
 msgstr ""
 
@@ -420,8 +420,8 @@ msgstr ""
 msgid "Profile Detail"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.RecentMeasurements] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.RecentMeasurements] - undefined
 msgid "Recent measurements"
 msgstr ""
 
@@ -452,8 +452,8 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.ShowMore] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.ShowMore] - undefined
 msgid "Show All"
 msgstr ""
 
@@ -494,8 +494,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Systolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.Systolic] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.Systolic] - undefined
 msgid "Systolic"
 msgstr ""
 
@@ -604,8 +604,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.mmHg] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#. [BloodPressurePanel.MmHg] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#. [BloodPressureTable.MmHg] - undefined
 msgid "mmHg"
 msgstr ""
 

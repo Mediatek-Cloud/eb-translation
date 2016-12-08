@@ -10,14 +10,19 @@ msgstr ""
 msgid "Account Setting"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.failMessage] - undefined
-msgid "Account verification fail."
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.activateAccountSuccessMessage] - undefined
+msgid "Account has been activated"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.successMessage] - undefined
-msgid "Account verification success."
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.title] - undefined
+msgid "Activate Your Account"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.activateAccountSuccessTitle] - undefined
+msgid "Activate successfully"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Activeness.json
@@ -43,6 +48,20 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.BMR] - undefined
 msgid "BMR"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.cancelButton] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.cancelButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.cancelButton] - undefined
+msgid "Back"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.defaultMessageTitle] - undefined
+msgid "Back to login page"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/NotFoundPage.json
@@ -93,12 +112,19 @@ msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.cancelButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.cancelButton] - undefined
 msgid "Cancel"
 msgstr ""
 
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.ChangePassword] - undefined
 msgid "Change Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.defaultMessage] - undefined
+msgid "Click on the button below to go back."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -148,7 +174,7 @@ msgid "Diet Control"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.actionMessage] - undefined
+#. [LoginForm.noAccountMessage] - undefined
 msgid "Don't have an account?"
 msgstr ""
 
@@ -160,6 +186,16 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.emailPlaceholder] - undefined
 msgid "Email"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.invalidUsernameOrPassword] - undefined
+msgid "Email or password incorrect"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.password2Placeholder] - undefined
+msgid "Enter new password again"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -208,6 +244,11 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.forgotpasswordLink] - undefined
 msgid "Forgot Your Password?"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.title] - undefined
+msgid "Forgot password"
 msgstr ""
 
 #: build/messages/src/scripts/containers/Campaign.json
@@ -259,6 +300,8 @@ msgstr ""
 msgid "Height"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.signupLink] - undefined
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
@@ -318,6 +361,11 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.mailSentTitle] - undefined
+msgid "Mail has been sent."
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 #. [GenderSelect.male] - undefined
 msgid "Male"
@@ -333,7 +381,14 @@ msgstr ""
 msgid "Measured time"
 msgstr ""
 
-#: build/messages/src/scripts/containers/Layout.json
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.emailPlaceholder] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.emailPlaceholder] - undefined
+msgid "MediaTek Email"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Footer.json
 #. [Layout.MediaTekIncAllRightReserved] - undefined
 msgid "MediaTek Inc. All Rights Reserved."
 msgstr ""
@@ -356,6 +411,11 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.NewPassowrd] - undefined
 msgid "New Passowrd"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.passwordPlaceholder] - undefined
+msgid "New password (at least 8 words)"
 msgstr ""
 
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
@@ -385,6 +445,43 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#. [ActivateAccount.inputInvalidPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.inputInvalidPassword] - undefined
+msgid "Password Least 8 Characters"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.inputPasswordsInconsist] - undefined
+msgid "Password must be same as above"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resetPasswordSuccessTitle] - undefined
+msgid "Password reset successfully"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.mailSentMessage] - undefined
+msgid "Please check you email and reset your password."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resendEmailVerificationSuccessMessage] - undefined
+msgid "Please check your email inbox for registration verification mail."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.signupMessage] - undefined
+msgid "Please check your email inbox to activate your account."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resetPasswordFailedMessage] - undefined
+msgid "Please click on 'forgot password' again to request another email."
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.ConfirmPassowrdPlaceholder] - undefined
 msgid "Please enter new password again"
@@ -395,9 +492,54 @@ msgstr ""
 msgid "Please enter old password"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#. [ActivateAccount.inputEmptyPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.inputEmptyPassword] - undefined
+msgid "Please enter password"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.message] - undefined
+msgid "Please enter your email and we will resend the verification link to you."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.messge] - undefined
+msgid "Please fill in your email address, and check your inbox for further information."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.inputInvalidEmail] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.inputInvalidEmail] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.inputInvalidEmail] - undefined
+msgid "Please input a valid email"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.inputEmptyEmail] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.inputEmptyEmail] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.inputEmptyEmail] - undefined
+msgid "Please input an email"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.inputEmailPlaceholder] - undefined
 msgid "Please input your MediaTek email address"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resetPasswordSuccessMessage] - undefined
+msgid "Please login with new password."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#. [ActivateAccount.message] - undefined
+msgid "Please set a password to complete the registration."
 msgstr ""
 
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -425,9 +567,29 @@ msgstr ""
 msgid "Recent measurements"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#. [LoginForm.successMessage] - undefined
+msgid "Registration successful! Please sign in."
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.Remaining] - undefined
 msgid "Remaining"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.sendButton] - undefined
+msgid "Reset Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resetPasswordFailedTitle] - undefined
+msgid "Reset password failed"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resetPasswordTimeoutTitle] - undefined
+msgid "Reset password timeout"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepChart.json
@@ -452,6 +614,21 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#. [ForgotPassword.sendButton] - undefined
+msgid "Send Email"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.sendButton] - undefined
+msgid "Send Email Again"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#. [ActivateAccount.title] - undefined
+msgid "Set Password"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.ShowMore] - undefined
 msgid "Show All"
@@ -462,9 +639,9 @@ msgstr ""
 msgid "Sign In / Create Account"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.signupLink] - undefined
-msgid "Sign up now"
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.signupSuccessTitle] - undefined
+msgid "Sign up Successful"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -490,6 +667,16 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Step] - undefined
 msgid "Step"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#. [ActivateAccount.sendButton] - undefined
+msgid "Submit"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#. [AuthPage.resendEmailVerificationSuccess] - undefined
+msgid "Success"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
@@ -529,6 +716,11 @@ msgstr ""
 #: build/messages/src/scripts/containers/Campaign.json
 #. [Campaign.PanelTitle] - undefined
 msgid "Users Eligible for The Drawing"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#. [EmailVerification.linkExpire] - undefined
+msgid "Verification link has expired."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepChart.json

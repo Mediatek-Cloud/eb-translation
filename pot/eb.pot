@@ -103,13 +103,6 @@ msgstr ""
 msgid "Calorie"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/Header.json
-#. [Header.Campaign] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.Campaign] - undefined
-msgid "Campaign"
-msgstr ""
-
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.cancelButton] - undefined
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
@@ -298,6 +291,13 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.HeightLabel] - undefined
 msgid "Height"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Help] - undefined
+#: build/messages/src/scripts/components/landingPage/Header.json
+#. [landingPage.Header.Help] - undefined
+msgid "Help"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json

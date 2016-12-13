@@ -24,15 +24,20 @@ msgstr "帳號"
 msgid "Account Setting"
 msgstr "帳號設定"
 
-#. [LoginForm.failMessage] - undefined
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-msgid "Account verification fail."
-msgstr "帳號驗證失敗"
+#. [AuthPage.activateAccountSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Account has been activated"
+msgstr "帳號已啟用"
 
-#. [LoginForm.successMessage] - undefined
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-msgid "Account verification success."
-msgstr "帳號驗證成功"
+#. [EmailVerification.title] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Activate Your Account"
+msgstr "啟用您的帳號"
+
+#. [AuthPage.activateAccountSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Activate successfully"
+msgstr "啟用成功"
 
 #. [personalReport.Activeness.Activity] - undefined
 #: build/messages/src/scripts/components/personalReport/Activeness.json
@@ -58,6 +63,20 @@ msgstr "臂長"
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "BMR"
 msgstr "BMR"
+
+#. [AuthPage.cancelButton] - undefined
+#. [ForgotPassword.cancelButton] - undefined
+#. [ResetPassword.cancelButton] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Back"
+msgstr "返回"
+
+#. [AuthPage.defaultMessageTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Back to login page"
+msgstr "返回登入頁面"
 
 #. [NotFoundPage.BackToLastPage] - undefined
 #: build/messages/src/scripts/components/common/NotFoundPage.json
@@ -106,7 +125,9 @@ msgid "Campaign"
 msgstr "活動"
 
 #. [ChangePasswordDialog.cancelButton] - undefined
+#. [EmailVerification.cancelButton] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Cancel"
 msgstr "取消"
 
@@ -114,6 +135,11 @@ msgstr "取消"
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Change Password"
 msgstr "變更密碼"
+
+#. [AuthPage.defaultMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Click on the button below to go back."
+msgstr "點擊下方按鈕返回"
 
 #. [ChangePasswordDialog.ConfirmPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -131,8 +157,10 @@ msgid "Daily avg."
 msgstr "每日平均"
 
 #. [Header.Dashboard] - undefined
+#. [Header.Dashboard] - undefined
 #. [ExercisePage.Dashboard] - undefined
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/landingPage/Header.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Dashboard"
 msgstr "儀表板"
@@ -147,8 +175,10 @@ msgstr "日"
 msgid "Detail"
 msgstr "詳細資訊"
 
-#. [BloodPressurePanel.Diastolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureChartMeta.Diastolic] - undefined
+#. [BloodPressureTable.Diastolic] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Diastolic"
 msgstr "舒張壓"
 
@@ -157,7 +187,7 @@ msgstr "舒張壓"
 msgid "Diet Control"
 msgstr "飲食控制"
 
-#. [LoginForm.actionMessage] - undefined
+#. [LoginForm.noAccountMessage] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Don't have an account?"
 msgstr "還沒有帳號嗎？"
@@ -171,6 +201,16 @@ msgstr "歷時"
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Email"
 msgstr "電子郵件"
+
+#. [LoginForm.invalidUsernameOrPassword] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Email or password incorrect"
+msgstr "電子郵件或密碼不正確"
+
+#. [ResetPassword.password2Placeholder] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Enter new password again"
+msgstr "請再輸入一次密碼"
 
 #. [CalorieChart.Exercise] - undefined
 #. [ExercisePanel.Exercise] - undefined
@@ -220,6 +260,11 @@ msgstr "檔案大小超過 512kB"
 msgid "Forgot Your Password?"
 msgstr "忘了密碼？"
 
+#. [ForgotPassword.title] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid "Forgot password"
+msgstr "忘記密碼"
+
 #. [Campaign.BannerDescription] - undefined
 #: build/messages/src/scripts/containers/Campaign.json
 msgid "Gain more than 3 stars to be eligible for the drawing!"
@@ -267,10 +312,12 @@ msgstr "心率"
 #. [ProfileForm.HeightLabel] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Height"
-msgstr "高度"
+msgstr "身高"
 
+#. [LoginForm.signupLink] - undefined
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
 #. [landingPage.VideoJumbo.button] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
 msgid "JOIN NOW!"
@@ -295,6 +342,11 @@ msgstr "LF/HF {lfHf}"
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 msgid "Last Week"
 msgstr "上一周"
+
+#. [BloodPressureChartMeta.Latest] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+msgid "Latest"
+msgstr "最新"
 
 #. [Header.Leaderboard] - undefined
 #. [landingPage.Header.Leaderboard] - undefined
@@ -323,6 +375,11 @@ msgstr "登入"
 msgid "Logout"
 msgstr "登出"
 
+#. [AuthPage.mailSentTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Mail has been sent."
+msgstr "郵件已寄送"
+
 #. [GenderSelect.male] - undefined
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 msgid "Male"
@@ -333,13 +390,20 @@ msgstr "男性"
 msgid "Max"
 msgstr "最大值"
 
-#. [BloodPressurePanel.MeasuredTime] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureTable.MeasuredTime] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Measured time"
 msgstr "量測時間"
 
+#. [ForgotPassword.emailPlaceholder] - undefined
+#. [EmailVerification.emailPlaceholder] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "MediaTek Email"
+msgstr "聯發科技電子郵件地址"
+
 #. [Layout.MediaTekIncAllRightReserved] - undefined
-#: build/messages/src/scripts/containers/Layout.json
+#: build/messages/src/scripts/components/common/Footer.json
 msgid "MediaTek Inc. All Rights Reserved."
 msgstr "MediaTek Inc. All Rights Reserved."
 
@@ -362,6 +426,11 @@ msgstr "我的排行"
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "New Passowrd"
 msgstr "新密碼"
+
+#. [ResetPassword.passwordPlaceholder] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "New password (at least 8 words)"
+msgstr "新密碼（最少八個字元）"
 
 #. [WeekPaginator.NextWeek] - undefined
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
@@ -390,6 +459,43 @@ msgstr "噢！看起來發生了些錯誤。"
 msgid "Password"
 msgstr "密碼"
 
+#. [ActivateAccount.inputInvalidPassword] - undefined
+#. [ResetPassword.inputInvalidPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Password Least 8 Characters"
+msgstr "密碼至少要有八個字元"
+
+#. [ResetPassword.inputPasswordsInconsist] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Password must be same as above"
+msgstr "密碼不一致"
+
+#. [AuthPage.resetPasswordSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Password reset successfully"
+msgstr "密碼重設成功"
+
+#. [AuthPage.mailSentMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check you email and reset your password."
+msgstr "請查看您的信箱郵件以重設密碼"
+
+#. [AuthPage.resendEmailVerificationSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check your email inbox for registration verification mail."
+msgstr "請查看您的信箱郵件以確認註冊"
+
+#. [AuthPage.signupMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check your email inbox to activate your account."
+msgstr "請查看您的信箱郵件以激活帳號"
+
+#. [AuthPage.resetPasswordFailedMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please click on 'forgot password' again to request another email."
+msgstr "請再次點擊忘記密碼來取得另一封郵件。"
+
 #. [ChangePasswordDialog.ConfirmPassowrdPlaceholder] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Please enter new password again"
@@ -400,10 +506,58 @@ msgstr "請再輸入一次新密碼"
 msgid "Please enter old password"
 msgstr "請輸入舊密碼"
 
+#. [ActivateAccount.inputEmptyPassword] - undefined
+#. [ResetPassword.inputEmptyPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Please enter password"
+msgstr "請輸入密碼"
+
+#. [EmailVerification.message] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid ""
+"Please enter your email and we will resend the verification link to you."
+msgstr "請輸入您的電子郵件信箱以再次取得帳號認證連結郵件。"
+
+#. [ForgotPassword.messge] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid ""
+"Please fill in your email address, and check your inbox for further "
+"information."
+msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用郵件通知您。"
+
+#. [ForgotPassword.inputInvalidEmail] - undefined
+#. [LoginForm.inputInvalidEmail] - undefined
+#. [EmailVerification.inputInvalidEmail] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Please input a valid email"
+msgstr "請輸入正確的郵件地址"
+
+#. [ForgotPassword.inputEmptyEmail] - undefined
+#. [LoginForm.inputEmptyEmail] - undefined
+#. [EmailVerification.inputEmptyEmail] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Please input an email"
+msgstr "請輸入郵件地址"
+
 #. [landingPage.EmailSection.inputEmailPlaceholder] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Please input your MediaTek email address"
 msgstr "請輸入您的聯發科技電子郵件地址"
+
+#. [AuthPage.resetPasswordSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please login with new password."
+msgstr "請使用新密碼登入"
+
+#. [ActivateAccount.message] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Please set a password to complete the registration."
+msgstr "請輸入密碼來完成註冊流程。"
 
 #. [EfficiencyIndicator.Poor] - undefined
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -425,15 +579,40 @@ msgstr "隱私政策"
 msgid "Profile Detail"
 msgstr "個人檔案"
 
-#. [BloodPressurePanel.RecentMeasurements] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureTable.RecentMeasurements] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Recent measurements"
 msgstr "近期量測紀錄"
+
+#. [LoginForm.successMessage] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Registration successful! Please sign in."
+msgstr "註冊成功！請登入。"
 
 #. [CalorieChart.Remaining] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "Remaining"
 msgstr "剩餘"
+
+#. [ResetPassword.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Reset Password"
+msgstr "重設密碼"
+
+#. [AuthPage.resetPasswordFailedTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Reset password failed"
+msgstr "重設密碼失敗"
+
+#. [AuthPage.resetPasswordTimeoutTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Reset password timeout"
+msgstr "密碼重設逾期"
+
+#. [StepChart.Run] - undefined
+#: build/messages/src/scripts/components/dashboard/StepChart.json
+msgid "Run"
+msgstr "跑"
 
 #. [personalReport.HRV.SDNN] - undefined
 #: build/messages/src/scripts/components/personalReport/Hrv.json
@@ -452,20 +631,35 @@ msgstr "寄出"
 msgid "Save"
 msgstr "儲存"
 
-#. [BloodPressurePanel.ShowMore] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-msgid "Show more"
-msgstr "顯示更多"
+#. [ForgotPassword.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid "Send Email"
+msgstr "寄送電子郵件"
+
+#. [EmailVerification.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Send Email Again"
+msgstr "再次寄送電子郵件"
+
+#. [ActivateAccount.title] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Set Password"
+msgstr "設置密碼"
+
+#. [BloodPressureTable.ShowMore] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+msgid "Show All"
+msgstr "顯示全部"
 
 #. [landingPage.Header.signInOrCreateAccount] - undefined
 #: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Sign In / Create Account"
 msgstr "登入 / 建立帳戶"
 
-#. [LoginForm.signupLink] - undefined
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-msgid "Sign up now"
-msgstr "立即註冊"
+#. [AuthPage.signupSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Sign up Successful"
+msgstr "登入成功"
 
 #. [landingPage.QuestionnaireSection.option.sleep] - undefined
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -492,8 +686,20 @@ msgstr "開始"
 msgid "Step"
 msgstr "步數"
 
-#. [BloodPressurePanel.Systolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [ActivateAccount.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Submit"
+msgstr "送出"
+
+#. [AuthPage.resendEmailVerificationSuccess] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Success"
+msgstr "成功"
+
+#. [BloodPressureChartMeta.Systolic] - undefined
+#. [BloodPressureTable.Systolic] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Systolic"
 msgstr "收縮壓"
 
@@ -529,7 +735,14 @@ msgstr "使用至少八個英文或數字"
 msgid "Users Eligible for The Drawing"
 msgstr "可參加抽獎名單"
 
+#. [EmailVerification.linkExpire] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Verification link has expired."
+msgstr "認證連結過期"
+
+#. [StepChart.Walk] - undefined
 #. [StepPanel.Walk] - undefined
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Walk"
 msgstr "走路"
@@ -570,16 +783,9 @@ msgid "avg bpm"
 msgstr "avg bpm"
 
 #. [HeartRateChart.Bpm] - undefined
-#. [personalReport.HeartRateChart.bpm] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
-#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
 msgid "bpm"
 msgstr "bpm"
-
-#. [personalReport.CalorieChart.cal] - undefined
-#: build/messages/src/scripts/components/personalReport/CalorieChart.json
-msgid "cal"
-msgstr "cal"
 
 #. [ExericsePanel.H] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -603,8 +809,10 @@ msgstr "已燃燒熱量"
 msgid "min"
 msgstr "min"
 
-#. [BloodPressurePanel.MmHg] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureChartMeta.mmHg] - undefined
+#. [BloodPressureTable.MmHg] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "mmHg"
 msgstr "mmHg"
 
@@ -753,8 +961,27 @@ msgstr "透過 mBrace 平台獲得個人化報告及建議"
 msgid "隨時與朋友連線分享健身成果"
 msgstr "隨時與朋友連線分享健身成果"
 
-#~ msgid "Detailed analytics help you get in tune with each heartbeat. Not for Medical use - for Fitness use only!"
-#~ msgstr "Detailed analytics help you get in tune with each heartbeat. Not for Medical use - for Fitness use only!"
+#~ msgid "Account verification fail."
+#~ msgstr "帳號驗證失敗"
+
+#~ msgid "Account verification success."
+#~ msgstr "帳號驗證成功"
+
+#~ msgid "Show more"
+#~ msgstr "顯示更多"
+
+#~ msgid "Sign up now"
+#~ msgstr "立即註冊"
+
+#~ msgid "cal"
+#~ msgstr "cal"
+
+#~ msgid ""
+#~ "Detailed analytics help you get in tune with each heartbeat. Not for "
+#~ "Medical use - for Fitness use only!"
+#~ msgstr ""
+#~ "Detailed analytics help you get in tune with each heartbeat. Not for "
+#~ "Medical use - for Fitness use only!"
 
 #~ msgid "Download the App for your iPhone or Android smartphone."
 #~ msgstr "Download the App for your iPhone or Android smartphone."

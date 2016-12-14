@@ -427,8 +427,8 @@ msgid "Next Week"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
-#. [ProfileForm.nickNameLabel] - undefined
-msgid "Nick Name"
+#. [ProfileForm.nicknameLabel] - undefined
+msgid "Nickname"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json

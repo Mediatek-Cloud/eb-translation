@@ -283,9 +283,12 @@ msgstr ""
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
+msgid "Heart Rate"
+msgstr ""
+
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseCharts.HeartRate] - undefined
-msgid "Heart Rate"
+msgid "HeartRate"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -659,7 +662,7 @@ msgstr ""
 msgid "Sorry! Page not found."
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ExerciseChart.json
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseChart.Start] - undefined
 msgid "Start"
 msgstr ""

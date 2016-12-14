@@ -445,16 +445,16 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [ResetPassword.inputPasswordsInconsist] - undefined
+msgid "Password must be same as above"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 #. [ActivateAccount.inputInvalidPassword] - undefined
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 #. [ResetPassword.inputInvalidPassword] - undefined
-msgid "Password Least 8 Characters"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputPasswordsInconsist] - undefined
-msgid "Password must be same as above"
+msgid "Password must have at least 8 characters."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json

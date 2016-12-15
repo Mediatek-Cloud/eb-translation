@@ -137,8 +137,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Dashboard] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [Header.Dashboard] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Dashboard] - undefined
 msgid "Dashboard"
@@ -298,8 +296,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Help] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.Help] - undefined
 msgid "Help"
 msgstr ""
 
@@ -339,8 +335,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Leaderboard] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.Leaderboard] - undefined
 msgid "Leaderboard"
 msgstr ""
 
@@ -635,11 +629,6 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.ShowMore] - undefined
 msgid "Show All"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.signInOrCreateAccount] - undefined
-msgid "Sign In / Create Account"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json

@@ -126,6 +126,11 @@ msgid "Confirm Passowrd"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
+#. [Header.ContactUs] - undefined
+msgid "Contact Us"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
 #. [Header.Report] - undefined
 msgid "Daily Activity"
 msgstr ""
@@ -629,6 +634,16 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.ShowMore] - undefined
 msgid "Show All"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [landingPage.Header.signInOrCreateAccount] - undefined
+msgid "Sign In / Create Account"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.SignOut] - undefined
+msgid "Sign Out"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json

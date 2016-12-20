@@ -40,11 +40,6 @@ msgstr ""
 msgid "Application successful !"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
-#. [ProfileForm.ArmLengthLabel] - undefined
-msgid "Arm Length"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.BMR] - undefined
 msgid "BMR"

@@ -95,6 +95,8 @@ msgstr ""
 #. [ExericsePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseCharts.Calorie] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.Calorie] - undefined
 msgid "Calorie"
 msgstr ""
 
@@ -197,6 +199,8 @@ msgstr ""
 #. [StepPanel.Exercise] - undefined
 #: build/messages/src/scripts/components/exercise/ExercisePanelList.json
 #. [ExercisePanelList.Exercise] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.Exercise] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Exercise] - undefined
 msgid "Exercise"
@@ -281,6 +285,8 @@ msgstr ""
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.HeartRate] - undefined
 msgid "Heart Rate"
 msgstr ""
 
@@ -729,6 +735,8 @@ msgstr ""
 #. [StepChart.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.Walk] - undefined
 msgid "Walk"
 msgstr ""
 
@@ -769,6 +777,11 @@ msgstr ""
 msgid "avg bpm"
 msgstr ""
 
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.bmp] - undefined
+msgid "bmp"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 #. [HeartRateChart.Bpm] - undefined
 msgid "bpm"
@@ -783,6 +796,8 @@ msgstr ""
 #. [CalorieChart.kcal] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Kcal] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.kcal] - undefined
 msgid "kcal"
 msgstr ""
 
@@ -815,6 +830,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.step] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.step] - undefined
 msgid "step"
 msgstr ""
 

@@ -448,6 +448,11 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#. [emailPasswordValidator.INVALID_PASSWORD] - undefined
+msgid "Password Least 8 Characters"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 #. [ResetPassword.inputPasswordsInconsist] - undefined
 msgid "Password must be same as above"
@@ -499,6 +504,8 @@ msgstr ""
 #. [ActivateAccount.inputEmptyPassword] - undefined
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 #. [ResetPassword.inputEmptyPassword] - undefined
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#. [emailPasswordValidator.EMPTY_PASSWORD] - undefined
 msgid "Please enter password"
 msgstr ""
 
@@ -514,19 +521,19 @@ msgstr ""
 
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #. [ForgotPassword.inputInvalidEmail] - undefined
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.inputInvalidEmail] - undefined
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #. [EmailVerification.inputInvalidEmail] - undefined
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#. [emailPasswordValidator.INVALID_EMAIL] - undefined
 msgid "Please input a valid email"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #. [ForgotPassword.inputEmptyEmail] - undefined
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.inputEmptyEmail] - undefined
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #. [EmailVerification.inputEmptyEmail] - undefined
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#. [emailPasswordValidator.EMPTY_EMAIL] - undefined
 msgid "Please input an email"
 msgstr ""
 

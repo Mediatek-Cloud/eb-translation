@@ -820,6 +820,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.mmHg] - undefined
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
+#. [BloodPressureChart.mmHg] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.MmHg] - undefined
 msgid "mmHg"

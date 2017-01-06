@@ -658,8 +658,6 @@ msgstr ""
 msgid "Reset password timeout"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/StepChart.json
-#. [StepChart.Run] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Run] - undefined
 msgid "Run"
@@ -796,8 +794,6 @@ msgstr ""
 msgid "Verification link has expired."
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/StepChart.json
-#. [StepChart.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json

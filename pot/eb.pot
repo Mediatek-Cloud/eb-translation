@@ -230,6 +230,8 @@ msgstr ""
 #. [CalorieChart.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExercisePanel.Exercise] - undefined
+#: build/messages/src/scripts/components/dashboard/StepChart.json
+#. [Indication.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Exercise] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -794,6 +796,8 @@ msgstr ""
 msgid "Verification link has expired."
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/StepChart.json
+#. [Indication.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Walk] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
@@ -910,6 +914,8 @@ msgstr ""
 msgid "stars"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/StepChart.json
+#. [Indication.step] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.step] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json

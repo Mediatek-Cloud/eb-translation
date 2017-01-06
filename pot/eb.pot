@@ -1,3 +1,8 @@
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.EfficiencyFormula] - undefined
+msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr ""
+
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.Account] - undefined
 msgid "Account"
@@ -35,6 +40,22 @@ msgstr ""
 msgid "Additional"
 msgstr ""
 
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Aerobics] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#. [ActivityTypeOverlay.Aerobics] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [ExerciseMetaDetails.Aerobics] - undefined
+msgid "Aerobics"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Anaerobics] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [ExerciseMetaDetails.Anaerobics] - undefined
+msgid "Anaerobics"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 #. [landingPage.SuccessSection.title] - undefined
 msgid "Application successful !"
@@ -69,6 +90,11 @@ msgstr ""
 msgid "Bad"
 msgstr ""
 
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#. [ActivityTypeOverlay.Bike] - undefined
+msgid "Bike"
+msgstr ""
+
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 #. [personalReport.HRV.BiologicalAge] - undefined
 msgid "Biological Age: {formattedBioAge}"
@@ -95,6 +121,8 @@ msgstr ""
 #. [ExericsePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseCharts.Calorie] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Calorie] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Calorie] - undefined
 msgid "Calorie"
@@ -173,7 +201,14 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Duration] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Duration] - undefined
 msgid "Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [ExerciseMetaDetails.Efficiency] - undefined
+msgid "Efficiency"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -197,8 +232,8 @@ msgstr ""
 #. [ExercisePanel.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Exercise] - undefined
-#: build/messages/src/scripts/components/exercise/ExercisePanelList.json
-#. [ExercisePanelList.Exercise] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#. [ActivityTypeOverlay.Exercise] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Exercise] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
@@ -218,6 +253,10 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.FatBurn] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.FatBurn] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [ExerciseMetaDetails.FatBurn] - undefined
 msgid "Fat Burn"
 msgstr ""
 
@@ -285,9 +324,26 @@ msgstr ""
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.HeartRate] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.HeartRate] - undefined
 msgid "Heart Rate"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.FatBurnFormula] - undefined
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x80%"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.AerobicsFormula] - undefined
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x90%"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.AnaerobicsFormula] - undefined
+msgid "Heart Rate > (220-Age)x90%"
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
@@ -604,6 +660,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #. [StepChart.Run] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#. [ActivityTypeOverlay.Run] - undefined
 msgid "Run"
 msgstr ""
 
@@ -764,6 +822,11 @@ msgstr ""
 msgid "Weight"
 msgstr ""
 
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.WhatDoesTheDataMean] - undefined
+msgid "What does the data mean ?"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.Year] - undefined
 msgid "Year"
@@ -794,15 +857,27 @@ msgstr ""
 msgid "bpm"
 msgstr ""
 
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.bpm/min] - undefined
+msgid "bpm/min"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.H] - undefined
 msgid "h"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Hour] - undefined
+msgid "hour"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.kcal] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Kcal] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.kcal] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.kcal] - undefined
 msgid "kcal"
@@ -815,6 +890,8 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Min] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.Minute] - undefined
 msgid "min"
 msgstr ""
 
@@ -966,7 +1043,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 #. [landingPage.ProductOverview.content2] - undefined
-msgid "透過 mBrace 平台獲得個人化報告及建議"
+msgid "透過 MediaTek Health 平台獲得個人化報告及建議"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json

@@ -61,6 +61,26 @@ msgstr ""
 msgid "Application successful !"
 msgstr ""
 
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Asleep] - undefined
+msgid "Asleep"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.Asleep] - undefined
+msgid "Asleep："
+msgstr ""
+
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Awake] - undefined
+msgid "Awake"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.Awake] - undefined
+msgid "Awake："
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.BMR] - undefined
 msgid "BMR"
@@ -167,14 +187,25 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Dashboard] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.Dashboard] - undefined
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Dashboard] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Dashboard] - undefined
 msgid "Dashboard"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.Day] - undefined
 msgid "Day"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Deep] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Deep] - undefined
+msgid "Deep"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -407,6 +438,13 @@ msgstr ""
 msgid "Legal Notice"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Light] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Light] - undefined
+msgid "Light"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.loginButton] - undefined
 msgid "Log In"
@@ -464,6 +502,11 @@ msgstr ""
 msgid "Month"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.More] - undefined
+msgid "More"
+msgstr ""
+
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
 #. [MyRankingList.MyRanking] - undefined
 msgid "My Ranking"
@@ -487,6 +530,16 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.nicknameLabel] - undefined
 msgid "Nickname"
+msgstr ""
+
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Note] - undefined
+msgid "Note"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.Note] - undefined
+msgid "Note："
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -630,6 +683,13 @@ msgstr ""
 msgid "Profile Detail"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.REM] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.REM] - undefined
+msgid "REM"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.RecentMeasurements] - undefined
 msgid "Recent measurements"
@@ -658,6 +718,13 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.resetPasswordTimeoutTitle] - undefined
 msgid "Reset password timeout"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Restless] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Restless] - undefined
+msgid "Restless"
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -717,8 +784,40 @@ msgstr ""
 msgid "Sign up Successful"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Sleep] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Sleep] - undefined
+msgid "Sleep"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#. [SleepReportDetails.SleepEfficiency] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.SleepEfficiency] - undefined
+msgid "Sleep Efficiency"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
+#. [SleepChartPanel.SleepReport] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
+#. [SleepReportPanel.SleepReport] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.SleepReport] - undefined
+msgid "Sleep Report"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.SleepReportList] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.SleepReportList] - undefined
+msgid "Sleep Report List"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.sleep] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
+#. [SleepChartPanel.SleepTracking] - undefined
 msgid "Sleep Tracking"
 msgstr ""
 
@@ -759,10 +858,17 @@ msgstr ""
 msgid "Systolic"
 msgstr ""
 
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Title] - undefined
+msgid "Title"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.Today] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExercisePanel.Today] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Today] - undefined
 msgid "Today"
 msgstr ""
 
@@ -774,6 +880,13 @@ msgstr ""
 #: build/messages/src/scripts/containers/Leaderboard.json
 #. [Leaderboard.Top100] - undefined
 msgid "Top 100"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#. [SleepReportDetails.Total] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.Total] - undefined
+msgid "Total"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
@@ -794,6 +907,13 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #. [EmailVerification.linkExpire] - undefined
 msgid "Verification link has expired."
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Wake] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Wake] - undefined
+msgid "Wake"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepChart.json
@@ -832,6 +952,11 @@ msgstr ""
 msgid "Year"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Yesterday] - undefined
+msgid "Yesterday"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.goalCompleted] - undefined
 msgid "You have completed the goal!"
@@ -864,11 +989,15 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.H] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#. [SleepReportDetails.H] - undefined
 msgid "h"
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.Hour] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#. [SleepReportDetails.Hour] - undefined
 msgid "hour"
 msgstr ""
 
@@ -892,6 +1021,8 @@ msgstr ""
 #. [ExericsePanel.Min] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.Minute] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#. [SleepReportDetails.Minute] - undefined
 msgid "min"
 msgstr ""
 

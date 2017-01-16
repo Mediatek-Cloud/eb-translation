@@ -357,6 +357,8 @@ msgstr ""
 #. [ExericsePanel.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #. [HeartRatePanel.HeartRate] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#. [ExerciseCharts.HeartRate] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.HeartRate] - undefined
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
@@ -377,11 +379,6 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.AnaerobicsFormula] - undefined
 msgid "Heart Rate > (220-Age)x90%"
-msgstr ""
-
-#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
-#. [ExerciseCharts.HeartRate] - undefined
-msgid "HeartRate"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json

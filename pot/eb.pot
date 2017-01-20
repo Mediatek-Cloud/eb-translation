@@ -3,6 +3,11 @@
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.about] - undefined
+msgid "About MTK Health"
+msgstr ""
+
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.Account] - undefined
 msgid "Account"
@@ -47,6 +52,11 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [ExerciseMetaDetails.Aerobics] - undefined
 msgid "Aerobics"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+#. [LangingPage.PrivacyContent1] - undefined
+msgid "All of your identifiable personal data in MediaTek Health will be stored in a separate database to which the admin's activities are logged."
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
@@ -135,6 +145,11 @@ msgstr ""
 msgid "Blood Pressure Measurement"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.policyLine2] - undefined
+msgid "By clicking on SUBMIT, you agree to the {terms} and {policy}."
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
 #. [CaloriePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -213,6 +228,11 @@ msgstr ""
 msgid "Detail"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.SleepTrackContentLine1] - undefined
+msgid "Detect your sleeping patterns and provide data evaluation."
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Diastolic] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
@@ -235,6 +255,11 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.Duration] - undefined
 msgid "Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureTitle] - undefined
+msgid "Easy Health Monitoring"
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
@@ -318,6 +343,11 @@ msgstr ""
 msgid "Forgot password"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.CalorieTitle] - undefined
+msgid "Fun with Group Exercise"
+msgstr ""
+
 #: build/messages/src/scripts/containers/Campaign.json
 #. [Campaign.BannerDescription] - undefined
 msgid "Gain more than 3 stars to be eligible for the drawing!"
@@ -326,6 +356,11 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.genderLabel] - undefined
 msgid "Gender"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+#. [landingPage.VideoJumbo.jumboText] - undefined
+msgid "Get control of your health, anytime, everywhere."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -381,6 +416,11 @@ msgstr ""
 msgid "Heart Rate > (220-Age)x90%"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.HeartRateTitle] - undefined
+msgid "Heart Rate, Steps, Calories"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.HeightLabel] - undefined
 msgid "Height"
@@ -402,7 +442,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.title] - undefined
-msgid "Join health band and get a band now!"
+msgid "Join MediaTek Health and get a band now!"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Hrv.json
@@ -442,6 +482,11 @@ msgstr ""
 msgid "Light"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsContent] - undefined
+msgid "Link with your corporate ID for a seamless experience ."
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.loginButton] - undefined
 msgid "Log In"
@@ -455,6 +500,16 @@ msgstr ""
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Logout] - undefined
 msgid "Logout"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.policy] - undefined
+msgid "MTK Health Privacy Policy"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [landingPage.Footer.terms] - undefined
+msgid "MTK Health Terms & Conditions"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -494,6 +549,11 @@ msgstr ""
 msgid "Min"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.ExerciseTitle] - undefined
+msgid "Mobile Payment on The Go"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.Month] - undefined
 msgid "Month"
@@ -504,9 +564,19 @@ msgstr ""
 msgid "More"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsTitle] - undefined
+msgid "Multi-functions All in One"
+msgstr ""
+
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
 #. [MyRankingList.MyRanking] - undefined
 msgid "My Ranking"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+#. [LangingPage.not] - undefined
+msgid "NOT"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -537,6 +607,11 @@ msgstr ""
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #. [SleepReportList.Note] - undefined
 msgid "Note："
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.content] - undefined
+msgid "Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -576,6 +651,16 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.resetPasswordSuccessTitle] - undefined
 msgid "Password reset successfully"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.ExerciseContent] - undefined
+msgid "Pay bills using electronic wallet with a wave of your hand."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+#. [landingPage.ProductOverview.title] - undefined
+msgid "Personalized Data"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -670,6 +755,13 @@ msgstr ""
 msgid "Pressure Analytics"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+#. [LangingPage.PrivacyTitle] - undefined
+msgid "Privacy"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.policy] - undefined
 #: build/messages/src/scripts/components/landingPage/Footer.json
 #. [landingPage.Footer.PrivacyPolicy] - undefined
 msgid "Privacy Policy"
@@ -736,7 +828,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.button] - undefined
-msgid "SEND IT"
+msgid "SUBMIT"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -759,6 +851,11 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 #. [ActivateAccount.title] - undefined
 msgid "Set Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.CalorieContent] - undefined
+msgid "Share exercise achievements with your network and reach the goals together ."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
@@ -818,6 +915,11 @@ msgstr ""
 msgid "Sleep Tracking"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.SleepTrackTitle] - undefined
+msgid "Sleep Well and Sleep Sound"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.social] - undefined
 msgid "Social Contest"
@@ -855,6 +957,16 @@ msgstr ""
 msgid "Systolic"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.terms] - undefined
+msgid "Terms & Conditions"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+#. [LangingPage.PrivacyContent2] - undefined
+msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
+msgstr ""
+
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Title] - undefined
 msgid "Title"
@@ -884,6 +996,16 @@ msgstr ""
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Total] - undefined
 msgid "Total"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.BloodPressureContent] - undefined
+msgid "Track daily blood pressure with built-in optical and ECG bio-sensor solutions for a peach of mind."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.HeartRateContent] - undefined
+msgid "Update your workout data instantly to enjoy brand new exercise experiences."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
@@ -920,6 +1042,11 @@ msgstr ""
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Walk] - undefined
 msgid "Walk"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.policyLine1] - undefined
+msgid "We promise the security and confidentiality of your data."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
@@ -1054,129 +1181,4 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/Footer.json
 #. [landingPage.Footer.Copyrights] - undefined
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.StepsContentLine2] - undefined
-msgid "上班更輕鬆"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-#. [landingPage.VideoJumbo.jumboTextLine1] - undefined
-msgid "任何地點 任何時刻"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.title] - undefined
-msgid "個人化數據"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.BloodPressureTitleLine2] - undefined
-msgid "健康一手掌握"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.SleepTrackContentLine1] - undefined
-msgid "偵測你的睡眠狀態，提供數據量表"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.BloodPressureContentLine1] - undefined
-msgid "內建光學與心電式生物傳感器"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.HeartRateContentLine2] - undefined
-msgid "全新的運動體驗"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.CalorieContentLine2] - undefined
-msgid "共同努力完成目標"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.HeartRateContentLine1] - undefined
-msgid "即時更新你的健身數據"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.CalorieTitle] - undefined
-msgid "多人健身 樂趣多"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.StepsTitleLine1] - undefined
-msgid "多功能合一"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.BloodPressureTitleLine1] - undefined
-msgid "天天量血壓"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.HeartRateTitle] - undefined
-msgid "心率・計步・卡路里"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.content] - undefined
-msgid "手環與手機數據即時同步"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-#. [landingPage.VideoJumbo.jumboTextLine2] - undefined
-msgid "掌握你的健康"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.ExerciseContentLine2] - undefined
-msgid "揮揮手即完成付款"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.ExerciseContentLine1] - undefined
-msgid "搭載電子錢包功能"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.StepsTitleLine2] - undefined
-msgid "簡單又方便"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.StepsContentLine1] - undefined
-msgid "結合公司門禁卡功能"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.ExerciseTitle] - undefined
-msgid "行動支付 戴著走"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.SleepTrackContentLine2] - undefined
-msgid "讓你睡得更好"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.BloodPressureContentLine2] - undefined
-msgid "輕鬆量測血壓，健康每一天"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.SleepTrackTitle] - undefined
-msgid "追求更好的睡眠品質"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-#. [landingPage.ProductOverview.content2] - undefined
-msgid "透過 MediaTek Health 平台獲得個人化報告及建議"
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.CalorieContentLine1] - undefined
-msgid "隨時與朋友連線分享健身成果"
 msgstr ""

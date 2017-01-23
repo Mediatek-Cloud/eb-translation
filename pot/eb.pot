@@ -152,8 +152,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
 #. [CaloriePanel.Calorie] - undefined
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#. [ExericsePanel.Calorie] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseCharts.Calorie] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
@@ -161,6 +159,11 @@ msgstr ""
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Calorie] - undefined
 msgid "Calorie"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExericsePanel.ExerciseBurnedCalorie] - undefined
+msgid "Calorie Burned"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -223,11 +226,6 @@ msgstr ""
 msgid "Deep"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#. [ExercisePanel.Detail] - undefined
-msgid "Detail"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 #. [LangingPage.SleepTrackContentLine1] - undefined
 msgid "Detect your sleeping patterns and provide data evaluation."
@@ -262,6 +260,8 @@ msgstr ""
 msgid "Easy Health Monitoring"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/EfficiencyCircle.json
+#. [EfficiencyCircle.Efficiency] - undefined
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [ExerciseMetaDetails.Efficiency] - undefined
 msgid "Efficiency"
@@ -309,8 +309,6 @@ msgstr ""
 msgid "Fair"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#. [ExericsePanel.FatBurn] - undefined
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.FatBurn] - undefined
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
@@ -557,11 +555,6 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.Month] - undefined
 msgid "Month"
-msgstr ""
-
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-#. [SleepStagePanel.More] - undefined
-msgid "More"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -861,6 +854,13 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.ShowMore] - undefined
 msgid "Show All"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.ShowMore] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [ExercisePanel.ShowMore] - undefined
+msgid "Show More"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json

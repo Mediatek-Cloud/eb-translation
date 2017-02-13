@@ -1,3 +1,12 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-02-13T08:20:17.962Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: react-intl-po\n"
+
+
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.EfficiencyFormula] - undefined
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
@@ -1118,7 +1127,7 @@ msgstr ""
 msgid "h"
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/common/FormattedDuration.json
 #. [ExerciseMetaDetails.Hour] - undefined
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #. [SleepReportDetails.Hour] - undefined
@@ -1141,10 +1150,10 @@ msgstr ""
 msgid "kcal burned"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FormattedDuration.json
+#. [ExerciseMetaDetails.Minute] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Min] - undefined
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
-#. [ExerciseMetaDetails.Minute] - undefined
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #. [SleepReportDetails.Minute] - undefined
 msgid "min"

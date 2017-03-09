@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
+"POT-Creation-Date: 2017-02-20T08:03:05.574Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -11,6 +11,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [MoreInfoOverlay.EfficiencyFormula] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
+
+#. [landingPage.Footer.about] - undefined
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "About MTK Health"
+msgstr "關於 MediaTek Health"
 
 #. [AccountSetting.Account] - undefined
 #: build/messages/src/scripts/containers/AccountSetting.json
@@ -49,15 +59,55 @@ msgstr "活動"
 msgid "Additional"
 msgstr "其他"
 
+#. [ExerciseMetaDetails.Aerobics] - undefined
+#. [ActivityTypeOverlay.Aerobics] - undefined
+#. [ExerciseMetaDetails.Aerobics] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Aerobics"
+msgstr "有氧運動"
+
+#. [LangingPage.PrivacyContent1] - undefined
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid ""
+"All of your identifiable personal data in MediaTek Health will be stored in "
+"a separate database to which the admin's activities are logged."
+msgstr ""
+"所有 MediaTek  Health 上可識別您的個人資料將被儲存在一個獨立且受監控的資料"
+"庫。"
+
+#. [ExerciseMetaDetails.Anaerobics] - undefined
+#. [ExerciseMetaDetails.Anaerobics] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Anaerobics"
+msgstr "無氧運動"
+
 #. [landingPage.SuccessSection.title] - undefined
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "Application successful !"
 msgstr "申請成功！"
 
-#. [ProfileForm.ArmLengthLabel] - undefined
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
-msgid "Arm Length"
-msgstr "臂長"
+#. [SleepReportList.Asleep] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Asleep"
+msgstr "睡著"
+
+#. [SleepReportList.Asleep] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Asleep："
+msgstr "睡著："
+
+#. [SleepReportList.Awake] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Awake"
+msgstr "清醒"
+
+#. [SleepReportList.Awake] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Awake："
+msgstr "清醒："
 
 #. [CalorieChart.BMR] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -88,6 +138,11 @@ msgstr "回至前一頁"
 msgid "Bad"
 msgstr "差"
 
+#. [ActivityTypeOverlay.Bike] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+msgid "Bike"
+msgstr "腳踏車"
+
 #. [personalReport.HRV.BiologicalAge] - undefined
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "Biological Age: {formattedBioAge}"
@@ -108,21 +163,26 @@ msgstr "血壓"
 msgid "Blood Pressure Measurement"
 msgstr "血壓量測"
 
+#. [landingPage.EmailSection.policyLine2] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "By clicking on SUBMIT, you agree to the {terms} and {policy}."
+msgstr "點擊送出，即代表您同意{terms} 和{policy}。"
+
 #. [CaloriePanel.Calorie] - undefined
-#. [ExericsePanel.Calorie] - undefined
 #. [ExerciseCharts.Calorie] - undefined
+#. [ExerciseMetaDetails.Calorie] - undefined
+#. [Indication.Calorie] - undefined
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Calorie"
 msgstr "卡路里"
 
-#. [Header.Campaign] - undefined
-#. [landingPage.Header.Campaign] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-#: build/messages/src/scripts/components/landingPage/Header.json
-msgid "Campaign"
-msgstr "活動"
+#. [ExericsePanel.ExerciseBurnedCalorie] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+msgid "Calorie Burned"
+msgstr "卡路里燃燒"
 
 #. [ChangePasswordDialog.cancelButton] - undefined
 #. [EmailVerification.cancelButton] - undefined
@@ -146,6 +206,11 @@ msgstr "點擊下方按鈕返回"
 msgid "Confirm Passowrd"
 msgstr "確認密碼"
 
+#. [Header.ContactUs] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Contact Us"
+msgstr "聯繫我們"
+
 #. [Header.Report] - undefined
 #: build/messages/src/scripts/components/common/Header.json
 msgid "Daily Activity"
@@ -157,11 +222,13 @@ msgid "Daily avg."
 msgstr "每日平均"
 
 #. [Header.Dashboard] - undefined
-#. [Header.Dashboard] - undefined
+#. [SleepReportList.Dashboard] - undefined
 #. [ExercisePage.Dashboard] - undefined
+#. [SleepReportList.Dashboard] - undefined
 #: build/messages/src/scripts/components/common/Header.json
-#: build/messages/src/scripts/components/landingPage/Header.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/ExercisePage.json
+#: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Dashboard"
 msgstr "儀表板"
 
@@ -170,10 +237,17 @@ msgstr "儀表板"
 msgid "Day"
 msgstr "日"
 
-#. [ExercisePanel.Detail] - undefined
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-msgid "Detail"
-msgstr "詳細資訊"
+#. [SleepStagePanel.Deep] - undefined
+#. [SleepStageMessages.Deep] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Deep"
+msgstr "深眠期"
+
+#. [LangingPage.SleepTrackContentLine1] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Detect your sleeping patterns and provide data evaluation."
+msgstr "偵測您的睡眠狀態，提供數據良表/n讓你睡得更好"
 
 #. [BloodPressureChartMeta.Diastolic] - undefined
 #. [BloodPressureTable.Diastolic] - undefined
@@ -193,9 +267,23 @@ msgid "Don't have an account?"
 msgstr "還沒有帳號嗎？"
 
 #. [ExericsePanel.Duration] - undefined
+#. [ExerciseMetaDetails.Duration] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 msgid "Duration"
 msgstr "歷時"
+
+#. [LangingPage.BloodPressureTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Easy Health Monitoring"
+msgstr "天天量血壓　健康一手掌握"
+
+#. [EfficiencyCircle.Efficiency] - undefined
+#. [ExerciseMetaDetails.Efficiency] - undefined
+#: build/messages/src/scripts/components/common/EfficiencyCircle.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Efficiency"
+msgstr "效率"
 
 #. [LoginForm.emailPlaceholder] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -214,13 +302,17 @@ msgstr "請再輸入一次密碼"
 
 #. [CalorieChart.Exercise] - undefined
 #. [ExercisePanel.Exercise] - undefined
+#. [Indication.Exercise] - undefined
 #. [StepPanel.Exercise] - undefined
-#. [ExercisePanelList.Exercise] - undefined
+#. [ActivityTypeOverlay.Exercise] - undefined
+#. [Indication.Exercise] - undefined
 #. [ExercisePage.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
-#: build/messages/src/scripts/components/exercise/ExercisePanelList.json
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
 msgstr "運動"
@@ -235,8 +327,10 @@ msgstr "運動或健身"
 msgid "Fair"
 msgstr "普通"
 
-#. [ExericsePanel.FatBurn] - undefined
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExerciseMetaDetails.FatBurn] - undefined
+#. [ExerciseMetaDetails.FatBurn] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Fat Burn"
 msgstr "燃脂"
 
@@ -265,6 +359,11 @@ msgstr "忘了密碼？"
 msgid "Forgot password"
 msgstr "忘記密碼"
 
+#. [LangingPage.CalorieTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Fun with Group Exercise"
+msgstr "多人健身　樂趣多"
+
 #. [Campaign.BannerDescription] - undefined
 #: build/messages/src/scripts/containers/Campaign.json
 msgid "Gain more than 3 stars to be eligible for the drawing!"
@@ -274,6 +373,11 @@ msgstr "取得超過三顆星就能參加抽獎活動！"
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Gender"
 msgstr "性別"
+
+#. [landingPage.VideoJumbo.jumboText] - undefined
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+msgid "Get control of your health, anytime, everywhere."
+msgstr "任何地點　任何時刻　掌握您的健康"
 
 #. [StepPanel.GoalAchieved] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -303,16 +407,45 @@ msgstr "HRV： {formattedDescription}"
 #. [ExericsePanel.HeartRate] - undefined
 #. [HeartRatePanel.HeartRate] - undefined
 #. [ExerciseCharts.HeartRate] - undefined
+#. [ExerciseMetaDetails.HeartRate] - undefined
+#. [Indication.HeartRate] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Heart Rate"
 msgstr "心率"
+
+#. [MoreInfoOverlay.FatBurnFormula] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x80%"
+msgstr "心率 = (220-年齡)x60% ~ (220-年齡)x80%"
+
+#. [MoreInfoOverlay.AerobicsFormula] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x90%"
+msgstr "心率 = (220-年齡)x60% ~ (220-年齡)x90%"
+
+#. [MoreInfoOverlay.AnaerobicsFormula] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate > (220-Age)x90%"
+msgstr "心率 > (220-年齡)x90%"
+
+#. [LangingPage.HeartRateTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Heart Rate, Steps, Calories"
+msgstr "心率，計步，卡路里"
 
 #. [ProfileForm.HeightLabel] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Height"
 msgstr "身高"
+
+#. [Header.Help] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Help"
+msgstr "幫助"
 
 #. [LoginForm.signupLink] - undefined
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
@@ -325,8 +458,8 @@ msgstr "馬上加入！"
 
 #. [landingPage.EmailSection.title] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "Join health band and get a band now!"
-msgstr "馬上加入 MediaTek Health 計畫並申請手環吧！"
+msgid "Join MediaTek Health and get a band now!"
+msgstr "參予 MediaTek Health 計畫並申請手環！"
 
 #. [personalReport.HRV.LF] - undefined
 #: build/messages/src/scripts/components/personalReport/Hrv.json
@@ -349,9 +482,7 @@ msgid "Latest"
 msgstr "最新"
 
 #. [Header.Leaderboard] - undefined
-#. [landingPage.Header.Leaderboard] - undefined
 #: build/messages/src/scripts/components/common/Header.json
-#: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Leaderboard"
 msgstr "排行榜"
 
@@ -359,6 +490,18 @@ msgstr "排行榜"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Legal Notice"
 msgstr "法律聲明"
+
+#. [SleepStagePanel.Light] - undefined
+#. [SleepStageMessages.Light] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Light"
+msgstr "淺眠期"
+
+#. [LangingPage.StepsContent] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Link with your corporate ID for a seamless experience ."
+msgstr "結合公司門禁卡功能/n上班更輕鬆"
 
 #. [LoginForm.loginButton] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -374,6 +517,16 @@ msgstr "登入"
 #: build/messages/src/scripts/components/common/Header.json
 msgid "Logout"
 msgstr "登出"
+
+#. [landingPage.Footer.policy] - undefined
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MTK Health Privacy Policy"
+msgstr "MTK Health 隱私條款"
+
+#. [landingPage.Footer.terms] - undefined
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MTK Health Terms & Conditions"
+msgstr "MTK Health 使用條款"
 
 #. [AuthPage.mailSentTitle] - undefined
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -412,15 +565,30 @@ msgstr "MediaTek Inc. All Rights Reserved."
 msgid "Min"
 msgstr "最小值"
 
+#. [LangingPage.ExerciseTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Mobile Payment on The Go"
+msgstr "行動支付　戴著走"
+
 #. [ProfileForm.Month] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Month"
 msgstr "月"
 
+#. [LangingPage.StepsTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Multi-functions All in One"
+msgstr "多功能合一　簡單又方便"
+
 #. [MyRankingList.MyRanking] - undefined
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
 msgid "My Ranking"
 msgstr "我的排行"
+
+#. [LangingPage.not] - undefined
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid "NOT"
+msgstr "不"
 
 #. [ChangePasswordDialog.NewPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -437,10 +605,27 @@ msgstr "新密碼（最少八個字元）"
 msgid "Next Week"
 msgstr "下一周"
 
-#. [ProfileForm.nickNameLabel] - undefined
+#. [ProfileForm.nicknameLabel] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
-msgid "Nick Name"
+msgid "Nickname"
 msgstr "暱稱"
+
+#. [SleepReportList.Note] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Note"
+msgstr "說明"
+
+#. [SleepReportList.Note] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Note："
+msgstr "說明："
+
+#. [landingPage.ProductOverview.content] - undefined
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+msgid ""
+"Obtain real-time data from wristband to smartphone and personalized report "
+"through MediaTek Health."
+msgstr "手環與手機數據即時同步/n透過 MediaTek Health 平台獲得個人化報告及建議"
 
 #. [ChangePasswordDialog.OldPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -459,10 +644,8 @@ msgstr "噢！看起來發生了些錯誤。"
 msgid "Password"
 msgstr "密碼"
 
-#. [ActivateAccount.inputInvalidPassword] - undefined
-#. [ResetPassword.inputInvalidPassword] - undefined
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
+#. [emailPasswordValidator.INVALID_PASSWORD] - undefined
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Password Least 8 Characters"
 msgstr "密碼至少要有八個字元"
 
@@ -471,10 +654,27 @@ msgstr "密碼至少要有八個字元"
 msgid "Password must be same as above"
 msgstr "密碼不一致"
 
+#. [ActivateAccount.inputInvalidPassword] - undefined
+#. [ResetPassword.inputInvalidPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Password must have at least 8 characters."
+msgstr "密碼需要至少八個字元"
+
 #. [AuthPage.resetPasswordSuccessTitle] - undefined
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Password reset successfully"
 msgstr "密碼重設成功"
+
+#. [LangingPage.ExerciseContent] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Pay bills using electronic wallet with a wave of your hand."
+msgstr "搭載電子錢包功能/n揮揮手即完成付款"
+
+#. [landingPage.ProductOverview.title] - undefined
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+msgid "Personalized Data"
+msgstr "個人化數據"
 
 #. [AuthPage.mailSentMessage] - undefined
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -508,8 +708,10 @@ msgstr "請輸入舊密碼"
 
 #. [ActivateAccount.inputEmptyPassword] - undefined
 #. [ResetPassword.inputEmptyPassword] - undefined
+#. [emailPasswordValidator.EMPTY_PASSWORD] - undefined
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please enter password"
 msgstr "請輸入密碼"
 
@@ -527,20 +729,20 @@ msgid ""
 msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用郵件通知您。"
 
 #. [ForgotPassword.inputInvalidEmail] - undefined
-#. [LoginForm.inputInvalidEmail] - undefined
 #. [EmailVerification.inputInvalidEmail] - undefined
+#. [emailPasswordValidator.INVALID_EMAIL] - undefined
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please input a valid email"
 msgstr "請輸入正確的郵件地址"
 
 #. [ForgotPassword.inputEmptyEmail] - undefined
-#. [LoginForm.inputEmptyEmail] - undefined
 #. [EmailVerification.inputEmptyEmail] - undefined
+#. [emailPasswordValidator.EMPTY_EMAIL] - undefined
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please input an email"
 msgstr "請輸入郵件地址"
 
@@ -569,7 +771,14 @@ msgstr "很差"
 msgid "Pressure Analytics"
 msgstr "壓力分析"
 
+#. [LangingPage.PrivacyTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid "Privacy"
+msgstr "隱私"
+
+#. [landingPage.EmailSection.policy] - undefined
 #. [landingPage.Footer.PrivacyPolicy] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Privacy Policy"
 msgstr "隱私政策"
@@ -578,6 +787,13 @@ msgstr "隱私政策"
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Profile Detail"
 msgstr "個人檔案"
+
+#. [SleepStagePanel.REM] - undefined
+#. [SleepStageMessages.REM] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "REM"
+msgstr "REM"
 
 #. [BloodPressureTable.RecentMeasurements] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
@@ -609,8 +825,15 @@ msgstr "重設密碼失敗"
 msgid "Reset password timeout"
 msgstr "密碼重設逾期"
 
-#. [StepChart.Run] - undefined
-#: build/messages/src/scripts/components/dashboard/StepChart.json
+#. [SleepStagePanel.Restless] - undefined
+#. [SleepStageMessages.Restless] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Restless"
+msgstr "不寧"
+
+#. [ActivityTypeOverlay.Run] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 msgid "Run"
 msgstr "跑"
 
@@ -621,8 +844,8 @@ msgstr "SDNN {sdnn}"
 
 #. [landingPage.EmailSection.button] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "SEND IT"
-msgstr "寄出"
+msgid "SUBMIT"
+msgstr "送出"
 
 #. [ChangePasswordDialog.saveButton] - undefined
 #. [SaveButton.Save] - undefined
@@ -646,25 +869,80 @@ msgstr "再次寄送電子郵件"
 msgid "Set Password"
 msgstr "設置密碼"
 
+#. [LangingPage.CalorieContent] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Share exercise achievements with your network and reach the goals together ."
+msgstr "隨時與朋友連線分享健身成果/n共同努力完成目標"
+
 #. [BloodPressureTable.ShowMore] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Show All"
 msgstr "顯示全部"
 
+#. [ExercisePanel.ShowMore] - undefined
+#. [ExercisePanel.ShowMore] - undefined
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "Show More"
+msgstr "顯示更多"
+
 #. [landingPage.Header.signInOrCreateAccount] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
+#: build/messages/src/scripts/components/common/Header.json
 msgid "Sign In / Create Account"
 msgstr "登入 / 建立帳戶"
+
+#. [Header.SignOut] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Sign Out"
+msgstr "登出"
 
 #. [AuthPage.signupSuccessTitle] - undefined
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Sign up Successful"
 msgstr "登入成功"
 
+#. [SleepStagePanel.Sleep] - undefined
+#. [SleepStageMessages.Sleep] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Sleep"
+msgstr "睡眠"
+
+#. [SleepReportDetails.SleepEfficiency] - undefined
+#. [SleepReportList.SleepEfficiency] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Efficiency"
+msgstr "睡眠效率"
+
+#. [SleepChartPanel.SleepReport] - undefined
+#. [SleepReportPanel.SleepReport] - undefined
+#. [SleepReportList.SleepReport] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Report"
+msgstr "睡眠報告"
+
+#. [SleepReportList.SleepReportList] - undefined
+#. [SleepReportList.SleepReportList] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Report List"
+msgstr "睡眠報告清單"
+
 #. [landingPage.QuestionnaireSection.option.sleep] - undefined
+#. [SleepChartPanel.SleepTracking] - undefined
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
 msgid "Sleep Tracking"
 msgstr "睡眠追蹤"
+
+#. [LangingPage.SleepTrackTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Sleep Well and Sleep Sound"
+msgstr "追求更好的睡眠品質"
 
 #. [landingPage.QuestionnaireSection.option.social] - undefined
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -677,7 +955,7 @@ msgid "Sorry! Page not found."
 msgstr "抱歉！找不到此頁面。"
 
 #. [ExerciseChart.Start] - undefined
-#: build/messages/src/scripts/components/exercise/ExerciseChart.json
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 msgid "Start"
 msgstr "開始"
 
@@ -703,10 +981,30 @@ msgstr "成功"
 msgid "Systolic"
 msgstr "收縮壓"
 
+#. [landingPage.EmailSection.terms] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Terms & Conditions"
+msgstr "使用條款"
+
+#. [LangingPage.PrivacyContent2] - undefined
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid ""
+"The data will {not} be revealed to anyone, including HR or managers, before "
+"getting your approval."
+msgstr ""
+"在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
+
+#. [SleepReportList.Title] - undefined
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Title"
+msgstr "名稱"
+
 #. [CalorieChart.Today] - undefined
 #. [ExercisePanel.Today] - undefined
+#. [SleepStagePanel.Today] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "Today"
 msgstr "今天"
 
@@ -719,6 +1017,26 @@ msgstr "今日平均"
 #: build/messages/src/scripts/containers/Leaderboard.json
 msgid "Top 100"
 msgstr "前 100 名"
+
+#. [SleepReportDetails.Total] - undefined
+#. [SleepReportList.Total] - undefined
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Total"
+msgstr "加總"
+
+#. [LangingPage.BloodPressureContent] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Track daily blood pressure with built-in optical and ECG bio-sensor "
+"solutions for a peach of mind."
+msgstr "內件光學與心電式生物傳感器/n輕鬆量測血壓，健康每一天"
+
+#. [LangingPage.HeartRateContent] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Update your workout data instantly to enjoy brand new exercise experiences."
+msgstr "即時更新您的健康數據/n全新的運動體驗"
 
 #. [ProfilePhoto.UploadPicture] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
@@ -740,12 +1058,26 @@ msgstr "可參加抽獎名單"
 msgid "Verification link has expired."
 msgstr "認證連結過期"
 
-#. [StepChart.Walk] - undefined
+#. [SleepStagePanel.Wake] - undefined
+#. [SleepStageMessages.Wake] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Wake"
+msgstr "清醒"
+
+#. [Indication.Walk] - undefined
 #. [StepPanel.Walk] - undefined
+#. [Indication.Walk] - undefined
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Walk"
 msgstr "走路"
+
+#. [landingPage.EmailSection.policyLine1] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "We promise the security and confidentiality of your data."
+msgstr "我們保證您的資料是安全與保密的。"
 
 #. [landingPage.SuccessSection.content] - undefined
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
@@ -762,10 +1094,20 @@ msgstr "每週總步數"
 msgid "Weight"
 msgstr "體重"
 
+#. [MoreInfoOverlay.WhatDoesTheDataMean] - undefined
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "What does the data mean ?"
+msgstr "這些資料代表什麼意思呢？"
+
 #. [ProfileForm.Year] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Year"
 msgstr "年"
+
+#. [SleepStagePanel.Yesterday] - undefined
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "Yesterday"
+msgstr "昨天"
 
 #. [CalorieChart.goalCompleted] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -782,20 +1124,43 @@ msgstr "在"
 msgid "avg bpm"
 msgstr "avg bpm"
 
+#. [Indication.bmp] - undefined
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+msgid "bmp"
+msgstr "bmp"
+
 #. [HeartRateChart.Bpm] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "bpm"
 msgstr "bpm"
 
+#. [ExerciseMetaDetails.bpm/min] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+msgid "bpm/min"
+msgstr "bpm/min"
+
 #. [ExericsePanel.H] - undefined
+#. [SleepReportDetails.H] - undefined
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "h"
 msgstr "h"
 
+#. [ExerciseMetaDetails.Hour] - undefined
+#. [SleepReportDetails.Hour] - undefined
+#: build/messages/src/scripts/components/common/FormattedDuration.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+msgid "hour"
+msgstr "小時"
+
 #. [CalorieChart.kcal] - undefined
 #. [ExericsePanel.Kcal] - undefined
+#. [ExerciseMetaDetails.kcal] - undefined
+#. [Indication.kcal] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "kcal"
 msgstr "kcal"
 
@@ -804,14 +1169,20 @@ msgstr "kcal"
 msgid "kcal burned"
 msgstr "已燃燒熱量"
 
+#. [ExerciseMetaDetails.Minute] - undefined
 #. [ExericsePanel.Min] - undefined
+#. [SleepReportDetails.Minute] - undefined
+#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"
 
 #. [BloodPressureChartMeta.mmHg] - undefined
+#. [BloodPressureChart.mmHg] - undefined
 #. [BloodPressureTable.MmHg] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "mmHg"
 msgstr "mmHg"
@@ -826,8 +1197,12 @@ msgstr "剩餘 {remaining} kcal"
 msgid "stars"
 msgstr "星星"
 
+#. [Indication.step] - undefined
 #. [StepPanel.step] - undefined
+#. [Indication.step] - undefined
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "step"
 msgstr "步"
 
@@ -836,130 +1211,98 @@ msgstr "步"
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
-#. [LangingPage.StepsContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "上班更輕鬆"
-msgstr "上班更輕鬆"
+#~ msgid "Arm Length"
+#~ msgstr "臂長"
 
-#. [landingPage.VideoJumbo.jumboTextLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-msgid "任何地點 任何時刻"
-msgstr "任何地點 任何時刻"
+#~ msgid "Campaign"
+#~ msgstr "活動"
 
-#. [landingPage.ProductOverview.title] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "個人化數據"
-msgstr "個人化數據"
+#~ msgid "Detail"
+#~ msgstr "詳細資訊"
 
-#. [LangingPage.BloodPressureTitleLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "健康一手掌握"
-msgstr "健康一手掌握"
+#~ msgid "Join health band and get a band now!"
+#~ msgstr "馬上加入 MediaTek Health 計畫並申請手環吧！"
 
-#. [LangingPage.SleepTrackContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "偵測你的睡眠狀態，提供數據量表"
-msgstr "偵測你的睡眠狀態，提供數據量表"
+#~ msgid "Nick Name"
+#~ msgstr "暱稱"
 
-#. [LangingPage.BloodPressureContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "內建光學與心電式生物傳感器"
-msgstr "內建光學與心電式生物傳感器"
+#~ msgid "SEND IT"
+#~ msgstr "寄出"
 
-#. [LangingPage.HeartRateContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "全新的運動體驗"
-msgstr "全新的運動體驗"
+#~ msgid "上班更輕鬆"
+#~ msgstr "上班更輕鬆"
 
-#. [LangingPage.CalorieContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "共同努力完成目標"
-msgstr "共同努力完成目標"
+#~ msgid "任何地點 任何時刻"
+#~ msgstr "任何地點 任何時刻"
 
-#. [LangingPage.HeartRateContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "即時更新你的健身數據"
-msgstr "即時更新你的健身數據"
+#~ msgid "個人化數據"
+#~ msgstr "個人化數據"
 
-#. [LangingPage.CalorieTitle] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "多人健身 樂趣多"
-msgstr "多人健身 樂趣多"
+#~ msgid "健康一手掌握"
+#~ msgstr "健康一手掌握"
 
-#. [LangingPage.StepsTitleLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "多功能合一"
-msgstr "多功能合一"
+#~ msgid "偵測你的睡眠狀態，提供數據量表"
+#~ msgstr "偵測你的睡眠狀態，提供數據量表"
 
-#. [LangingPage.BloodPressureTitleLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "天天量血壓"
-msgstr "天天量血壓"
+#~ msgid "內建光學與心電式生物傳感器"
+#~ msgstr "內建光學與心電式生物傳感器"
 
-#. [LangingPage.HeartRateTitle] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "心率・計步・卡路里"
-msgstr "心率・計步・卡路里"
+#~ msgid "全新的運動體驗"
+#~ msgstr "全新的運動體驗"
 
-#. [landingPage.ProductOverview.content] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "手環與手機數據即時同步"
-msgstr "手環與手機數據即時同步"
+#~ msgid "共同努力完成目標"
+#~ msgstr "共同努力完成目標"
 
-#. [landingPage.VideoJumbo.jumboTextLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-msgid "掌握你的健康"
-msgstr "掌握你的健康"
+#~ msgid "即時更新你的健身數據"
+#~ msgstr "即時更新你的健身數據"
 
-#. [LangingPage.ExerciseContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "揮揮手即完成付款"
-msgstr "揮揮手即完成付款"
+#~ msgid "多人健身 樂趣多"
+#~ msgstr "多人健身 樂趣多"
 
-#. [LangingPage.ExerciseContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "搭載電子錢包功能"
-msgstr "搭載電子錢包功能"
+#~ msgid "多功能合一"
+#~ msgstr "多功能合一"
 
-#. [LangingPage.StepsTitleLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "簡單又方便"
-msgstr "簡單又方便"
+#~ msgid "天天量血壓"
+#~ msgstr "天天量血壓"
 
-#. [LangingPage.StepsContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "結合公司門禁卡功能"
-msgstr "結合公司門禁卡功能"
+#~ msgid "心率・計步・卡路里"
+#~ msgstr "心率・計步・卡路里"
 
-#. [LangingPage.ExerciseTitle] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "行動支付 戴著走"
-msgstr "行動支付 戴著走"
+#~ msgid "手環與手機數據即時同步"
+#~ msgstr "手環與手機數據即時同步"
 
-#. [LangingPage.SleepTrackContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "讓你睡得更好"
-msgstr "讓你睡得更好"
+#~ msgid "掌握你的健康"
+#~ msgstr "掌握你的健康"
 
-#. [LangingPage.BloodPressureContentLine2] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "輕鬆量測血壓，健康每一天"
-msgstr "輕鬆量測血壓，健康每一天"
+#~ msgid "揮揮手即完成付款"
+#~ msgstr "揮揮手即完成付款"
 
-#. [LangingPage.SleepTrackTitle] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "追求更好的睡眠品質"
-msgstr "追求更好的睡眠品質"
+#~ msgid "搭載電子錢包功能"
+#~ msgstr "搭載電子錢包功能"
 
-#. [landingPage.ProductOverview.content2] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "透過 mBrace 平台獲得個人化報告及建議"
-msgstr "透過 mBrace 平台獲得個人化報告及建議"
+#~ msgid "簡單又方便"
+#~ msgstr "簡單又方便"
 
-#. [LangingPage.CalorieContentLine1] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "隨時與朋友連線分享健身成果"
-msgstr "隨時與朋友連線分享健身成果"
+#~ msgid "結合公司門禁卡功能"
+#~ msgstr "結合公司門禁卡功能"
+
+#~ msgid "行動支付 戴著走"
+#~ msgstr "行動支付 戴著走"
+
+#~ msgid "讓你睡得更好"
+#~ msgstr "讓你睡得更好"
+
+#~ msgid "輕鬆量測血壓，健康每一天"
+#~ msgstr "輕鬆量測血壓，健康每一天"
+
+#~ msgid "追求更好的睡眠品質"
+#~ msgstr "追求更好的睡眠品質"
+
+#~ msgid "透過 mBrace 平台獲得個人化報告及建議"
+#~ msgstr "透過 mBrace 平台獲得個人化報告及建議"
+
+#~ msgid "隨時與朋友連線分享健身成果"
+#~ msgstr "隨時與朋友連線分享健身成果"
 
 #~ msgid "Account verification fail."
 #~ msgstr "帳號驗證失敗"

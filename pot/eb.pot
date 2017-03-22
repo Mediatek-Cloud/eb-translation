@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-02-20T08:03:05.574Z\n"
+"POT-Creation-Date: 2017-03-17T02:33:04.940Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -10,6 +10,16 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.EfficiencyFormula] - undefined
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.durationContext] - undefined
+msgid "3 months"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.serialNumberPlaceholder] - undefined
+msgid "8 Characters"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
@@ -27,21 +37,6 @@ msgstr ""
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.AccountSetting] - undefined
 msgid "Account Setting"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.activateAccountSuccessMessage] - undefined
-msgid "Account has been activated"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.title] - undefined
-msgid "Activate Your Account"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.activateAccountSuccessTitle] - undefined
-msgid "Activate successfully"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Activeness.json
@@ -63,9 +58,23 @@ msgstr ""
 msgid "Aerobics"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP4] - undefined
+msgid "After the experimental project ends (3 month), you will get your original badge back.
+                  You can keep your gold band as it will be no longer has the badge function,
+                  and you can still use the health related function.
+                  We would like to collect your feedback joining the wearable badge project,
+                  please let us know if you have any suggestion or thought. Thank you!"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 #. [LangingPage.PrivacyContent1] - undefined
 msgid "All of your identifiable personal data in MediaTek Health will be stored in a separate database to which the admin's activities are logged."
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/Header.json
+#. [Authentication.Header.askForSignIn] - undefined
+msgid "Already have an account?"
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
@@ -105,20 +114,6 @@ msgstr ""
 msgid "BMR"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.cancelButton] - undefined
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.cancelButton] - undefined
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.cancelButton] - undefined
-msgid "Back"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.defaultMessageTitle] - undefined
-msgid "Back to login page"
-msgstr ""
-
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 #. [NotFoundPage.BackToLastPage] - undefined
 msgid "Back to the last page"
@@ -156,7 +151,12 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.policyLine2] - undefined
-msgid "By clicking on SUBMIT, you agree to the {terms} and {policy}."
+msgid "By clicking on SUBMIT, I agree to MTK Health's {terms} and {policy}."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/ContactUsButton.json
+#. [ContactUsButton] - undefined
+msgid "CONTACT US"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
@@ -177,8 +177,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.cancelButton] - undefined
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.cancelButton] - undefined
 msgid "Cancel"
 msgstr ""
 
@@ -187,14 +185,26 @@ msgstr ""
 msgid "Change Password"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.defaultMessage] - undefined
-msgid "Click on the button below to go back."
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP2] - undefined
+msgid "Choosing the gold band means you agree to additionally join the wearable badge experimental project.
+                  The gold band is your employee badge, you can use it to access the office area; to pay for your meals;
+                  and be identified as an MediaTek employee. However, it has the following limitations:"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.password2Label] - undefined
+msgid "Confirm New Password"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.ConfirmPassowrd] - undefined
 msgid "Confirm Passowrd"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.serialNumber2Label] - undefined
+msgid "Confirm Serial Number"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Header.json
@@ -235,6 +245,11 @@ msgstr ""
 msgid "Deep"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.description] - undefined
+msgid "Description"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 #. [LangingPage.SleepTrackContentLine1] - undefined
 msgid "Detect your sleeping patterns and provide data evaluation."
@@ -252,9 +267,19 @@ msgstr ""
 msgid "Diet Control"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.noAccountMessage] - undefined
-msgid "Don't have an account?"
+#: build/messages/src/scripts/components/authentication/Header.json
+#. [Authentication.Header.askForSignUp] - undefined
+msgid "Do not have account?"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.bandPrefernceTitle] - undefined
+msgid "Do you also want to join the wearable badge experimental project ?"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3] - undefined
+msgid "Due to it is an experimental project, you might not be able to get the discount in cooperative shop."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -276,19 +301,24 @@ msgstr ""
 msgid "Efficiency"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.emailPlaceholder] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.label] - undefined
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.emailLabel] - undefined
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.emailLabel] - undefined
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.emailLabel] - undefined
 msgid "Email"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.invalidUsernameOrPassword] - undefined
-msgid "Email or password incorrect"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.password2Placeholder] - undefined
-msgid "Enter new password again"
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.emailPlaceholder] - undefined
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.emailPlaceholder] - undefined
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.emailPlaceholder] - undefined
+msgid "Ex: abc123@mediatek.com"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -340,14 +370,20 @@ msgstr ""
 msgid "File size exceed 512kB"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.forgotpasswordLink] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line4] - undefined
+msgid "For gold band user, if you need your badge for business trip,
+                      please contact the central control room to take back your badge."
+msgstr ""
+
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.forgotpasswordLink] - undefined
 msgid "Forgot Your Password?"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.title] - undefined
-msgid "Forgot password"
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.title] - undefined
+msgid "Forgot your password?"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -438,8 +474,17 @@ msgstr ""
 msgid "Help"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.signupLink] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line6] - undefined
+msgid "If you lost your gold band, for security reason,
+                      your old badge will made invalid. Additional $200 will be charged to make your new badge."
+msgstr ""
+
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.combinationInvalid] - undefined
+msgid "Invalid combination. Please try again"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
@@ -450,6 +495,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.title] - undefined
 msgid "Join MediaTek Health and get a band now!"
+msgstr ""
+
+#: build/messages/src/scripts/components/authentication/Header.json
+#. [Authentication.Header.joinNow] - undefined
+msgid "Join Now"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Hrv.json
@@ -477,6 +527,20 @@ msgstr ""
 msgid "Leaderboard"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.learnTheDifference] - undefined
+msgid "Learn the difference"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.passwordPlaceholder] - undefined
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.passwordPlaceholder] - undefined
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.passwordPlaceholder] - undefined
+msgid "Least 8 characters"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/Footer.json
 #. [landingPage.Footer.LegalNotice] - undefined
 msgid "Legal Notice"
@@ -494,16 +558,6 @@ msgstr ""
 msgid "Link with your corporate ID for a seamless experience ."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.loginButton] - undefined
-msgid "Log In"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.login] - undefined
-msgid "Login"
-msgstr ""
-
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Logout] - undefined
 msgid "Logout"
@@ -519,11 +573,6 @@ msgstr ""
 msgid "MTK Health Terms & Conditions"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.mailSentTitle] - undefined
-msgid "Mail has been sent."
-msgstr ""
-
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 #. [GenderSelect.male] - undefined
 msgid "Male"
@@ -537,13 +586,6 @@ msgstr ""
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.MeasuredTime] - undefined
 msgid "Measured time"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.emailPlaceholder] - undefined
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.emailPlaceholder] - undefined
-msgid "MediaTek Email"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Footer.json
@@ -571,6 +613,16 @@ msgstr ""
 msgid "Multi-functions All in One"
 msgstr ""
 
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.INVALID_MTK_EMAIL] - undefined
+msgid "Must be a valid @mediatek.com email."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.preferenceError] - undefined
+msgid "Must select one option from above."
+msgstr ""
+
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
 #. [MyRankingList.MyRanking] - undefined
 msgid "My Ranking"
@@ -586,9 +638,9 @@ msgstr ""
 msgid "New Passowrd"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.passwordPlaceholder] - undefined
-msgid "New password (at least 8 words)"
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.passwordLabel] - undefined
+msgid "New Password"
 msgstr ""
 
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
@@ -599,6 +651,11 @@ msgstr ""
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 #. [ProfileForm.nicknameLabel] - undefined
 msgid "Nickname"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.blackBandLabel] - undefined
+msgid "No (Black band)"
 msgstr ""
 
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -626,10 +683,12 @@ msgstr ""
 msgid "Oops! Looks like something broke."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.passwordPlaceholder] - undefined
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.Password] - undefined
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.passwordLabel] - undefined
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.passwordLabel] - undefined
 msgid "Password"
 msgstr ""
 
@@ -638,21 +697,9 @@ msgstr ""
 msgid "Password Least 8 Characters"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputPasswordsInconsist] - undefined
-msgid "Password must be same as above"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.inputInvalidPassword] - undefined
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputInvalidPassword] - undefined
-msgid "Password must have at least 8 characters."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordSuccessTitle] - undefined
-msgid "Password reset successfully"
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.INVALID_PASSWORD] - undefined
+msgid "Password must be at least 8 characters"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -665,24 +712,9 @@ msgstr ""
 msgid "Personalized Data"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.mailSentMessage] - undefined
-msgid "Please check you email and reset your password."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resendEmailVerificationSuccessMessage] - undefined
-msgid "Please check your email inbox for registration verification mail."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.signupMessage] - undefined
-msgid "Please check your email inbox to activate your account."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordFailedMessage] - undefined
-msgid "Please click on 'forgot password' again to request another email."
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.sendEmailSuccessDescription] - undefined
+msgid "Please check your email inbox for the verification email, which is sent to {email}"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -695,40 +727,32 @@ msgstr ""
 msgid "Please enter old password"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.inputEmptyPassword] - undefined
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputEmptyPassword] - undefined
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.EMPTY_PASSWORD] - undefined
 msgid "Please enter password"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.message] - undefined
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.description] - undefined
 msgid "Please enter your email and we will resend the verification link to you."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.messge] - undefined
-msgid "Please fill in your email address, and check your inbox for further information."
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.description] - undefined
+msgid "Please enter your email and we will send you instructions to reset your password."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.inputInvalidEmail] - undefined
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.inputInvalidEmail] - undefined
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.INVALID_EMAIL] - undefined
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.INVALID_EMAIL] - undefined
 msgid "Please input a valid email"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.inputEmptyEmail] - undefined
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.inputEmptyEmail] - undefined
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.EMPTY_EMAIL] - undefined
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.EMPTY_EMAIL] - undefined
 msgid "Please input an email"
 msgstr ""
 
@@ -737,14 +761,9 @@ msgstr ""
 msgid "Please input your MediaTek email address"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordSuccessMessage] - undefined
-msgid "Please login with new password."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.message] - undefined
-msgid "Please set a password to complete the registration."
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.description] - undefined
+msgid "Please set a password and the serial number of the band to complete the registration."
 msgstr ""
 
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -774,6 +793,16 @@ msgstr ""
 msgid "Profile Detail"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.duration] - undefined
+msgid "Project Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.objective] - undefined
+msgid "Project Objective"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.REM] - undefined
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
@@ -786,29 +815,19 @@ msgstr ""
 msgid "Recent measurements"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.successMessage] - undefined
-msgid "Registration successful! Please sign in."
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.Remaining] - undefined
 msgid "Remaining"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.sendButton] - undefined
-msgid "Reset Password"
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.submitButton] - undefined
+msgid "Resend the Verification Link"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordFailedTitle] - undefined
-msgid "Reset password failed"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordTimeoutTitle] - undefined
-msgid "Reset password timeout"
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.title] - undefined
+msgid "Reset your password"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -840,19 +859,36 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.sendButton] - undefined
-msgid "Send Email"
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.submitButton] - undefined
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.submitButton] - undefined
+msgid "Save and Continue"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.sendButton] - undefined
-msgid "Send Email Again"
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.submitButton] - undefined
+msgid "Send the Reset Link"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.title] - undefined
-msgid "Set Password"
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.sendingSucceessTitle] - undefined
+msgid "Sending successful, just one step away!"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.serialNumberLabel] - undefined
+msgid "Serial Number"
+msgstr ""
+
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.INVALID_SERIALNUMBER] - undefined
+msgid "Serial number must be 8 characters"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.title] - undefined
+msgid "Set your password and the SN of the band"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -872,6 +908,13 @@ msgstr ""
 msgid "Show More"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/Header.json
+#. [Authentication.Header.signIn] - undefined
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.signInButton] - undefined
+msgid "Sign In"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/Header.json
 #. [landingPage.Header.signInOrCreateAccount] - undefined
 msgid "Sign In / Create Account"
@@ -880,11 +923,6 @@ msgstr ""
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.SignOut] - undefined
 msgid "Sign Out"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.signupSuccessTitle] - undefined
-msgid "Sign up Successful"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -934,6 +972,11 @@ msgstr ""
 msgid "Social Contest"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.submitError] - undefined
+msgid "Something is broken, please try again later."
+msgstr ""
+
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 #. [NotFoundPage.PageNotFound] - undefined
 msgid "Sorry! Page not found."
@@ -944,19 +987,14 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.staySignedInLabel] - undefined
+msgid "Stay signed in"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Step] - undefined
 msgid "Step"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.sendButton] - undefined
-msgid "Submit"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resendEmailVerificationSuccess] - undefined
-msgid "Success"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
@@ -976,9 +1014,31 @@ msgstr ""
 msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5] - undefined
+msgid "The gold band is your employee badge. Do not let other people use it."
+msgstr ""
+
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.tokenInvalid] - undefined
+msgid "The token is invalid."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP1] - undefined
+msgid "There are two versions of employee band, the black one and the gold one.
+                  These two versions of band are both equipped with health related function,
+                  however, {highlight}"
+msgstr ""
+
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Title] - undefined
 msgid "Title"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.objectiveContext] - undefined
+msgid "To test the employee acceptance of wearable badge"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -1012,6 +1072,21 @@ msgstr ""
 msgid "Track daily blood pressure with built-in optical and ECG bio-sensor solutions for a peach of mind."
 msgstr ""
 
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [ActivatePage.serialNumberInconsistent] - undefined
+msgid "Two Serial Numbers must be same"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.passwordInconsistent] - undefined
+msgid "Two passwords must be same"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [ResetPasswordPage.password2Placeholder] - undefined
+msgid "Type again"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 #. [LangingPage.HeartRateContent] - undefined
 msgid "Update your workout data instantly to enjoy brand new exercise experiences."
@@ -1027,14 +1102,29 @@ msgstr ""
 msgid "Use at least 8 alphanumeric characters"
 msgstr ""
 
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.alreadyActivated] - undefined
+msgid "User is already activated."
+msgstr ""
+
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.userNotFound] - undefined
+msgid "User is not found."
+msgstr ""
+
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.userNotFound] - undefined
+msgid "User not found."
+msgstr ""
+
 #: build/messages/src/scripts/containers/Campaign.json
 #. [Campaign.PanelTitle] - undefined
 msgid "Users Eligible for The Drawing"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.linkExpire] - undefined
-msgid "Verification link has expired."
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.title] - undefined
+msgid "Verification link has expired!"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -1053,16 +1143,16 @@ msgstr ""
 msgid "Walk"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/EmailSection.json
-#. [landingPage.EmailSection.policyLine1] - undefined
-msgid "We promise the security and confidentiality of your data."
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 #. [landingPage.SuccessSection.content] - undefined
 msgid "We've received your application for the Health Band,
           please check your email inbox for the confimation email,
           which is sent to {formattedEmail}."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.title] - undefined
+msgid "Wearable Badge Experimental Project"
 msgstr ""
 
 #: build/messages/src/scripts/containers/Leaderboard.json
@@ -1075,6 +1165,11 @@ msgstr ""
 msgid "Weight"
 msgstr ""
 
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.title] - undefined
+msgid "Welcome back! Sign into your account"
+msgstr ""
+
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.WhatDoesTheDataMean] - undefined
 msgid "What does the data mean ?"
@@ -1085,14 +1180,36 @@ msgstr ""
 msgid "Year"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.goldBandLabel] - undefined
+msgid "Yes (Gold band)"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Yesterday] - undefined
 msgid "Yesterday"
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
+msgid "You cannot access the guest room area, additional process needed."
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.goalCompleted] - undefined
 msgid "You have completed the goal!"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
+msgid "Your original badge will be retained."
+msgstr ""
+
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [ForgotPasswordPage.pleaseWait] - undefined
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [ResendEmailVerificationPage.pleaseWait] - undefined
+msgid "Your reset password email has been sent in last 5 minutes. Please wait if you would like to resend a new one."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -1185,6 +1302,11 @@ msgstr ""
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.step] - undefined
 msgid "step"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+#. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight] - undefined
+msgid "the gold band can be additionally served as employee badge."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json

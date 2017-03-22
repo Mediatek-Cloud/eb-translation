@@ -247,7 +247,7 @@ msgstr "深眠期"
 #. [LangingPage.SleepTrackContentLine1] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Detect your sleeping patterns and provide data evaluation."
-msgstr "偵測您的睡眠狀態，提供數據良表/n讓你睡得更好"
+msgstr "偵測您的睡眠狀態，提供數據良表，讓你睡得更好"
 
 #. [BloodPressureChartMeta.Diastolic] - undefined
 #. [BloodPressureTable.Diastolic] - undefined
@@ -501,7 +501,7 @@ msgstr "淺眠期"
 #. [LangingPage.StepsContent] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Link with your corporate ID for a seamless experience ."
-msgstr "結合公司門禁卡功能/n上班更輕鬆"
+msgstr "結合公司門禁卡功能，上班更輕鬆"
 
 #. [LoginForm.loginButton] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -625,7 +625,7 @@ msgstr "說明："
 msgid ""
 "Obtain real-time data from wristband to smartphone and personalized report "
 "through MediaTek Health."
-msgstr "手環與手機數據即時同步/n透過 MediaTek Health 平台獲得個人化報告及建議"
+msgstr "手環與手機數據即時同步，透過 MediaTek Health 平台獲得個人化報告及建議"
 
 #. [ChangePasswordDialog.OldPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -669,7 +669,7 @@ msgstr "密碼重設成功"
 #. [LangingPage.ExerciseContent] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Pay bills using electronic wallet with a wave of your hand."
-msgstr "搭載電子錢包功能/n揮揮手即完成付款"
+msgstr "搭載電子錢包功能，揮揮手即完成付款"
 
 #. [landingPage.ProductOverview.title] - undefined
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
@@ -873,7 +873,7 @@ msgstr "設置密碼"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid ""
 "Share exercise achievements with your network and reach the goals together ."
-msgstr "隨時與朋友連線分享健身成果/n共同努力完成目標"
+msgstr "隨時與朋友連線分享健身成果，共同努力完成目標"
 
 #. [BloodPressureTable.ShowMore] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
@@ -1030,13 +1030,13 @@ msgstr "加總"
 msgid ""
 "Track daily blood pressure with built-in optical and ECG bio-sensor "
 "solutions for a peach of mind."
-msgstr "內件光學與心電式生物傳感器/n輕鬆量測血壓，健康每一天"
+msgstr "內件光學與心電式生物傳感器，輕鬆量測血壓，健康每一天"
 
 #. [LangingPage.HeartRateContent] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid ""
 "Update your workout data instantly to enjoy brand new exercise experiences."
-msgstr "即時更新您的健康數據/n全新的運動體驗"
+msgstr "即時更新您的健康數據，全新的運動體驗"
 
 #. [ProfilePhoto.UploadPicture] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json

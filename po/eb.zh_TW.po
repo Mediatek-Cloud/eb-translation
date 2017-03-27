@@ -755,7 +755,7 @@ msgstr "我的排行"
 #. [LangingPage.not] - undefined
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 msgid "NOT"
-msgstr "不"
+msgstr "不會"
 
 #. [ChangePasswordDialog.NewPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json

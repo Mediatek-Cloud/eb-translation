@@ -534,7 +534,7 @@ msgstr "心率 > (220-年齡)x90%"
 #. [LangingPage.HeartRateTitle] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
-msgstr "心率，計步，卡路里"
+msgstr "心率　計步　卡路里"
 
 #. [ProfileForm.HeightLabel] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -577,7 +577,7 @@ msgstr "馬上加入"
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
 msgid "JOIN NOW!"
-msgstr "馬上加入！"
+msgstr "馬上加入"
 
 #. [landingPage.EmailSection.title] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json

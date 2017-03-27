@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-27T04:22:02.635Z\n"
+"POT-Creation-Date: 2017-03-27T06:48:21.677Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -10,6 +10,11 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.EfficiencyFormula] - undefined
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+#. [LangingPage.StepsContentL2] - undefined
+msgid "* Taipei Office only"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -627,8 +632,8 @@ msgid "Light"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
-#. [LangingPage.StepsContent] - undefined
-msgid "Link with your corporate ID for a seamless experience.  * Taipei Office only"
+#. [LangingPage.StepsContentL1] - undefined
+msgid "Link with your corporate ID for a seamless experience."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json

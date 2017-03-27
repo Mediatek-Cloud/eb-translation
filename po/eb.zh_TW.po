@@ -297,7 +297,7 @@ msgstr "描述"
 #. [LangingPage.SleepTrackContentLine1] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Detect your sleeping patterns and provide data evaluation."
-msgstr "偵測您的睡眠狀態，提供數據量表，讓你睡得更好"
+msgstr "偵測您的睡眠狀態，提供數據量表，讓您睡得更好"
 
 #. [BloodPressureChartMeta.Diastolic] - undefined
 #. [BloodPressureTable.Diastolic] - undefined
@@ -1341,7 +1341,7 @@ msgid ""
 "however, {highlight}"
 msgstr ""
 "員工手環分為兩種版本，聯發金手環與黑手環。兩種都具備健康相關功能，但"
-"{highlight}。"
+"{highlight}"
 
 #. [SleepReportList.Title] - undefined
 #: build/messages/src/scripts/containers/SleepReportList.json

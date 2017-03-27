@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-27T03:40:46.473Z\n"
+"POT-Creation-Date: 2017-03-27T04:22:02.635Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -84,8 +84,14 @@ msgstr "有氧運動"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "After the experimental project ends (3 month), you will get your original "
-"badge back"
-msgstr "三個月實驗結束後，您將可以取回員工識別證。"
+"badge back. You can keep your gold band as it will be no longer has the "
+"badge function, and you can still use the health related function. We would "
+"like to collect your feedback joining the wearable badge project, please let "
+"us know if you have any suggestion or thought. Thank you!"
+msgstr ""
+"三個月實驗結束後，您將可以取回原員工識別證，且仍保有聯發金手環，但手環的識別"
+"證功能將會解除，僅保留健康相關功能。也請同仁配合實驗後續的追蹤與資料收集，非"
+"常感謝！"
 
 #. [LangingPage.PrivacyContent1] - undefined
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
@@ -329,8 +335,10 @@ msgstr "活動為實驗性質，可能無法使用特約廠商優惠。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "Due to the project is a small scale experimental project"
-msgstr "目前本計畫為小規模實驗，"
+msgid ""
+"Due to the project is a small scale experimental project, only employee in "
+"Taipei office can apply the gold band."
+msgstr "目前本計畫為小規模實驗，故先僅以台北辦公室做為金手環之實驗場域。"
 
 #. [ExericsePanel.Duration] - undefined
 #. [ExerciseMetaDetails.Duration] - undefined
@@ -438,8 +446,13 @@ msgstr "檔案大小超過 512kB"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line4] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "For gold band user, if you need your badge for travelling need"
-msgstr "同仁如需前往非台北地區辦公室（包含新竹／竹北／海外），"
+msgid ""
+"For gold band user, if you need your badge for travelling need, please "
+"contact the central control room or front desk to take back your badge and "
+"get back your gold band after return to Taipei office."
+msgstr ""
+"使用金手環同仁如需前往非台北地區辦公室（包含新竹／竹北／海外），請先至櫃檯以"
+"手環換回識別證，並於返回後再次交換。"
 
 #. [LoginForm.forgotpasswordLink] - undefined
 #. [LoginPage.forgotpasswordLink] - undefined
@@ -557,8 +570,10 @@ msgstr "新竹"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "If you lost your gold band, for security reason, your old badge will made "
-"invalid"
-msgstr "若同仁遺失金手環，原識別證將一起作廢以取消權限。"
+"invalid. Additional $200 will be charged to make your new badge."
+msgstr ""
+"若同仁遺失金手環，原識別證將一起作廢以取消權限，並收取 200 元工本費製作新識別"
+"證。"
 
 #. [LoginPage.combinationInvalid] - undefined
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -1291,8 +1306,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "The gold band is your employee badge, you can use it to access the taipei "
-"office area"
-msgstr "金手環視同員工識別證，但門禁功能目前僅限於台北辦公區域。"
+"office area; and be identified as an MediaTek employee. However, it has the "
+"following limitations:"
+msgstr ""
+"聯發金手環視同員工識別證，具備台北辦公區域門禁功能、刷餐功能以及員工識別功"
+"能。但同時也有以下限制："
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1317,8 +1335,13 @@ msgstr "此連結所帶之識別碼無效。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP1] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "There are two versions of employee band, the black one and the gold one"
-msgstr "員工手環分為兩種版本，聯發金手環和黑手環。"
+msgid ""
+"There are two versions of employee band, the black one and the gold one. "
+"These two versions of band are both equipped with health related function, "
+"however, {highlight}"
+msgstr ""
+"員工手環分為兩種版本，聯發金手環與黑手環。兩種都具備健康相關功能，但"
+"{highlight}。"
 
 #. [SleepReportList.Title] - undefined
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -1617,12 +1640,37 @@ msgstr "步"
 #. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
-msgstr "金手環同時被視為您的員工識別證。"
+msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 
 #. [landingPage.Footer.Copyrights] - undefined
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid ""
+#~ "After the experimental project ends (3 month), you will get your original "
+#~ "badge back"
+#~ msgstr "三個月實驗結束後，您將可以取回員工識別證。"
+
+#~ msgid "Due to the project is a small scale experimental project"
+#~ msgstr "目前本計畫為小規模實驗，"
+
+#~ msgid "For gold band user, if you need your badge for travelling need"
+#~ msgstr "同仁如需前往非台北地區辦公室（包含新竹／竹北／海外），"
+
+#~ msgid ""
+#~ "If you lost your gold band, for security reason, your old badge will made "
+#~ "invalid"
+#~ msgstr "若同仁遺失金手環，原識別證將一起作廢以取消權限。"
+
+#~ msgid ""
+#~ "The gold band is your employee badge, you can use it to access the taipei "
+#~ "office area"
+#~ msgstr "金手環視同員工識別證，但門禁功能目前僅限於台北辦公區域。"
+
+#~ msgid ""
+#~ "There are two versions of employee band, the black one and the gold one"
+#~ msgstr "員工手環分為兩種版本，聯發金手環和黑手環。"
 
 #~ msgid "About MTK Health"
 #~ msgstr "關於 MediaTek Health"

@@ -313,7 +313,7 @@ msgstr "已經有帳號了嗎？"
 #. [landingPage.EmailSection.bandPrefernceTitle] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Do you also want to join the wearable badge experimental project ?"
-msgstr "您是否願意額外參予穿戴式識別證實驗計畫呢？"
+msgstr "您是否願意額外參與穿戴式識別證實驗計畫呢？"
 
 #. [LoginForm.noAccountMessage] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -582,7 +582,7 @@ msgstr "馬上加入！"
 #. [landingPage.EmailSection.title] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Join MediaTek Health and get a band now!"
-msgstr "參予 MediaTek Health 計畫並申請手環！"
+msgstr "參與 MediaTek Health 計畫並申請手環！"
 
 #. [Authentication.Header.joinNow] - undefined
 #: build/messages/src/scripts/components/authentication/Header.json

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-17T02:33:04.940Z\n"
+"POT-Creation-Date: 2017-03-27T03:40:46.473Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -23,13 +23,15 @@ msgid "3 months"
 msgstr "三個月"
 
 #. [ActivatePage.serialNumberPlaceholder] - undefined
+#. [ResetSerialNumberPage.serialNumberPlaceholder] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "8 Characters"
 msgstr "8 個字元。"
 
 #. [landingPage.Footer.about] - undefined
 #: build/messages/src/scripts/components/landingPage/Footer.json
-msgid "About MTK Health"
+msgid "About MediaTek Health"
 msgstr "關於 MediaTek Health"
 
 #. [AccountSetting.Account] - undefined
@@ -37,12 +39,25 @@ msgstr "關於 MediaTek Health"
 msgid "Account"
 msgstr "帳號"
 
-#. [Header.AccountSetting] - undefined
 #. [AccountSetting.AccountSetting] - undefined
-#: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Account Setting"
 msgstr "帳號設定"
+
+#. [AuthPage.activateAccountSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Account has been activated"
+msgstr "帳號已啟用"
+
+#. [EmailVerification.title] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Activate Your Account"
+msgstr "啟用您的帳號"
+
+#. [AuthPage.activateAccountSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Activate successfully"
+msgstr "啟用成功"
 
 #. [personalReport.Activeness.Activity] - undefined
 #: build/messages/src/scripts/components/personalReport/Activeness.json
@@ -54,9 +69,11 @@ msgstr "活動"
 msgid "Additional"
 msgstr "其他"
 
+#. [ActivityTypeOverlay.Aerobics] - undefined
 #. [ExerciseMetaDetails.Aerobics] - undefined
 #. [ActivityTypeOverlay.Aerobics] - undefined
 #. [ExerciseMetaDetails.Aerobics] - undefined
+#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
@@ -121,6 +138,20 @@ msgstr "清醒："
 msgid "BMR"
 msgstr "BMR"
 
+#. [AuthPage.cancelButton] - undefined
+#. [ForgotPassword.cancelButton] - undefined
+#. [ResetPassword.cancelButton] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Back"
+msgstr "返回"
+
+#. [AuthPage.defaultMessageTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Back to login page"
+msgstr "返回登入頁面"
+
 #. [NotFoundPage.BackToLastPage] - undefined
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 msgid "Back to the last page"
@@ -132,6 +163,8 @@ msgid "Bad"
 msgstr "差"
 
 #. [ActivityTypeOverlay.Bike] - undefined
+#. [ActivityTypeOverlay.Bike] - undefined
+#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 msgid "Bike"
 msgstr "腳踏車"
@@ -158,8 +191,9 @@ msgstr "血壓量測"
 
 #. [landingPage.EmailSection.policyLine2] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "By clicking on SUBMIT, I agree to MTK Health's {terms} and {policy}."
-msgstr "點擊送出，即表示您同意 MTK Health 的 {terms} 與 {policy}。"
+msgid ""
+"By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}."
+msgstr "點擊送出，即代表您同意  MediaTek Health 的{terms}與{policy}。"
 
 #. [ContactUsButton] - undefined
 #: build/messages/src/scripts/components/common/ContactUsButton.json
@@ -183,7 +217,9 @@ msgid "Calorie Burned"
 msgstr "卡路里燃燒"
 
 #. [ChangePasswordDialog.cancelButton] - undefined
+#. [EmailVerification.cancelButton] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Cancel"
 msgstr "取消"
 
@@ -192,17 +228,20 @@ msgstr "取消"
 msgid "Change Password"
 msgstr "變更密碼"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP2] - undefined
-#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid ""
-"Choosing the gold band means you agree to additionally join the wearable "
-"badge experimental project"
-msgstr "選擇聯發金手環，即表示您同意額外參予本穿戴式識別證實驗計畫。"
+#. [AuthPage.defaultMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Click on the button below to go back."
+msgstr "點擊下方按鈕返回"
 
 #. [ResetPasswordPage.password2Label] - undefined
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Confirm New Password"
 msgstr "請再輸入一次密碼"
+
+#. [ResetSerialNumberPage.serialNumber2Label] - undefined
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Confirm New Serial Number"
+msgstr "請再輸入一次新的手環序號"
 
 #. [ChangePasswordDialog.ConfirmPassowrd] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -214,16 +253,6 @@ msgstr "確認密碼"
 msgid "Confirm Serial Number"
 msgstr "請再輸入一次序號"
 
-#. [Header.ContactUs] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-msgid "Contact Us"
-msgstr "聯繫我們"
-
-#. [Header.Report] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-msgid "Daily Activity"
-msgstr "每日活動"
-
 #. [StepPanel.DailyAvg] - undefined
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Daily avg."
@@ -233,7 +262,7 @@ msgstr "每日平均"
 #. [SleepReportList.Dashboard] - undefined
 #. [ExercisePage.Dashboard] - undefined
 #. [SleepReportList.Dashboard] - undefined
-#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/landingPage/Header.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -247,7 +276,9 @@ msgstr "日"
 
 #. [SleepStagePanel.Deep] - undefined
 #. [SleepStageMessages.Deep] - undefined
+#. [SleepStageMessages.Deep] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
 msgstr "深眠期"
@@ -284,12 +315,22 @@ msgstr "已經有帳號了嗎？"
 msgid "Do you also want to join the wearable badge experimental project ?"
 msgstr "您是否願意額外參予穿戴式識別證實驗計畫呢？"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3] - undefined
+#. [LoginForm.noAccountMessage] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Don't have an account?"
+msgstr "還沒有帳號嗎？"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "Due to it is an experimental project, you might not be able to get the "
 "discount in cooperative shop."
 msgstr "活動為實驗性質，可能無法使用特約廠商優惠。"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Due to the project is a small scale experimental project"
+msgstr "目前本計畫為小規模實驗，"
 
 #. [ExericsePanel.Duration] - undefined
 #. [ExerciseMetaDetails.Duration] - undefined
@@ -310,16 +351,28 @@ msgstr "天天量血壓　健康一手掌握"
 msgid "Efficiency"
 msgstr "效率"
 
+#. [LoginForm.emailPlaceholder] - undefined
 #. [landingPage.EmailSection.label] - undefined
 #. [ForgotPasswordPage.emailLabel] - undefined
 #. [ResendEmailVerificationPage.emailLabel] - undefined
 #. [LoginPage.emailLabel] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Email"
 msgstr "電子郵件"
+
+#. [LoginForm.invalidUsernameOrPassword] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Email or password incorrect"
+msgstr "電子郵件或密碼不正確"
+
+#. [ResetPassword.password2Placeholder] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Enter new password again"
+msgstr "請再輸入一次密碼"
 
 #. [ForgotPasswordPage.emailPlaceholder] - undefined
 #. [ResendEmailVerificationPage.emailPlaceholder] - undefined
@@ -335,12 +388,16 @@ msgstr "例如：abc123@mediatek.com"
 #. [Indication.Exercise] - undefined
 #. [StepPanel.Exercise] - undefined
 #. [ActivityTypeOverlay.Exercise] - undefined
+#. [ExercisePanelList.Exercise] - undefined
+#. [ActivityTypeOverlay.Exercise] - undefined
 #. [Indication.Exercise] - undefined
 #. [ExercisePage.Exercise] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
+#: build/messages/src/scripts/components/exercise/ExercisePanelList.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/containers/ExercisePage.json
@@ -381,13 +438,20 @@ msgstr "檔案大小超過 512kB"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line4] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "For gold band user, if you need your badge for business trip"
-msgstr "金手環使用者，如您因出差原由需要取回識別證"
+msgid "For gold band user, if you need your badge for travelling need"
+msgstr "同仁如需前往非台北地區辦公室（包含新竹／竹北／海外），"
 
+#. [LoginForm.forgotpasswordLink] - undefined
 #. [LoginPage.forgotpasswordLink] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Forgot Your Password?"
 msgstr "忘了密碼？"
+
+#. [ForgotPassword.title] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid "Forgot password"
+msgstr "忘記密碼"
 
 #. [ForgotPasswordPage.title] - undefined
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -478,22 +542,38 @@ msgid "Height"
 msgstr "身高"
 
 #. [Header.Help] - undefined
+#. [landingPage.Header.Help] - undefined
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Help"
 msgstr "幫助"
 
+#. [landingPage.EmailSection.hsinchu] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Hsinchu"
+msgstr "新竹"
+
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line6] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "If you lost your gold band, for security reason"
-msgstr "遺失金手環等同遺失識別證，為了確保安全"
+msgid ""
+"If you lost your gold band, for security reason, your old badge will made "
+"invalid"
+msgstr "若同仁遺失金手環，原識別證將一起作廢以取消權限。"
 
 #. [LoginPage.combinationInvalid] - undefined
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Invalid combination. Please try again"
 msgstr "帳號或密碼錯誤，請再試一次。"
 
+#. [Header.JoinNow] - undefined
+#: build/messages/src/scripts/components/common/Header.json
+msgid "JOIN NOW"
+msgstr "馬上加入"
+
+#. [LoginForm.signupLink] - undefined
 #. [landingPage.QuestionnaireSection.submitButton] - undefined
 #. [landingPage.VideoJumbo.button] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
 msgid "JOIN NOW!"
@@ -529,8 +609,8 @@ msgstr "上一周"
 msgid "Latest"
 msgstr "最新"
 
-#. [Header.Leaderboard] - undefined
-#: build/messages/src/scripts/components/common/Header.json
+#. [landingPage.Header.Leaderboard] - undefined
+#: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Leaderboard"
 msgstr "排行榜"
 
@@ -555,30 +635,33 @@ msgstr "法律聲明"
 
 #. [SleepStagePanel.Light] - undefined
 #. [SleepStageMessages.Light] - undefined
+#. [SleepStageMessages.Light] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Light"
 msgstr "淺眠期"
 
 #. [LangingPage.StepsContent] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "Link with your corporate ID for a seamless experience ."
-msgstr "結合公司門禁卡功能，上班更輕鬆"
+msgid ""
+"Link with your corporate ID for a seamless experience.  * Taipei Office only"
+msgstr "結合公司門禁卡功能，上班更輕鬆  * 目前此功能僅限台北辦公室"
 
-#. [Header.Logout] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-msgid "Logout"
-msgstr "登出"
+#. [LoginForm.loginButton] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Log In"
+msgstr "登入"
 
-#. [landingPage.Footer.policy] - undefined
-#: build/messages/src/scripts/components/landingPage/Footer.json
-msgid "MTK Health Privacy Policy"
-msgstr "MTK Health 隱私條款"
+#. [LoginForm.login] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Login"
+msgstr "登入"
 
-#. [landingPage.Footer.terms] - undefined
-#: build/messages/src/scripts/components/landingPage/Footer.json
-msgid "MTK Health Terms & Conditions"
-msgstr "MTK Health 使用條款"
+#. [AuthPage.mailSentTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Mail has been sent."
+msgstr "郵件已寄送"
 
 #. [GenderSelect.male] - undefined
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
@@ -595,20 +678,39 @@ msgstr "最大值"
 msgid "Measured time"
 msgstr "量測時間"
 
+#. [ForgotPassword.emailPlaceholder] - undefined
+#. [EmailVerification.emailPlaceholder] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "MediaTek Email"
+msgstr "聯發科技電子郵件地址"
+
+#. [landingPage.Footer.policy] - undefined
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MediaTek Health Privacy Policy"
+msgstr "MediaTek Health 隱私條款"
+
+#. [landingPage.Footer.terms] - undefined
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MediaTek Health Terms & Conditions"
+msgstr "MediaTek Health 使用條款"
+
+#. [Layout.MediaTekIncAllRightReserved] - undefined
 #. [Layout.MediaTekIncAllRightReserved] - undefined
 #: build/messages/src/scripts/components/common/Footer.json
+#: build/messages/src/scripts/containers/Layout.json
 msgid "MediaTek Inc. All Rights Reserved."
 msgstr "MediaTek Inc. All Rights Reserved."
+
+#. [landingPage.ProjectIntroDialog.subjectContext] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "MediaTek employees in Taipei office"
+msgstr "聯發科技台北辦公室同仁"
 
 #. [HeartRateChart.Min] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Min"
 msgstr "最小值"
-
-#. [LangingPage.ExerciseTitle] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "Mobile Payment on The Go"
-msgstr "行動支付　戴著走"
 
 #. [ProfileForm.Month] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -649,6 +751,16 @@ msgstr "新密碼"
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "New Password"
 msgstr "新密碼"
+
+#. [ResetSerialNumberPage.serialNumberLabel] - undefined
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "New Serial Number"
+msgstr "新的手環序號"
+
+#. [ResetPassword.passwordPlaceholder] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "New password (at least 8 words)"
+msgstr "新密碼（最少八個字元）"
 
 #. [WeekPaginator.NextWeek] - undefined
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
@@ -692,9 +804,11 @@ msgstr "舊密碼"
 msgid "Oops! Looks like something broke."
 msgstr "噢！看起來發生了些錯誤。"
 
+#. [LoginForm.passwordPlaceholder] - undefined
 #. [AccountSetting.Password] - undefined
 #. [ActivatePage.passwordLabel] - undefined
 #. [LoginPage.passwordLabel] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -711,15 +825,37 @@ msgstr "密碼至少要有八個字元"
 msgid "Password must be at least 8 characters"
 msgstr "密碼需要至少 8 個字元。"
 
-#. [LangingPage.ExerciseContent] - undefined
-#: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid "Pay bills using electronic wallet with a wave of your hand."
-msgstr "搭載電子錢包功能，揮揮手即完成付款"
+#. [ResetPassword.inputPasswordsInconsist] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Password must be same as above"
+msgstr "密碼不一致"
+
+#. [ActivateAccount.inputInvalidPassword] - undefined
+#. [ResetPassword.inputInvalidPassword] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Password must have at least 8 characters."
+msgstr "密碼需要至少八個字元"
+
+#. [AuthPage.resetPasswordSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Password reset successfully"
+msgstr "密碼重設成功"
 
 #. [landingPage.ProductOverview.title] - undefined
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 msgid "Personalized Data"
 msgstr "個人化數據"
+
+#. [AuthPage.mailSentMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check you email and reset your password."
+msgstr "請查看您的信箱郵件以重設密碼"
+
+#. [AuthPage.resendEmailVerificationSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check your email inbox for registration verification mail."
+msgstr "請查看您的信箱郵件以確認註冊"
 
 #. [LoginPage.sendEmailSuccessDescription] - undefined
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -727,6 +863,16 @@ msgid ""
 "Please check your email inbox for the verification email, which is sent to "
 "{email}"
 msgstr "請至您的 {email} 郵箱收取重設密碼郵件。"
+
+#. [AuthPage.signupMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please check your email inbox to activate your account."
+msgstr "請查看您的信箱郵件以激活帳號"
+
+#. [AuthPage.resetPasswordFailedMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please click on 'forgot password' again to request another email."
+msgstr "請再次點擊忘記密碼來取得另一封郵件。"
 
 #. [ChangePasswordDialog.ConfirmPassowrdPlaceholder] - undefined
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
@@ -738,12 +884,18 @@ msgstr "請再輸入一次新密碼"
 msgid "Please enter old password"
 msgstr "請輸入舊密碼"
 
+#. [ActivateAccount.inputEmptyPassword] - undefined
+#. [ResetPassword.inputEmptyPassword] - undefined
 #. [emailPasswordValidator.EMPTY_PASSWORD] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please enter password"
 msgstr "請輸入密碼"
 
+#. [EmailVerification.message] - undefined
 #. [ResendEmailVerificationPage.description] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid ""
 "Please enter your email and we will resend the verification link to you."
@@ -756,15 +908,30 @@ msgid ""
 "password."
 msgstr "請輸入您的電子郵件，我們會發送重設密碼信件給您。"
 
+#. [ForgotPassword.messge] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid ""
+"Please fill in your email address, and check your inbox for further "
+"information."
+msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用郵件通知您。"
+
+#. [ForgotPassword.inputInvalidEmail] - undefined
+#. [EmailVerification.inputInvalidEmail] - undefined
 #. [emailPasswordValidator.INVALID_EMAIL] - undefined
 #. [validator.INVALID_EMAIL] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #: build/messages/src/scripts/utils/validator.json
 msgid "Please input a valid email"
 msgstr "請輸入正確的郵件地址"
 
+#. [ForgotPassword.inputEmptyEmail] - undefined
+#. [EmailVerification.inputEmptyEmail] - undefined
 #. [emailPasswordValidator.EMPTY_EMAIL] - undefined
 #. [validator.EMPTY_EMAIL] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #: build/messages/src/scripts/utils/validator.json
 msgid "Please input an email"
@@ -775,12 +942,24 @@ msgstr "請輸入郵件地址"
 msgid "Please input your MediaTek email address"
 msgstr "請輸入您的聯發科技電子郵件地址"
 
+#. [AuthPage.resetPasswordSuccessMessage] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Please login with new password."
+msgstr "請使用新密碼登入"
+
 #. [ActivatePage.description] - undefined
+#. [ResetSerialNumberPage.description] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid ""
 "Please set a password and the serial number of the band to complete the "
 "registration."
 msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
+
+#. [ActivateAccount.message] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Please set a password to complete the registration."
+msgstr "請輸入密碼來完成註冊流程。"
 
 #. [EfficiencyIndicator.Poor] - undefined
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -819,9 +998,16 @@ msgstr "時驗時間"
 msgid "Project Objective"
 msgstr "實驗目的"
 
+#. [landingPage.ProjectIntroDialog.subject] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Project Subjects"
+msgstr "實驗對象"
+
 #. [SleepStagePanel.REM] - undefined
 #. [SleepStageMessages.REM] - undefined
+#. [SleepStageMessages.REM] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "REM"
 msgstr "REM"
@@ -830,6 +1016,11 @@ msgstr "REM"
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Recent measurements"
 msgstr "近期量測紀錄"
+
+#. [LoginForm.successMessage] - undefined
+#: build/messages/src/scripts/components/authentication/LoginForm.json
+msgid "Registration successful! Please sign in."
+msgstr "註冊成功！請登入。"
 
 #. [CalorieChart.Remaining] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -841,19 +1032,45 @@ msgstr "剩餘"
 msgid "Resend the Verification Link"
 msgstr "重新發送帳號認證信"
 
+#. [ResetPassword.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResetPassword.json
+msgid "Reset Password"
+msgstr "重設密碼"
+
+#. [AuthPage.resetPasswordFailedTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Reset password failed"
+msgstr "重設密碼失敗"
+
+#. [AuthPage.resetPasswordTimeoutTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Reset password timeout"
+msgstr "密碼重設逾期"
+
 #. [ResetPasswordPage.title] - undefined
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Reset your password"
 msgstr "重設密碼"
 
+#. [ResetSerialNumberPage.title] - undefined
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Reset your serial number of the band"
+msgstr "重設手環序號"
+
 #. [SleepStagePanel.Restless] - undefined
 #. [SleepStageMessages.Restless] - undefined
+#. [SleepStageMessages.Restless] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Restless"
 msgstr "不寧"
 
+#. [StepChart.Run] - undefined
 #. [ActivityTypeOverlay.Run] - undefined
+#. [ActivityTypeOverlay.Run] - undefined
+#: build/messages/src/scripts/components/common/StepChart.json
+#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 msgid "Run"
 msgstr "跑"
@@ -877,10 +1094,22 @@ msgstr "儲存"
 
 #. [ActivatePage.submitButton] - undefined
 #. [ResetPasswordPage.submitButton] - undefined
+#. [ResetSerialNumberPage.submitButton] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Save and Continue"
 msgstr "儲存並繼續"
+
+#. [ForgotPassword.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ForgotPassword.json
+msgid "Send Email"
+msgstr "寄送電子郵件"
+
+#. [EmailVerification.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Send Email Again"
+msgstr "再次寄送電子郵件"
 
 #. [ForgotPasswordPage.submitButton] - undefined
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -901,6 +1130,11 @@ msgstr "序號"
 #: build/messages/src/scripts/utils/validator.json
 msgid "Serial number must be 8 characters"
 msgstr "序號需為 8 個字元。"
+
+#. [ActivateAccount.title] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Set Password"
+msgstr "設置密碼"
 
 #. [ActivatePage.title] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -933,18 +1167,20 @@ msgid "Sign In"
 msgstr "登入"
 
 #. [landingPage.Header.signInOrCreateAccount] - undefined
-#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Sign In / Create Account"
 msgstr "登入 / 建立帳戶"
 
-#. [Header.SignOut] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-msgid "Sign Out"
-msgstr "登出"
+#. [AuthPage.signupSuccessTitle] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Sign up Successful"
+msgstr "登入成功"
 
 #. [SleepStagePanel.Sleep] - undefined
 #. [SleepStageMessages.Sleep] - undefined
+#. [SleepStageMessages.Sleep] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Sleep"
 msgstr "睡眠"
@@ -1000,6 +1236,8 @@ msgid "Sorry! Page not found."
 msgstr "抱歉！找不到此頁面。"
 
 #. [ExerciseChart.Start] - undefined
+#. [ExerciseChart.Start] - undefined
+#: build/messages/src/scripts/components/exercise/ExerciseChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 msgid "Start"
 msgstr "開始"
@@ -1014,12 +1252,27 @@ msgstr "保持登入狀態"
 msgid "Step"
 msgstr "步數"
 
+#. [ActivateAccount.sendButton] - undefined
+#: build/messages/src/scripts/components/authentication/ActivateAccount.json
+msgid "Submit"
+msgstr "送出"
+
+#. [AuthPage.resendEmailVerificationSuccess] - undefined
+#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
+msgid "Success"
+msgstr "成功"
+
 #. [BloodPressureChartMeta.Systolic] - undefined
 #. [BloodPressureTable.Systolic] - undefined
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Systolic"
 msgstr "收縮壓"
+
+#. [landingPage.EmailSection.taipei] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Taipei"
+msgstr "台北"
 
 #. [landingPage.EmailSection.terms] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
@@ -1034,10 +1287,28 @@ msgid ""
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP2] - undefined
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"The gold band is your employee badge, you can use it to access the taipei "
+"office area"
+msgstr "金手環視同員工識別證，但門禁功能目前僅限於台北辦公區域。"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "The gold band is your employee badge. Do not let other people use it."
-msgstr "金手環是同識別證，限本人使用，嚴禁外借他人。"
+msgstr "金手環視同員工識別證，限本人使用，嚴禁外借他人。"
+
+#. [ResetSerialNumberPage.serialNumberInvalid] - undefined
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "The serial number is malformatted."
+msgstr "手環序號格式錯誤。"
+
+#. [ResetSerialNumberPage.tokenInvalid] - undefined
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid ""
+"The token is expired. Please contact us to resend a new resetting email."
+msgstr "連結中的認證碼過期，請聯繫我們已取得新的重設連結。"
 
 #. [ResetPasswordPage.tokenInvalid] - undefined
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
@@ -1056,8 +1327,8 @@ msgstr "名稱"
 
 #. [landingPage.ProjectIntroDialog.objectiveContext] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "To test the employee acceptance of wearable badge"
-msgstr "測試員工對健康穿戴式識別證接受度"
+msgid "To test the employee reactions and experiences of wearable badge"
+msgstr "測試員工對健康穿戴式識別證的反應與感受"
 
 #. [CalorieChart.Today] - undefined
 #. [ExercisePanel.Today] - undefined
@@ -1093,7 +1364,9 @@ msgid ""
 msgstr "內件光學與心電式生物傳感器，輕鬆量測血壓，健康每一天"
 
 #. [ActivatePage.serialNumberInconsistent] - undefined
+#. [ResetSerialNumberPage.serialNumberInconsistent] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Two Serial Numbers must be same"
 msgstr "兩次輸入的序號不一致"
 
@@ -1148,16 +1421,25 @@ msgstr "可參加抽獎名單"
 msgid "Verification link has expired!"
 msgstr "認證連結已過期"
 
+#. [EmailVerification.linkExpire] - undefined
+#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
+msgid "Verification link has expired."
+msgstr "認證連結過期"
+
 #. [SleepStagePanel.Wake] - undefined
 #. [SleepStageMessages.Wake] - undefined
+#. [SleepStageMessages.Wake] - undefined
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Wake"
 msgstr "清醒"
 
+#. [StepChart.Walk] - undefined
 #. [Indication.Walk] - undefined
 #. [StepPanel.Walk] - undefined
 #. [Indication.Walk] - undefined
+#: build/messages/src/scripts/components/common/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
@@ -1194,6 +1476,11 @@ msgstr "歡迎回來！請登入您的帳戶"
 msgid "What does the data mean ?"
 msgstr "這些資料代表什麼意思呢？"
 
+#. [landingPage.EmailSection.officePlaceTitle] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Where is your office place ?"
+msgstr "您的辦公室位置？"
+
 #. [ProfileForm.Year] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Year"
@@ -1209,20 +1496,15 @@ msgstr "是（金手環）"
 msgid "Yesterday"
 msgstr "昨天"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
-#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "You cannot access the guest room area, additional process needed."
-msgstr "無法等同客房門禁卡，需人工辦理臨時卡。"
-
 #. [CalorieChart.goalCompleted] - undefined
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "You have completed the goal!"
 msgstr "您的目標已達成！"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
-msgid "Your original badge will be retained."
-msgstr "您的員工識別證將被妥善保管。"
+msgid "Your original badge will be retained in Taipei front desk."
+msgstr "實驗期間需請同仁配合將原識別證繳回給台北櫃檯。"
 
 #. [ForgotPasswordPage.pleaseWait] - undefined
 #. [ResendEmailVerificationPage.pleaseWait] - undefined
@@ -1249,7 +1531,9 @@ msgid "bmp"
 msgstr "bmp"
 
 #. [HeartRateChart.Bpm] - undefined
+#. [personalReport.HeartRateChart.bpm] - undefined
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
 msgid "bpm"
 msgstr "bpm"
 
@@ -1257,6 +1541,11 @@ msgstr "bpm"
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 msgid "bpm/min"
 msgstr "bpm/min"
+
+#. [personalReport.CalorieChart.cal] - undefined
+#: build/messages/src/scripts/components/personalReport/CalorieChart.json
+msgid "cal"
+msgstr "cal"
 
 #. [ExericsePanel.H] - undefined
 #. [SleepReportDetails.H] - undefined
@@ -1335,118 +1624,61 @@ msgstr "金手環同時被視為您的員工識別證。"
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
-#~ msgid "Account has been activated"
-#~ msgstr "帳號已啟用"
+#~ msgid "About MTK Health"
+#~ msgstr "關於 MediaTek Health"
 
-#~ msgid "Activate Your Account"
-#~ msgstr "啟用您的帳號"
+#~ msgid "By clicking on SUBMIT, I agree to MTK Health's {terms} and {policy}."
+#~ msgstr "點擊送出，即表示您同意 MTK Health 的 {terms} 與 {policy}。"
 
-#~ msgid "Activate successfully"
-#~ msgstr "啟用成功"
+#~ msgid ""
+#~ "Choosing the gold band means you agree to additionally join the wearable "
+#~ "badge experimental project"
+#~ msgstr "選擇聯發金手環，即表示您同意額外參予本穿戴式識別證實驗計畫。"
 
-#~ msgid "Back"
-#~ msgstr "返回"
+#~ msgid "Contact Us"
+#~ msgstr "聯繫我們"
 
-#~ msgid "Back to login page"
-#~ msgstr "返回登入頁面"
+#~ msgid "Daily Activity"
+#~ msgstr "每日活動"
+
+#~ msgid "For gold band user, if you need your badge for business trip"
+#~ msgstr "金手環使用者，如您因出差原由需要取回識別證"
+
+#~ msgid "If you lost your gold band, for security reason"
+#~ msgstr "遺失金手環等同遺失識別證，為了確保安全"
+
+#~ msgid "Link with your corporate ID for a seamless experience ."
+#~ msgstr "結合公司門禁卡功能，上班更輕鬆"
+
+#~ msgid "Logout"
+#~ msgstr "登出"
+
+#~ msgid "MTK Health Privacy Policy"
+#~ msgstr "MTK Health 隱私條款"
+
+#~ msgid "MTK Health Terms & Conditions"
+#~ msgstr "MTK Health 使用條款"
+
+#~ msgid "Mobile Payment on The Go"
+#~ msgstr "行動支付　戴著走"
+
+#~ msgid "Pay bills using electronic wallet with a wave of your hand."
+#~ msgstr "搭載電子錢包功能，揮揮手即完成付款"
+
+#~ msgid "Sign Out"
+#~ msgstr "登出"
+
+#~ msgid "To test the employee acceptance of wearable badge"
+#~ msgstr "測試員工對健康穿戴式識別證接受度"
+
+#~ msgid "You cannot access the guest room area, additional process needed."
+#~ msgstr "無法等同客房門禁卡，需人工辦理臨時卡。"
+
+#~ msgid "Your original badge will be retained."
+#~ msgstr "您的員工識別證將被妥善保管。"
 
 #~ msgid "By clicking on SUBMIT, you agree to the {terms} and {policy}."
 #~ msgstr "點擊送出，即代表您同意{terms} 和{policy}。"
-
-#~ msgid "Click on the button below to go back."
-#~ msgstr "點擊下方按鈕返回"
-
-#~ msgid "Don't have an account?"
-#~ msgstr "還沒有帳號嗎？"
-
-#~ msgid "Email or password incorrect"
-#~ msgstr "電子郵件或密碼不正確"
-
-#~ msgid "Enter new password again"
-#~ msgstr "請再輸入一次密碼"
-
-#~ msgid "Forgot password"
-#~ msgstr "忘記密碼"
-
-#~ msgid "Log In"
-#~ msgstr "登入"
-
-#~ msgid "Login"
-#~ msgstr "登入"
-
-#~ msgid "Mail has been sent."
-#~ msgstr "郵件已寄送"
-
-#~ msgid "MediaTek Email"
-#~ msgstr "聯發科技電子郵件地址"
-
-#~ msgid "New password (at least 8 words)"
-#~ msgstr "新密碼（最少八個字元）"
-
-#~ msgid "Password must be same as above"
-#~ msgstr "密碼不一致"
-
-#~ msgid "Password must have at least 8 characters."
-#~ msgstr "密碼需要至少八個字元"
-
-#~ msgid "Password reset successfully"
-#~ msgstr "密碼重設成功"
-
-#~ msgid "Please check you email and reset your password."
-#~ msgstr "請查看您的信箱郵件以重設密碼"
-
-#~ msgid "Please check your email inbox for registration verification mail."
-#~ msgstr "請查看您的信箱郵件以確認註冊"
-
-#~ msgid "Please check your email inbox to activate your account."
-#~ msgstr "請查看您的信箱郵件以激活帳號"
-
-#~ msgid "Please click on 'forgot password' again to request another email."
-#~ msgstr "請再次點擊忘記密碼來取得另一封郵件。"
-
-#~ msgid ""
-#~ "Please fill in your email address, and check your inbox for further "
-#~ "information."
-#~ msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用郵件通知您。"
-
-#~ msgid "Please login with new password."
-#~ msgstr "請使用新密碼登入"
-
-#~ msgid "Please set a password to complete the registration."
-#~ msgstr "請輸入密碼來完成註冊流程。"
-
-#~ msgid "Registration successful! Please sign in."
-#~ msgstr "註冊成功！請登入。"
-
-#~ msgid "Reset Password"
-#~ msgstr "重設密碼"
-
-#~ msgid "Reset password failed"
-#~ msgstr "重設密碼失敗"
-
-#~ msgid "Reset password timeout"
-#~ msgstr "密碼重設逾期"
-
-#~ msgid "Send Email"
-#~ msgstr "寄送電子郵件"
-
-#~ msgid "Send Email Again"
-#~ msgstr "再次寄送電子郵件"
-
-#~ msgid "Set Password"
-#~ msgstr "設置密碼"
-
-#~ msgid "Sign up Successful"
-#~ msgstr "登入成功"
-
-#~ msgid "Submit"
-#~ msgstr "送出"
-
-#~ msgid "Success"
-#~ msgstr "成功"
-
-#~ msgid "Verification link has expired."
-#~ msgstr "認證連結過期"
 
 #~ msgid "We promise the security and confidentiality of your data."
 #~ msgstr "我們保證您的資料是安全與保密的。"
@@ -1555,9 +1787,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
 #~ msgid "Sign up now"
 #~ msgstr "立即註冊"
-
-#~ msgid "cal"
-#~ msgstr "cal"
 
 #~ msgid ""
 #~ "Detailed analytics help you get in tune with each heartbeat. Not for "

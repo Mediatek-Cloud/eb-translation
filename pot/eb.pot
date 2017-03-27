@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-27T03:40:46.473Z\n"
+"POT-Creation-Date: 2017-03-27T04:22:02.635Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -77,11 +77,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP4] - undefined
-msgid "After the experimental project ends (3 month), you will get your original badge back.
-                  You can keep your gold band as it will be no longer has the badge function,
-                  and you can still use the health related function.
-                  We would like to collect your feedback joining the wearable badge project,
-                  please let us know if you have any suggestion or thought. Thank you!"
+msgid "After the experimental project ends (3 month), you will get your original badge back. You can keep your gold band as it will be no longer has the badge function, and you can still use the health related function. We would like to collect your feedback joining the wearable badge project, please let us know if you have any suggestion or thought. Thank you!"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
@@ -319,8 +315,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
-msgid "Due to the project is a small scale experimental project,
-                    only employee in Taipei office can apply the gold band."
+msgid "Due to the project is a small scale experimental project, only employee in Taipei office can apply the gold band."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -429,9 +424,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line4] - undefined
-msgid "For gold band user, if you need your badge for travelling need,
-                    please contact the central control room or front desk to take back
-                    your badge and get back your gold band after return to Taipei office."
+msgid "For gold band user, if you need your badge for travelling need, please contact the central control room or front desk to take back your badge and get back your gold band after return to Taipei office."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -548,8 +541,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line6] - undefined
-msgid "If you lost your gold band, for security reason, your old badge will made invalid.
-                      Additional $200 will be charged to make your new badge."
+msgid "If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge."
 msgstr ""
 
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -1265,8 +1257,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP2] - undefined
-msgid "The gold band is your employee badge, you can use it to access the taipei office area;
-                  and be identified as an MediaTek employee. However, it has the following limitations:"
+msgid "The gold band is your employee badge, you can use it to access the taipei office area; and be identified as an MediaTek employee. However, it has the following limitations:"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1291,9 +1282,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP1] - undefined
-msgid "There are two versions of employee band, the black one and the gold one.
-                  These two versions of band are both equipped with health related function,
-                  however, {highlight}"
+msgid "There are two versions of employee band, the black one and the gold one. These two versions of band are both equipped with health related function, however, {highlight}"
 msgstr ""
 
 #: build/messages/src/scripts/containers/SleepReportList.json

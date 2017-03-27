@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-27T06:48:21.677Z\n"
+"POT-Creation-Date: 2017-03-27T08:03:19.603Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -749,7 +749,7 @@ msgstr "需要是 @mediatek 電子信箱"
 #. [landingPage.EmailSection.preferenceError] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Must select one option from above."
-msgstr "需要至少選擇一種手環"
+msgstr "至少需要選擇一個選項"
 
 #. [MyRankingList.MyRanking] - undefined
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
@@ -1010,7 +1010,7 @@ msgstr "個人檔案"
 #. [landingPage.ProjectIntroDialog.duration] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Duration"
-msgstr "時驗時間"
+msgstr "實驗時間"
 
 #. [landingPage.ProjectIntroDialog.objective] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json

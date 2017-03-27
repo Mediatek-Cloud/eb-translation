@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-27T08:01:58.252Z\n"
+"POT-Creation-Date: 2017-03-27T08:03:19.603Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -716,7 +716,7 @@ msgid "Must be a valid @mediatek.com email."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-#. [landingPage.EmailSection.officePlaceError] - undefined
+#. [landingPage.EmailSection.preferenceError] - undefined
 msgid "Must select one option from above."
 msgstr ""
 

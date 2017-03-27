@@ -291,7 +291,7 @@ msgstr "描述"
 #. [LangingPage.SleepTrackContentLine1] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Detect your sleeping patterns and provide data evaluation."
-msgstr "偵測您的睡眠狀態，提供數據良表，讓你睡得更好"
+msgstr "偵測您的睡眠狀態，提供數據量表，讓你睡得更好"
 
 #. [BloodPressureChartMeta.Diastolic] - undefined
 #. [BloodPressureTable.Diastolic] - undefined
@@ -1361,7 +1361,7 @@ msgstr "加總"
 msgid ""
 "Track daily blood pressure with built-in optical and ECG bio-sensor "
 "solutions for a peach of mind."
-msgstr "內件光學與心電式生物傳感器，輕鬆量測血壓，健康每一天"
+msgstr "內建光學與心電式生物傳感器，輕鬆量測血壓，健康每一天"
 
 #. [ActivatePage.serialNumberInconsistent] - undefined
 #. [ResetSerialNumberPage.serialNumberInconsistent] - undefined

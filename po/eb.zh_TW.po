@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-27T04:22:02.635Z\n"
+"POT-Creation-Date: 2017-03-27T06:48:21.677Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,6 +16,11 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
+
+#. [LangingPage.StepsContentL2] - undefined
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "* Taipei Office only"
+msgstr "* 目前僅限台北辦公區域"
 
 #. [landingPage.ProjectIntroDialog.durationContext] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -657,11 +662,10 @@ msgstr "法律聲明"
 msgid "Light"
 msgstr "淺眠期"
 
-#. [LangingPage.StepsContent] - undefined
+#. [LangingPage.StepsContentL1] - undefined
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
-msgid ""
-"Link with your corporate ID for a seamless experience.  * Taipei Office only"
-msgstr "結合公司門禁卡功能，上班更輕鬆  * 目前此功能僅限台北辦公室"
+msgid "Link with your corporate ID for a seamless experience."
+msgstr "結合公司門禁卡功能，上班更輕鬆"
 
 #. [LoginForm.loginButton] - undefined
 #: build/messages/src/scripts/components/authentication/LoginForm.json
@@ -1646,6 +1650,11 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid ""
+#~ "Link with your corporate ID for a seamless experience.  * Taipei Office "
+#~ "only"
+#~ msgstr "結合公司門禁卡功能，上班更輕鬆  * 目前此功能僅限台北辦公室"
 
 #~ msgid ""
 #~ "After the experimental project ends (3 month), you will get your original "

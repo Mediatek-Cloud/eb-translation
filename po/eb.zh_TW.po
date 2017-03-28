@@ -336,7 +336,7 @@ msgstr "還沒有帳號嗎？"
 msgid ""
 "Due to it is an experimental project, you might not be able to get the "
 "discount in cooperative shop."
-msgstr "活動為實驗性質，可能無法使用特約廠商優惠。"
+msgstr "需搭配識別證之特約廠商相關優惠，於實驗期間可能無法使用。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -794,7 +794,7 @@ msgstr "暱稱"
 #. [landingPage.EmailSection.blackBandLabel] - undefined
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "No (Black band)"
-msgstr "不（黑手環）"
+msgstr "否（黑手環）"
 
 #. [SleepReportList.Note] - undefined
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -1319,7 +1319,9 @@ msgstr ""
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "The gold band is your employee badge. Do not let other people use it."
-msgstr "金手環視同員工識別證，限本人使用，嚴禁外借他人。"
+msgstr ""
+"金手環等同識別證，限本人使用，請勿交由他人使用，台北辦公室保全也會以金手環做"
+"為辨識依據。"
 
 #. [ResetSerialNumberPage.serialNumberInvalid] - undefined
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
@@ -1355,7 +1357,7 @@ msgstr "名稱"
 #. [landingPage.ProjectIntroDialog.objectiveContext] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "To test the employee reactions and experiences of wearable badge"
-msgstr "測試員工對健康穿戴式識別證的反應與感受"
+msgstr "了解同仁對健康穿戴式識別證的反應與感受"
 
 #. [CalorieChart.Today] - undefined
 #. [ExercisePanel.Today] - undefined
@@ -1476,7 +1478,7 @@ msgstr "走路"
 #. [landingPage.SuccessSection.content] - undefined
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "We've received your application for the Health Band"
-msgstr "我們以收到您的XXX申請"
+msgstr "我們已收到您的申請"
 
 #. [landingPage.ProjectIntroDialog.title] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json

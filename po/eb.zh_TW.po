@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-28T02:15:39.758Z\n"
+"POT-Creation-Date: 2017-03-28T02:20:41.153Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -12,72 +12,106 @@ msgstr ""
 "X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#. [MoreInfoOverlay.EfficiencyFormula] - undefined
+#. [MoreInfoOverlay.EfficiencyFormula]
+#. defaultMessage is:
+#. (Aerobics Time + Anaerobics Time) / Exercise Duration
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
 
-#. [LangingPage.StepsContentL2] - undefined
+#. [LangingPage.StepsContentL2]
+#. defaultMessage is:
+#. * Taipei Office only
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "* Taipei Office only"
 msgstr "* 目前僅限台北辦公區域"
 
-#. [landingPage.ProjectIntroDialog.durationContext] - undefined
+#. [landingPage.ProjectIntroDialog.durationContext]
+#. defaultMessage is:
+#. 3 months
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "3 months"
 msgstr "三個月"
 
-#. [ActivatePage.serialNumberPlaceholder] - undefined
-#. [ResetSerialNumberPage.serialNumberPlaceholder] - undefined
+#. [ActivatePage.serialNumberPlaceholder]
+#. defaultMessage is:
+#. 8 Characters
+#. [ResetSerialNumberPage.serialNumberPlaceholder]
+#. defaultMessage is:
+#. 8 Characters
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "8 Characters"
 msgstr "8 個字元。"
 
-#. [landingPage.Footer.about] - undefined
+#. [landingPage.Footer.about]
+#. defaultMessage is:
+#. About MediaTek Health
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "About MediaTek Health"
 msgstr "關於 MediaTek Health"
 
-#. [AccountSetting.Account] - undefined
+#. [AccountSetting.Account]
+#. defaultMessage is:
+#. Account
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Account"
 msgstr "帳號"
 
-#. [AccountSetting.AccountSetting] - undefined
+#. [AccountSetting.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Account Setting"
 msgstr "帳號設定"
 
-#. [AuthPage.activateAccountSuccessMessage] - undefined
+#. [AuthPage.activateAccountSuccessMessage]
+#. defaultMessage is:
+#. Account has been activated
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Account has been activated"
 msgstr "帳號已啟用"
 
-#. [EmailVerification.title] - undefined
+#. [EmailVerification.title]
+#. defaultMessage is:
+#. Activate Your Account
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Activate Your Account"
 msgstr "啟用您的帳號"
 
-#. [AuthPage.activateAccountSuccessTitle] - undefined
+#. [AuthPage.activateAccountSuccessTitle]
+#. defaultMessage is:
+#. Activate successfully
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Activate successfully"
 msgstr "啟用成功"
 
-#. [personalReport.Activeness.Activity] - undefined
+#. [personalReport.Activeness.Activity]
+#. defaultMessage is:
+#. Activity
 #: build/messages/src/scripts/components/personalReport/Activeness.json
 msgid "Activity"
 msgstr "活動"
 
-#. [CalorieChart.Additional] - undefined
+#. [CalorieChart.Additional]
+#. defaultMessage is:
+#. Additional
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "Additional"
 msgstr "其他"
 
-#. [ActivityTypeOverlay.Aerobics] - undefined
-#. [ExerciseMetaDetails.Aerobics] - undefined
-#. [ActivityTypeOverlay.Aerobics] - undefined
-#. [ExerciseMetaDetails.Aerobics] - undefined
+#. [ActivityTypeOverlay.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#. [ExerciseMetaDetails.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#. [ActivityTypeOverlay.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#. [ExerciseMetaDetails.Aerobics]
+#. defaultMessage is:
+#. Aerobics
 #: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -85,7 +119,9 @@ msgstr "其他"
 msgid "Aerobics"
 msgstr "有氧運動"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP4] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP4]
+#. defaultMessage is:
+#. After the experimental project ends (3 month), you will get your original badge back. You can keep your gold band as it will be no longer has the badge function, and you can still use the health related function. We would like to collect your feedback joining the wearable badge project, please let us know if you have any suggestion or thought. Thank you!
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "After the experimental project ends (3 month), you will get your original "
@@ -98,7 +134,9 @@ msgstr ""
 "證功能將會解除，僅保留健康相關功能。也請同仁配合實驗後續的追蹤與資料收集，非"
 "常感謝！"
 
-#. [LangingPage.PrivacyContent1] - undefined
+#. [LangingPage.PrivacyContent1]
+#. defaultMessage is:
+#. All of your identifiable personal data in MediaTek Health will be stored in a separate database to which the admin's activities are logged.
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 msgid ""
 "All of your identifiable personal data in MediaTek Health will be stored in "
@@ -107,114 +145,168 @@ msgstr ""
 "所有 MediaTek  Health 上可識別您的個人資料將被儲存在一個獨立且受監控的資料"
 "庫。"
 
-#. [Authentication.Header.askForSignIn] - undefined
+#. [Authentication.Header.askForSignIn]
+#. defaultMessage is:
+#. Already have an account?
 #: build/messages/src/scripts/components/authentication/Header.json
 msgid "Already have an account?"
 msgstr "已經有帳號了嗎？"
 
-#. [ExerciseMetaDetails.Anaerobics] - undefined
-#. [ExerciseMetaDetails.Anaerobics] - undefined
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Anaerobics"
 msgstr "無氧運動"
 
-#. [landingPage.SuccessSection.title] - undefined
+#. [landingPage.SuccessSection.title]
+#. defaultMessage is:
+#. Application successful !
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "Application successful !"
 msgstr "申請成功！"
 
-#. [SleepReportList.Asleep] - undefined
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Asleep"
 msgstr "睡著"
 
-#. [SleepReportList.Asleep] - undefined
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep：
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 msgid "Asleep："
 msgstr "睡著："
 
-#. [SleepReportList.Awake] - undefined
+#. [SleepReportList.Awake]
+#. defaultMessage is:
+#. Awake
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Awake"
 msgstr "清醒"
 
-#. [SleepReportList.Awake] - undefined
+#. [SleepReportList.Awake]
+#. defaultMessage is:
+#. Awake：
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 msgid "Awake："
 msgstr "清醒："
 
-#. [CalorieChart.BMR] - undefined
+#. [CalorieChart.BMR]
+#. defaultMessage is:
+#. BMR
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "BMR"
 msgstr "BMR"
 
-#. [AuthPage.cancelButton] - undefined
-#. [ForgotPassword.cancelButton] - undefined
-#. [ResetPassword.cancelButton] - undefined
+#. [AuthPage.cancelButton]
+#. defaultMessage is:
+#. Back
+#. [ForgotPassword.cancelButton]
+#. defaultMessage is:
+#. Back
+#. [ResetPassword.cancelButton]
+#. defaultMessage is:
+#. Back
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "Back"
 msgstr "返回"
 
-#. [AuthPage.defaultMessageTitle] - undefined
+#. [AuthPage.defaultMessageTitle]
+#. defaultMessage is:
+#. Back to login page
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Back to login page"
 msgstr "返回登入頁面"
 
-#. [NotFoundPage.BackToLastPage] - undefined
+#. [NotFoundPage.BackToLastPage]
+#. defaultMessage is:
+#. Back to the last page
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 msgid "Back to the last page"
 msgstr "回至前一頁"
 
-#. [EfficiencyIndicator.Bad] - undefined
+#. [EfficiencyIndicator.Bad]
+#. defaultMessage is:
+#. Bad
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Bad"
 msgstr "差"
 
-#. [ActivityTypeOverlay.Bike] - undefined
-#. [ActivityTypeOverlay.Bike] - undefined
+#. [ActivityTypeOverlay.Bike]
+#. defaultMessage is:
+#. Bike
+#. [ActivityTypeOverlay.Bike]
+#. defaultMessage is:
+#. Bike
 #: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 msgid "Bike"
 msgstr "腳踏車"
 
-#. [personalReport.HRV.BiologicalAge] - undefined
+#. [personalReport.HRV.BiologicalAge]
+#. defaultMessage is:
+#. Biological Age: {formattedBioAge}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "Biological Age: {formattedBioAge}"
 msgstr "生理年齡： {formattedBioAge}"
 
-#. [ProfileForm.birthdayLabel] - undefined
+#. [ProfileForm.birthdayLabel]
+#. defaultMessage is:
+#. Birthday
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Birthday"
 msgstr "生日"
 
-#. [BloodPressurePanel.BloodPressure] - undefined
+#. [BloodPressurePanel.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
 msgid "Blood Pressure"
 msgstr "血壓"
 
-#. [landingPage.QuestionnaireSection.option.bloodPressure] - undefined
+#. [landingPage.QuestionnaireSection.option.bloodPressure]
+#. defaultMessage is:
+#. Blood Pressure Measurement
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Blood Pressure Measurement"
 msgstr "血壓量測"
 
-#. [landingPage.EmailSection.policyLine2] - undefined
+#. [landingPage.EmailSection.policyLine2]
+#. defaultMessage is:
+#. By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}.
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid ""
 "By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}."
 msgstr "點擊送出，即代表您同意  MediaTek Health 的{terms}與{policy}。"
 
-#. [ContactUsButton] - undefined
+#. [ContactUsButton]
+#. defaultMessage is:
+#. CONTACT US
 #: build/messages/src/scripts/components/common/ContactUsButton.json
 msgid "CONTACT US"
 msgstr "聯繫我們"
 
-#. [CaloriePanel.Calorie] - undefined
-#. [ExerciseCharts.Calorie] - undefined
-#. [ExerciseMetaDetails.Calorie] - undefined
-#. [Indication.Calorie] - undefined
+#. [CaloriePanel.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [ExerciseCharts.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [ExerciseMetaDetails.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [Indication.Calorie]
+#. defaultMessage is:
+#. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
@@ -222,57 +314,85 @@ msgstr "聯繫我們"
 msgid "Calorie"
 msgstr "卡路里"
 
-#. [ExericsePanel.ExerciseBurnedCalorie] - undefined
+#. [ExericsePanel.ExerciseBurnedCalorie]
+#. defaultMessage is:
+#. Calorie Burned
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "Calorie Burned"
 msgstr "卡路里燃燒"
 
-#. [ChangePasswordDialog.cancelButton] - undefined
-#. [EmailVerification.cancelButton] - undefined
+#. [ChangePasswordDialog.cancelButton]
+#. defaultMessage is:
+#. Cancel
+#. [EmailVerification.cancelButton]
+#. defaultMessage is:
+#. Cancel
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Cancel"
 msgstr "取消"
 
-#. [AccountSetting.ChangePassword] - undefined
+#. [AccountSetting.ChangePassword]
+#. defaultMessage is:
+#. Change Password
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Change Password"
 msgstr "變更密碼"
 
-#. [AuthPage.defaultMessage] - undefined
+#. [AuthPage.defaultMessage]
+#. defaultMessage is:
+#. Click on the button below to go back.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Click on the button below to go back."
 msgstr "點擊下方按鈕返回"
 
-#. [ResetPasswordPage.password2Label] - undefined
+#. [ResetPasswordPage.password2Label]
+#. defaultMessage is:
+#. Confirm New Password
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Confirm New Password"
 msgstr "請再輸入一次密碼"
 
-#. [ResetSerialNumberPage.serialNumber2Label] - undefined
+#. [ResetSerialNumberPage.serialNumber2Label]
+#. defaultMessage is:
+#. Confirm New Serial Number
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Confirm New Serial Number"
 msgstr "請再輸入一次新的手環序號"
 
-#. [ChangePasswordDialog.ConfirmPassowrd] - undefined
+#. [ChangePasswordDialog.ConfirmPassowrd]
+#. defaultMessage is:
+#. Confirm Passowrd
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Confirm Passowrd"
 msgstr "確認密碼"
 
-#. [ActivatePage.serialNumber2Label] - undefined
+#. [ActivatePage.serialNumber2Label]
+#. defaultMessage is:
+#. Confirm Serial Number
 #: build/messages/src/scripts/containers/ActivatePage.json
 msgid "Confirm Serial Number"
 msgstr "請再輸入一次序號"
 
-#. [StepPanel.DailyAvg] - undefined
+#. [StepPanel.DailyAvg]
+#. defaultMessage is:
+#. Daily avg.
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Daily avg."
 msgstr "每日平均"
 
-#. [Header.Dashboard] - undefined
-#. [SleepReportList.Dashboard] - undefined
-#. [ExercisePage.Dashboard] - undefined
-#. [SleepReportList.Dashboard] - undefined
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [SleepReportList.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [ExercisePage.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [SleepReportList.Dashboard]
+#. defaultMessage is:
+#. Dashboard
 #: build/messages/src/scripts/components/landingPage/Header.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/ExercisePage.json
@@ -280,95 +400,143 @@ msgstr "每日平均"
 msgid "Dashboard"
 msgstr "儀表板"
 
-#. [ProfileForm.Day] - undefined
+#. [ProfileForm.Day]
+#. defaultMessage is:
+#. Day
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Day"
 msgstr "日"
 
-#. [SleepStagePanel.Deep] - undefined
-#. [SleepStageMessages.Deep] - undefined
-#. [SleepStageMessages.Deep] - undefined
+#. [SleepStagePanel.Deep]
+#. defaultMessage is:
+#. Deep
+#. [SleepStageMessages.Deep]
+#. defaultMessage is:
+#. Deep
+#. [SleepStageMessages.Deep]
+#. defaultMessage is:
+#. Deep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
 msgstr "深眠期"
 
-#. [landingPage.ProjectIntroDialog.description] - undefined
+#. [landingPage.ProjectIntroDialog.description]
+#. defaultMessage is:
+#. Description
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Description"
 msgstr "描述"
 
-#. [LangingPage.SleepTrackContentLine1] - undefined
+#. [LangingPage.SleepTrackContentLine1]
+#. defaultMessage is:
+#. Detect your sleeping patterns and provide data evaluation.
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Detect your sleeping patterns and provide data evaluation."
 msgstr "偵測您的睡眠狀態，提供數據量表，讓您睡得更好"
 
-#. [BloodPressureChartMeta.Diastolic] - undefined
-#. [BloodPressureTable.Diastolic] - undefined
+#. [BloodPressureChartMeta.Diastolic]
+#. defaultMessage is:
+#. Diastolic
+#. [BloodPressureTable.Diastolic]
+#. defaultMessage is:
+#. Diastolic
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Diastolic"
 msgstr "舒張壓"
 
-#. [landingPage.QuestionnaireSection.option.diet] - undefined
+#. [landingPage.QuestionnaireSection.option.diet]
+#. defaultMessage is:
+#. Diet Control
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Diet Control"
 msgstr "飲食控制"
 
-#. [Authentication.Header.askForSignUp] - undefined
+#. [Authentication.Header.askForSignUp]
+#. defaultMessage is:
+#. Do not have account?
 #: build/messages/src/scripts/components/authentication/Header.json
 msgid "Do not have account?"
 msgstr "已經有帳號了嗎？"
 
-#. [landingPage.EmailSection.bandPrefernceTitle] - undefined
+#. [landingPage.EmailSection.bandPrefernceTitle]
+#. defaultMessage is:
+#. Do you also want to join the wearable badge experimental project ?
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Do you also want to join the wearable badge experimental project ?"
 msgstr "您是否願意額外參與穿戴式識別證實驗計畫呢？"
 
-#. [LoginForm.noAccountMessage] - undefined
+#. [LoginForm.noAccountMessage]
+#. defaultMessage is:
+#. Don't have an account?
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Don't have an account?"
 msgstr "還沒有帳號嗎？"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
+#. defaultMessage is:
+#. Due to it is an experimental project, you might not be able to get the discount in cooperative shop.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "Due to it is an experimental project, you might not be able to get the "
 "discount in cooperative shop."
 msgstr "需搭配識別證之特約廠商相關優惠，於實驗期間可能無法使用。"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1]
+#. defaultMessage is:
+#. Due to the project is a small scale experimental project, only employee in Taipei office can apply the gold band.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "Due to the project is a small scale experimental project, only employee in "
 "Taipei office can apply the gold band."
 msgstr "目前本計畫為小規模實驗，故先僅以台北辦公室做為金手環之實驗場域。"
 
-#. [ExericsePanel.Duration] - undefined
-#. [ExerciseMetaDetails.Duration] - undefined
+#. [ExericsePanel.Duration]
+#. defaultMessage is:
+#. Duration
+#. [ExerciseMetaDetails.Duration]
+#. defaultMessage is:
+#. Duration
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 msgid "Duration"
 msgstr "歷時"
 
-#. [LangingPage.BloodPressureTitle] - undefined
+#. [LangingPage.BloodPressureTitle]
+#. defaultMessage is:
+#. Easy Health Monitoring
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Easy Health Monitoring"
 msgstr "天天量血壓　健康一手掌握"
 
-#. [EfficiencyCircle.Efficiency] - undefined
-#. [ExerciseMetaDetails.Efficiency] - undefined
+#. [EfficiencyCircle.Efficiency]
+#. defaultMessage is:
+#. Efficiency
+#. [ExerciseMetaDetails.Efficiency]
+#. defaultMessage is:
+#. Efficiency
 #: build/messages/src/scripts/components/common/EfficiencyCircle.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Efficiency"
 msgstr "效率"
 
-#. [LoginForm.emailPlaceholder] - undefined
-#. [landingPage.EmailSection.label] - undefined
-#. [ForgotPasswordPage.emailLabel] - undefined
-#. [ResendEmailVerificationPage.emailLabel] - undefined
-#. [LoginPage.emailLabel] - undefined
+#. [LoginForm.emailPlaceholder]
+#. defaultMessage is:
+#. Email
+#. [landingPage.EmailSection.label]
+#. defaultMessage is:
+#. Email
+#. [ForgotPasswordPage.emailLabel]
+#. defaultMessage is:
+#. Email
+#. [ResendEmailVerificationPage.emailLabel]
+#. defaultMessage is:
+#. Email
+#. [LoginPage.emailLabel]
+#. defaultMessage is:
+#. Email
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -377,34 +545,62 @@ msgstr "效率"
 msgid "Email"
 msgstr "電子郵件"
 
-#. [LoginForm.invalidUsernameOrPassword] - undefined
+#. [LoginForm.invalidUsernameOrPassword]
+#. defaultMessage is:
+#. Email or password incorrect
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Email or password incorrect"
 msgstr "電子郵件或密碼不正確"
 
-#. [ResetPassword.password2Placeholder] - undefined
+#. [ResetPassword.password2Placeholder]
+#. defaultMessage is:
+#. Enter new password again
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "Enter new password again"
 msgstr "請再輸入一次密碼"
 
-#. [ForgotPasswordPage.emailPlaceholder] - undefined
-#. [ResendEmailVerificationPage.emailPlaceholder] - undefined
-#. [LoginPage.emailPlaceholder] - undefined
+#. [ForgotPasswordPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
+#. [ResendEmailVerificationPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
+#. [LoginPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Ex: abc123@mediatek.com"
 msgstr "例如：abc123@mediatek.com"
 
-#. [CalorieChart.Exercise] - undefined
-#. [ExercisePanel.Exercise] - undefined
-#. [Indication.Exercise] - undefined
-#. [StepPanel.Exercise] - undefined
-#. [ActivityTypeOverlay.Exercise] - undefined
-#. [ExercisePanelList.Exercise] - undefined
-#. [ActivityTypeOverlay.Exercise] - undefined
-#. [Indication.Exercise] - undefined
-#. [ExercisePage.Exercise] - undefined
+#. [CalorieChart.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ExercisePanel.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [Indication.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [StepPanel.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ActivityTypeOverlay.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ExercisePanelList.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ActivityTypeOverlay.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [Indication.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ExercisePage.Exercise]
+#. defaultMessage is:
+#. Exercise
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/StepChart.json
@@ -417,39 +613,55 @@ msgstr "例如：abc123@mediatek.com"
 msgid "Exercise"
 msgstr "運動"
 
-#. [landingPage.QuestionnaireSection.option.exercise] - undefined
+#. [landingPage.QuestionnaireSection.option.exercise]
+#. defaultMessage is:
+#. Exercise or Fitness
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Exercise or Fitness"
 msgstr "運動或健身"
 
-#. [EfficiencyIndicator.Fair] - undefined
+#. [EfficiencyIndicator.Fair]
+#. defaultMessage is:
+#. Fair
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Fair"
 msgstr "普通"
 
-#. [ExerciseMetaDetails.FatBurn] - undefined
-#. [ExerciseMetaDetails.FatBurn] - undefined
+#. [ExerciseMetaDetails.FatBurn]
+#. defaultMessage is:
+#. Fat Burn
+#. [ExerciseMetaDetails.FatBurn]
+#. defaultMessage is:
+#. Fat Burn
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Fat Burn"
 msgstr "燃脂"
 
-#. [Campaign.BannerTitle] - undefined
+#. [Campaign.BannerTitle]
+#. defaultMessage is:
+#. Fat Burn 30 minutes
 #: build/messages/src/scripts/containers/Campaign.json
 msgid "Fat Burn 30 minutes"
 msgstr "燃脂三十分鐘"
 
-#. [GenderSelect.female] - undefined
+#. [GenderSelect.female]
+#. defaultMessage is:
+#. Female
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 msgid "Female"
 msgstr "女性"
 
-#. [ProfilePhoto.fileSizeExceeds] - undefined
+#. [ProfilePhoto.fileSizeExceeds]
+#. defaultMessage is:
+#. File size exceed 512kB
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 msgid "File size exceed 512kB"
 msgstr "檔案大小超過 512kB"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line4] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line4]
+#. defaultMessage is:
+#. For gold band user, if you need your badge for travelling need, please contact the central control room or front desk to take back your badge and get back your gold band after return to Taipei office.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "For gold band user, if you need your badge for travelling need, please "
@@ -459,73 +671,109 @@ msgstr ""
 "使用金手環同仁如需前往非台北地區辦公室（包含新竹／竹北／海外），請先至櫃檯以"
 "手環換回識別證，並於返回後再次交換。"
 
-#. [LoginForm.forgotpasswordLink] - undefined
-#. [LoginPage.forgotpasswordLink] - undefined
+#. [LoginForm.forgotpasswordLink]
+#. defaultMessage is:
+#. Forgot Your Password?
+#. [LoginPage.forgotpasswordLink]
+#. defaultMessage is:
+#. Forgot Your Password?
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Forgot Your Password?"
 msgstr "忘了密碼？"
 
-#. [ForgotPassword.title] - undefined
+#. [ForgotPassword.title]
+#. defaultMessage is:
+#. Forgot password
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 msgid "Forgot password"
 msgstr "忘記密碼"
 
-#. [ForgotPasswordPage.title] - undefined
+#. [ForgotPasswordPage.title]
+#. defaultMessage is:
+#. Forgot your password?
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 msgid "Forgot your password?"
 msgstr "忘記密碼？"
 
-#. [LangingPage.CalorieTitle] - undefined
+#. [LangingPage.CalorieTitle]
+#. defaultMessage is:
+#. Fun with Group Exercise
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Fun with Group Exercise"
 msgstr "多人健身　樂趣多"
 
-#. [Campaign.BannerDescription] - undefined
+#. [Campaign.BannerDescription]
+#. defaultMessage is:
+#. Gain more than 3 stars to be eligible for the drawing!
 #: build/messages/src/scripts/containers/Campaign.json
 msgid "Gain more than 3 stars to be eligible for the drawing!"
 msgstr "取得超過三顆星就能參加抽獎活動！"
 
-#. [ProfileForm.genderLabel] - undefined
+#. [ProfileForm.genderLabel]
+#. defaultMessage is:
+#. Gender
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Gender"
 msgstr "性別"
 
-#. [landingPage.VideoJumbo.jumboText] - undefined
+#. [landingPage.VideoJumbo.jumboText]
+#. defaultMessage is:
+#. Get control of your health, anytime, everywhere.
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
 msgid "Get control of your health, anytime, everywhere."
 msgstr "任何地點　任何時刻　掌握您的健康"
 
-#. [StepPanel.GoalAchieved] - undefined
+#. [StepPanel.GoalAchieved]
+#. defaultMessage is:
+#. Goal Achieved
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Goal Achieved"
 msgstr "目標達成"
 
-#. [EfficiencyIndicator.Good] - undefined
+#. [EfficiencyIndicator.Good]
+#. defaultMessage is:
+#. Good
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Good"
 msgstr "好"
 
-#. [personalReport.HRV.HF] - undefined
+#. [personalReport.HRV.HF]
+#. defaultMessage is:
+#. HF {hf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HF {hf}"
 msgstr "HF {hf}"
 
-#. [personalReport.HRV.HRV] - undefined
+#. [personalReport.HRV.HRV]
+#. defaultMessage is:
+#. HRV
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HRV"
 msgstr "HRV"
 
-#. [personalReport.HRV.hrvDescription] - undefined
+#. [personalReport.HRV.hrvDescription]
+#. defaultMessage is:
+#. HRV: {formattedDescription}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HRV: {formattedDescription}"
 msgstr "HRV： {formattedDescription}"
 
-#. [ExericsePanel.HeartRate] - undefined
-#. [HeartRatePanel.HeartRate] - undefined
-#. [ExerciseCharts.HeartRate] - undefined
-#. [ExerciseMetaDetails.HeartRate] - undefined
-#. [Indication.HeartRate] - undefined
+#. [ExericsePanel.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [HeartRatePanel.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [ExerciseCharts.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [ExerciseMetaDetails.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [Indication.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
@@ -534,44 +782,62 @@ msgstr "HRV： {formattedDescription}"
 msgid "Heart Rate"
 msgstr "心率"
 
-#. [MoreInfoOverlay.FatBurnFormula] - undefined
+#. [MoreInfoOverlay.FatBurnFormula]
+#. defaultMessage is:
+#. Heart Rate = (220-Age)x60% ~ (220-Age)x80%
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x80%"
 msgstr "心率 = (220-年齡)x60% ~ (220-年齡)x80%"
 
-#. [MoreInfoOverlay.AerobicsFormula] - undefined
+#. [MoreInfoOverlay.AerobicsFormula]
+#. defaultMessage is:
+#. Heart Rate = (220-Age)x60% ~ (220-Age)x90%
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x90%"
 msgstr "心率 = (220-年齡)x60% ~ (220-年齡)x90%"
 
-#. [MoreInfoOverlay.AnaerobicsFormula] - undefined
+#. [MoreInfoOverlay.AnaerobicsFormula]
+#. defaultMessage is:
+#. Heart Rate > (220-Age)x90%
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Heart Rate > (220-Age)x90%"
 msgstr "心率 > (220-年齡)x90%"
 
-#. [LangingPage.HeartRateTitle] - undefined
+#. [LangingPage.HeartRateTitle]
+#. defaultMessage is:
+#. Heart Rate, Steps, Calories
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
 msgstr "心率　計步　卡路里"
 
-#. [ProfileForm.HeightLabel] - undefined
+#. [ProfileForm.HeightLabel]
+#. defaultMessage is:
+#. Height
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Height"
 msgstr "身高"
 
-#. [Header.Help] - undefined
-#. [landingPage.Header.Help] - undefined
+#. [Header.Help]
+#. defaultMessage is:
+#. Help
+#. [landingPage.Header.Help]
+#. defaultMessage is:
+#. Help
 #: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Help"
 msgstr "幫助"
 
-#. [landingPage.EmailSection.hsinchu] - undefined
+#. [landingPage.EmailSection.hsinchu]
+#. defaultMessage is:
+#. Hsinchu
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Hsinchu"
 msgstr "新竹"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line6] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line6]
+#. defaultMessage is:
+#. If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "If you lost your gold band, for security reason, your old badge will made "
@@ -580,253 +846,367 @@ msgstr ""
 "若同仁遺失金手環，原識別證將一起作廢以取消權限，並收取 200 元工本費製作新識別"
 "證。"
 
-#. [LoginPage.combinationInvalid] - undefined
+#. [LoginPage.combinationInvalid]
+#. defaultMessage is:
+#. Invalid combination. Please try again
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Invalid combination. Please try again"
 msgstr "帳號或密碼錯誤，請再試一次。"
 
-#. [Header.JoinNow] - undefined
+#. [Header.JoinNow]
+#. defaultMessage is:
+#. JOIN NOW
 #: build/messages/src/scripts/components/common/Header.json
 msgid "JOIN NOW"
 msgstr "馬上加入"
 
-#. [LoginForm.signupLink] - undefined
-#. [landingPage.QuestionnaireSection.submitButton] - undefined
-#. [landingPage.VideoJumbo.button] - undefined
+#. [LoginForm.signupLink]
+#. defaultMessage is:
+#. JOIN NOW!
+#. [landingPage.QuestionnaireSection.submitButton]
+#. defaultMessage is:
+#. JOIN NOW!
+#. [landingPage.VideoJumbo.button]
+#. defaultMessage is:
+#. JOIN NOW!
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #: build/messages/src/scripts/components/landingPage/VideoJumbo.json
 msgid "JOIN NOW!"
 msgstr "馬上加入"
 
-#. [landingPage.EmailSection.title] - undefined
+#. [landingPage.EmailSection.title]
+#. defaultMessage is:
+#. Join MediaTek Health and get a band now!
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Join MediaTek Health and get a band now!"
 msgstr "參與 MediaTek Health 計畫並申請手環！"
 
-#. [Authentication.Header.joinNow] - undefined
+#. [Authentication.Header.joinNow]
+#. defaultMessage is:
+#. Join Now
 #: build/messages/src/scripts/components/authentication/Header.json
 msgid "Join Now"
 msgstr "馬上加入"
 
-#. [personalReport.HRV.LF] - undefined
+#. [personalReport.HRV.LF]
+#. defaultMessage is:
+#. LF {lf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "LF {lf}"
 msgstr "LF {lf}"
 
-#. [personalReport.HRV.LFHF] - undefined
+#. [personalReport.HRV.LFHF]
+#. defaultMessage is:
+#. LF/HF {lfHf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "LF/HF {lfHf}"
 msgstr "LF/HF {lfHf}"
 
-#. [WeekPaginator.LastWeek] - undefined
+#. [WeekPaginator.LastWeek]
+#. defaultMessage is:
+#. Last Week
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 msgid "Last Week"
 msgstr "上一周"
 
-#. [BloodPressureChartMeta.Latest] - undefined
+#. [BloodPressureChartMeta.Latest]
+#. defaultMessage is:
+#. Latest
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 msgid "Latest"
 msgstr "最新"
 
-#. [landingPage.Header.Leaderboard] - undefined
+#. [landingPage.Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
 #: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Leaderboard"
 msgstr "排行榜"
 
-#. [landingPage.EmailSection.learnTheDifference] - undefined
+#. [landingPage.EmailSection.learnTheDifference]
+#. defaultMessage is:
+#. Learn the difference
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Learn the difference"
 msgstr "了解差異"
 
-#. [ActivatePage.passwordPlaceholder] - undefined
-#. [ResetPasswordPage.passwordPlaceholder] - undefined
-#. [LoginPage.passwordPlaceholder] - undefined
+#. [ActivatePage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
+#. [ResetPasswordPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
+#. [LoginPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Least 8 characters"
 msgstr "需要至少 8 的字元。"
 
-#. [landingPage.Footer.LegalNotice] - undefined
+#. [landingPage.Footer.LegalNotice]
+#. defaultMessage is:
+#. Legal Notice
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Legal Notice"
 msgstr "法律聲明"
 
-#. [SleepStagePanel.Light] - undefined
-#. [SleepStageMessages.Light] - undefined
-#. [SleepStageMessages.Light] - undefined
+#. [SleepStagePanel.Light]
+#. defaultMessage is:
+#. Light
+#. [SleepStageMessages.Light]
+#. defaultMessage is:
+#. Light
+#. [SleepStageMessages.Light]
+#. defaultMessage is:
+#. Light
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Light"
 msgstr "淺眠期"
 
-#. [LangingPage.StepsContentL1] - undefined
+#. [LangingPage.StepsContentL1]
+#. defaultMessage is:
+#. Link with your corporate ID for a seamless experience.
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Link with your corporate ID for a seamless experience."
 msgstr "結合公司門禁卡功能，上班更輕鬆"
 
-#. [LoginForm.loginButton] - undefined
+#. [LoginForm.loginButton]
+#. defaultMessage is:
+#. Log In
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Log In"
 msgstr "登入"
 
-#. [LoginForm.login] - undefined
+#. [LoginForm.login]
+#. defaultMessage is:
+#. Login
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Login"
 msgstr "登入"
 
-#. [AuthPage.mailSentTitle] - undefined
+#. [AuthPage.mailSentTitle]
+#. defaultMessage is:
+#. Mail has been sent.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Mail has been sent."
 msgstr "郵件已寄送"
 
-#. [GenderSelect.male] - undefined
+#. [GenderSelect.male]
+#. defaultMessage is:
+#. Male
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 msgid "Male"
 msgstr "男性"
 
-#. [HeartRateChart.Max] - undefined
+#. [HeartRateChart.Max]
+#. defaultMessage is:
+#. Max
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Max"
 msgstr "最大值"
 
-#. [BloodPressureTable.MeasuredTime] - undefined
+#. [BloodPressureTable.MeasuredTime]
+#. defaultMessage is:
+#. Measured time
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Measured time"
 msgstr "量測時間"
 
-#. [ForgotPassword.emailPlaceholder] - undefined
-#. [EmailVerification.emailPlaceholder] - undefined
+#. [ForgotPassword.emailPlaceholder]
+#. defaultMessage is:
+#. MediaTek Email
+#. [EmailVerification.emailPlaceholder]
+#. defaultMessage is:
+#. MediaTek Email
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "MediaTek Email"
 msgstr "聯發科技電子郵件地址"
 
-#. [landingPage.Footer.policy] - undefined
+#. [landingPage.Footer.policy]
+#. defaultMessage is:
+#. MediaTek Health Privacy Policy
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "MediaTek Health Privacy Policy"
 msgstr "MediaTek Health 隱私條款"
 
-#. [landingPage.Footer.terms] - undefined
+#. [landingPage.Footer.terms]
+#. defaultMessage is:
+#. MediaTek Health Terms & Conditions
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "MediaTek Health Terms & Conditions"
 msgstr "MediaTek Health 使用條款"
 
-#. [Layout.MediaTekIncAllRightReserved] - undefined
-#. [Layout.MediaTekIncAllRightReserved] - undefined
+#. [Layout.MediaTekIncAllRightReserved]
+#. defaultMessage is:
+#. MediaTek Inc. All Rights Reserved.
+#. [Layout.MediaTekIncAllRightReserved]
+#. defaultMessage is:
+#. MediaTek Inc. All Rights Reserved.
 #: build/messages/src/scripts/components/common/Footer.json
 #: build/messages/src/scripts/containers/Layout.json
 msgid "MediaTek Inc. All Rights Reserved."
 msgstr "MediaTek Inc. All Rights Reserved."
 
-#. [landingPage.ProjectIntroDialog.subjectContext] - undefined
+#. [landingPage.ProjectIntroDialog.subjectContext]
+#. defaultMessage is:
+#. MediaTek employees in Taipei office
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "MediaTek employees in Taipei office"
 msgstr "聯發科技台北辦公室同仁"
 
-#. [HeartRateChart.Min] - undefined
+#. [HeartRateChart.Min]
+#. defaultMessage is:
+#. Min
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Min"
 msgstr "最小值"
 
-#. [ProfileForm.Month] - undefined
+#. [ProfileForm.Month]
+#. defaultMessage is:
+#. Month
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Month"
 msgstr "月"
 
-#. [LangingPage.StepsTitle] - undefined
+#. [LangingPage.StepsTitle]
+#. defaultMessage is:
+#. Multi-functions All in One
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Multi-functions All in One"
 msgstr "多功能合一　簡單又方便"
 
-#. [validator.INVALID_MTK_EMAIL] - undefined
+#. [validator.INVALID_MTK_EMAIL]
+#. defaultMessage is:
+#. Must be a valid @mediatek.com email.
 #: build/messages/src/scripts/utils/validator.json
 msgid "Must be a valid @mediatek.com email."
 msgstr "需要是 @mediatek 電子信箱"
 
-#. [landingPage.EmailSection.preferenceError] - undefined
+#. [landingPage.EmailSection.preferenceError]
+#. defaultMessage is:
+#. Must select one option from above.
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Must select one option from above."
 msgstr "至少需要選擇一個選項"
 
-#. [MyRankingList.MyRanking] - undefined
+#. [MyRankingList.MyRanking]
+#. defaultMessage is:
+#. My Ranking
 #: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
 msgid "My Ranking"
 msgstr "我的排行"
 
-#. [LangingPage.not] - undefined
+#. [LangingPage.not]
+#. defaultMessage is:
+#. NOT
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 msgid "NOT"
 msgstr "不會"
 
-#. [ChangePasswordDialog.NewPassowrd] - undefined
+#. [ChangePasswordDialog.NewPassowrd]
+#. defaultMessage is:
+#. New Passowrd
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "New Passowrd"
 msgstr "新密碼"
 
-#. [ResetPasswordPage.passwordLabel] - undefined
+#. [ResetPasswordPage.passwordLabel]
+#. defaultMessage is:
+#. New Password
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "New Password"
 msgstr "新密碼"
 
-#. [ResetSerialNumberPage.serialNumberLabel] - undefined
+#. [ResetSerialNumberPage.serialNumberLabel]
+#. defaultMessage is:
+#. New Serial Number
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "New Serial Number"
 msgstr "新的手環序號"
 
-#. [ResetPassword.passwordPlaceholder] - undefined
+#. [ResetPassword.passwordPlaceholder]
+#. defaultMessage is:
+#. New password (at least 8 words)
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "New password (at least 8 words)"
 msgstr "新密碼（最少八個字元）"
 
-#. [WeekPaginator.NextWeek] - undefined
+#. [WeekPaginator.NextWeek]
+#. defaultMessage is:
+#. Next Week
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 msgid "Next Week"
 msgstr "下一周"
 
-#. [ProfileForm.nicknameLabel] - undefined
+#. [ProfileForm.nicknameLabel]
+#. defaultMessage is:
+#. Nickname
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Nickname"
 msgstr "暱稱"
 
-#. [landingPage.EmailSection.blackBandLabel] - undefined
+#. [landingPage.EmailSection.blackBandLabel]
+#. defaultMessage is:
+#. No (Black band)
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "No (Black band)"
 msgstr "否（黑手環）"
 
-#. [SleepReportList.Note] - undefined
+#. [SleepReportList.Note]
+#. defaultMessage is:
+#. Note
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Note"
 msgstr "說明"
 
-#. [SleepReportList.Note] - undefined
+#. [SleepReportList.Note]
+#. defaultMessage is:
+#. Note：
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 msgid "Note："
 msgstr "說明："
 
-#. [landingPage.ProductOverview.content] - undefined
+#. [landingPage.ProductOverview.content]
+#. defaultMessage is:
+#. Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health.
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 msgid ""
 "Obtain real-time data from wristband to smartphone and personalized report "
 "through MediaTek Health."
 msgstr "手環與手機數據即時同步，透過 MediaTek Health 平台獲得個人化報告及建議"
 
-#. [ChangePasswordDialog.OldPassowrd] - undefined
+#. [ChangePasswordDialog.OldPassowrd]
+#. defaultMessage is:
+#. Old Passowrd
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Old Passowrd"
 msgstr "舊密碼"
 
-#. [ErrorPage.SomethingBroke] - undefined
+#. [ErrorPage.SomethingBroke]
+#. defaultMessage is:
+#. Oops! Looks like something broke.
 #: build/messages/src/scripts/components/common/ErrorPage.json
 msgid "Oops! Looks like something broke."
 msgstr "噢！看起來發生了些錯誤。"
 
-#. [LoginForm.passwordPlaceholder] - undefined
-#. [AccountSetting.Password] - undefined
-#. [ActivatePage.passwordLabel] - undefined
-#. [LoginPage.passwordLabel] - undefined
+#. [LoginForm.passwordPlaceholder]
+#. defaultMessage is:
+#. Password
+#. [AccountSetting.Password]
+#. defaultMessage is:
+#. Password
+#. [ActivatePage.passwordLabel]
+#. defaultMessage is:
+#. Password
+#. [LoginPage.passwordLabel]
+#. defaultMessage is:
+#. Password
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -834,110 +1214,166 @@ msgstr "噢！看起來發生了些錯誤。"
 msgid "Password"
 msgstr "密碼"
 
-#. [emailPasswordValidator.INVALID_PASSWORD] - undefined
+#. [emailPasswordValidator.INVALID_PASSWORD]
+#. defaultMessage is:
+#. Password Least 8 Characters
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Password Least 8 Characters"
 msgstr "密碼至少要有八個字元"
 
-#. [validator.INVALID_PASSWORD] - undefined
+#. [validator.INVALID_PASSWORD]
+#. defaultMessage is:
+#. Password must be at least 8 characters
 #: build/messages/src/scripts/utils/validator.json
 msgid "Password must be at least 8 characters"
 msgstr "密碼需要至少 8 個字元。"
 
-#. [ResetPassword.inputPasswordsInconsist] - undefined
+#. [ResetPassword.inputPasswordsInconsist]
+#. defaultMessage is:
+#. Password must be same as above
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "Password must be same as above"
 msgstr "密碼不一致"
 
-#. [ActivateAccount.inputInvalidPassword] - undefined
-#. [ResetPassword.inputInvalidPassword] - undefined
+#. [ActivateAccount.passwordPlaceholder]
+#. defaultMessage is:
+#. Password must have at least 8 characters.
+#. [ActivateAccount.inputInvalidPassword]
+#. defaultMessage is:
+#. Password must have at least 8 characters.
+#. [ResetPassword.inputInvalidPassword]
+#. defaultMessage is:
+#. Password must have at least 8 characters.
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "Password must have at least 8 characters."
 msgstr "密碼需要至少八個字元"
 
-#. [AuthPage.resetPasswordSuccessTitle] - undefined
+#. [AuthPage.resetPasswordSuccessTitle]
+#. defaultMessage is:
+#. Password reset successfully
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Password reset successfully"
 msgstr "密碼重設成功"
 
-#. [landingPage.ProductOverview.title] - undefined
+#. [landingPage.ProductOverview.title]
+#. defaultMessage is:
+#. Personalized Data
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 msgid "Personalized Data"
 msgstr "個人化數據"
 
-#. [AuthPage.mailSentMessage] - undefined
+#. [AuthPage.mailSentMessage]
+#. defaultMessage is:
+#. Please check you email and reset your password.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please check you email and reset your password."
 msgstr "請查看您的信箱郵件以重設密碼"
 
-#. [AuthPage.resendEmailVerificationSuccessMessage] - undefined
+#. [AuthPage.resendEmailVerificationSuccessMessage]
+#. defaultMessage is:
+#. Please check your email inbox for registration verification mail.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please check your email inbox for registration verification mail."
 msgstr "請查看您的信箱郵件以確認註冊"
 
-#. [LoginPage.sendEmailSuccessDescription] - undefined
+#. [LoginPage.sendEmailSuccessDescription]
+#. defaultMessage is:
+#. Please check your email inbox for the verification email, which is sent to {email}
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid ""
 "Please check your email inbox for the verification email, which is sent to "
 "{email}"
 msgstr "請至您的 {email} 郵箱收取重設密碼郵件。"
 
-#. [AuthPage.signupMessage] - undefined
+#. [AuthPage.signupMessage]
+#. defaultMessage is:
+#. Please check your email inbox to activate your account.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please check your email inbox to activate your account."
 msgstr "請查看您的信箱郵件以激活帳號"
 
-#. [AuthPage.resetPasswordFailedMessage] - undefined
+#. [AuthPage.resetPasswordTimeoutMessage]
+#. defaultMessage is:
+#. Please click on 'forgot password' again to request another email.
+#. [AuthPage.resetPasswordFailedMessage]
+#. defaultMessage is:
+#. Please click on 'forgot password' again to request another email.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please click on 'forgot password' again to request another email."
 msgstr "請再次點擊忘記密碼來取得另一封郵件。"
 
-#. [ChangePasswordDialog.ConfirmPassowrdPlaceholder] - undefined
+#. [ChangePasswordDialog.ConfirmPassowrdPlaceholder]
+#. defaultMessage is:
+#. Please enter new password again
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Please enter new password again"
 msgstr "請再輸入一次新密碼"
 
-#. [ChangePasswordDialog.OldPassowrdPlaceholder] - undefined
+#. [ChangePasswordDialog.OldPassowrdPlaceholder]
+#. defaultMessage is:
+#. Please enter old password
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Please enter old password"
 msgstr "請輸入舊密碼"
 
-#. [ActivateAccount.inputEmptyPassword] - undefined
-#. [ResetPassword.inputEmptyPassword] - undefined
-#. [emailPasswordValidator.EMPTY_PASSWORD] - undefined
+#. [ActivateAccount.inputEmptyPassword]
+#. defaultMessage is:
+#. Please enter password
+#. [ResetPassword.inputEmptyPassword]
+#. defaultMessage is:
+#. Please enter password
+#. [emailPasswordValidator.EMPTY_PASSWORD]
+#. defaultMessage is:
+#. Please enter password
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please enter password"
 msgstr "請輸入密碼"
 
-#. [EmailVerification.message] - undefined
-#. [ResendEmailVerificationPage.description] - undefined
+#. [EmailVerification.message]
+#. defaultMessage is:
+#. Please enter your email and we will resend the verification link to you.
+#. [ResendEmailVerificationPage.description]
+#. defaultMessage is:
+#. Please enter your email and we will resend the verification link to you.
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid ""
 "Please enter your email and we will resend the verification link to you."
 msgstr "請輸入您的電子郵件信箱以再次取得帳號認證連結郵件。"
 
-#. [ForgotPasswordPage.description] - undefined
+#. [ForgotPasswordPage.description]
+#. defaultMessage is:
+#. Please enter your email and we will send you instructions to reset your password.
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 msgid ""
 "Please enter your email and we will send you instructions to reset your "
 "password."
 msgstr "請輸入您的電子郵件，我們會發送重設密碼信件給您。"
 
-#. [ForgotPassword.messge] - undefined
+#. [ForgotPassword.messge]
+#. defaultMessage is:
+#. Please fill in your email address, and check your inbox for further information.
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 msgid ""
 "Please fill in your email address, and check your inbox for further "
 "information."
 msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用郵件通知您。"
 
-#. [ForgotPassword.inputInvalidEmail] - undefined
-#. [EmailVerification.inputInvalidEmail] - undefined
-#. [emailPasswordValidator.INVALID_EMAIL] - undefined
-#. [validator.INVALID_EMAIL] - undefined
+#. [ForgotPassword.inputInvalidEmail]
+#. defaultMessage is:
+#. Please input a valid email
+#. [EmailVerification.inputInvalidEmail]
+#. defaultMessage is:
+#. Please input a valid email
+#. [emailPasswordValidator.INVALID_EMAIL]
+#. defaultMessage is:
+#. Please input a valid email
+#. [validator.INVALID_EMAIL]
+#. defaultMessage is:
+#. Please input a valid email
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
@@ -945,10 +1381,18 @@ msgstr "請輸入您的電子郵件地址，任何進一步的資訊將會使用
 msgid "Please input a valid email"
 msgstr "請輸入正確的郵件地址"
 
-#. [ForgotPassword.inputEmptyEmail] - undefined
-#. [EmailVerification.inputEmptyEmail] - undefined
-#. [emailPasswordValidator.EMPTY_EMAIL] - undefined
-#. [validator.EMPTY_EMAIL] - undefined
+#. [ForgotPassword.inputEmptyEmail]
+#. defaultMessage is:
+#. Please input an email
+#. [EmailVerification.inputEmptyEmail]
+#. defaultMessage is:
+#. Please input an email
+#. [emailPasswordValidator.EMPTY_EMAIL]
+#. defaultMessage is:
+#. Please input an email
+#. [validator.EMPTY_EMAIL]
+#. defaultMessage is:
+#. Please input an email
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
@@ -956,23 +1400,33 @@ msgstr "請輸入正確的郵件地址"
 msgid "Please input an email"
 msgstr "請輸入郵件地址"
 
-#. [landingPage.EmailSection.inputEmailPlaceholder] - undefined
+#. [landingPage.EmailSection.inputEmailPlaceholder]
+#. defaultMessage is:
+#. Please input your MediaTek email address
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Please input your MediaTek email address"
 msgstr "請輸入您的聯發科技電子郵件地址"
 
-#. [AuthPage.resetPasswordSuccessMessage] - undefined
+#. [AuthPage.resetPasswordSuccessMessage]
+#. defaultMessage is:
+#. Please login with new password.
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please login with new password."
 msgstr "請使用新密碼登入"
 
-#. [landingPage.EmailSection.goldBandReminder] - undefined
+#. [landingPage.EmailSection.goldBandReminder]
+#. defaultMessage is:
+#. Please make sure you've read the "Learn the differnce".
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "Please make sure you've read the 'Learn the differnce'."
-msgstr ""
+msgid "Please make sure you've read the \"Learn the differnce\"."
+msgstr "申請金手還需繳回識別證，送出申請前請詳閱「了解差異」。"
 
-#. [ActivatePage.description] - undefined
-#. [ResetSerialNumberPage.description] - undefined
+#. [ActivatePage.description]
+#. defaultMessage is:
+#. Please set a password and the serial number of the band to complete the registration.
+#. [ResetSerialNumberPage.description]
+#. defaultMessage is:
+#. Please set a password and the serial number of the band to complete the registration.
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid ""
@@ -980,330 +1434,489 @@ msgid ""
 "registration."
 msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
 
-#. [ActivateAccount.message] - undefined
+#. [ActivateAccount.message]
+#. defaultMessage is:
+#. Please set a password to complete the registration.
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 msgid "Please set a password to complete the registration."
 msgstr "請輸入密碼來完成註冊流程。"
 
-#. [EfficiencyIndicator.Poor] - undefined
+#. [EfficiencyIndicator.Poor]
+#. defaultMessage is:
+#. Poor
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Poor"
 msgstr "很差"
 
-#. [landingPage.QuestionnaireSection.option.pressure] - undefined
+#. [landingPage.QuestionnaireSection.option.pressure]
+#. defaultMessage is:
+#. Pressure Analytics
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Pressure Analytics"
 msgstr "壓力分析"
 
-#. [LangingPage.PrivacyTitle] - undefined
+#. [LangingPage.PrivacyTitle]
+#. defaultMessage is:
+#. Privacy
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 msgid "Privacy"
 msgstr "隱私"
 
-#. [landingPage.EmailSection.policy] - undefined
-#. [landingPage.Footer.PrivacyPolicy] - undefined
+#. [landingPage.EmailSection.policy]
+#. defaultMessage is:
+#. Privacy Policy
+#. [landingPage.Footer.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Privacy Policy"
 msgstr "隱私政策"
 
-#. [AccountSetting.ProfileDetail] - undefined
+#. [AccountSetting.ProfileDetail]
+#. defaultMessage is:
+#. Profile Detail
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Profile Detail"
 msgstr "個人檔案"
 
-#. [landingPage.ProjectIntroDialog.duration] - undefined
+#. [landingPage.ProjectIntroDialog.duration]
+#. defaultMessage is:
+#. Project Duration
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Duration"
 msgstr "實驗時間"
 
-#. [landingPage.ProjectIntroDialog.objective] - undefined
+#. [landingPage.ProjectIntroDialog.objective]
+#. defaultMessage is:
+#. Project Objective
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Objective"
 msgstr "實驗目的"
 
-#. [landingPage.ProjectIntroDialog.subject] - undefined
+#. [landingPage.ProjectIntroDialog.subject]
+#. defaultMessage is:
+#. Project Subjects
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Subjects"
 msgstr "實驗對象"
 
-#. [SleepStagePanel.REM] - undefined
-#. [SleepStageMessages.REM] - undefined
-#. [SleepStageMessages.REM] - undefined
+#. [SleepStagePanel.REM]
+#. defaultMessage is:
+#. REM
+#. [SleepStageMessages.REM]
+#. defaultMessage is:
+#. REM
+#. [SleepStageMessages.REM]
+#. defaultMessage is:
+#. REM
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "REM"
 msgstr "REM"
 
-#. [BloodPressureTable.RecentMeasurements] - undefined
+#. [BloodPressureTable.RecentMeasurements]
+#. defaultMessage is:
+#. Recent measurements
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Recent measurements"
 msgstr "近期量測紀錄"
 
-#. [LoginForm.successMessage] - undefined
+#. [LoginForm.successMessage]
+#. defaultMessage is:
+#. Registration successful! Please sign in.
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 msgid "Registration successful! Please sign in."
 msgstr "註冊成功！請登入。"
 
-#. [CalorieChart.Remaining] - undefined
+#. [CalorieChart.Remaining]
+#. defaultMessage is:
+#. Remaining
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "Remaining"
 msgstr "剩餘"
 
-#. [ResendEmailVerificationPage.submitButton] - undefined
+#. [ResendEmailVerificationPage.submitButton]
+#. defaultMessage is:
+#. Resend the Verification Link
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid "Resend the Verification Link"
 msgstr "重新發送帳號認證信"
 
-#. [ResetPassword.sendButton] - undefined
+#. [ResetPassword.title]
+#. defaultMessage is:
+#. Reset Password
+#. [ResetPassword.sendButton]
+#. defaultMessage is:
+#. Reset Password
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 msgid "Reset Password"
 msgstr "重設密碼"
 
-#. [AuthPage.resetPasswordFailedTitle] - undefined
+#. [AuthPage.resetPasswordFailedTitle]
+#. defaultMessage is:
+#. Reset password failed
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Reset password failed"
 msgstr "重設密碼失敗"
 
-#. [AuthPage.resetPasswordTimeoutTitle] - undefined
+#. [AuthPage.resetPasswordTimeoutTitle]
+#. defaultMessage is:
+#. Reset password timeout
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Reset password timeout"
 msgstr "密碼重設逾期"
 
-#. [ResetPasswordPage.title] - undefined
+#. [ResetPasswordPage.title]
+#. defaultMessage is:
+#. Reset your password
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Reset your password"
 msgstr "重設密碼"
 
-#. [ResetSerialNumberPage.title] - undefined
+#. [ResetSerialNumberPage.title]
+#. defaultMessage is:
+#. Reset your serial number of the band
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Reset your serial number of the band"
 msgstr "重設手環序號"
 
-#. [SleepStagePanel.Restless] - undefined
-#. [SleepStageMessages.Restless] - undefined
-#. [SleepStageMessages.Restless] - undefined
+#. [SleepStagePanel.Restless]
+#. defaultMessage is:
+#. Restless
+#. [SleepStageMessages.Restless]
+#. defaultMessage is:
+#. Restless
+#. [SleepStageMessages.Restless]
+#. defaultMessage is:
+#. Restless
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Restless"
 msgstr "不寧"
 
-#. [StepChart.Run] - undefined
-#. [ActivityTypeOverlay.Run] - undefined
-#. [ActivityTypeOverlay.Run] - undefined
+#. [StepChart.Run]
+#. defaultMessage is:
+#. Run
+#. [ActivityTypeOverlay.Run]
+#. defaultMessage is:
+#. Run
+#. [ActivityTypeOverlay.Run]
+#. defaultMessage is:
+#. Run
 #: build/messages/src/scripts/components/common/StepChart.json
 #: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 msgid "Run"
 msgstr "跑"
 
-#. [personalReport.HRV.SDNN] - undefined
+#. [personalReport.HRV.SDNN]
+#. defaultMessage is:
+#. SDNN {sdnn}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "SDNN {sdnn}"
 msgstr "SDNN {sdnn}"
 
-#. [landingPage.EmailSection.button] - undefined
+#. [landingPage.EmailSection.button]
+#. defaultMessage is:
+#. SUBMIT
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "SUBMIT"
 msgstr "送出"
 
-#. [ChangePasswordDialog.saveButton] - undefined
-#. [SaveButton.Save] - undefined
+#. [ChangePasswordDialog.saveButton]
+#. defaultMessage is:
+#. Save
+#. [SaveButton.Save]
+#. defaultMessage is:
+#. Save
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #: build/messages/src/scripts/components/accountSetting/SaveButton.json
 msgid "Save"
 msgstr "儲存"
 
-#. [ActivatePage.submitButton] - undefined
-#. [ResetPasswordPage.submitButton] - undefined
-#. [ResetSerialNumberPage.submitButton] - undefined
+#. [ActivatePage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
+#. [ResetPasswordPage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
+#. [ResetSerialNumberPage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Save and Continue"
 msgstr "儲存並繼續"
 
-#. [ForgotPassword.sendButton] - undefined
+#. [ForgotPassword.sendButton]
+#. defaultMessage is:
+#. Send Email
 #: build/messages/src/scripts/components/authentication/ForgotPassword.json
 msgid "Send Email"
 msgstr "寄送電子郵件"
 
-#. [EmailVerification.sendButton] - undefined
+#. [EmailVerification.sendButton]
+#. defaultMessage is:
+#. Send Email Again
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Send Email Again"
 msgstr "再次寄送電子郵件"
 
-#. [ForgotPasswordPage.submitButton] - undefined
+#. [ForgotPasswordPage.submitButton]
+#. defaultMessage is:
+#. Send the Reset Link
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 msgid "Send the Reset Link"
 msgstr "發送重設密碼信件"
 
-#. [LoginPage.sendingSucceessTitle] - undefined
+#. [LoginPage.sendingSucceessTitle]
+#. defaultMessage is:
+#. Sending successful, just one step away!
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Sending successful, just one step away!"
 msgstr "儲存成功，最後一步了！"
 
-#. [ActivatePage.serialNumberLabel] - undefined
+#. [ActivatePage.serialNumberLabel]
+#. defaultMessage is:
+#. Serial Number
 #: build/messages/src/scripts/containers/ActivatePage.json
 msgid "Serial Number"
 msgstr "序號"
 
-#. [validator.INVALID_SERIALNUMBER] - undefined
+#. [validator.INVALID_SERIALNUMBER]
+#. defaultMessage is:
+#. Serial number must be 8 characters
 #: build/messages/src/scripts/utils/validator.json
 msgid "Serial number must be 8 characters"
 msgstr "序號需為 8 個字元。"
 
-#. [ActivateAccount.title] - undefined
+#. [ActivateAccount.title]
+#. defaultMessage is:
+#. Set Password
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 msgid "Set Password"
 msgstr "設置密碼"
 
-#. [ActivatePage.title] - undefined
+#. [ActivatePage.title]
+#. defaultMessage is:
+#. Set your password and the SN of the band
 #: build/messages/src/scripts/containers/ActivatePage.json
 msgid "Set your password and the SN of the band"
 msgstr "請設定您的密碼與手環序號"
 
-#. [LangingPage.CalorieContent] - undefined
+#. [LangingPage.CalorieContent]
+#. defaultMessage is:
+#. Share exercise achievements with your network and reach the goals together .
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid ""
 "Share exercise achievements with your network and reach the goals together ."
 msgstr "隨時與朋友連線分享健身成果，共同努力完成目標"
 
-#. [BloodPressureTable.ShowMore] - undefined
+#. [BloodPressureTable.ShowMore]
+#. defaultMessage is:
+#. Show All
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Show All"
 msgstr "顯示全部"
 
-#. [ExercisePanel.ShowMore] - undefined
-#. [ExercisePanel.ShowMore] - undefined
+#. [ExercisePanel.ShowMore]
+#. defaultMessage is:
+#. Show More
+#. [ExercisePanel.ShowMore]
+#. defaultMessage is:
+#. Show More
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "Show More"
 msgstr "顯示更多"
 
-#. [Authentication.Header.signIn] - undefined
-#. [LoginPage.signInButton] - undefined
+#. [Authentication.Header.signIn]
+#. defaultMessage is:
+#. Sign In
+#. [LoginPage.signInButton]
+#. defaultMessage is:
+#. Sign In
 #: build/messages/src/scripts/components/authentication/Header.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Sign In"
 msgstr "登入"
 
-#. [landingPage.Header.signInOrCreateAccount] - undefined
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
 #: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Sign In / Create Account"
 msgstr "登入 / 建立帳戶"
 
-#. [AuthPage.signupSuccessTitle] - undefined
+#. [AuthPage.signupSuccessTitle]
+#. defaultMessage is:
+#. Sign up Successful
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Sign up Successful"
 msgstr "登入成功"
 
-#. [SleepStagePanel.Sleep] - undefined
-#. [SleepStageMessages.Sleep] - undefined
-#. [SleepStageMessages.Sleep] - undefined
+#. [SleepStagePanel.Sleep]
+#. defaultMessage is:
+#. Sleep
+#. [SleepStageMessages.Sleep]
+#. defaultMessage is:
+#. Sleep
+#. [SleepStageMessages.Sleep]
+#. defaultMessage is:
+#. Sleep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Sleep"
 msgstr "睡眠"
 
-#. [SleepReportDetails.SleepEfficiency] - undefined
-#. [SleepReportList.SleepEfficiency] - undefined
+#. [SleepReportDetails.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
+#. [SleepReportList.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Efficiency"
 msgstr "睡眠效率"
 
-#. [SleepChartPanel.SleepReport] - undefined
-#. [SleepReportPanel.SleepReport] - undefined
-#. [SleepReportList.SleepReport] - undefined
+#. [SleepChartPanel.SleepReport]
+#. defaultMessage is:
+#. Sleep Report
+#. [SleepReportPanel.SleepReport]
+#. defaultMessage is:
+#. Sleep Report
+#. [SleepReportList.SleepReport]
+#. defaultMessage is:
+#. Sleep Report
 #: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Report"
 msgstr "睡眠報告"
 
-#. [SleepReportList.SleepReportList] - undefined
-#. [SleepReportList.SleepReportList] - undefined
+#. [SleepReportList.SleepReportList]
+#. defaultMessage is:
+#. Sleep Report List
+#. [SleepReportList.SleepReportList]
+#. defaultMessage is:
+#. Sleep Report List
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Report List"
 msgstr "睡眠報告清單"
 
-#. [landingPage.QuestionnaireSection.option.sleep] - undefined
-#. [SleepChartPanel.SleepTracking] - undefined
+#. [landingPage.QuestionnaireSection.option.sleep]
+#. defaultMessage is:
+#. Sleep Tracking
+#. [SleepChartPanel.SleepTracking]
+#. defaultMessage is:
+#. Sleep Tracking
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
 msgid "Sleep Tracking"
 msgstr "睡眠追蹤"
 
-#. [LangingPage.SleepTrackTitle] - undefined
+#. [LangingPage.SleepTrackTitle]
+#. defaultMessage is:
+#. Sleep Well and Sleep Sound
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Sleep Well and Sleep Sound"
 msgstr "追求更好的睡眠品質"
 
-#. [landingPage.QuestionnaireSection.option.social] - undefined
+#. [landingPage.QuestionnaireSection.option.social]
+#. defaultMessage is:
+#. Social Contest
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Social Contest"
 msgstr "社群競賽"
 
-#. [landingPage.EmailSection.submitError] - undefined
+#. [landingPage.EmailSection.submitError]
+#. defaultMessage is:
+#. Something is broken, please try again later.
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Something is broken, please try again later."
 msgstr "出錯了，請再試一次。"
 
-#. [NotFoundPage.PageNotFound] - undefined
+#. [NotFoundPage.PageNotFound]
+#. defaultMessage is:
+#. Sorry! Page not found.
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 msgid "Sorry! Page not found."
 msgstr "抱歉！找不到此頁面。"
 
-#. [ExerciseChart.Start] - undefined
-#. [ExerciseChart.Start] - undefined
+#. [ExerciseChart.Start]
+#. defaultMessage is:
+#. Start
+#. [ExerciseChart.Start]
+#. defaultMessage is:
+#. Start
 #: build/messages/src/scripts/components/exercise/ExerciseChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 msgid "Start"
 msgstr "開始"
 
-#. [LoginPage.staySignedInLabel] - undefined
+#. [LoginPage.staySignedInLabel]
+#. defaultMessage is:
+#. Stay signed in
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Stay signed in"
 msgstr "保持登入狀態"
 
-#. [StepPanel.Step] - undefined
+#. [StepPanel.Step]
+#. defaultMessage is:
+#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Step"
 msgstr "步數"
 
-#. [ActivateAccount.sendButton] - undefined
+#. [ActivateAccount.sendButton]
+#. defaultMessage is:
+#. Submit
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
 msgid "Submit"
 msgstr "送出"
 
-#. [AuthPage.resendEmailVerificationSuccess] - undefined
+#. [AuthPage.resendEmailVerificationSuccess]
+#. defaultMessage is:
+#. Success
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Success"
 msgstr "成功"
 
-#. [BloodPressureChartMeta.Systolic] - undefined
-#. [BloodPressureTable.Systolic] - undefined
+#. [BloodPressureChartMeta.Systolic]
+#. defaultMessage is:
+#. Systolic
+#. [BloodPressureTable.Systolic]
+#. defaultMessage is:
+#. Systolic
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Systolic"
 msgstr "收縮壓"
 
-#. [landingPage.EmailSection.taipei] - undefined
+#. [landingPage.EmailSection.taipei]
+#. defaultMessage is:
+#. Taipei
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Taipei"
 msgstr "台北"
 
-#. [landingPage.EmailSection.terms] - undefined
+#. [landingPage.EmailSection.terms]
+#. defaultMessage is:
+#. Terms & Conditions
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Terms & Conditions"
 msgstr "使用條款"
 
-#. [LangingPage.PrivacyContent2] - undefined
+#. [LangingPage.PrivacyContent2]
+#. defaultMessage is:
+#. The data will {not} be revealed to anyone, including HR or managers, before getting your approval.
 #: build/messages/src/scripts/components/landingPage/PrivacySection.json
 msgid ""
 "The data will {not} be revealed to anyone, including HR or managers, before "
@@ -1311,7 +1924,9 @@ msgid ""
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP2] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP2]
+#. defaultMessage is:
+#. The gold band is your employee badge, you can use it to access the taipei office area; and be identified as an MediaTek employee. However, it has the following limitations:
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "The gold band is your employee badge, you can use it to access the taipei "
@@ -1321,30 +1936,40 @@ msgstr ""
 "聯發金手環視同員工識別證，具備台北辦公區域門禁功能、刷餐功能以及員工識別功"
 "能。但同時也有以下限制："
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2]
+#. defaultMessage is:
+#. The gold band is your employee badge. Do not let other people use it.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "The gold band is your employee badge. Do not let other people use it."
 msgstr ""
 "金手環等同識別證，限本人使用，請勿交由他人使用，台北辦公室保全也會以金手環做"
 "為辨識依據。"
 
-#. [ResetSerialNumberPage.serialNumberInvalid] - undefined
+#. [ResetSerialNumberPage.serialNumberInvalid]
+#. defaultMessage is:
+#. The serial number is malformatted.
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "The serial number is malformatted."
 msgstr "手環序號格式錯誤。"
 
-#. [ResetSerialNumberPage.tokenInvalid] - undefined
+#. [ResetSerialNumberPage.tokenInvalid]
+#. defaultMessage is:
+#. The token is expired. Please contact us to resend a new resetting email.
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid ""
 "The token is expired. Please contact us to resend a new resetting email."
 msgstr "連結中的認證碼過期，請聯繫我們已取得新的重設連結。"
 
-#. [ResetPasswordPage.tokenInvalid] - undefined
+#. [ResetPasswordPage.tokenInvalid]
+#. defaultMessage is:
+#. The token is invalid.
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "The token is invalid."
 msgstr "此連結所帶之識別碼無效。"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP1] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP1]
+#. defaultMessage is:
+#. There are two versions of employee band, the black one and the gold one. These two versions of band are both equipped with health related function, however, {highlight}
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid ""
 "There are two versions of employee band, the black one and the gold one. "
@@ -1354,125 +1979,185 @@ msgstr ""
 "員工手環分為兩種版本，聯發金手環與黑手環。兩種都具備健康相關功能，但"
 "{highlight}"
 
-#. [SleepReportList.Title] - undefined
+#. [SleepReportList.Title]
+#. defaultMessage is:
+#. Title
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Title"
 msgstr "名稱"
 
-#. [landingPage.ProjectIntroDialog.objectiveContext] - undefined
+#. [landingPage.ProjectIntroDialog.objectiveContext]
+#. defaultMessage is:
+#. To test the employee reactions and experiences of wearable badge
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "To test the employee reactions and experiences of wearable badge"
 msgstr "了解同仁對健康穿戴式識別證的反應與感受"
 
-#. [CalorieChart.Today] - undefined
-#. [ExercisePanel.Today] - undefined
-#. [SleepStagePanel.Today] - undefined
+#. [CalorieChart.Today]
+#. defaultMessage is:
+#. Today
+#. [ExercisePanel.Today]
+#. defaultMessage is:
+#. Today
+#. [SleepStagePanel.Today]
+#. defaultMessage is:
+#. Today
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "Today"
 msgstr "今天"
 
-#. [HeartRateChart.TodayAvg] - undefined
+#. [HeartRateChart.TodayAvg]
+#. defaultMessage is:
+#. Today avg.
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Today avg."
 msgstr "今日平均"
 
-#. [Leaderboard.Top100] - undefined
+#. [Leaderboard.Top100]
+#. defaultMessage is:
+#. Top 100
 #: build/messages/src/scripts/containers/Leaderboard.json
 msgid "Top 100"
 msgstr "前 100 名"
 
-#. [SleepReportDetails.Total] - undefined
-#. [SleepReportList.Total] - undefined
+#. [SleepReportDetails.Total]
+#. defaultMessage is:
+#. Total
+#. [SleepReportList.Total]
+#. defaultMessage is:
+#. Total
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Total"
 msgstr "加總"
 
-#. [LangingPage.BloodPressureContent] - undefined
+#. [LangingPage.BloodPressureContent]
+#. defaultMessage is:
+#. Track daily blood pressure with built-in optical and ECG bio-sensor solutions for a peach of mind.
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid ""
 "Track daily blood pressure with built-in optical and ECG bio-sensor "
 "solutions for a peach of mind."
 msgstr "內建光學與心電式生物傳感器，輕鬆量測血壓，健康每一天"
 
-#. [ActivatePage.serialNumberInconsistent] - undefined
-#. [ResetSerialNumberPage.serialNumberInconsistent] - undefined
+#. [ActivatePage.serialNumberInconsistent]
+#. defaultMessage is:
+#. Two Serial Numbers must be same
+#. [ResetSerialNumberPage.serialNumberInconsistent]
+#. defaultMessage is:
+#. Two Serial Numbers must be same
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "Two Serial Numbers must be same"
 msgstr "兩次輸入的序號不一致"
 
-#. [ResetPasswordPage.passwordInconsistent] - undefined
+#. [ResetPasswordPage.passwordInconsistent]
+#. defaultMessage is:
+#. Two passwords must be same
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Two passwords must be same"
 msgstr "兩次輸入的密碼不一致"
 
-#. [ResetPasswordPage.password2Placeholder] - undefined
+#. [ResetPasswordPage.password2Placeholder]
+#. defaultMessage is:
+#. Type again
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Type again"
 msgstr "請再輸入一次"
 
-#. [LangingPage.HeartRateContent] - undefined
+#. [LangingPage.HeartRateContent]
+#. defaultMessage is:
+#. Update your workout data instantly to enjoy brand new exercise experiences.
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid ""
 "Update your workout data instantly to enjoy brand new exercise experiences."
 msgstr "即時更新您的健康數據，全新的運動體驗"
 
-#. [ProfilePhoto.UploadPicture] - undefined
+#. [ProfilePhoto.UploadPicture]
+#. defaultMessage is:
+#. Upload Picture
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 msgid "Upload Picture"
 msgstr "上傳圖片"
 
-#. [ChangePasswordDialog.NewPassowrdPlaceholder] - undefined
+#. [ChangePasswordDialog.NewPassowrdPlaceholder]
+#. defaultMessage is:
+#. Use at least 8 alphanumeric characters
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 msgid "Use at least 8 alphanumeric characters"
 msgstr "使用至少八個英文或數字"
 
-#. [ResendEmailVerificationPage.alreadyActivated] - undefined
+#. [ResendEmailVerificationPage.alreadyActivated]
+#. defaultMessage is:
+#. User is already activated.
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid "User is already activated."
 msgstr "此帳號已被啟用。"
 
-#. [ResendEmailVerificationPage.userNotFound] - undefined
+#. [ResendEmailVerificationPage.userNotFound]
+#. defaultMessage is:
+#. User is not found.
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid "User is not found."
 msgstr "找不到此使用者。"
 
-#. [ForgotPasswordPage.userNotFound] - undefined
+#. [ForgotPasswordPage.userNotFound]
+#. defaultMessage is:
+#. User not found.
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 msgid "User not found."
 msgstr "找不到此使用者。"
 
-#. [Campaign.PanelTitle] - undefined
+#. [Campaign.PanelTitle]
+#. defaultMessage is:
+#. Users Eligible for The Drawing
 #: build/messages/src/scripts/containers/Campaign.json
 msgid "Users Eligible for The Drawing"
 msgstr "可參加抽獎名單"
 
-#. [ResendEmailVerificationPage.title] - undefined
+#. [ResendEmailVerificationPage.title]
+#. defaultMessage is:
+#. Verification link has expired!
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid "Verification link has expired!"
 msgstr "認證連結已過期"
 
-#. [EmailVerification.linkExpire] - undefined
+#. [EmailVerification.linkExpire]
+#. defaultMessage is:
+#. Verification link has expired.
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
 msgid "Verification link has expired."
 msgstr "認證連結過期"
 
-#. [SleepStagePanel.Wake] - undefined
-#. [SleepStageMessages.Wake] - undefined
-#. [SleepStageMessages.Wake] - undefined
+#. [SleepStagePanel.Wake]
+#. defaultMessage is:
+#. Wake
+#. [SleepStageMessages.Wake]
+#. defaultMessage is:
+#. Wake
+#. [SleepStageMessages.Wake]
+#. defaultMessage is:
+#. Wake
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Wake"
 msgstr "清醒"
 
-#. [StepChart.Walk] - undefined
-#. [Indication.Walk] - undefined
-#. [StepPanel.Walk] - undefined
-#. [Indication.Walk] - undefined
+#. [StepChart.Walk]
+#. defaultMessage is:
+#. Walk
+#. [Indication.Walk]
+#. defaultMessage is:
+#. Walk
+#. [StepPanel.Walk]
+#. defaultMessage is:
+#. Walk
+#. [Indication.Walk]
+#. defaultMessage is:
+#. Walk
 #: build/messages/src/scripts/components/common/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -1480,75 +2165,105 @@ msgstr "清醒"
 msgid "Walk"
 msgstr "走路"
 
-#. [landingPage.SuccessSection.content] - undefined
+#. [landingPage.SuccessSection.content]
+#. defaultMessage is:
+#. We've received your application for the Health Band, please check your email inbox for the confimation email, which is sent to {formattedEmail}.
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid ""
 "We've received your application for the Health Band, please check your email "
 "inbox for the confimation email, which is sent to {formattedEmail}."
-msgstr ""
+msgstr "我們已收到您的申請，請至 {formattedEmail} 信箱收取確認郵件。"
 
-#. [landingPage.ProjectIntroDialog.title] - undefined
+#. [landingPage.ProjectIntroDialog.title]
+#. defaultMessage is:
+#. Wearable Badge Experimental Project
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Wearable Badge Experimental Project"
 msgstr "穿戴式識別證實驗計畫"
 
-#. [Leaderboard.BannerTitle] - undefined
+#. [Leaderboard.BannerTitle]
+#. defaultMessage is:
+#. Weekly Step Count
 #: build/messages/src/scripts/containers/Leaderboard.json
 msgid "Weekly Step Count"
 msgstr "每週總步數"
 
-#. [ProfileForm.WeightLabel] - undefined
+#. [ProfileForm.WeightLabel]
+#. defaultMessage is:
+#. Weight
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Weight"
 msgstr "體重"
 
-#. [LoginPage.title] - undefined
+#. [LoginPage.title]
+#. defaultMessage is:
+#. Welcome back! Sign into your account
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Welcome back! Sign into your account"
 msgstr "歡迎回來！請登入您的帳戶"
 
-#. [MoreInfoOverlay.WhatDoesTheDataMean] - undefined
+#. [MoreInfoOverlay.WhatDoesTheDataMean]
+#. defaultMessage is:
+#. What does the data mean ?
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "What does the data mean ?"
 msgstr "這些資料代表什麼意思呢？"
 
-#. [landingPage.EmailSection.officePlaceTitle] - undefined
+#. [landingPage.EmailSection.officePlaceTitle]
+#. defaultMessage is:
+#. Where is your office place ?
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Where is your office place ?"
 msgstr "您的辦公室位置？"
 
-#. [landingPage.QuestionnaireSection.title] - undefined
+#. [landingPage.QuestionnaireSection.title]
+#. defaultMessage is:
+#. Which service do you mainly want to use ?
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Which service do you mainly want to use ?"
-msgstr ""
+msgstr "您主要想要使用哪個服務呢？"
 
-#. [ProfileForm.Year] - undefined
+#. [ProfileForm.Year]
+#. defaultMessage is:
+#. Year
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
 msgid "Year"
 msgstr "年"
 
-#. [landingPage.EmailSection.goldBandLabel] - undefined
+#. [landingPage.EmailSection.goldBandLabel]
+#. defaultMessage is:
+#. Yes (Gold band)
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Yes (Gold band)"
 msgstr "是（金手環）"
 
-#. [SleepStagePanel.Yesterday] - undefined
+#. [SleepStagePanel.Yesterday]
+#. defaultMessage is:
+#. Yesterday
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "Yesterday"
 msgstr "昨天"
 
-#. [CalorieChart.goalCompleted] - undefined
+#. [CalorieChart.goalCompleted]
+#. defaultMessage is:
+#. You have completed the goal!
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "You have completed the goal!"
 msgstr "您的目標已達成！"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3]
+#. defaultMessage is:
+#. Your original badge will be retained in Taipei front desk.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Your original badge will be retained in Taipei front desk."
 msgstr "實驗期間需請同仁配合將原識別證繳回給台北櫃檯。"
 
-#. [ForgotPasswordPage.pleaseWait] - undefined
-#. [ResendEmailVerificationPage.pleaseWait] - undefined
+#. [ForgotPasswordPage.pleaseWait]
+#. defaultMessage is:
+#. Your reset password email has been sent in last 5 minutes. Please wait if you would like to resend a new one.
+#. [ResendEmailVerificationPage.pleaseWait]
+#. defaultMessage is:
+#. Your reset password email has been sent in last 5 minutes. Please wait if you would like to resend a new one.
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 msgid ""
@@ -1556,56 +2271,86 @@ msgid ""
 "you would like to resend a new one."
 msgstr "重設密碼郵件不久前才剛被寄送，需等待五分鐘後才可再發送一次。"
 
-#. [ExercisePanel.At] - undefined
+#. [ExercisePanel.At]
+#. defaultMessage is:
+#. at
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "at"
 msgstr "在"
 
-#. [ExericsePanel.AvgBpm] - undefined
+#. [ExericsePanel.AvgBpm]
+#. defaultMessage is:
+#. avg bpm
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "avg bpm"
 msgstr "avg bpm"
 
-#. [Indication.bmp] - undefined
+#. [Indication.bmp]
+#. defaultMessage is:
+#. bmp
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "bmp"
 msgstr "bmp"
 
-#. [HeartRateChart.Bpm] - undefined
-#. [personalReport.HeartRateChart.bpm] - undefined
+#. [HeartRateChart.Bpm]
+#. defaultMessage is:
+#. bpm
+#. [personalReport.HeartRateChart.bpm]
+#. defaultMessage is:
+#. bpm
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 #: build/messages/src/scripts/components/personalReport/HeartRateChart.json
 msgid "bpm"
 msgstr "bpm"
 
-#. [ExerciseMetaDetails.bpm/min] - undefined
+#. [ExerciseMetaDetails.bpm/min]
+#. defaultMessage is:
+#. bpm/min
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 msgid "bpm/min"
 msgstr "bpm/min"
 
-#. [personalReport.CalorieChart.cal] - undefined
+#. [personalReport.CalorieChart.cal]
+#. defaultMessage is:
+#. cal
 #: build/messages/src/scripts/components/personalReport/CalorieChart.json
 msgid "cal"
 msgstr "cal"
 
-#. [ExericsePanel.H] - undefined
-#. [SleepReportDetails.H] - undefined
+#. [ExericsePanel.H]
+#. defaultMessage is:
+#. h
+#. [SleepReportDetails.H]
+#. defaultMessage is:
+#. h
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "h"
 msgstr "h"
 
-#. [ExerciseMetaDetails.Hour] - undefined
-#. [SleepReportDetails.Hour] - undefined
+#. [ExerciseMetaDetails.Hour]
+#. defaultMessage is:
+#. hour
+#. [SleepReportDetails.Hour]
+#. defaultMessage is:
+#. hour
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "hour"
 msgstr "小時"
 
-#. [CalorieChart.kcal] - undefined
-#. [ExericsePanel.Kcal] - undefined
-#. [ExerciseMetaDetails.kcal] - undefined
-#. [Indication.kcal] - undefined
+#. [CalorieChart.kcal]
+#. defaultMessage is:
+#. kcal
+#. [ExericsePanel.Kcal]
+#. defaultMessage is:
+#. kcal
+#. [ExerciseMetaDetails.kcal]
+#. defaultMessage is:
+#. kcal
+#. [Indication.kcal]
+#. defaultMessage is:
+#. kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
@@ -1613,54 +2358,82 @@ msgstr "小時"
 msgid "kcal"
 msgstr "kcal"
 
-#. [CalorieChart.kcalBurned] - undefined
+#. [CalorieChart.kcalBurned]
+#. defaultMessage is:
+#. kcal burned
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "kcal burned"
 msgstr "已燃燒熱量"
 
-#. [ExerciseMetaDetails.Minute] - undefined
-#. [ExericsePanel.Min] - undefined
-#. [SleepReportDetails.Minute] - undefined
+#. [ExerciseMetaDetails.Minute]
+#. defaultMessage is:
+#. min
+#. [ExericsePanel.Min]
+#. defaultMessage is:
+#. min
+#. [SleepReportDetails.Minute]
+#. defaultMessage is:
+#. min
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"
 
-#. [BloodPressureChartMeta.mmHg] - undefined
-#. [BloodPressureChart.mmHg] - undefined
-#. [BloodPressureTable.MmHg] - undefined
+#. [BloodPressureChartMeta.mmHg]
+#. defaultMessage is:
+#. mmHg
+#. [BloodPressureChart.mmHg]
+#. defaultMessage is:
+#. mmHg
+#. [BloodPressureTable.MmHg]
+#. defaultMessage is:
+#. mmHg
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "mmHg"
 msgstr "mmHg"
 
-#. [CalorieChart.remainKcal] - undefined
+#. [CalorieChart.remainKcal]
+#. defaultMessage is:
+#. remain {remaining} kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "remain {remaining} kcal"
 msgstr "剩餘 {remaining} kcal"
 
-#. [CampaignListRow.Stars] - undefined
+#. [CampaignListRow.Stars]
+#. defaultMessage is:
+#. stars
 #: build/messages/src/scripts/components/campaign/CampaignListRow.json
 msgid "stars"
 msgstr "星星"
 
-#. [Indication.step] - undefined
-#. [StepPanel.step] - undefined
-#. [Indication.step] - undefined
+#. [Indication.step]
+#. defaultMessage is:
+#. step
+#. [StepPanel.step]
+#. defaultMessage is:
+#. step
+#. [Indication.step]
+#. defaultMessage is:
+#. step
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "step"
 msgstr "步"
 
-#. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight]
+#. defaultMessage is:
+#. the gold band can be additionally served as employee badge.
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 
-#. [landingPage.Footer.Copyrights] - undefined
+#. [landingPage.Footer.Copyrights]
+#. defaultMessage is:
+#. © 2016 MediaTek Inc. All Rights Reserved.
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."

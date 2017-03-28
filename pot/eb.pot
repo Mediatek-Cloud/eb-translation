@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-27T08:03:19.603Z\n"
+"POT-Creation-Date: 2017-03-28T01:35:25.311Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -1415,9 +1415,7 @@ msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 #. [landingPage.SuccessSection.content] - undefined
-msgid "We've received your application for the Health Band,
-          please check your email inbox for the confimation email,
-          which is sent to {formattedEmail}."
+msgid "We've received your application for the Health Band, please check your email inbox for the confimation email, which is sent to {formattedEmail}."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1448,6 +1446,11 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.officePlaceTitle] - undefined
 msgid "Where is your office place ?"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#. [landingPage.QuestionnaireSection.title] - undefined
+msgid "Which service do you mainly want to use ?"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json

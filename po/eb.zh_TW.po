@@ -1419,7 +1419,7 @@ msgstr "請使用新密碼登入"
 #. Please make sure you've read the "Learn the differnce".
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Please make sure you've read the \"Learn the differnce\"."
-msgstr "申請金手還需繳回識別證，送出申請前請詳閱「了解差異」。"
+msgstr "申請金手環需繳回識別證，送出申請前請詳閱「了解差異」。"
 
 #. [ActivatePage.description]
 #. defaultMessage is:

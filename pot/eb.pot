@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-28T01:35:25.311Z\n"
+"POT-Creation-Date: 2017-03-28T02:04:08.404Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -924,6 +924,11 @@ msgstr ""
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.resetPasswordSuccessMessage] - undefined
 msgid "Please login with new password."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.goldBandReminder] - undefined
+msgid "Please make sure you've read the "Learn the differnce"."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ActivatePage.json

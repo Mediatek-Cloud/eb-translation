@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-27T08:03:19.603Z\n"
+"POT-Creation-Date: 2017-03-28T02:15:39.758Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -966,6 +966,11 @@ msgstr "請輸入您的聯發科技電子郵件地址"
 msgid "Please login with new password."
 msgstr "請使用新密碼登入"
 
+#. [landingPage.EmailSection.goldBandReminder] - undefined
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Please make sure you've read the 'Learn the differnce'."
+msgstr ""
+
 #. [ActivatePage.description] - undefined
 #. [ResetSerialNumberPage.description] - undefined
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -1477,8 +1482,10 @@ msgstr "走路"
 
 #. [landingPage.SuccessSection.content] - undefined
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
-msgid "We've received your application for the Health Band"
-msgstr "我們已收到您的申請"
+msgid ""
+"We've received your application for the Health Band, please check your email "
+"inbox for the confimation email, which is sent to {formattedEmail}."
+msgstr ""
 
 #. [landingPage.ProjectIntroDialog.title] - undefined
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1509,6 +1516,11 @@ msgstr "這些資料代表什麼意思呢？"
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Where is your office place ?"
 msgstr "您的辦公室位置？"
+
+#. [landingPage.QuestionnaireSection.title] - undefined
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+msgid "Which service do you mainly want to use ?"
+msgstr ""
 
 #. [ProfileForm.Year] - undefined
 #: build/messages/src/scripts/components/accountSetting/ProfileForm.json
@@ -1652,6 +1664,9 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid "We've received your application for the Health Band"
+#~ msgstr "我們已收到您的申請"
 
 #~ msgid ""
 #~ "Link with your corporate ID for a seamless experience.  * Taipei Office "

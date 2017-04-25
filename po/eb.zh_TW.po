@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-04-25T01:15:24.412Z\n"
+"POT-Creation-Date: 2017-04-25T02:26:59.891Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2181,6 +2181,13 @@ msgid ""
 msgstr ""
 "員工手環分為兩種版本，聯發金手環與黑手環。兩種都具備健康相關功能，但"
 "{highlight}"
+
+#. [landingPage.EmailSection.alreadyRegisteredError]
+#. defaultMessage is:
+#. This email address has already been registered.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "This email address has already been registered."
+msgstr "此電子郵件已被申請。"
 
 #. [SleepReportList.Title]
 #. defaultMessage is:

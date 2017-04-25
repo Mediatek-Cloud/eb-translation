@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-03-28T02:20:41.153Z\n"
+"POT-Creation-Date: 2017-04-25T01:15:24.412Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -60,11 +60,32 @@ msgstr ""
 msgid "Account Setting"
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#. [HRLoginPage.description]
+#. defaultMessage is:
+#. Account activation and the band returns
+msgid "Account activation and the band returns"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.activateAccountSuccessMessage]
 #. defaultMessage is:
 #. Account has been activated
 msgid "Account has been activated"
+msgstr ""
+
+#: build/messages/src/scripts/components/hr/Header.json
+#. [HRHeader.Activate]
+#. defaultMessage is:
+#. Activate
+msgid "Activate"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.activateAccount]
+#. defaultMessage is:
+#. Activate Account
+msgid "Activate Account"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
@@ -74,11 +95,25 @@ msgstr ""
 msgid "Activate Your Account"
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.title]
+#. defaultMessage is:
+#. Activate account
+msgid "Activate account"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.activateAccountSuccessTitle]
 #. defaultMessage is:
 #. Activate successfully
 msgid "Activate successfully"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.successTitle]
+#. defaultMessage is:
+#. Activation successful!
+msgid "Activation successful!"
 msgstr ""
 
 #: build/messages/src/scripts/components/personalReport/Activeness.json
@@ -188,6 +223,13 @@ msgstr ""
 msgid "BMR"
 msgstr ""
 
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [MoreInfoOverlay.CalorieFormula]
+#. defaultMessage is:
+#. BMR + Calorie Burn
+msgid "BMR + Calorie Burn"
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 #. [AuthPage.cancelButton]
 #. defaultMessage is:
@@ -289,6 +331,10 @@ msgstr ""
 #. [ExerciseMetaDetails.Calorie]
 #. defaultMessage is:
 #. Calorie
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#. [ExerciseMetaDetails.Calorie]
+#. defaultMessage is:
+#. Calorie
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Calorie]
 #. defaultMessage is:
@@ -319,6 +365,13 @@ msgstr ""
 #. defaultMessage is:
 #. Change Password
 msgid "Change Password"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.chupei]
+#. defaultMessage is:
+#. Chupei
+msgid "Chupei"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -354,6 +407,13 @@ msgstr ""
 #. defaultMessage is:
 #. Confirm Serial Number
 msgid "Confirm Serial Number"
+msgstr ""
+
+#: build/messages/src/scripts/containers/ContributeDataPage.json
+#. [ContributeDataPage.title]
+#. defaultMessage is:
+#. Contribute Your Data !
+msgid "Contribute Your Data !"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -402,6 +462,13 @@ msgstr ""
 #. defaultMessage is:
 #. Deep
 msgid "Deep"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#. [HRActivateAccountsPage.deleteAccount]
+#. defaultMessage is:
+#. Delete Account
+msgid "Delete Account"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -457,6 +524,13 @@ msgstr ""
 msgid "Don't have an account?"
 msgstr ""
 
+#: build/messages/src/scripts/components/hr/CsvFileDrop.json
+#. [CsvFileDrop.description]
+#. defaultMessage is:
+#. Drop the file to any place in this page
+msgid "Drop the file to any place in this page"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
 #. defaultMessage is:
@@ -500,6 +574,10 @@ msgstr ""
 msgid "Efficiency"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#. [LoginPage.emailLabel]
+#. defaultMessage is:
+#. Email
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.emailPlaceholder]
 #. defaultMessage is:
@@ -537,6 +615,10 @@ msgstr ""
 msgid "Enter new password again"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#. [LoginPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #. [ForgotPasswordPage.emailPlaceholder]
 #. defaultMessage is:
@@ -802,10 +884,10 @@ msgid "Help"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-#. [landingPage.EmailSection.hsinchu]
+#. [landingPage.EmailSection.hsinchuHQ]
 #. defaultMessage is:
-#. Hsinchu
-msgid "Hsinchu"
+#. Hsinchu HQ
+msgid "Hsinchu HQ"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -815,6 +897,10 @@ msgstr ""
 msgid "If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge."
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#. [LoginPage.combinationInvalid]
+#. defaultMessage is:
+#. Invalid combination. Please try again
 #: build/messages/src/scripts/containers/SignInPage.json
 #. [LoginPage.combinationInvalid]
 #. defaultMessage is:
@@ -900,6 +986,10 @@ msgstr ""
 msgid "Learn the difference"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#. [LoginPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.passwordPlaceholder]
 #. defaultMessage is:
@@ -1162,6 +1252,10 @@ msgstr ""
 msgid "Oops! Looks like something broke."
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#. [LoginPage.passwordLabel]
+#. defaultMessage is:
+#. Password
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #. [LoginForm.passwordPlaceholder]
 #. defaultMessage is:
@@ -1297,6 +1391,27 @@ msgstr ""
 #. defaultMessage is:
 #. Please enter password
 msgid "Please enter password"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#. [hrDeactivateAccountPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email and we will delete this account after one week.
+msgid "Please enter the applicant's email and we will delete this account after one week."
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+#. [HRSendSNReplacementMailPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email and we will send the reset link to applicant.
+msgid "Please enter the applicant's email and we will send the reset link to applicant."
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email to activate account.
+msgid "Please enter the applicant's email to activate account."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
@@ -1497,6 +1612,20 @@ msgstr ""
 msgid "Remaining"
 msgstr ""
 
+#: build/messages/src/scripts/components/hr/Header.json
+#. [HRHeader.Replace]
+#. defaultMessage is:
+#. Replace
+msgid "Replace"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+#. [HRSendSNReplacementMailPage.title]
+#. defaultMessage is:
+#. Replace tha band and reset serial number
+msgid "Replace tha band and reset serial number"
+msgstr ""
+
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [ResendEmailVerificationPage.submitButton]
 #. defaultMessage is:
@@ -1556,6 +1685,20 @@ msgstr ""
 #. defaultMessage is:
 #. Restless
 msgid "Restless"
+msgstr ""
+
+#: build/messages/src/scripts/components/hr/Header.json
+#. [HRHeader.Return]
+#. defaultMessage is:
+#. Return
+msgid "Return"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#. [hrDeactivateAccountPage.title]
+#. defaultMessage is:
+#. Return the band and delete account
+msgid "Return the band and delete account"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/StepChart.json
@@ -1631,7 +1774,22 @@ msgstr ""
 #. [ForgotPasswordPage.submitButton]
 #. defaultMessage is:
 #. Send the Reset Link
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+#. [HRActivateAccountsPage.sendTheResetLint]
+#. defaultMessage is:
+#. Send the Reset Link
 msgid "Send the Reset Link"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#. [hrDeactivateAccountPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+#. [HRSendSNReplacementMailPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+msgid "Sending successful!"
 msgstr ""
 
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -1694,6 +1852,10 @@ msgstr ""
 msgid "Show More"
 msgstr ""
 
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#. [LoginPage.signInButton]
+#. defaultMessage is:
+#. Sign In
 #: build/messages/src/scripts/components/authentication/Header.json
 #. [Authentication.Header.signIn]
 #. defaultMessage is:
@@ -1710,6 +1872,20 @@ msgstr ""
 #. defaultMessage is:
 #. Sign In / Create Account
 msgid "Sign In / Create Account"
+msgstr ""
+
+#: build/messages/src/scripts/components/hr/Header.json
+#. [HRHeader.signOut]
+#. defaultMessage is:
+#. Sign Out
+msgid "Sign Out"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#. [HRLoginPage.title]
+#. defaultMessage is:
+#. Sign into your HR account
+msgid "Sign into your HR account"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
@@ -1745,38 +1921,41 @@ msgstr ""
 msgid "Sleep Efficiency"
 msgstr ""
 
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.SleepStaging]
+#. defaultMessage is:
+#. Sleep Staging
 #: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
-#. [SleepChartPanel.SleepReport]
+#. [SleepChartPanel.SleepStaging]
 #. defaultMessage is:
-#. Sleep Report
+#. Sleep Staging
+msgid "Sleep Staging"
+msgstr ""
+
 #: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
-#. [SleepReportPanel.SleepReport]
+#. [SleepReportPanel.SleepStagingReport]
 #. defaultMessage is:
-#. Sleep Report
+#. Sleep Staging Report
 #: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.SleepReport]
+#. [SleepReportList.SleepStagingReport]
 #. defaultMessage is:
-#. Sleep Report
-msgid "Sleep Report"
+#. Sleep Staging Report
+msgid "Sleep Staging Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.SleepReportList]
+#. [SleepReportList.SleepStagingReportList]
 #. defaultMessage is:
-#. Sleep Report List
+#. Sleep Staging Report List
 #: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.SleepReportList]
+#. [SleepReportList.SleepStagingReportList]
 #. defaultMessage is:
-#. Sleep Report List
-msgid "Sleep Report List"
+#. Sleep Staging Report List
+msgid "Sleep Staging Report List"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.sleep]
-#. defaultMessage is:
-#. Sleep Tracking
-#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
-#. [SleepChartPanel.SleepTracking]
 #. defaultMessage is:
 #. Sleep Tracking
 msgid "Sleep Tracking"
@@ -1821,6 +2000,10 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#. [LoginPage.staySignedInLabel]
+#. defaultMessage is:
+#. Stay signed in
 #: build/messages/src/scripts/containers/SignInPage.json
 #. [LoginPage.staySignedInLabel]
 #. defaultMessage is:
@@ -1861,10 +2044,17 @@ msgid "Systolic"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-#. [landingPage.EmailSection.taipei]
+#. [landingPage.EmailSection.taipeiNeihu]
 #. defaultMessage is:
-#. Taipei
-msgid "Taipei"
+#. Taipei Neihu
+msgid "Taipei Neihu"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.taipeiXingshan]
+#. defaultMessage is:
+#. Taipei Xingshan
+msgid "Taipei Xingshan"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
@@ -1879,6 +2069,13 @@ msgstr ""
 #. defaultMessage is:
 #. The data will {not} be revealed to anyone, including HR or managers, before getting your approval.
 msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
+msgstr ""
+
+#: build/messages/src/scripts/containers/ContributeDataPage.json
+#. [ContributeDataPage.description]
+#. defaultMessage is:
+#. The development team needs you to provide the sleep raw data to make the algorithm more accurate.
+msgid "The development team needs you to provide the sleep raw data to make the algorithm more accurate."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -2023,6 +2220,20 @@ msgstr ""
 msgid "Upload Picture"
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.uploadCSVDescription]
+#. defaultMessage is:
+#. Upload a CSV file.
+msgid "Upload a CSV file."
+msgstr ""
+
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+#. [UploadPanel.title]
+#. defaultMessage is:
+#. Upload your sleep raw data
+msgid "Upload your sleep raw data"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
 #. [ChangePasswordDialog.NewPassowrdPlaceholder]
 #. defaultMessage is:
@@ -2044,6 +2255,10 @@ msgstr ""
 msgid "User is not found."
 msgstr ""
 
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+#. [HRSendSNReplacementMailPage.userNotFound]
+#. defaultMessage is:
+#. User not found.
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #. [ForgotPasswordPage.userNotFound]
 #. defaultMessage is:
@@ -2330,6 +2545,13 @@ msgstr ""
 #. defaultMessage is:
 #. mmHg
 msgid "mmHg"
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.or]
+#. defaultMessage is:
+#. or
+msgid "or"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json

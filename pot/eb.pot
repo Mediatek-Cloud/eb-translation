@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-04-25T01:15:24.412Z\n"
+"POT-Creation-Date: 2017-04-25T02:26:59.891Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -2118,6 +2118,13 @@ msgstr ""
 #. defaultMessage is:
 #. There are two versions of employee band, the black one and the gold one. These two versions of band are both equipped with health related function, however, {highlight}
 msgid "There are two versions of employee band, the black one and the gold one. These two versions of band are both equipped with health related function, however, {highlight}"
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [landingPage.EmailSection.alreadyRegisteredError]
+#. defaultMessage is:
+#. This email address has already been registered.
+msgid "This email address has already been registered."
 msgstr ""
 
 #: build/messages/src/scripts/containers/SleepReportList.json

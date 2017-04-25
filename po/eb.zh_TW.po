@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-03-28T02:20:41.153Z\n"
+"POT-Creation-Date: 2017-04-25T01:15:24.412Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -65,12 +65,33 @@ msgstr "帳號"
 msgid "Account Setting"
 msgstr "帳號設定"
 
+#. [HRLoginPage.description]
+#. defaultMessage is:
+#. Account activation and the band returns
+#: build/messages/src/scripts/containers/HRSignInPage.json
+msgid "Account activation and the band returns"
+msgstr "啟用帳號與手環歸還"
+
 #. [AuthPage.activateAccountSuccessMessage]
 #. defaultMessage is:
 #. Account has been activated
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Account has been activated"
 msgstr "帳號已啟用"
+
+#. [HRHeader.Activate]
+#. defaultMessage is:
+#. Activate
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Activate"
+msgstr "啟用"
+
+#. [HRActivateAccountsPage.activateAccount]
+#. defaultMessage is:
+#. Activate Account
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activate Account"
+msgstr "啟用帳號"
 
 #. [EmailVerification.title]
 #. defaultMessage is:
@@ -79,11 +100,25 @@ msgstr "帳號已啟用"
 msgid "Activate Your Account"
 msgstr "啟用您的帳號"
 
+#. [HRActivateAccountsPage.title]
+#. defaultMessage is:
+#. Activate account
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activate account"
+msgstr "啟用帳號"
+
 #. [AuthPage.activateAccountSuccessTitle]
 #. defaultMessage is:
 #. Activate successfully
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Activate successfully"
+msgstr "啟用成功"
+
+#. [HRActivateAccountsPage.successTitle]
+#. defaultMessage is:
+#. Activation successful!
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activation successful!"
 msgstr "啟用成功"
 
 #. [personalReport.Activeness.Activity]
@@ -205,6 +240,13 @@ msgstr "清醒："
 msgid "BMR"
 msgstr "BMR"
 
+#. [MoreInfoOverlay.CalorieFormula]
+#. defaultMessage is:
+#. BMR + Calorie Burn
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "BMR + Calorie Burn"
+msgstr "基礎代謝率 + 燃燒卡路里"
+
 #. [AuthPage.cancelButton]
 #. defaultMessage is:
 #. Back
@@ -304,12 +346,16 @@ msgstr "聯繫我們"
 #. [ExerciseMetaDetails.Calorie]
 #. defaultMessage is:
 #. Calorie
+#. [ExerciseMetaDetails.Calorie]
+#. defaultMessage is:
+#. Calorie
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Calorie"
 msgstr "卡路里"
@@ -338,6 +384,13 @@ msgstr "取消"
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Change Password"
 msgstr "變更密碼"
+
+#. [landingPage.EmailSection.chupei]
+#. defaultMessage is:
+#. Chupei
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Chupei"
+msgstr "竹北"
 
 #. [AuthPage.defaultMessage]
 #. defaultMessage is:
@@ -373,6 +426,13 @@ msgstr "確認密碼"
 #: build/messages/src/scripts/containers/ActivatePage.json
 msgid "Confirm Serial Number"
 msgstr "請再輸入一次序號"
+
+#. [ContributeDataPage.title]
+#. defaultMessage is:
+#. Contribute Your Data !
+#: build/messages/src/scripts/containers/ContributeDataPage.json
+msgid "Contribute Your Data !"
+msgstr "貢獻您的資料"
 
 #. [StepPanel.DailyAvg]
 #. defaultMessage is:
@@ -421,6 +481,13 @@ msgstr "日"
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
 msgstr "深眠期"
+
+#. [HRActivateAccountsPage.deleteAccount]
+#. defaultMessage is:
+#. Delete Account
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid "Delete Account"
+msgstr "刪除帳號"
 
 #. [landingPage.ProjectIntroDialog.description]
 #. defaultMessage is:
@@ -475,6 +542,13 @@ msgstr "您是否願意額外參與穿戴式識別證實驗計畫呢？"
 msgid "Don't have an account?"
 msgstr "還沒有帳號嗎？"
 
+#. [CsvFileDrop.description]
+#. defaultMessage is:
+#. Drop the file to any place in this page
+#: build/messages/src/scripts/components/hr/CsvFileDrop.json
+msgid "Drop the file to any place in this page"
+msgstr "請將檔案拖曳至頁面任何地方"
+
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
 #. defaultMessage is:
 #. Due to it is an experimental project, you might not be able to get the discount in cooperative shop.
@@ -522,6 +596,9 @@ msgstr "天天量血壓　健康一手掌握"
 msgid "Efficiency"
 msgstr "效率"
 
+#. [LoginPage.emailLabel]
+#. defaultMessage is:
+#. Email
 #. [LoginForm.emailPlaceholder]
 #. defaultMessage is:
 #. Email
@@ -537,6 +614,7 @@ msgstr "效率"
 #. [LoginPage.emailLabel]
 #. defaultMessage is:
 #. Email
+#: build/messages/src/scripts/components/authentication/AuthForm.json
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -559,6 +637,9 @@ msgstr "電子郵件或密碼不正確"
 msgid "Enter new password again"
 msgstr "請再輸入一次密碼"
 
+#. [LoginPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
 #. [ForgotPasswordPage.emailPlaceholder]
 #. defaultMessage is:
 #. Ex: abc123@mediatek.com
@@ -568,6 +649,7 @@ msgstr "請再輸入一次密碼"
 #. [LoginPage.emailPlaceholder]
 #. defaultMessage is:
 #. Ex: abc123@mediatek.com
+#: build/messages/src/scripts/components/authentication/AuthForm.json
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
@@ -828,12 +910,12 @@ msgstr "身高"
 msgid "Help"
 msgstr "幫助"
 
-#. [landingPage.EmailSection.hsinchu]
+#. [landingPage.EmailSection.hsinchuHQ]
 #. defaultMessage is:
-#. Hsinchu
+#. Hsinchu HQ
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "Hsinchu"
-msgstr "新竹"
+msgid "Hsinchu HQ"
+msgstr "新竹總部"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line6]
 #. defaultMessage is:
@@ -849,6 +931,10 @@ msgstr ""
 #. [LoginPage.combinationInvalid]
 #. defaultMessage is:
 #. Invalid combination. Please try again
+#. [LoginPage.combinationInvalid]
+#. defaultMessage is:
+#. Invalid combination. Please try again
+#: build/messages/src/scripts/containers/HRSignInPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Invalid combination. Please try again"
 msgstr "帳號或密碼錯誤，請再試一次。"
@@ -931,6 +1017,9 @@ msgstr "排行榜"
 msgid "Learn the difference"
 msgstr "了解差異"
 
+#. [LoginPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
 #. [ActivatePage.passwordPlaceholder]
 #. defaultMessage is:
 #. Least 8 characters
@@ -940,11 +1029,12 @@ msgstr "了解差異"
 #. [LoginPage.passwordPlaceholder]
 #. defaultMessage is:
 #. Least 8 characters
+#: build/messages/src/scripts/components/authentication/AuthForm.json
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Least 8 characters"
-msgstr "需要至少 8 的字元。"
+msgstr "需要至少 8 個字元。"
 
 #. [landingPage.Footer.LegalNotice]
 #. defaultMessage is:
@@ -1195,6 +1285,9 @@ msgstr "舊密碼"
 msgid "Oops! Looks like something broke."
 msgstr "噢！看起來發生了些錯誤。"
 
+#. [LoginPage.passwordLabel]
+#. defaultMessage is:
+#. Password
 #. [LoginForm.passwordPlaceholder]
 #. defaultMessage is:
 #. Password
@@ -1207,6 +1300,7 @@ msgstr "噢！看起來發生了些錯誤。"
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
 #. Password
+#: build/messages/src/scripts/components/authentication/AuthForm.json
 #: build/messages/src/scripts/components/authentication/LoginForm.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -1331,6 +1425,31 @@ msgstr "請輸入舊密碼"
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Please enter password"
 msgstr "請輸入密碼"
+
+#. [hrDeactivateAccountPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email and we will delete this account after one week.
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid ""
+"Please enter the applicant's email and we will delete this account after one "
+"week."
+msgstr "請輸入申請者的電子郵件，我們會在一週後刪除此申請者的帳號。"
+
+#. [HRSendSNReplacementMailPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email and we will send the reset link to applicant.
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid ""
+"Please enter the applicant's email and we will send the reset link to "
+"applicant."
+msgstr "請輸入申請者的電子郵件，我們會發送重設連結給申請者。"
+
+#. [HRActivateAccountsPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email to activate account.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Please enter the applicant's email to activate account."
+msgstr "請輸入申請者的電子郵件以開通帳號。"
 
 #. [EmailVerification.message]
 #. defaultMessage is:
@@ -1537,6 +1656,20 @@ msgstr "註冊成功！請登入。"
 msgid "Remaining"
 msgstr "剩餘"
 
+#. [HRHeader.Replace]
+#. defaultMessage is:
+#. Replace
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Replace"
+msgstr "更換"
+
+#. [HRSendSNReplacementMailPage.title]
+#. defaultMessage is:
+#. Replace tha band and reset serial number
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid "Replace tha band and reset serial number"
+msgstr "更換手環並且重設序號"
+
 #. [ResendEmailVerificationPage.submitButton]
 #. defaultMessage is:
 #. Resend the Verification Link
@@ -1596,6 +1729,20 @@ msgstr "重設手環序號"
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Restless"
 msgstr "不寧"
+
+#. [HRHeader.Return]
+#. defaultMessage is:
+#. Return
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Return"
+msgstr "歸還"
+
+#. [hrDeactivateAccountPage.title]
+#. defaultMessage is:
+#. Return the band and delete account
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid "Return the band and delete account"
+msgstr "歸還手環並且刪除帳號"
 
 #. [StepChart.Run]
 #. defaultMessage is:
@@ -1669,9 +1816,24 @@ msgstr "再次寄送電子郵件"
 #. [ForgotPasswordPage.submitButton]
 #. defaultMessage is:
 #. Send the Reset Link
+#. [HRActivateAccountsPage.sendTheResetLint]
+#. defaultMessage is:
+#. Send the Reset Link
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
 msgid "Send the Reset Link"
 msgstr "發送重設密碼信件"
+
+#. [hrDeactivateAccountPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+#. [HRSendSNReplacementMailPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid "Sending successful!"
+msgstr "寄送成功"
 
 #. [LoginPage.sendingSucceessTitle]
 #. defaultMessage is:
@@ -1734,12 +1896,16 @@ msgstr "顯示全部"
 msgid "Show More"
 msgstr "顯示更多"
 
+#. [LoginPage.signInButton]
+#. defaultMessage is:
+#. Sign In
 #. [Authentication.Header.signIn]
 #. defaultMessage is:
 #. Sign In
 #. [LoginPage.signInButton]
 #. defaultMessage is:
 #. Sign In
+#: build/messages/src/scripts/components/authentication/AuthForm.json
 #: build/messages/src/scripts/components/authentication/Header.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Sign In"
@@ -1751,6 +1917,20 @@ msgstr "登入"
 #: build/messages/src/scripts/components/landingPage/Header.json
 msgid "Sign In / Create Account"
 msgstr "登入 / 建立帳戶"
+
+#. [HRHeader.signOut]
+#. defaultMessage is:
+#. Sign Out
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Sign Out"
+msgstr "登出"
+
+#. [HRLoginPage.title]
+#. defaultMessage is:
+#. Sign into your HR account
+#: build/messages/src/scripts/containers/HRSignInPage.json
+msgid "Sign into your HR account"
+msgstr "登入您的 HR 帳號"
 
 #. [AuthPage.signupSuccessTitle]
 #. defaultMessage is:
@@ -1785,40 +1965,43 @@ msgstr "睡眠"
 msgid "Sleep Efficiency"
 msgstr "睡眠效率"
 
-#. [SleepChartPanel.SleepReport]
+#. [SleepStagePanel.SleepStaging]
 #. defaultMessage is:
-#. Sleep Report
-#. [SleepReportPanel.SleepReport]
+#. Sleep Staging
+#. [SleepChartPanel.SleepStaging]
 #. defaultMessage is:
-#. Sleep Report
-#. [SleepReportList.SleepReport]
-#. defaultMessage is:
-#. Sleep Report
+#. Sleep Staging
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
+msgid "Sleep Staging"
+msgstr "睡眠分期"
+
+#. [SleepReportPanel.SleepStagingReport]
+#. defaultMessage is:
+#. Sleep Staging Report
+#. [SleepReportList.SleepStagingReport]
+#. defaultMessage is:
+#. Sleep Staging Report
 #: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
 #: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Sleep Report"
-msgstr "睡眠報告"
+msgid "Sleep Staging Report"
+msgstr "睡眠分期報告"
 
-#. [SleepReportList.SleepReportList]
+#. [SleepReportList.SleepStagingReportList]
 #. defaultMessage is:
-#. Sleep Report List
-#. [SleepReportList.SleepReportList]
+#. Sleep Staging Report List
+#. [SleepReportList.SleepStagingReportList]
 #. defaultMessage is:
-#. Sleep Report List
+#. Sleep Staging Report List
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Sleep Report List"
-msgstr "睡眠報告清單"
+msgid "Sleep Staging Report List"
+msgstr "睡眠分期報告清單"
 
 #. [landingPage.QuestionnaireSection.option.sleep]
 #. defaultMessage is:
 #. Sleep Tracking
-#. [SleepChartPanel.SleepTracking]
-#. defaultMessage is:
-#. Sleep Tracking
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
-#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
 msgid "Sleep Tracking"
 msgstr "睡眠追蹤"
 
@@ -1864,6 +2047,10 @@ msgstr "開始"
 #. [LoginPage.staySignedInLabel]
 #. defaultMessage is:
 #. Stay signed in
+#. [LoginPage.staySignedInLabel]
+#. defaultMessage is:
+#. Stay signed in
+#: build/messages/src/scripts/containers/HRSignInPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Stay signed in"
 msgstr "保持登入狀態"
@@ -1900,12 +2087,19 @@ msgstr "成功"
 msgid "Systolic"
 msgstr "收縮壓"
 
-#. [landingPage.EmailSection.taipei]
+#. [landingPage.EmailSection.taipeiNeihu]
 #. defaultMessage is:
-#. Taipei
+#. Taipei Neihu
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "Taipei"
-msgstr "台北"
+msgid "Taipei Neihu"
+msgstr "台北內湖"
+
+#. [landingPage.EmailSection.taipeiXingshan]
+#. defaultMessage is:
+#. Taipei Xingshan
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Taipei Xingshan"
+msgstr "台北行善"
 
 #. [landingPage.EmailSection.terms]
 #. defaultMessage is:
@@ -1923,6 +2117,15 @@ msgid ""
 "getting your approval."
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
+
+#. [ContributeDataPage.description]
+#. defaultMessage is:
+#. The development team needs you to provide the sleep raw data to make the algorithm more accurate.
+#: build/messages/src/scripts/containers/ContributeDataPage.json
+msgid ""
+"The development team needs you to provide the sleep raw data to make the "
+"algorithm more accurate."
+msgstr "提供您的睡眠原始資料，幫助開發團隊提供更準確的演算法。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
@@ -2082,6 +2285,20 @@ msgstr "即時更新您的健康數據，全新的運動體驗"
 msgid "Upload Picture"
 msgstr "上傳圖片"
 
+#. [HRActivateAccountsPage.uploadCSVDescription]
+#. defaultMessage is:
+#. Upload a CSV file.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Upload a CSV file."
+msgstr "上傳 csv 檔案"
+
+#. [UploadPanel.title]
+#. defaultMessage is:
+#. Upload your sleep raw data
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+msgid "Upload your sleep raw data"
+msgstr "上傳睡眠原始數據"
+
 #. [ChangePasswordDialog.NewPassowrdPlaceholder]
 #. defaultMessage is:
 #. Use at least 8 alphanumeric characters
@@ -2103,9 +2320,13 @@ msgstr "此帳號已被啟用。"
 msgid "User is not found."
 msgstr "找不到此使用者。"
 
+#. [HRSendSNReplacementMailPage.userNotFound]
+#. defaultMessage is:
+#. User not found.
 #. [ForgotPasswordPage.userNotFound]
 #. defaultMessage is:
 #. User not found.
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
 msgid "User not found."
 msgstr "找不到此使用者。"
@@ -2395,6 +2616,13 @@ msgstr "min"
 msgid "mmHg"
 msgstr "mmHg"
 
+#. [HRActivateAccountsPage.or]
+#. defaultMessage is:
+#. or
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "or"
+msgstr "或"
+
 #. [CalorieChart.remainKcal]
 #. defaultMessage is:
 #. remain {remaining} kcal
@@ -2437,6 +2665,18 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid "Hsinchu"
+#~ msgstr "新竹"
+
+#~ msgid "Sleep Report"
+#~ msgstr "睡眠報告"
+
+#~ msgid "Sleep Report List"
+#~ msgstr "睡眠報告清單"
+
+#~ msgid "Taipei"
+#~ msgstr "台北"
 
 #~ msgid "We've received your application for the Health Band"
 #~ msgstr "我們已收到您的申請"
@@ -2511,9 +2751,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
 #~ msgid "Pay bills using electronic wallet with a wave of your hand."
 #~ msgstr "搭載電子錢包功能，揮揮手即完成付款"
-
-#~ msgid "Sign Out"
-#~ msgstr "登出"
 
 #~ msgid "To test the employee acceptance of wearable badge"
 #~ msgstr "測試員工對健康穿戴式識別證接受度"

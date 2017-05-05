@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-04-25T02:26:59.891Z\n"
+"POT-Creation-Date: 2017-05-05T09:34:51.477Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -31,12 +31,12 @@ msgstr ""
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 8 Characters
+#. 9 Characters
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 #. [ResetSerialNumberPage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 8 Characters
-msgid "8 Characters"
+#. 9 Characters
+msgid "9 Characters"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
@@ -442,7 +442,7 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 #. [ProfileForm.Day]
 #. defaultMessage is:
 #. Day
@@ -1126,7 +1126,7 @@ msgstr ""
 msgid "Min"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 #. [ProfileForm.Month]
 #. defaultMessage is:
 #. Month
@@ -1809,8 +1809,8 @@ msgstr ""
 #: build/messages/src/scripts/utils/validator.json
 #. [validator.INVALID_SERIALNUMBER]
 #. defaultMessage is:
-#. Serial number must be 8 characters
-msgid "Serial number must be 8 characters"
+#. Serial number must be 9 characters
+msgid "Serial number must be 9 characters"
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/ActivateAccount.json
@@ -2384,7 +2384,7 @@ msgstr ""
 msgid "Which service do you mainly want to use ?"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 #. [ProfileForm.Year]
 #. defaultMessage is:
 #. Year
@@ -2444,15 +2444,12 @@ msgstr ""
 msgid "avg bpm"
 msgstr ""
 
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.bmp]
-#. defaultMessage is:
-#. bmp
-msgid "bmp"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 #. [HeartRateChart.Bpm]
+#. defaultMessage is:
+#. bpm
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.bpm]
 #. defaultMessage is:
 #. bpm
 #: build/messages/src/scripts/components/personalReport/HeartRateChart.json

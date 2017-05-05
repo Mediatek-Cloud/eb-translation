@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-04-25T02:26:59.891Z\n"
+"POT-Creation-Date: 2017-05-05T09:34:51.477Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -35,14 +35,14 @@ msgstr "三個月"
 
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 8 Characters
+#. 9 Characters
 #. [ResetSerialNumberPage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 8 Characters
+#. 9 Characters
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
-msgid "8 Characters"
-msgstr "8 個字元。"
+msgid "9 Characters"
+msgstr "九碼"
 
 #. [landingPage.Footer.about]
 #. defaultMessage is:
@@ -463,7 +463,7 @@ msgstr "儀表板"
 #. [ProfileForm.Day]
 #. defaultMessage is:
 #. Day
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 msgid "Day"
 msgstr "日"
 
@@ -556,7 +556,7 @@ msgstr "請將檔案拖曳至頁面任何地方"
 msgid ""
 "Due to it is an experimental project, you might not be able to get the "
 "discount in cooperative shop."
-msgstr "需搭配識別證之特約廠商相關優惠，於實驗期間可能無法使用。"
+msgstr "須搭配識別證之特約廠商相關優惠，於實驗期間可能無法使用。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line1]
 #. defaultMessage is:
@@ -1034,7 +1034,7 @@ msgstr "了解差異"
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Least 8 characters"
-msgstr "需要至少 8 個字元。"
+msgstr "必須至少 8 個字元。"
 
 #. [landingPage.Footer.LegalNotice]
 #. defaultMessage is:
@@ -1160,7 +1160,7 @@ msgstr "最小值"
 #. [ProfileForm.Month]
 #. defaultMessage is:
 #. Month
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 msgid "Month"
 msgstr "月"
 
@@ -1176,14 +1176,14 @@ msgstr "多功能合一　簡單又方便"
 #. Must be a valid @mediatek.com email.
 #: build/messages/src/scripts/utils/validator.json
 msgid "Must be a valid @mediatek.com email."
-msgstr "需要是 @mediatek 電子信箱"
+msgstr "必須是 @mediatek 電子信箱"
 
 #. [landingPage.EmailSection.preferenceError]
 #. defaultMessage is:
 #. Must select one option from above.
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Must select one option from above."
-msgstr "至少需要選擇一個選項"
+msgstr "至少須要選擇一個選項"
 
 #. [MyRankingList.MyRanking]
 #. defaultMessage is:
@@ -1851,10 +1851,10 @@ msgstr "序號"
 
 #. [validator.INVALID_SERIALNUMBER]
 #. defaultMessage is:
-#. Serial number must be 8 characters
+#. Serial number must be 9 characters
 #: build/messages/src/scripts/utils/validator.json
-msgid "Serial number must be 8 characters"
-msgstr "序號需為 8 個字元。"
+msgid "Serial number must be 9 characters"
+msgstr "序號必須是九碼"
 
 #. [ActivateAccount.title]
 #. defaultMessage is:
@@ -2454,7 +2454,7 @@ msgstr "您主要想要使用哪個服務呢？"
 #. [ProfileForm.Year]
 #. defaultMessage is:
 #. Year
-#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
 msgid "Year"
 msgstr "年"
 
@@ -2497,7 +2497,7 @@ msgstr "實驗期間需請同仁配合將原識別證繳回給台北櫃檯。"
 msgid ""
 "Your reset password email has been sent in last 5 minutes. Please wait if "
 "you would like to resend a new one."
-msgstr "重設密碼郵件不久前才剛被寄送，需等待五分鐘後才可再發送一次。"
+msgstr "重設密碼郵件不久前才剛被寄送，必須等待五分鐘後才可再發送一次。"
 
 #. [ExercisePanel.At]
 #. defaultMessage is:
@@ -2513,20 +2513,17 @@ msgstr "在"
 msgid "avg bpm"
 msgstr "avg bpm"
 
-#. [Indication.bmp]
-#. defaultMessage is:
-#. bmp
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-msgid "bmp"
-msgstr "bmp"
-
 #. [HeartRateChart.Bpm]
+#. defaultMessage is:
+#. bpm
+#. [Indication.bpm]
 #. defaultMessage is:
 #. bpm
 #. [personalReport.HeartRateChart.bpm]
 #. defaultMessage is:
 #. bpm
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/HeartRateChart.json
 msgid "bpm"
 msgstr "bpm"
@@ -2672,6 +2669,15 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid "8 Characters"
+#~ msgstr "8 個字元。"
+
+#~ msgid "Serial number must be 8 characters"
+#~ msgstr "序號需為 8 個字元。"
+
+#~ msgid "bmp"
+#~ msgstr "bmp"
 
 #~ msgid "Hsinchu"
 #~ msgstr "新竹"

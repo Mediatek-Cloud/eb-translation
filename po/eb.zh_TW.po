@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-05-05T09:34:51.477Z\n"
+"POT-Creation-Date: 2017-05-12T09:28:10.487Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -630,6 +630,13 @@ msgstr "電子郵件"
 msgid "Email or password incorrect"
 msgstr "電子郵件或密碼不正確"
 
+#. [HRActivateAccountsPage.invalidEmailFromCsv]
+#. defaultMessage is:
+#. Email {email} invalid. Please try again.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Email {email} invalid. Please try again."
+msgstr "電子郵件 {email} 錯誤。 請再試一次。"
+
 #. [ResetPassword.password2Placeholder]
 #. defaultMessage is:
 #. Enter new password again
@@ -927,6 +934,13 @@ msgid ""
 msgstr ""
 "若同仁遺失金手環，原識別證將一起作廢以取消權限，並收取 200 元工本費製作新識別"
 "證。"
+
+#. [HRActivateAccountsPage.invalidEmail]
+#. defaultMessage is:
+#. Invalid Email. Please try again.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Invalid Email. Please try again."
+msgstr "錯誤的電子郵件，請再試一次。"
 
 #. [LoginPage.combinationInvalid]
 #. defaultMessage is:
@@ -1285,6 +1299,37 @@ msgstr "舊密碼"
 msgid "Oops! Looks like something broke."
 msgstr "噢！看起來發生了些錯誤。"
 
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Oops! Something went wrong. Please try again later."
+msgstr "Oops！系統遇到一些小狀況，請稍後再試。"
+
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
 #. Password
@@ -1396,6 +1441,37 @@ msgstr "請查看您的信箱郵件以激活帳號"
 #: build/messages/src/scripts/components/authentication/AuthPageMessage.json
 msgid "Please click on 'forgot password' again to request another email."
 msgstr "請再次點擊忘記密碼來取得另一封郵件。"
+
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Please contact us."
+msgstr "請與我們聯繫。"
 
 #. [ChangePasswordDialog.ConfirmPassowrdPlaceholder]
 #. defaultMessage is:

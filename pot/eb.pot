@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-05-05T09:34:51.477Z\n"
+"POT-Creation-Date: 2017-05-12T09:28:10.487Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -608,6 +608,13 @@ msgstr ""
 msgid "Email or password incorrect"
 msgstr ""
 
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.invalidEmailFromCsv]
+#. defaultMessage is:
+#. Email {email} invalid. Please try again.
+msgid "Email {email} invalid. Please try again."
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/ResetPassword.json
 #. [ResetPassword.password2Placeholder]
 #. defaultMessage is:
@@ -895,6 +902,13 @@ msgstr ""
 #. defaultMessage is:
 #. If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge.
 msgid "If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge."
+msgstr ""
+
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+#. [HRActivateAccountsPage.invalidEmail]
+#. defaultMessage is:
+#. Invalid Email. Please try again.
+msgid "Invalid Email. Please try again."
 msgstr ""
 
 #: build/messages/src/scripts/containers/HRSignInPage.json
@@ -1252,6 +1266,37 @@ msgstr ""
 msgid "Oops! Looks like something broke."
 msgstr ""
 
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+msgid "Oops! Something went wrong. Please try again later."
+msgstr ""
+
 #: build/messages/src/scripts/components/authentication/AuthForm.json
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
@@ -1362,6 +1407,37 @@ msgstr ""
 #. defaultMessage is:
 #. Please click on 'forgot password' again to request another email.
 msgid "Please click on 'forgot password' again to request another email."
+msgstr ""
+
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/ActivatePage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/SignInPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+msgid "Please contact us."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json

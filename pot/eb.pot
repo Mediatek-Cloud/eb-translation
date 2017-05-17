@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-05-12T09:28:10.487Z\n"
+"POT-Creation-Date: 2017-05-17T04:47:26.957Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -331,6 +331,10 @@ msgstr ""
 #. [ExerciseMetaDetails.Calorie]
 #. defaultMessage is:
 #. Calorie
+#: build/messages/src/scripts/components/exercise/HoverInfo.json
+#. [HoverInfo.Calorie]
+#. defaultMessage is:
+#. Calorie
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [ExerciseMetaDetails.Calorie]
 #. defaultMessage is:
@@ -567,6 +571,10 @@ msgstr ""
 #. [EfficiencyCircle.Efficiency]
 #. defaultMessage is:
 #. Efficiency
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
+#. [EfficiencyDonutChart.efficiency]
+#. defaultMessage is:
+#. Efficiency
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [ExerciseMetaDetails.Efficiency]
 #. defaultMessage is:
@@ -592,10 +600,6 @@ msgstr ""
 #. Email
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [ResendEmailVerificationPage.emailLabel]
-#. defaultMessage is:
-#. Email
-#: build/messages/src/scripts/containers/SignInPage.json
-#. [LoginPage.emailLabel]
 #. defaultMessage is:
 #. Email
 msgid "Email"
@@ -632,10 +636,6 @@ msgstr ""
 #. Ex: abc123@mediatek.com
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [ResendEmailVerificationPage.emailPlaceholder]
-#. defaultMessage is:
-#. Ex: abc123@mediatek.com
-#: build/messages/src/scripts/containers/SignInPage.json
-#. [LoginPage.emailPlaceholder]
 #. defaultMessage is:
 #. Ex: abc123@mediatek.com
 msgid "Ex: abc123@mediatek.com"
@@ -837,6 +837,10 @@ msgstr ""
 #. [ExerciseMetaDetails.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
+#: build/messages/src/scripts/components/exercise/HoverInfo.json
+#. [HoverInfo.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.HeartRate]
 #. defaultMessage is:
@@ -1010,10 +1014,6 @@ msgstr ""
 #. Least 8 characters
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #. [ResetPasswordPage.passwordPlaceholder]
-#. defaultMessage is:
-#. Least 8 characters
-#: build/messages/src/scripts/containers/SignInPage.json
-#. [LoginPage.passwordPlaceholder]
 #. defaultMessage is:
 #. Least 8 characters
 msgid "Least 8 characters"
@@ -1278,6 +1278,10 @@ msgstr ""
 #. [LoginPage.somethingWentWrong]
 #. defaultMessage is:
 #. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [LoginPage.somethingWentWrong]
 #. defaultMessage is:
@@ -1311,10 +1315,6 @@ msgstr ""
 #. Password
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.passwordLabel]
-#. defaultMessage is:
-#. Password
-#: build/messages/src/scripts/containers/SignInPage.json
-#. [LoginPage.passwordLabel]
 #. defaultMessage is:
 #. Password
 msgid "Password"
@@ -1418,6 +1418,10 @@ msgstr ""
 #. defaultMessage is:
 #. Please contact us.
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/containers/HRSignInPage.json
 #. [LoginPage.pleaseContactUs]
 #. defaultMessage is:
 #. Please contact us.
@@ -1934,10 +1938,6 @@ msgstr ""
 #. Sign In
 #: build/messages/src/scripts/components/authentication/Header.json
 #. [Authentication.Header.signIn]
-#. defaultMessage is:
-#. Sign In
-#: build/messages/src/scripts/containers/SignInPage.json
-#. [LoginPage.signInButton]
 #. defaultMessage is:
 #. Sign In
 msgid "Sign In"
@@ -2507,6 +2507,10 @@ msgid "Your reset password email has been sent in last 5 minutes. Please wait if
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.At]
+#. defaultMessage is:
+#. at
+#: build/messages/src/scripts/components/exercise/ExercisePanel.json
 #. [ExercisePanel.At]
 #. defaultMessage is:
 #. at

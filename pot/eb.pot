@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-05-17T04:47:26.957Z\n"
+"POT-Creation-Date: 2017-06-02T06:03:32.377Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -67,13 +67,6 @@ msgstr ""
 msgid "Account activation and the band returns"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.activateAccountSuccessMessage]
-#. defaultMessage is:
-#. Account has been activated
-msgid "Account has been activated"
-msgstr ""
-
 #: build/messages/src/scripts/components/hr/Header.json
 #. [HRHeader.Activate]
 #. defaultMessage is:
@@ -88,25 +81,11 @@ msgstr ""
 msgid "Activate Account"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.title]
-#. defaultMessage is:
-#. Activate Your Account
-msgid "Activate Your Account"
-msgstr ""
-
 #: build/messages/src/scripts/containers/HRActivateAccountsPage.json
 #. [HRActivateAccountsPage.title]
 #. defaultMessage is:
 #. Activate account
 msgid "Activate account"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.activateAccountSuccessTitle]
-#. defaultMessage is:
-#. Activate successfully
-msgid "Activate successfully"
 msgstr ""
 
 #: build/messages/src/scripts/containers/HRActivateAccountsPage.json
@@ -130,10 +109,6 @@ msgstr ""
 msgid "Additional"
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
-#. [ActivityTypeOverlay.Aerobics]
-#. defaultMessage is:
-#. Aerobics
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #. [ExerciseMetaDetails.Aerobics]
 #. defaultMessage is:
@@ -230,28 +205,6 @@ msgstr ""
 msgid "BMR + Calorie Burn"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.cancelButton]
-#. defaultMessage is:
-#. Back
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.cancelButton]
-#. defaultMessage is:
-#. Back
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.cancelButton]
-#. defaultMessage is:
-#. Back
-msgid "Back"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.defaultMessageTitle]
-#. defaultMessage is:
-#. Back to login page
-msgid "Back to login page"
-msgstr ""
-
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 #. [NotFoundPage.BackToLastPage]
 #. defaultMessage is:
@@ -266,10 +219,6 @@ msgstr ""
 msgid "Bad"
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
-#. [ActivityTypeOverlay.Bike]
-#. defaultMessage is:
-#. Bike
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Bike]
 #. defaultMessage is:
@@ -353,17 +302,6 @@ msgstr ""
 msgid "Calorie Burned"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.cancelButton]
-#. defaultMessage is:
-#. Cancel
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.cancelButton]
-#. defaultMessage is:
-#. Cancel
-msgid "Cancel"
-msgstr ""
-
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.ChangePassword]
 #. defaultMessage is:
@@ -378,13 +316,6 @@ msgstr ""
 msgid "Chupei"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.defaultMessage]
-#. defaultMessage is:
-#. Click on the button below to go back.
-msgid "Click on the button below to go back."
-msgstr ""
-
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #. [ResetPasswordPage.password2Label]
 #. defaultMessage is:
@@ -397,13 +328,6 @@ msgstr ""
 #. defaultMessage is:
 #. Confirm New Serial Number
 msgid "Confirm New Serial Number"
-msgstr ""
-
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.ConfirmPassowrd]
-#. defaultMessage is:
-#. Confirm Passowrd
-msgid "Confirm Passowrd"
 msgstr ""
 
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -427,10 +351,6 @@ msgstr ""
 msgid "Daily avg."
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [Header.Dashboard]
-#. defaultMessage is:
-#. Dashboard
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #. [SleepReportList.Dashboard]
 #. defaultMessage is:
@@ -455,10 +375,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Deep]
-#. defaultMessage is:
-#. Deep
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.Deep]
 #. defaultMessage is:
 #. Deep
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
@@ -521,18 +437,22 @@ msgstr ""
 msgid "Do you also want to join the wearable badge experimental project ?"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.noAccountMessage]
-#. defaultMessage is:
-#. Don't have an account?
-msgid "Don't have an account?"
-msgstr ""
-
 #: build/messages/src/scripts/components/hr/CsvFileDrop.json
 #. [CsvFileDrop.description]
 #. defaultMessage is:
 #. Drop the file to any place in this page
 msgid "Drop the file to any place in this page"
+msgstr ""
+
+#: build/messages/src/scripts/components/contribute/HoverOverlay.json
+#. [HoverOverlay.description]
+#. defaultMessage is:
+#. Drop the files to any place in this page
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+#. [UploadPanel.dropBlockDescription]
+#. defaultMessage is:
+#. Drop the files to any place in this page
+msgid "Drop the files to any place in this page"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -567,6 +487,13 @@ msgstr ""
 msgid "Easy Health Monitoring"
 msgstr ""
 
+#: build/messages/src/scripts/components/contribute/FileList.json
+#. [FileList.Edit]
+#. defaultMessage is:
+#. Edit
+msgid "Edit"
+msgstr ""
+
 #: build/messages/src/scripts/components/common/EfficiencyCircle.json
 #. [EfficiencyCircle.Efficiency]
 #. defaultMessage is:
@@ -586,10 +513,6 @@ msgstr ""
 #. [LoginPage.emailLabel]
 #. defaultMessage is:
 #. Email
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.emailPlaceholder]
-#. defaultMessage is:
-#. Email
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.label]
 #. defaultMessage is:
@@ -605,13 +528,6 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.invalidUsernameOrPassword]
-#. defaultMessage is:
-#. Email or password incorrect
-msgid "Email or password incorrect"
-msgstr ""
-
 #: build/messages/src/scripts/containers/HRActivateAccountsPage.json
 #. [HRActivateAccountsPage.invalidEmailFromCsv]
 #. defaultMessage is:
@@ -619,11 +535,11 @@ msgstr ""
 msgid "Email {email} invalid. Please try again."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.password2Placeholder]
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+#. [UploadPanel.descriptionP1]
 #. defaultMessage is:
-#. Enter new password again
-msgid "Enter new password again"
+#. Everyone's data is personal, so please upload only your own data.
+msgid "Everyone's data is personal, so please upload only your own data."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthForm.json
@@ -655,14 +571,6 @@ msgstr ""
 #. Exercise
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #. [StepPanel.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
-#. [ActivityTypeOverlay.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/exercise/ExercisePanelList.json
-#. [ExercisePanelList.Exercise]
 #. defaultMessage is:
 #. Exercise
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -719,6 +627,13 @@ msgstr ""
 msgid "Female"
 msgstr ""
 
+#: build/messages/src/scripts/components/contribute/FileList.json
+#. [FileList.FileSize]
+#. defaultMessage is:
+#. File Size
+msgid "File Size"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 #. [ProfilePhoto.fileSizeExceeds]
 #. defaultMessage is:
@@ -733,22 +648,11 @@ msgstr ""
 msgid "For gold band user, if you need your badge for travelling need, please contact the central control room or front desk to take back your badge and get back your gold band after return to Taipei office."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.forgotpasswordLink]
-#. defaultMessage is:
-#. Forgot Your Password?
 #: build/messages/src/scripts/containers/SignInPage.json
 #. [LoginPage.forgotpasswordLink]
 #. defaultMessage is:
 #. Forgot Your Password?
 msgid "Forgot Your Password?"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.title]
-#. defaultMessage is:
-#. Forgot password
-msgid "Forgot password"
 msgstr ""
 
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -887,10 +791,6 @@ msgstr ""
 #. [Header.Help]
 #. defaultMessage is:
 #. Help
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.Help]
-#. defaultMessage is:
-#. Help
 msgid "Help"
 msgstr ""
 
@@ -906,6 +806,17 @@ msgstr ""
 #. defaultMessage is:
 #. If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge.
 msgid "If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#. [EfficiencyIndicator.Incomplete]
+#. defaultMessage is:
+#. Incomplete
+#: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
+#. [ActivityTypeButton.Incomplete]
+#. defaultMessage is:
+#. Incomplete
+msgid "Incomplete"
 msgstr ""
 
 #: build/messages/src/scripts/containers/HRActivateAccountsPage.json
@@ -933,10 +844,6 @@ msgstr ""
 msgid "JOIN NOW"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.signupLink]
-#. defaultMessage is:
-#. JOIN NOW!
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.submitButton]
 #. defaultMessage is:
@@ -990,13 +897,6 @@ msgstr ""
 msgid "Latest"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.Leaderboard]
-#. defaultMessage is:
-#. Leaderboard
-msgid "Leaderboard"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.learnTheDifference]
 #. defaultMessage is:
@@ -1030,10 +930,6 @@ msgstr ""
 #. [SleepStagePanel.Light]
 #. defaultMessage is:
 #. Light
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.Light]
-#. defaultMessage is:
-#. Light
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 #. [SleepStageMessages.Light]
 #. defaultMessage is:
@@ -1046,27 +942,6 @@ msgstr ""
 #. defaultMessage is:
 #. Link with your corporate ID for a seamless experience.
 msgid "Link with your corporate ID for a seamless experience."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.loginButton]
-#. defaultMessage is:
-#. Log In
-msgid "Log In"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.login]
-#. defaultMessage is:
-#. Login
-msgid "Login"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.mailSentTitle]
-#. defaultMessage is:
-#. Mail has been sent.
-msgid "Mail has been sent."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
@@ -1090,17 +965,6 @@ msgstr ""
 msgid "Measured time"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.emailPlaceholder]
-#. defaultMessage is:
-#. MediaTek Email
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.emailPlaceholder]
-#. defaultMessage is:
-#. MediaTek Email
-msgid "MediaTek Email"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/Footer.json
 #. [landingPage.Footer.policy]
 #. defaultMessage is:
@@ -1116,10 +980,6 @@ msgid "MediaTek Health Terms & Conditions"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Footer.json
-#. [Layout.MediaTekIncAllRightReserved]
-#. defaultMessage is:
-#. MediaTek Inc. All Rights Reserved.
-#: build/messages/src/scripts/containers/Layout.json
 #. [Layout.MediaTekIncAllRightReserved]
 #. defaultMessage is:
 #. MediaTek Inc. All Rights Reserved.
@@ -1182,13 +1042,6 @@ msgstr ""
 msgid "NOT"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.NewPassowrd]
-#. defaultMessage is:
-#. New Passowrd
-msgid "New Passowrd"
-msgstr ""
-
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #. [ResetPasswordPage.passwordLabel]
 #. defaultMessage is:
@@ -1201,13 +1054,6 @@ msgstr ""
 #. defaultMessage is:
 #. New Serial Number
 msgid "New Serial Number"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.passwordPlaceholder]
-#. defaultMessage is:
-#. New password (at least 8 words)
-msgid "New password (at least 8 words)"
 msgstr ""
 
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
@@ -1250,13 +1096,6 @@ msgstr ""
 #. defaultMessage is:
 #. Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health.
 msgid "Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health."
-msgstr ""
-
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.OldPassowrd]
-#. defaultMessage is:
-#. Old Passowrd
-msgid "Old Passowrd"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/ErrorPage.json
@@ -1305,10 +1144,6 @@ msgstr ""
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
 #. Password
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.passwordPlaceholder]
-#. defaultMessage is:
-#. Password
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.Password]
 #. defaultMessage is:
@@ -1334,35 +1169,6 @@ msgstr ""
 msgid "Password must be at least 8 characters"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputPasswordsInconsist]
-#. defaultMessage is:
-#. Password must be same as above
-msgid "Password must be same as above"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.passwordPlaceholder]
-#. defaultMessage is:
-#. Password must have at least 8 characters.
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.inputInvalidPassword]
-#. defaultMessage is:
-#. Password must have at least 8 characters.
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputInvalidPassword]
-#. defaultMessage is:
-#. Password must have at least 8 characters.
-msgid "Password must have at least 8 characters."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordSuccessTitle]
-#. defaultMessage is:
-#. Password reset successfully
-msgid "Password reset successfully"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 #. [landingPage.ProductOverview.title]
 #. defaultMessage is:
@@ -1370,43 +1176,11 @@ msgstr ""
 msgid "Personalized Data"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.mailSentMessage]
-#. defaultMessage is:
-#. Please check you email and reset your password.
-msgid "Please check you email and reset your password."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resendEmailVerificationSuccessMessage]
-#. defaultMessage is:
-#. Please check your email inbox for registration verification mail.
-msgid "Please check your email inbox for registration verification mail."
-msgstr ""
-
 #: build/messages/src/scripts/containers/SignInPage.json
 #. [LoginPage.sendEmailSuccessDescription]
 #. defaultMessage is:
 #. Please check your email inbox for the verification email, which is sent to {email}
 msgid "Please check your email inbox for the verification email, which is sent to {email}"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.signupMessage]
-#. defaultMessage is:
-#. Please check your email inbox to activate your account.
-msgid "Please check your email inbox to activate your account."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordTimeoutMessage]
-#. defaultMessage is:
-#. Please click on 'forgot password' again to request another email.
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordFailedMessage]
-#. defaultMessage is:
-#. Please click on 'forgot password' again to request another email.
-msgid "Please click on 'forgot password' again to request another email."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
@@ -1444,40 +1218,11 @@ msgstr ""
 msgid "Please contact us."
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.ConfirmPassowrdPlaceholder]
-#. defaultMessage is:
-#. Please enter new password again
-msgid "Please enter new password again"
-msgstr ""
-
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.OldPassowrdPlaceholder]
-#. defaultMessage is:
-#. Please enter old password
-msgid "Please enter old password"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.inputEmptyPassword]
-#. defaultMessage is:
-#. Please enter password
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.inputEmptyPassword]
-#. defaultMessage is:
-#. Please enter password
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.EMPTY_PASSWORD]
 #. defaultMessage is:
 #. Please enter password
 msgid "Please enter password"
-msgstr ""
-
-#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
-#. [hrDeactivateAccountPage.description]
-#. defaultMessage is:
-#. Please enter the applicant's email and we will delete this account after one week.
-msgid "Please enter the applicant's email and we will delete this account after one week."
 msgstr ""
 
 #: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
@@ -1494,10 +1239,13 @@ msgstr ""
 msgid "Please enter the applicant's email to activate account."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.message]
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#. [hrDeactivateAccountPage.description]
 #. defaultMessage is:
-#. Please enter your email and we will resend the verification link to you.
+#. Please enter the applicant's email. Once the account is deleted, the user cannot use the MediaTek Health system anymore.
+msgid "Please enter the applicant's email. Once the account is deleted, the user cannot use the MediaTek Health system anymore."
+msgstr ""
+
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [ResendEmailVerificationPage.description]
 #. defaultMessage is:
@@ -1512,21 +1260,6 @@ msgstr ""
 msgid "Please enter your email and we will send you instructions to reset your password."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.messge]
-#. defaultMessage is:
-#. Please fill in your email address, and check your inbox for further information.
-msgid "Please fill in your email address, and check your inbox for further information."
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.inputInvalidEmail]
-#. defaultMessage is:
-#. Please input a valid email
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.inputInvalidEmail]
-#. defaultMessage is:
-#. Please input a valid email
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.INVALID_EMAIL]
 #. defaultMessage is:
@@ -1538,14 +1271,6 @@ msgstr ""
 msgid "Please input a valid email"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.inputEmptyEmail]
-#. defaultMessage is:
-#. Please input an email
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.inputEmptyEmail]
-#. defaultMessage is:
-#. Please input an email
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 #. [emailPasswordValidator.EMPTY_EMAIL]
 #. defaultMessage is:
@@ -1562,13 +1287,6 @@ msgstr ""
 #. defaultMessage is:
 #. Please input your MediaTek email address
 msgid "Please input your MediaTek email address"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordSuccessMessage]
-#. defaultMessage is:
-#. Please login with new password.
-msgid "Please login with new password."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
@@ -1589,11 +1307,11 @@ msgstr ""
 msgid "Please set a password and the serial number of the band to complete the registration."
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.message]
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+#. [UploadPanel.descriptionP2]
 #. defaultMessage is:
-#. Please set a password to complete the registration.
-msgid "Please set a password to complete the registration."
+#. Please use the usb cable to connect your band to the computer, and place the sleep raw data files below. All files are total 2GB limit, if you have over then, please upload multiple times.
+msgid "Please use the usb cable to connect your band to the computer, and place the sleep raw data files below. All files are total 2GB limit, if you have over then, please upload multiple times."
 msgstr ""
 
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
@@ -1660,10 +1378,6 @@ msgstr ""
 #. [SleepStagePanel.REM]
 #. defaultMessage is:
 #. REM
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.REM]
-#. defaultMessage is:
-#. REM
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 #. [SleepStageMessages.REM]
 #. defaultMessage is:
@@ -1676,13 +1390,6 @@ msgstr ""
 #. defaultMessage is:
 #. Recent measurements
 msgid "Recent measurements"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/LoginForm.json
-#. [LoginForm.successMessage]
-#. defaultMessage is:
-#. Registration successful! Please sign in.
-msgid "Registration successful! Please sign in."
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -1713,31 +1420,6 @@ msgstr ""
 msgid "Resend the Verification Link"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.title]
-#. defaultMessage is:
-#. Reset Password
-#: build/messages/src/scripts/components/authentication/ResetPassword.json
-#. [ResetPassword.sendButton]
-#. defaultMessage is:
-#. Reset Password
-msgid "Reset Password"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordFailedTitle]
-#. defaultMessage is:
-#. Reset password failed
-msgid "Reset password failed"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resetPasswordTimeoutTitle]
-#. defaultMessage is:
-#. Reset password timeout
-msgid "Reset password timeout"
-msgstr ""
-
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #. [ResetPasswordPage.title]
 #. defaultMessage is:
@@ -1754,10 +1436,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Restless]
-#. defaultMessage is:
-#. Restless
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.Restless]
 #. defaultMessage is:
 #. Restless
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
@@ -1781,14 +1459,6 @@ msgstr ""
 msgid "Return the band and delete account"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/StepChart.json
-#. [StepChart.Run]
-#. defaultMessage is:
-#. Run
-#: build/messages/src/scripts/components/exercise/ActivityTypeOverlay.json
-#. [ActivityTypeOverlay.Run]
-#. defaultMessage is:
-#. Run
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Run]
 #. defaultMessage is:
@@ -1810,10 +1480,6 @@ msgstr ""
 msgid "SUBMIT"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.saveButton]
-#. defaultMessage is:
-#. Save
 #: build/messages/src/scripts/components/accountSetting/SaveButton.json
 #. [SaveButton.Save]
 #. defaultMessage is:
@@ -1834,20 +1500,6 @@ msgstr ""
 #. defaultMessage is:
 #. Save and Continue
 msgid "Save and Continue"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ForgotPassword.json
-#. [ForgotPassword.sendButton]
-#. defaultMessage is:
-#. Send Email
-msgid "Send Email"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.sendButton]
-#. defaultMessage is:
-#. Send Email Again
-msgid "Send Email Again"
 msgstr ""
 
 #: build/messages/src/scripts/containers/ForgotPasswordPage.json
@@ -1893,13 +1545,6 @@ msgstr ""
 msgid "Serial number must be 9 characters"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.title]
-#. defaultMessage is:
-#. Set Password
-msgid "Set Password"
-msgstr ""
-
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.title]
 #. defaultMessage is:
@@ -1943,13 +1588,6 @@ msgstr ""
 msgid "Sign In"
 msgstr ""
 
-#: build/messages/src/scripts/components/landingPage/Header.json
-#. [landingPage.Header.signInOrCreateAccount]
-#. defaultMessage is:
-#. Sign In / Create Account
-msgid "Sign In / Create Account"
-msgstr ""
-
 #: build/messages/src/scripts/components/hr/Header.json
 #. [HRHeader.signOut]
 #. defaultMessage is:
@@ -1964,19 +1602,8 @@ msgstr ""
 msgid "Sign into your HR account"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.signupSuccessTitle]
-#. defaultMessage is:
-#. Sign up Successful
-msgid "Sign up Successful"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Sleep]
-#. defaultMessage is:
-#. Sleep
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.Sleep]
 #. defaultMessage is:
 #. Sleep
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
@@ -2065,10 +1692,6 @@ msgstr ""
 msgid "Sorry! Page not found."
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ExerciseChart.json
-#. [ExerciseChart.Start]
-#. defaultMessage is:
-#. Start
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #. [ExerciseChart.Start]
 #. defaultMessage is:
@@ -2092,20 +1715,6 @@ msgstr ""
 #. defaultMessage is:
 #. Step
 msgid "Step"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/ActivateAccount.json
-#. [ActivateAccount.sendButton]
-#. defaultMessage is:
-#. Submit
-msgid "Submit"
-msgstr ""
-
-#: build/messages/src/scripts/components/authentication/AuthPageMessage.json
-#. [AuthPage.resendEmailVerificationSuccess]
-#. defaultMessage is:
-#. Success
-msgid "Success"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
@@ -2203,6 +1812,10 @@ msgstr ""
 msgid "This email address has already been registered."
 msgstr ""
 
+#: build/messages/src/scripts/components/contribute/FileList.json
+#. [FileList.Title]
+#. defaultMessage is:
+#. Title
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Title]
 #. defaultMessage is:
@@ -2296,6 +1909,13 @@ msgstr ""
 msgid "Update your workout data instantly to enjoy brand new exercise experiences."
 msgstr ""
 
+#: build/messages/src/scripts/components/contribute/UploadPanel.json
+#. [UploadPanel.upload]
+#. defaultMessage is:
+#. Upload
+msgid "Upload"
+msgstr ""
+
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 #. [ProfilePhoto.UploadPicture]
 #. defaultMessage is:
@@ -2317,18 +1937,18 @@ msgstr ""
 msgid "Upload your sleep raw data"
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/ChangePasswordDialog.json
-#. [ChangePasswordDialog.NewPassowrdPlaceholder]
-#. defaultMessage is:
-#. Use at least 8 alphanumeric characters
-msgid "Use at least 8 alphanumeric characters"
-msgstr ""
-
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
 #. [ResendEmailVerificationPage.alreadyActivated]
 #. defaultMessage is:
 #. User is already activated.
 msgid "User is already activated."
+msgstr ""
+
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+#. [HRSendSNReplacementMailPage.userIsNotActive]
+#. defaultMessage is:
+#. User is not active.
+msgid "User is not active."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
@@ -2363,19 +1983,8 @@ msgstr ""
 msgid "Verification link has expired!"
 msgstr ""
 
-#: build/messages/src/scripts/components/authentication/ResendEmailVerification.json
-#. [EmailVerification.linkExpire]
-#. defaultMessage is:
-#. Verification link has expired.
-msgid "Verification link has expired."
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Wake]
-#. defaultMessage is:
-#. Wake
-#: build/messages/src/scripts/components/sleepReport/SleepStageMessages.json
-#. [SleepStageMessages.Wake]
 #. defaultMessage is:
 #. Wake
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
@@ -2385,10 +1994,6 @@ msgstr ""
 msgid "Wake"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/StepChart.json
-#. [StepChart.Walk]
-#. defaultMessage is:
-#. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #. [Indication.Walk]
 #. defaultMessage is:
@@ -2481,6 +2086,13 @@ msgstr ""
 msgid "Yesterday"
 msgstr ""
 
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+#. [HRSendSNReplacementMailPage.permissionDenied]
+#. defaultMessage is:
+#. You do not have permission to perform this action.
+msgid "You do not have permission to perform this action."
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #. [CalorieChart.goalCompleted]
 #. defaultMessage is:
@@ -2532,10 +2144,6 @@ msgstr ""
 #. [Indication.bpm]
 #. defaultMessage is:
 #. bpm
-#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
-#. [personalReport.HeartRateChart.bpm]
-#. defaultMessage is:
-#. bpm
 msgid "bpm"
 msgstr ""
 
@@ -2544,13 +2152,6 @@ msgstr ""
 #. defaultMessage is:
 #. bpm/min
 msgid "bpm/min"
-msgstr ""
-
-#: build/messages/src/scripts/components/personalReport/CalorieChart.json
-#. [personalReport.CalorieChart.cal]
-#. defaultMessage is:
-#. cal
-msgid "cal"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
@@ -2607,6 +2208,10 @@ msgstr ""
 #. min
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Min]
+#. defaultMessage is:
+#. min
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.min]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-02T06:05:22.077Z\n"
+"POT-Creation-Date: 2017-06-05T09:49:24.383Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -53,6 +53,14 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
 #: build/messages/src/scripts/containers/AccountSetting.json
 #. [AccountSetting.AccountSetting]
 #. defaultMessage is:
@@ -337,11 +345,29 @@ msgstr ""
 msgid "Confirm Serial Number"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.ContactUs]
+#. defaultMessage is:
+#. Contact Us
+msgid "Contact Us"
+msgstr ""
+
 #: build/messages/src/scripts/containers/ContributeDataPage.json
 #. [ContributeDataPage.title]
 #. defaultMessage is:
 #. Contribute Your Data !
 msgid "Contribute Your Data !"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+msgid "Daily Activity"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -351,6 +377,14 @@ msgstr ""
 msgid "Daily avg."
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #. [SleepReportList.Dashboard]
 #. defaultMessage is:
@@ -791,6 +825,10 @@ msgstr ""
 #. [Header.Help]
 #. defaultMessage is:
 #. Help
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.Help]
+#. defaultMessage is:
+#. Help
 msgid "Help"
 msgstr ""
 
@@ -897,6 +935,17 @@ msgstr ""
 msgid "Latest"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+msgid "Leaderboard"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.learnTheDifference]
 #. defaultMessage is:
@@ -942,6 +991,13 @@ msgstr ""
 #. defaultMessage is:
 #. Link with your corporate ID for a seamless experience.
 msgid "Link with your corporate ID for a seamless experience."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Logout]
+#. defaultMessage is:
+#. Logout
+msgid "Logout"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
@@ -1588,6 +1644,21 @@ msgstr ""
 msgid "Sign In"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/Header.json
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+msgid "Sign In / Create Account"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.SignOut]
+#. defaultMessage is:
+#. Sign Out
 #: build/messages/src/scripts/components/hr/Header.json
 #. [HRHeader.signOut]
 #. defaultMessage is:
@@ -1622,6 +1693,17 @@ msgstr ""
 #. defaultMessage is:
 #. Sleep Efficiency
 msgid "Sleep Efficiency"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.SleepReport]
+#. defaultMessage is:
+#. Sleep Report
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.SleepReport]
+#. defaultMessage is:
+#. Sleep Report
+msgid "Sleep Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json

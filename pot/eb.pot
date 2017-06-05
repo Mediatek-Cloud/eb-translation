@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-05T10:24:57.351Z\n"
+"POT-Creation-Date: 2017-06-05T18:09:31.164Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -31,12 +31,12 @@ msgstr ""
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 9 Characters
+#. 9 Characters numeric string
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 #. [ResetSerialNumberPage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 9 Characters
-msgid "9 Characters"
+#. 9 Characters numeric string
+msgid "9 Characters numeric string"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
@@ -973,15 +973,18 @@ msgstr ""
 #. [LoginPage.passwordPlaceholder]
 #. defaultMessage is:
 #. Least 8 characters
+msgid "Least 8 characters"
+msgstr ""
+
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.passwordPlaceholder]
 #. defaultMessage is:
-#. Least 8 characters
+#. Least 8 characters and a mix of letters and numbers
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 #. [ResetPasswordPage.passwordPlaceholder]
 #. defaultMessage is:
-#. Least 8 characters
-msgid "Least 8 characters"
+#. Least 8 characters and a mix of letters and numbers
+msgid "Least 8 characters and a mix of letters and numbers"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
@@ -1237,8 +1240,8 @@ msgstr ""
 #: build/messages/src/scripts/utils/validator.json
 #. [validator.INVALID_PASSWORD]
 #. defaultMessage is:
-#. Password must be at least 8 characters
-msgid "Password must be at least 8 characters"
+#. Password must be at least 8 characters and contain least one number and one letter
+msgid "Password must be at least 8 characters and contain least one number and one letter"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
@@ -1330,6 +1333,13 @@ msgstr ""
 #. defaultMessage is:
 #. Please enter your email and we will send you instructions to reset your password.
 msgid "Please enter your email and we will send you instructions to reset your password."
+msgstr ""
+
+#: build/messages/src/scripts/utils/validator.json
+#. [validator.EMPTY_PASSWORD]
+#. defaultMessage is:
+#. Please input a password
+msgid "Please input a password"
 msgstr ""
 
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
@@ -1613,8 +1623,8 @@ msgstr ""
 #: build/messages/src/scripts/utils/validator.json
 #. [validator.INVALID_SERIALNUMBER]
 #. defaultMessage is:
-#. Serial number must be 9 characters
-msgid "Serial number must be 9 characters"
+#. Serial number must be 9-character numeric string
+msgid "Serial number must be 9-character numeric string"
 msgstr ""
 
 #: build/messages/src/scripts/containers/ActivatePage.json

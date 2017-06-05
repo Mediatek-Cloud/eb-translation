@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-05T10:18:48.771Z\n"
+"POT-Creation-Date: 2017-06-05T10:24:57.351Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -1709,17 +1709,6 @@ msgstr ""
 #. defaultMessage is:
 #. Sleep Efficiency
 msgid "Sleep Efficiency"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/Header.json
-#. [Header.SleepReport]
-#. defaultMessage is:
-#. Sleep Report
-#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
-#. [Header.SleepReport]
-#. defaultMessage is:
-#. Sleep Report
-msgid "Sleep Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json

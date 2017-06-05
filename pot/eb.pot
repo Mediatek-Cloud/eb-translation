@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-05T09:49:24.383Z\n"
+"POT-Creation-Date: 2017-06-05T10:12:47.137Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -300,6 +300,10 @@ msgstr ""
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#. [DailyActivity.Calorie]
+#. defaultMessage is:
+#. Calorie
 msgid "Calorie"
 msgstr ""
 
@@ -365,6 +369,10 @@ msgstr ""
 #. Daily Activity
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
+#. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
 msgid "Daily Activity"
@@ -615,6 +623,10 @@ msgstr ""
 #. [Indication.Exercise]
 #. defaultMessage is:
 #. Exercise
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#. [DailyActivity.Exercise]
+#. defaultMessage is:
+#. Exercise
 #: build/messages/src/scripts/containers/ExercisePage.json
 #. [ExercisePage.Exercise]
 #. defaultMessage is:
@@ -781,6 +793,10 @@ msgstr ""
 #. Heart Rate
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#. [DailyActivity.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
 msgid "Heart Rate"
@@ -1796,6 +1812,10 @@ msgstr ""
 #. [StepPanel.Step]
 #. defaultMessage is:
 #. Step
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#. [DailyActivity.Step]
+#. defaultMessage is:
+#. Step
 msgid "Step"
 msgstr ""
 
@@ -2086,6 +2106,10 @@ msgstr ""
 #. Walk
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.Walk]
+#. defaultMessage is:
+#. Walk
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#. [DailyActivity.Walk]
 #. defaultMessage is:
 #. Walk
 msgid "Walk"

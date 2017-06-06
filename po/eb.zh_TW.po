@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-02T06:05:22.077Z\n"
+"POT-Creation-Date: 2017-06-05T18:09:31.164Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -35,14 +35,14 @@ msgstr "三個月"
 
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 9 Characters
+#. 9 Characters numeric string
 #. [ResetSerialNumberPage.serialNumberPlaceholder]
 #. defaultMessage is:
-#. 9 Characters
+#. 9 Characters numeric string
 #: build/messages/src/scripts/containers/ActivatePage.json
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
-msgid "9 Characters"
-msgstr "九碼"
+msgid "9 Characters numeric string"
+msgstr "9 個數字的字串"
 
 #. [landingPage.Footer.about]
 #. defaultMessage is:
@@ -58,9 +58,17 @@ msgstr "關於 MediaTek Health"
 msgid "Account"
 msgstr "帳號"
 
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
 #. [AccountSetting.AccountSetting]
 #. defaultMessage is:
 #. Account Setting
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Account Setting"
 msgstr "帳號設定"
@@ -304,12 +312,16 @@ msgstr "聯繫我們"
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
+#. [DailyActivity.Calorie]
+#. defaultMessage is:
+#. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Calorie"
 msgstr "卡路里"
 
@@ -355,12 +367,34 @@ msgstr "請再輸入一次新的手環序號"
 msgid "Confirm Serial Number"
 msgstr "請再輸入一次序號"
 
+#. [Header.ContactUs]
+#. defaultMessage is:
+#. Contact Us
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+msgid "Contact Us"
+msgstr "聯繫我們"
+
 #. [ContributeDataPage.title]
 #. defaultMessage is:
 #. Contribute Your Data !
 #: build/messages/src/scripts/containers/ContributeDataPage.json
 msgid "Contribute Your Data !"
 msgstr "貢獻您的資料"
+
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#. [DailyActivity.DailyActivity]
+#. defaultMessage is:
+#. Daily Activity
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
+msgid "Daily Activity"
+msgstr "每日活動"
 
 #. [StepPanel.DailyAvg]
 #. defaultMessage is:
@@ -369,6 +403,12 @@ msgstr "貢獻您的資料"
 msgid "Daily avg."
 msgstr "每日平均"
 
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
 #. [SleepReportList.Dashboard]
 #. defaultMessage is:
 #. Dashboard
@@ -378,6 +418,8 @@ msgstr "每日平均"
 #. [SleepReportList.Dashboard]
 #. defaultMessage is:
 #. Dashboard
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -597,6 +639,9 @@ msgstr "例如：abc123@mediatek.com"
 #. [Indication.Exercise]
 #. defaultMessage is:
 #. Exercise
+#. [DailyActivity.Exercise]
+#. defaultMessage is:
+#. Exercise
 #. [ExercisePage.Exercise]
 #. defaultMessage is:
 #. Exercise
@@ -606,6 +651,7 @@ msgstr "例如：abc123@mediatek.com"
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
 msgstr "運動"
@@ -770,12 +816,16 @@ msgstr "HRV： {formattedDescription}"
 #. [Indication.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
+#. [DailyActivity.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseCharts.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Heart Rate"
 msgstr "心率"
 
@@ -817,7 +867,11 @@ msgstr "身高"
 #. [Header.Help]
 #. defaultMessage is:
 #. Help
+#. [Header.Help]
+#. defaultMessage is:
+#. Help
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 msgid "Help"
 msgstr "幫助"
 
@@ -928,6 +982,17 @@ msgstr "上一周"
 msgid "Latest"
 msgstr "最新"
 
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+msgid "Leaderboard"
+msgstr "排行榜"
+
 #. [landingPage.EmailSection.learnTheDifference]
 #. defaultMessage is:
 #. Learn the difference
@@ -938,17 +1003,20 @@ msgstr "了解差異"
 #. [LoginPage.passwordPlaceholder]
 #. defaultMessage is:
 #. Least 8 characters
-#. [ActivatePage.passwordPlaceholder]
-#. defaultMessage is:
-#. Least 8 characters
-#. [ResetPasswordPage.passwordPlaceholder]
-#. defaultMessage is:
-#. Least 8 characters
 #: build/messages/src/scripts/components/authentication/AuthForm.json
-#: build/messages/src/scripts/containers/ActivatePage.json
-#: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Least 8 characters"
 msgstr "必須至少 8 個字元。"
+
+#. [ActivatePage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters and a mix of letters and numbers
+#. [ResetPasswordPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters and a mix of letters and numbers
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Least 8 characters and a mix of letters and numbers"
+msgstr "至少數字或是字母組成的 8 個字元"
 
 #. [landingPage.Footer.LegalNotice]
 #. defaultMessage is:
@@ -974,6 +1042,13 @@ msgstr "淺眠期"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Link with your corporate ID for a seamless experience."
 msgstr "結合公司門禁卡功能，上班更輕鬆"
+
+#. [Header.Logout]
+#. defaultMessage is:
+#. Logout
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Logout"
+msgstr "登出"
 
 #. [GenderSelect.male]
 #. defaultMessage is:
@@ -1193,14 +1268,16 @@ msgstr "密碼"
 #. Password Least 8 Characters
 #: build/messages/src/scripts/utils/emailPasswordValidator.json
 msgid "Password Least 8 Characters"
-msgstr "密碼至少要有八個字元"
+msgstr "密碼至少要有 8 個字元"
 
 #. [validator.INVALID_PASSWORD]
 #. defaultMessage is:
-#. Password must be at least 8 characters
+#. Password must be at least 8 characters and contain least one number and one letter
 #: build/messages/src/scripts/utils/validator.json
-msgid "Password must be at least 8 characters"
-msgstr "密碼需要至少 8 個字元。"
+msgid ""
+"Password must be at least 8 characters and contain least one number and one "
+"letter"
+msgstr "密碼需為 8 個字元包含數字和字母"
 
 #. [landingPage.ProductOverview.title]
 #. defaultMessage is:
@@ -1303,6 +1380,13 @@ msgid ""
 "Please enter your email and we will send you instructions to reset your "
 "password."
 msgstr "請輸入您的電子郵件，我們會發送重設密碼信件給您。"
+
+#. [validator.EMPTY_PASSWORD]
+#. defaultMessage is:
+#. Please input a password
+#: build/messages/src/scripts/utils/validator.json
+msgid "Please input a password"
+msgstr "請輸入密碼"
 
 #. [emailPasswordValidator.INVALID_EMAIL]
 #. defaultMessage is:
@@ -1591,10 +1675,10 @@ msgstr "序號"
 
 #. [validator.INVALID_SERIALNUMBER]
 #. defaultMessage is:
-#. Serial number must be 9 characters
+#. Serial number must be 9-character numeric string
 #: build/messages/src/scripts/utils/validator.json
-msgid "Serial number must be 9 characters"
-msgstr "序號必須是九碼"
+msgid "Serial number must be 9-character numeric string"
+msgstr "序號必須是 9 個字元的數字字串"
 
 #. [ActivatePage.title]
 #. defaultMessage is:
@@ -1640,9 +1724,24 @@ msgstr "顯示更多"
 msgid "Sign In"
 msgstr "登入"
 
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+msgid "Sign In / Create Account"
+msgstr "登入 / 建立帳戶"
+
+#. [Header.SignOut]
+#. defaultMessage is:
+#. Sign Out
 #. [HRHeader.signOut]
 #. defaultMessage is:
 #. Sign Out
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/components/hr/Header.json
 msgid "Sign Out"
 msgstr "登出"
@@ -1765,7 +1864,11 @@ msgstr "保持登入狀態"
 #. [StepPanel.Step]
 #. defaultMessage is:
 #. Step
+#. [DailyActivity.Step]
+#. defaultMessage is:
+#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Step"
 msgstr "步數"
 
@@ -2076,9 +2179,13 @@ msgstr "清醒"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
+#. [DailyActivity.Walk]
+#. defaultMessage is:
+#. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Walk"
 msgstr "走路"
 
@@ -2347,7 +2454,7 @@ msgstr "星星"
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "step"
-msgstr "步"
+msgstr "step"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight]
 #. defaultMessage is:
@@ -2362,6 +2469,15 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid "9 Characters"
+#~ msgstr "九碼"
+
+#~ msgid "Password must be at least 8 characters"
+#~ msgstr "密碼需要至少 8 個字元。"
+
+#~ msgid "Serial number must be 9 characters"
+#~ msgstr "序號必須是九碼"
 
 #~ msgid "Account has been activated"
 #~ msgstr "帳號已啟用"
@@ -2398,9 +2514,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
 #~ msgid "Forgot password"
 #~ msgstr "忘記密碼"
-
-#~ msgid "Leaderboard"
-#~ msgstr "排行榜"
 
 #~ msgid "Log In"
 #~ msgstr "登入"
@@ -2487,9 +2600,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 #~ msgid "Set Password"
 #~ msgstr "設置密碼"
 
-#~ msgid "Sign In / Create Account"
-#~ msgstr "登入 / 建立帳戶"
-
 #~ msgid "Sign up Successful"
 #~ msgstr "登入成功"
 
@@ -2573,12 +2683,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 #~ "badge experimental project"
 #~ msgstr "選擇聯發金手環，即表示您同意額外參予本穿戴式識別證實驗計畫。"
 
-#~ msgid "Contact Us"
-#~ msgstr "聯繫我們"
-
-#~ msgid "Daily Activity"
-#~ msgstr "每日活動"
-
 #~ msgid "For gold band user, if you need your badge for business trip"
 #~ msgstr "金手環使用者，如您因出差原由需要取回識別證"
 
@@ -2587,9 +2691,6 @@ msgstr "© 2016 MediaTek Inc. All Rights Reserved."
 
 #~ msgid "Link with your corporate ID for a seamless experience ."
 #~ msgstr "結合公司門禁卡功能，上班更輕鬆"
-
-#~ msgid "Logout"
-#~ msgstr "登出"
 
 #~ msgid "MTK Health Privacy Policy"
 #~ msgstr "MTK Health 隱私條款"

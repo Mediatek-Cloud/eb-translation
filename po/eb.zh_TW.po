@@ -973,7 +973,7 @@ msgstr "LF/HF {lfHf}"
 #. Last Week
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 msgid "Last Week"
-msgstr "上一周"
+msgstr "上一週"
 
 #. [BloodPressureChartMeta.Latest]
 #. defaultMessage is:
@@ -1167,7 +1167,7 @@ msgstr "新的手環序號"
 #. Next Week
 #: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
 msgid "Next Week"
-msgstr "下一周"
+msgstr "下一週"
 
 #. [ProfileForm.nicknameLabel]
 #. defaultMessage is:

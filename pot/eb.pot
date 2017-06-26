@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-26T07:32:17.754Z\n"
+"POT-Creation-Date: 2017-06-26T12:16:34.379Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -28,11 +28,39 @@ msgstr ""
 msgid "* Taipei Office only"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.iOSAppPopoverStep1]
+#. defaultMessage is:
+#. 1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app.
+msgid "1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.iOSAppPopoverStep2]
+#. defaultMessage is:
+#. 2. Open the Mediatek Health App, you will see a warning message showing "Non-trusted enterprise developers"
+msgid "2. Open the Mediatek Health App, you will see a warning message showing \"Non-trusted enterprise developers\""
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.durationContext]
 #. defaultMessage is:
 #. 3 months
 msgid "3 months"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.iOSAppPopoverStep3]
+#. defaultMessage is:
+#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)
+msgid "3. Press \"Cancel\" and go to Settings > General > Device Management > MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.iOSAppPopoverStep4]
+#. defaultMessage is:
+#. 4. Open Mediatek Health App again, and you can start using.
+msgid "4. Open Mediatek Health App again, and you can start using."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -817,6 +845,20 @@ msgstr ""
 #. defaultMessage is:
 #. Help
 msgid "Help"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.HowToInstallIOSApp]
+#. defaultMessage is:
+#. How to install iOS App
+msgid "How to install iOS App"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.HowToInstallIOSApp?]
+#. defaultMessage is:
+#. How to install iOS App ?
+msgid "How to install iOS App ?"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/EmailSection.json

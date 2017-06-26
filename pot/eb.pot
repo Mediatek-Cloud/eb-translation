@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-05T18:09:31.164Z\n"
+"POT-Creation-Date: 2017-06-26T07:29:47.178Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,13 @@ msgstr ""
 #. defaultMessage is:
 #. (Aerobics Time + Anaerobics Time) / Exercise Duration
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr ""
+
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.ComingSoon]
+#. defaultMessage is:
+#. (Coming soon)
+msgid "(Coming soon)"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -130,6 +137,13 @@ msgstr ""
 #. defaultMessage is:
 #. Aerobics
 msgid "Aerobics"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step4Description]
+#. defaultMessage is:
+#. After connect successfully, you will see a bluetooth icon on the band and you can start using the band.
+msgid "After connect successfully, you will see a bluetooth icon on the band and you can start using the band."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -356,13 +370,6 @@ msgstr ""
 msgid "Contact Us"
 msgstr ""
 
-#: build/messages/src/scripts/containers/ContributeDataPage.json
-#. [ContributeDataPage.title]
-#. defaultMessage is:
-#. Contribute Your Data !
-msgid "Contribute Your Data !"
-msgstr ""
-
 #: build/messages/src/scripts/components/common/Header.json
 #. [Header.Report]
 #. defaultMessage is:
@@ -486,17 +493,6 @@ msgstr ""
 msgid "Drop the file to any place in this page"
 msgstr ""
 
-#: build/messages/src/scripts/components/contribute/HoverOverlay.json
-#. [HoverOverlay.description]
-#. defaultMessage is:
-#. Drop the files to any place in this page
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-#. [UploadPanel.dropBlockDescription]
-#. defaultMessage is:
-#. Drop the files to any place in this page
-msgid "Drop the files to any place in this page"
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
 #. defaultMessage is:
@@ -527,13 +523,6 @@ msgstr ""
 #. defaultMessage is:
 #. Easy Health Monitoring
 msgid "Easy Health Monitoring"
-msgstr ""
-
-#: build/messages/src/scripts/components/contribute/FileList.json
-#. [FileList.Edit]
-#. defaultMessage is:
-#. Edit
-msgid "Edit"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/EfficiencyCircle.json
@@ -577,13 +566,6 @@ msgstr ""
 msgid "Email {email} invalid. Please try again."
 msgstr ""
 
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-#. [UploadPanel.descriptionP1]
-#. defaultMessage is:
-#. Everyone's data is personal, so please upload only your own data.
-msgid "Everyone's data is personal, so please upload only your own data."
-msgstr ""
-
 #: build/messages/src/scripts/components/authentication/AuthForm.json
 #. [LoginPage.emailPlaceholder]
 #. defaultMessage is:
@@ -617,10 +599,6 @@ msgstr ""
 #. Exercise
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Exercise]
 #. defaultMessage is:
 #. Exercise
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
@@ -671,13 +649,6 @@ msgstr ""
 #. defaultMessage is:
 #. Female
 msgid "Female"
-msgstr ""
-
-#: build/messages/src/scripts/components/contribute/FileList.json
-#. [FileList.FileSize]
-#. defaultMessage is:
-#. File Size
-msgid "File Size"
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
@@ -994,6 +965,13 @@ msgstr ""
 msgid "Legal Notice"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.LetsGetStarted]
+#. defaultMessage is:
+#. Let's get started!
+msgid "Let's get started!"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Light]
 #. defaultMessage is:
@@ -1052,6 +1030,13 @@ msgstr ""
 #. defaultMessage is:
 #. MediaTek Health Terms & Conditions
 msgid "MediaTek Health Terms & Conditions"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step1Description]
+#. defaultMessage is:
+#. MediaTek Health service provides Android and iOS app. Use the following links to download.
+msgid "MediaTek Health service provides Android and iOS app. Use the following links to download."
 msgstr ""
 
 #: build/messages/src/scripts/components/common/Footer.json
@@ -1166,6 +1151,13 @@ msgstr ""
 msgid "Note："
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.OK]
+#. defaultMessage is:
+#. OK
+msgid "OK"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json
 #. [landingPage.ProductOverview.content]
 #. defaultMessage is:
@@ -1213,6 +1205,13 @@ msgstr ""
 #. defaultMessage is:
 #. Oops! Something went wrong. Please try again later.
 msgid "Oops! Something went wrong. Please try again later."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step2Description]
+#. defaultMessage is:
+#. Open the App, please set your profile and goals when first sign in.
+msgid "Open the App, please set your profile and goals when first sign in."
 msgstr ""
 
 #: build/messages/src/scripts/components/authentication/AuthForm.json
@@ -1389,18 +1388,18 @@ msgstr ""
 msgid "Please set a password and the serial number of the band to complete the registration."
 msgstr ""
 
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-#. [UploadPanel.descriptionP2]
-#. defaultMessage is:
-#. Please use the usb cable to connect your band to the computer, and place the sleep raw data files below. All files are total 2GB limit, if you have over then, please upload multiple times.
-msgid "Please use the usb cable to connect your band to the computer, and place the sleep raw data files below. All files are total 2GB limit, if you have over then, please upload multiple times."
-msgstr ""
-
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 #. [EfficiencyIndicator.Poor]
 #. defaultMessage is:
 #. Poor
 msgid "Poor"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step3Description]
+#. defaultMessage is:
+#. Press the connect button in app, the phone will start searching the band and making connection.
+msgid "Press the connect button in app, the phone will start searching the band and making connection."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -1543,6 +1542,10 @@ msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Run]
+#. defaultMessage is:
+#. Run
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#. [Indication.Run]
 #. defaultMessage is:
 #. Run
 msgid "Run"
@@ -1818,6 +1821,13 @@ msgstr ""
 msgid "Step"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [StepLabel.Step]
+#. defaultMessage is:
+#. Step {number}
+msgid "Step {number}"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
@@ -1855,13 +1865,6 @@ msgstr ""
 #. defaultMessage is:
 #. The data will {not} be revealed to anyone, including HR or managers, before getting your approval.
 msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
-msgstr ""
-
-#: build/messages/src/scripts/containers/ContributeDataPage.json
-#. [ContributeDataPage.description]
-#. defaultMessage is:
-#. The development team needs you to provide the sleep raw data to make the algorithm more accurate.
-msgid "The development team needs you to provide the sleep raw data to make the algorithm more accurate."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1913,10 +1916,6 @@ msgstr ""
 msgid "This email address has already been registered."
 msgstr ""
 
-#: build/messages/src/scripts/components/contribute/FileList.json
-#. [FileList.Title]
-#. defaultMessage is:
-#. Title
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Title]
 #. defaultMessage is:
@@ -2010,13 +2009,6 @@ msgstr ""
 msgid "Update your workout data instantly to enjoy brand new exercise experiences."
 msgstr ""
 
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-#. [UploadPanel.upload]
-#. defaultMessage is:
-#. Upload
-msgid "Upload"
-msgstr ""
-
 #: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
 #. [ProfilePhoto.UploadPicture]
 #. defaultMessage is:
@@ -2029,13 +2021,6 @@ msgstr ""
 #. defaultMessage is:
 #. Upload a CSV file.
 msgid "Upload a CSV file."
-msgstr ""
-
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-#. [UploadPanel.title]
-#. defaultMessage is:
-#. Upload your sleep raw data
-msgid "Upload your sleep raw data"
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
@@ -2245,18 +2230,15 @@ msgstr ""
 #. [HeartRateChart.Bpm]
 #. defaultMessage is:
 #. bpm
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#. [ExerciseMetaDetails.bpm]
+#. defaultMessage is:
+#. bpm
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #. [Indication.bpm]
 #. defaultMessage is:
 #. bpm
 msgid "bpm"
-msgstr ""
-
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
-#. [ExerciseMetaDetails.bpm/min]
-#. defaultMessage is:
-#. bpm/min
-msgid "bpm/min"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json

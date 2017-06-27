@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-05T18:09:31.164Z\n"
+"POT-Creation-Date: 2017-06-26T12:16:34.379Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -19,6 +19,13 @@ msgstr ""
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
 
+#. [SleepStagePanel.ComingSoon]
+#. defaultMessage is:
+#. (Coming soon)
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "(Coming soon)"
+msgstr " （即將推出）"
+
 #. [LangingPage.StepsContentL2]
 #. defaultMessage is:
 #. * Taipei Office only
@@ -26,12 +33,52 @@ msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
 msgid "* Taipei Office only"
 msgstr "* 目前僅限台北辦公區域"
 
+#. [FirstLoginManual.iOSAppPopoverStep1]
+#. defaultMessage is:
+#. 1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the "
+"app."
+msgstr "1. 掃描 QR Code 連結至 https://ios.mediatek.io/dev/ 下載。"
+
+#. [FirstLoginManual.iOSAppPopoverStep2]
+#. defaultMessage is:
+#. 2. Open the Mediatek Health App, you will see a warning message showing "Non-trusted enterprise developers"
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"2. Open the Mediatek Health App, you will see a warning message showing "
+"\"Non-trusted enterprise developers\""
+msgstr ""
+"2. 點 Mediatek Health App 開啟，這時會跳出顯示「尚未信任企業級開發者」的警告"
+"視窗"
+
 #. [landingPage.ProjectIntroDialog.durationContext]
 #. defaultMessage is:
 #. 3 months
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "3 months"
 msgstr "三個月"
+
+#. [FirstLoginManual.iOSAppPopoverStep3]
+#. defaultMessage is:
+#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"3. Press \"Cancel\" and go to Settings > General > Device Management > "
+"MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step "
+"requires network so that it can connect to https: // ppq. Apple.com)"
+msgstr ""
+"3. 按視窗下方的 Cancel 後，至手機的 設定 > 一般 > 裝置管理  > MediaTek Inc. "
+"點選「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://ppq."
+"apple.com)"
+
+#. [FirstLoginManual.iOSAppPopoverStep4]
+#. defaultMessage is:
+#. 4. Open Mediatek Health App again, and you can start using.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "4. Open Mediatek Health App again, and you can start using."
+msgstr "4. 再次開啟 Mediatek Health App 就可順利進行連線等作業了。"
 
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
@@ -136,6 +183,15 @@ msgstr "其他"
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Aerobics"
 msgstr "有氧運動"
+
+#. [FirstLoginManual.Step4Description]
+#. defaultMessage is:
+#. After connect successfully, you will see a bluetooth icon on the band and you can start using the band.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"After connect successfully, you will see a bluetooth icon on the band and "
+"you can start using the band."
+msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP4]
 #. defaultMessage is:
@@ -374,13 +430,6 @@ msgstr "請再輸入一次序號"
 msgid "Contact Us"
 msgstr "聯繫我們"
 
-#. [ContributeDataPage.title]
-#. defaultMessage is:
-#. Contribute Your Data !
-#: build/messages/src/scripts/containers/ContributeDataPage.json
-msgid "Contribute Your Data !"
-msgstr "貢獻您的資料"
-
 #. [Header.Report]
 #. defaultMessage is:
 #. Daily Activity
@@ -504,17 +553,6 @@ msgstr "您是否願意額外參與穿戴式識別證實驗計畫呢？"
 msgid "Drop the file to any place in this page"
 msgstr "請將檔案拖曳至頁面任何地方"
 
-#. [HoverOverlay.description]
-#. defaultMessage is:
-#. Drop the files to any place in this page
-#. [UploadPanel.dropBlockDescription]
-#. defaultMessage is:
-#. Drop the files to any place in this page
-#: build/messages/src/scripts/components/contribute/HoverOverlay.json
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-msgid "Drop the files to any place in this page"
-msgstr "將檔案拖曳至此頁面內"
-
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
 #. defaultMessage is:
 #. Due to it is an experimental project, you might not be able to get the discount in cooperative shop.
@@ -550,13 +588,6 @@ msgstr "歷時"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Easy Health Monitoring"
 msgstr "天天量血壓　健康一手掌握"
-
-#. [FileList.Edit]
-#. defaultMessage is:
-#. Edit
-#: build/messages/src/scripts/components/contribute/FileList.json
-msgid "Edit"
-msgstr "編輯"
 
 #. [EfficiencyCircle.Efficiency]
 #. defaultMessage is:
@@ -599,13 +630,6 @@ msgstr "電子郵件"
 msgid "Email {email} invalid. Please try again."
 msgstr "電子郵件 {email} 錯誤。 請再試一次。"
 
-#. [UploadPanel.descriptionP1]
-#. defaultMessage is:
-#. Everyone's data is personal, so please upload only your own data.
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-msgid "Everyone's data is personal, so please upload only your own data."
-msgstr "每個人的睡眠資料皆為獨特的，請只上傳本人的資料。"
-
 #. [LoginPage.emailPlaceholder]
 #. defaultMessage is:
 #. Ex: abc123@mediatek.com
@@ -636,9 +660,6 @@ msgstr "例如：abc123@mediatek.com"
 #. [ActivityTypeOverlay.Exercise]
 #. defaultMessage is:
 #. Exercise
-#. [Indication.Exercise]
-#. defaultMessage is:
-#. Exercise
 #. [DailyActivity.Exercise]
 #. defaultMessage is:
 #. Exercise
@@ -650,7 +671,6 @@ msgstr "例如：abc123@mediatek.com"
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
@@ -694,13 +714,6 @@ msgstr "燃脂三十分鐘"
 #: build/messages/src/scripts/components/accountSetting/GenderSelect.json
 msgid "Female"
 msgstr "女性"
-
-#. [FileList.FileSize]
-#. defaultMessage is:
-#. File Size
-#: build/messages/src/scripts/components/contribute/FileList.json
-msgid "File Size"
-msgstr "檔案大小"
 
 #. [ProfilePhoto.fileSizeExceeds]
 #. defaultMessage is:
@@ -875,6 +888,20 @@ msgstr "身高"
 msgid "Help"
 msgstr "幫助"
 
+#. [FirstLoginManual.HowToInstallIOSApp]
+#. defaultMessage is:
+#. How to install iOS App
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "How to install iOS App"
+msgstr "如何安裝 iOS App"
+
+#. [FirstLoginManual.HowToInstallIOSApp?]
+#. defaultMessage is:
+#. How to install iOS App ?
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "How to install iOS App ?"
+msgstr "如何安裝 iOS App？"
+
 #. [landingPage.EmailSection.hsinchuHQ]
 #. defaultMessage is:
 #. Hsinchu HQ
@@ -1025,6 +1052,13 @@ msgstr "至少數字或是字母組成的 8 個字元"
 msgid "Legal Notice"
 msgstr "法律聲明"
 
+#. [FirstLoginManual.LetsGetStarted]
+#. defaultMessage is:
+#. Let's get started!
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Let's get started!"
+msgstr "開始吧！"
+
 #. [SleepStagePanel.Light]
 #. defaultMessage is:
 #. Light
@@ -1084,6 +1118,17 @@ msgstr "MediaTek Health 隱私條款"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "MediaTek Health Terms & Conditions"
 msgstr "MediaTek Health 使用條款"
+
+#. [FirstLoginManual.Step1Description]
+#. defaultMessage is:
+#. MediaTek Health service provides Android and iOS app. Use the following links to download.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"MediaTek Health service provides Android and iOS app. Use the following "
+"links to download."
+msgstr ""
+"MediaTek Health 服務提供 Android 和 iOS 兩種版本的手機 App。您可使用以下 QR "
+"code 下載 MediaTek Health App。"
 
 #. [Layout.MediaTekIncAllRightReserved]
 #. defaultMessage is:
@@ -1197,6 +1242,13 @@ msgstr "說明"
 msgid "Note："
 msgstr "說明："
 
+#. [FirstLoginManual.OK]
+#. defaultMessage is:
+#. OK
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "OK"
+msgstr "OK"
+
 #. [landingPage.ProductOverview.content]
 #. defaultMessage is:
 #. Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health.
@@ -1247,6 +1299,13 @@ msgstr "噢！看起來發生了些錯誤。"
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Oops! Something went wrong. Please try again later."
 msgstr "Oops！系統遇到一些小狀況，請稍後再試。"
+
+#. [FirstLoginManual.Step2Description]
+#. defaultMessage is:
+#. Open the App, please set your profile and goals when first sign in.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Open the App, please set your profile and goals when first sign in."
+msgstr "當您第一次登入，請設定您的個人資訊及目標。"
 
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
@@ -1437,24 +1496,21 @@ msgid ""
 "registration."
 msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
 
-#. [UploadPanel.descriptionP2]
-#. defaultMessage is:
-#. Please use the usb cable to connect your band to the computer, and place the sleep raw data files below. All files are total 2GB limit, if you have over then, please upload multiple times.
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-msgid ""
-"Please use the usb cable to connect your band to the computer, and place the "
-"sleep raw data files below. All files are total 2GB limit, if you have over "
-"then, please upload multiple times."
-msgstr ""
-"請使用 USB 傳輸線連接手環與電腦，並且將睡眠資料原始檔案拖曳至下方。總檔案大小"
-"限制為 2 GB，若超過此大小，請分次上傳。"
-
 #. [EfficiencyIndicator.Poor]
 #. defaultMessage is:
 #. Poor
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Poor"
 msgstr "很差"
+
+#. [FirstLoginManual.Step3Description]
+#. defaultMessage is:
+#. Press the connect button in app, the phone will start searching the band and making connection.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"Press the connect button in app, the phone will start searching the band and "
+"making connection."
+msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立連線。"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -1597,7 +1653,11 @@ msgstr "歸還手環並且刪除帳號"
 #. [ActivityTypeOverlay.Run]
 #. defaultMessage is:
 #. Run
+#. [Indication.Run]
+#. defaultMessage is:
+#. Run
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Run"
 msgstr "跑"
 
@@ -1872,6 +1932,13 @@ msgstr "保持登入狀態"
 msgid "Step"
 msgstr "步數"
 
+#. [StepLabel.Step]
+#. defaultMessage is:
+#. Step {number}
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Step {number}"
+msgstr "步驟 {number}"
+
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
 #. Systolic
@@ -1913,15 +1980,6 @@ msgid ""
 "getting your approval."
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
-
-#. [ContributeDataPage.description]
-#. defaultMessage is:
-#. The development team needs you to provide the sleep raw data to make the algorithm more accurate.
-#: build/messages/src/scripts/containers/ContributeDataPage.json
-msgid ""
-"The development team needs you to provide the sleep raw data to make the "
-"algorithm more accurate."
-msgstr "提供您的睡眠原始資料，幫助開發團隊提供更準確的演算法。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
@@ -1985,13 +2043,9 @@ msgstr ""
 msgid "This email address has already been registered."
 msgstr "此電子郵件已被申請。"
 
-#. [FileList.Title]
-#. defaultMessage is:
-#. Title
 #. [SleepReportList.Title]
 #. defaultMessage is:
 #. Title
-#: build/messages/src/scripts/components/contribute/FileList.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Title"
 msgstr "名稱"
@@ -2085,13 +2139,6 @@ msgid ""
 "Update your workout data instantly to enjoy brand new exercise experiences."
 msgstr "即時更新您的健康數據，全新的運動體驗"
 
-#. [UploadPanel.upload]
-#. defaultMessage is:
-#. Upload
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-msgid "Upload"
-msgstr "上傳"
-
 #. [ProfilePhoto.UploadPicture]
 #. defaultMessage is:
 #. Upload Picture
@@ -2105,13 +2152,6 @@ msgstr "上傳圖片"
 #: build/messages/src/scripts/containers/HRActivateAccountsPage.json
 msgid "Upload a CSV file."
 msgstr "上傳 csv 檔案"
-
-#. [UploadPanel.title]
-#. defaultMessage is:
-#. Upload your sleep raw data
-#: build/messages/src/scripts/components/contribute/UploadPanel.json
-msgid "Upload your sleep raw data"
-msgstr "上傳睡眠原始數據"
 
 #. [ResendEmailVerificationPage.alreadyActivated]
 #. defaultMessage is:
@@ -2323,20 +2363,17 @@ msgstr "avg bpm"
 #. [HeartRateChart.Bpm]
 #. defaultMessage is:
 #. bpm
+#. [ExerciseMetaDetails.bpm]
+#. defaultMessage is:
+#. bpm
 #. [Indication.bpm]
 #. defaultMessage is:
 #. bpm
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "bpm"
 msgstr "bpm"
-
-#. [ExerciseMetaDetails.bpm/min]
-#. defaultMessage is:
-#. bpm/min
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
-msgid "bpm/min"
-msgstr "bpm/min"
 
 #. [ExericsePanel.H]
 #. defaultMessage is:
@@ -2469,6 +2506,43 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid "Contribute Your Data !"
+#~ msgstr "貢獻您的資料"
+
+#~ msgid "Drop the files to any place in this page"
+#~ msgstr "將檔案拖曳至此頁面內"
+
+#~ msgid "Edit"
+#~ msgstr "編輯"
+
+#~ msgid "Everyone's data is personal, so please upload only your own data."
+#~ msgstr "每個人的睡眠資料皆為獨特的，請只上傳本人的資料。"
+
+#~ msgid "File Size"
+#~ msgstr "檔案大小"
+
+#~ msgid ""
+#~ "Please use the usb cable to connect your band to the computer, and place "
+#~ "the sleep raw data files below. All files are total 2GB limit, if you "
+#~ "have over then, please upload multiple times."
+#~ msgstr ""
+#~ "請使用 USB 傳輸線連接手環與電腦，並且將睡眠資料原始檔案拖曳至下方。總檔案"
+#~ "大小限制為 2 GB，若超過此大小，請分次上傳。"
+
+#~ msgid ""
+#~ "The development team needs you to provide the sleep raw data to make the "
+#~ "algorithm more accurate."
+#~ msgstr "提供您的睡眠原始資料，幫助開發團隊提供更準確的演算法。"
+
+#~ msgid "Upload"
+#~ msgstr "上傳"
+
+#~ msgid "Upload your sleep raw data"
+#~ msgstr "上傳睡眠原始數據"
+
+#~ msgid "bpm/min"
+#~ msgstr "bpm/min"
 
 #~ msgid "9 Characters"
 #~ msgstr "九碼"

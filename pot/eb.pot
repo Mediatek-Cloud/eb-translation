@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-27T02:55:06.781Z\n"
+"POT-Creation-Date: 2017-06-27T10:15:31.341Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -31,15 +31,15 @@ msgstr ""
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.iOSAppPopoverStep1]
 #. defaultMessage is:
-#. 1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app.
-msgid "1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app."
+#. 1. Scan the QR code above and click the hyperlink: "Click here to download MediaTek Health iOS App."
+msgid "1. Scan the QR code above and click the hyperlink: \"Click here to download MediaTek Health iOS App.\""
 msgstr ""
 
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.iOSAppPopoverStep2]
 #. defaultMessage is:
-#. 2. Open the Mediatek Health App, you will see a warning message showing "Non-trusted enterprise developers"
-msgid "2. Open the Mediatek Health App, you will see a warning message showing \"Non-trusted enterprise developers\""
+#. 2. Please select "Install" when the installation notification is shown.
+msgid "2. Please select \"Install\" when the installation notification is shown."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -52,15 +52,22 @@ msgstr ""
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.iOSAppPopoverStep3]
 #. defaultMessage is:
-#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)
-msgid "3. Press \"Cancel\" and go to Settings > General > Device Management > MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)"
+#. 3. Please establish trust for the enterprise app when the installation finished. Tap Settings > General > Profiles or Profiles & Device Management > MediaTek Inc. Tap "Trust MediaTek Inc." to establish trust. (Note that the network connection is required in this step.)
+msgid "3. Please establish trust for the enterprise app when the installation finished. Tap Settings > General > Profiles or Profiles & Device Management > MediaTek Inc. Tap \"Trust MediaTek Inc.\" to establish trust. (Note that the network connection is required in this step.)"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:
-#. 4. Open Mediatek Health App again, and you can start using.
-msgid "4. Open Mediatek Health App again, and you can start using."
+#. 4. Open MediaTek Health App after get back to Home screen.
+msgid "4. Open MediaTek Health App after get back to Home screen."
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.iOSAppPopoverStep5]
+#. defaultMessage is:
+#. 5. If a notification titled "Untrusted Enterprise Developer" is shown, Please follow step 3 to trust enterprise profile.
+msgid "5. If a notification titled \"Untrusted Enterprise Developer\" is shown, Please follow step 3 to trust enterprise profile."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ActivatePage.json
@@ -168,10 +175,10 @@ msgid "Aerobics"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
-#. [FirstLoginManual.Step4Description]
+#. [FirstLoginManual.Step3Description]
 #. defaultMessage is:
-#. After connect successfully, you will see a bluetooth icon on the band and you can start using the band.
-msgid "After connect successfully, you will see a bluetooth icon on the band and you can start using the band."
+#. After setting profiles and goals, tap connect button in app to start connecting process. It will search your band and create BLE connection automatically.
+msgid "After setting profiles and goals, tap connect button in app to start connecting process. It will search your band and create BLE connection automatically."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
@@ -1067,13 +1074,6 @@ msgstr ""
 msgid "MediaTek Health Terms & Conditions"
 msgstr ""
 
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-#. [FirstLoginManual.Step1Description]
-#. defaultMessage is:
-#. MediaTek Health service provides Android and iOS app. Use the following links to download.
-msgid "MediaTek Health service provides Android and iOS app. Use the following links to download."
-msgstr ""
-
 #: build/messages/src/scripts/components/common/Footer.json
 #. [Layout.MediaTekIncAllRightReserved]
 #. defaultMessage is:
@@ -1242,13 +1242,6 @@ msgstr ""
 msgid "Oops! Something went wrong. Please try again later."
 msgstr ""
 
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-#. [FirstLoginManual.Step2Description]
-#. defaultMessage is:
-#. Open the App, please set your profile and goals when first sign in.
-msgid "Open the App, please set your profile and goals when first sign in."
-msgstr ""
-
 #: build/messages/src/scripts/components/authentication/AuthForm.json
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
@@ -1412,6 +1405,13 @@ msgstr ""
 msgid "Please make sure you've read the \"Learn the differnce\"."
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step1Description]
+#. defaultMessage is:
+#. Please scan the following QR code to download MediaTek Health App.
+msgid "Please scan the following QR code to download MediaTek Health App."
+msgstr ""
+
 #: build/messages/src/scripts/containers/ActivatePage.json
 #. [ActivatePage.description]
 #. defaultMessage is:
@@ -1428,13 +1428,6 @@ msgstr ""
 #. defaultMessage is:
 #. Poor
 msgid "Poor"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-#. [FirstLoginManual.Step3Description]
-#. defaultMessage is:
-#. Press the connect button in app, the phone will start searching the band and making connection.
-msgid "Press the connect button in app, the phone will start searching the band and making connection."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -2176,6 +2169,13 @@ msgstr ""
 msgid "What does the data mean ?"
 msgstr ""
 
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step2Description]
+#. defaultMessage is:
+#. When you first open the app and sign in, please set your personal profiles and activity goals.
+msgid "When you first open the app and sign in, please set your personal profiles and activity goals."
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.officePlaceTitle]
 #. defaultMessage is:
@@ -2223,6 +2223,13 @@ msgstr ""
 #. defaultMessage is:
 #. You have completed the goal!
 msgid "You have completed the goal!"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+#. [FirstLoginManual.Step4Description]
+#. defaultMessage is:
+#. You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band.
+msgid "You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json

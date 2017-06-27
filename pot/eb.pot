@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-26T12:16:34.379Z\n"
+"POT-Creation-Date: 2017-06-27T02:55:06.781Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -52,8 +52,8 @@ msgstr ""
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.iOSAppPopoverStep3]
 #. defaultMessage is:
-#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)
-msgid "3. Press \"Cancel\" and go to Settings > General > Device Management > MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)"
+#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)
+msgid "3. Press \"Cancel\" and go to Settings > General > Device Management > MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
@@ -902,13 +902,6 @@ msgstr ""
 #. defaultMessage is:
 #. Invalid combination. Please try again
 msgid "Invalid combination. Please try again"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/Header.json
-#. [Header.JoinNow]
-#. defaultMessage is:
-#. JOIN NOW
-msgid "JOIN NOW"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json

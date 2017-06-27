@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-26T12:16:34.379Z\n"
+"POT-Creation-Date: 2017-06-27T02:55:06.781Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -62,16 +62,16 @@ msgstr "三個月"
 
 #. [FirstLoginManual.iOSAppPopoverStep3]
 #. defaultMessage is:
-#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https: // ppq. Apple.com)
+#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
 "3. Press \"Cancel\" and go to Settings > General > Device Management > "
 "MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step "
-"requires network so that it can connect to https: // ppq. Apple.com)"
+"requires network so that it can connect to https://ppq.Apple.com)"
 msgstr ""
-"3. 按視窗下方的 Cancel 後，至手機的 設定 > 一般 > 裝置管理  > MediaTek Inc. "
-"點選「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://ppq."
-"apple.com)"
+"3. 按視窗下方的取消後，至手機的 設定 > 一般 > 裝置管理 > MediaTek Inc. 點選"
+"「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://ppq.apple."
+"com)"
 
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:
@@ -948,13 +948,6 @@ msgstr "錯誤的電子郵件，請再試一次。"
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Invalid combination. Please try again"
 msgstr "帳號或密碼錯誤，請再試一次。"
-
-#. [Header.JoinNow]
-#. defaultMessage is:
-#. JOIN NOW
-#: build/messages/src/scripts/components/common/Header.json
-msgid "JOIN NOW"
-msgstr "馬上加入"
 
 #. [landingPage.QuestionnaireSection.submitButton]
 #. defaultMessage is:
@@ -2506,6 +2499,18 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid ""
+#~ "3. Press \"Cancel\" and go to Settings > General > Device Management > "
+#~ "MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step "
+#~ "requires network so that it can connect to https: // ppq. Apple.com)"
+#~ msgstr ""
+#~ "3. 按視窗下方的 Cancel 後，至手機的 設定 > 一般 > 裝置管理  > MediaTek "
+#~ "Inc. 點選「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://"
+#~ "ppq.apple.com)"
+
+#~ msgid "JOIN NOW"
+#~ msgstr "馬上加入"
 
 #~ msgid "Contribute Your Data !"
 #~ msgstr "貢獻您的資料"

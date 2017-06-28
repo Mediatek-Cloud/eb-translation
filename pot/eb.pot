@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-27T10:15:31.341Z\n"
+"POT-Creation-Date: 2017-06-28T05:13:07.517Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -2228,8 +2228,8 @@ msgstr ""
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.Step4Description]
 #. defaultMessage is:
-#. You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band.
-msgid "You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band."
+#. You will see the bluetooth icon shown on your band screen when the connection is created successfully. You can now start using your employee band.
+msgid "You will see the bluetooth icon shown on your band screen when the connection is created successfully. You can now start using your employee band."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json

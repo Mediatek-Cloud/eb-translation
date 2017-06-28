@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-27T02:55:06.781Z\n"
+"POT-Creation-Date: 2017-06-28 09:45+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 2.0.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [MoreInfoOverlay.EfficiencyFormula]
@@ -35,23 +35,23 @@ msgstr "* 目前僅限台北辦公區域"
 
 #. [FirstLoginManual.iOSAppPopoverStep1]
 #. defaultMessage is:
-#. 1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the app.
+#. 1. Scan the QR code above and click the hyperlink: "Click here to download MediaTek Health iOS App."
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
-"1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download the "
-"app."
-msgstr "1. 掃描 QR Code 連結至 https://ios.mediatek.io/dev/ 下載。"
+"1. Scan the QR code above and click the hyperlink: \"Click here to download "
+"MediaTek Health iOS App.\""
+msgstr ""
+"1. 掃描 QR Code 並點選網頁中連結 “Click here to download MediaTek Health iOS "
+"App”。"
 
 #. [FirstLoginManual.iOSAppPopoverStep2]
 #. defaultMessage is:
-#. 2. Open the Mediatek Health App, you will see a warning message showing "Non-trusted enterprise developers"
+#. 2. Please select "Install" when the installation notification is shown.
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
-"2. Open the Mediatek Health App, you will see a warning message showing "
-"\"Non-trusted enterprise developers\""
+"2. Please select \"Install\" when the installation notification is shown."
 msgstr ""
-"2. 點 Mediatek Health App 開啟，這時會跳出顯示「尚未信任企業級開發者」的警告"
-"視窗"
+"2. 手機畫面將跳出安裝 MediaTek Health 通知視窗，按下「安裝」開始安裝程序。"
 
 #. [landingPage.ProjectIntroDialog.durationContext]
 #. defaultMessage is:
@@ -62,23 +62,35 @@ msgstr "三個月"
 
 #. [FirstLoginManual.iOSAppPopoverStep3]
 #. defaultMessage is:
-#. 3. Press "Cancel" and go to Settings > General > Device Management > MediaTek Inc. Then press "Trust Mediatek Inc." (Reminder : This step requires network so that it can connect to https://ppq.Apple.com)
+#. 3. Please establish trust for the enterprise app when the installation finished. Tap Settings > General > Profiles or Profiles & Device Management > MediaTek Inc. Tap "Trust MediaTek Inc." to establish trust. (Note that the network connection is required in this step.)
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
-"3. Press \"Cancel\" and go to Settings > General > Device Management > "
-"MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step "
-"requires network so that it can connect to https://ppq.Apple.com)"
+"3. Please establish trust for the enterprise app when the installation "
+"finished. Tap Settings > General > Profiles or Profiles & Device Management "
+"> MediaTek Inc. Tap \"Trust MediaTek Inc.\" to establish trust. (Note that "
+"the network connection is required in this step.)"
 msgstr ""
-"3. 按視窗下方的取消後，至手機的 設定 > 一般 > 裝置管理 > MediaTek Inc. 點選"
-"「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://ppq.apple."
-"com)"
+"App 安裝完成後，請先在手機上建立企業簽章信任。點一下「設定」>「一般」>「描述"
+"檔」或「描述檔與裝置管理」> 「MediaTek Inc.」，並點選「信任 Mediatek Inc.」。"
+"(提醒：此步驟需要網路)"
 
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:
-#. 4. Open Mediatek Health App again, and you can start using.
+#. 4. Open MediaTek Health App after get back to Home screen.
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
-msgid "4. Open Mediatek Health App again, and you can start using."
-msgstr "4. 再次開啟 Mediatek Health App 就可順利進行連線等作業了。"
+msgid "4. Open MediaTek Health App after get back to Home screen."
+msgstr "4. 回到手機主畫面，開啟 MediaTek Health App。"
+
+#. [FirstLoginManual.iOSAppPopoverStep5]
+#. defaultMessage is:
+#. 5. If a notification titled "Untrusted Enterprise Developer" is shown, Please follow step 3 to trust enterprise profile.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"5. If a notification titled \"Untrusted Enterprise Developer\" is shown, "
+"Please follow step 3 to trust enterprise profile."
+msgstr ""
+"5. 若手機畫面跳出「尚未信任企業級開發者」的通知，請先完成第 3 點即可順利使"
+"用。"
 
 #. [ActivatePage.serialNumberPlaceholder]
 #. defaultMessage is:
@@ -184,14 +196,15 @@ msgstr "其他"
 msgid "Aerobics"
 msgstr "有氧運動"
 
-#. [FirstLoginManual.Step4Description]
+#. [FirstLoginManual.Step3Description]
 #. defaultMessage is:
-#. After connect successfully, you will see a bluetooth icon on the band and you can start using the band.
+#. After setting profiles and goals, tap connect button in app to start connecting process. It will search your band and create BLE connection automatically.
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
-"After connect successfully, you will see a bluetooth icon on the band and "
-"you can start using the band."
-msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
+"After setting profiles and goals, tap connect button in app to start "
+"connecting process. It will search your band and create BLE connection "
+"automatically."
+msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立藍牙連線。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP4]
 #. defaultMessage is:
@@ -1112,17 +1125,6 @@ msgstr "MediaTek Health 隱私條款"
 msgid "MediaTek Health Terms & Conditions"
 msgstr "MediaTek Health 使用條款"
 
-#. [FirstLoginManual.Step1Description]
-#. defaultMessage is:
-#. MediaTek Health service provides Android and iOS app. Use the following links to download.
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-msgid ""
-"MediaTek Health service provides Android and iOS app. Use the following "
-"links to download."
-msgstr ""
-"MediaTek Health 服務提供 Android 和 iOS 兩種版本的手機 App。您可使用以下 QR "
-"code 下載 MediaTek Health App。"
-
 #. [Layout.MediaTekIncAllRightReserved]
 #. defaultMessage is:
 #. MediaTek Inc. All Rights Reserved.
@@ -1292,13 +1294,6 @@ msgstr "噢！看起來發生了些錯誤。"
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Oops! Something went wrong. Please try again later."
 msgstr "Oops！系統遇到一些小狀況，請稍後再試。"
-
-#. [FirstLoginManual.Step2Description]
-#. defaultMessage is:
-#. Open the App, please set your profile and goals when first sign in.
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-msgid "Open the App, please set your profile and goals when first sign in."
-msgstr "當您第一次登入，請設定您的個人資訊及目標。"
 
 #. [LoginPage.passwordLabel]
 #. defaultMessage is:
@@ -1476,6 +1471,13 @@ msgstr "請輸入您的聯發科技電子郵件地址"
 msgid "Please make sure you've read the \"Learn the differnce\"."
 msgstr "申請金手環需繳回識別證，送出申請前請詳閱「了解差異」。"
 
+#. [FirstLoginManual.Step1Description]
+#. defaultMessage is:
+#. Please scan the following QR code to download MediaTek Health App.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Please scan the following QR code to download MediaTek Health App."
+msgstr "您可以掃描下列 QR code 並下載 MediaTek Health App。"
+
 #. [ActivatePage.description]
 #. defaultMessage is:
 #. Please set a password and the serial number of the band to complete the registration.
@@ -1495,15 +1497,6 @@ msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Poor"
 msgstr "很差"
-
-#. [FirstLoginManual.Step3Description]
-#. defaultMessage is:
-#. Press the connect button in app, the phone will start searching the band and making connection.
-#: build/messages/src/scripts/components/common/FirstLoginManual.json
-msgid ""
-"Press the connect button in app, the phone will start searching the band and "
-"making connection."
-msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立連線。"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -2266,6 +2259,15 @@ msgstr "歡迎回來！請登入您的帳戶"
 msgid "What does the data mean ?"
 msgstr "這些資料代表什麼意思呢？"
 
+#. [FirstLoginManual.Step2Description]
+#. defaultMessage is:
+#. When you first open the app and sign in, please set your personal profiles and activity goals.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"When you first open the app and sign in, please set your personal profiles "
+"and activity goals."
+msgstr "當您第一次登入，請設定您的個人資訊及目標。"
+
 #. [landingPage.EmailSection.officePlaceTitle]
 #. defaultMessage is:
 #. Where is your office place ?
@@ -2314,6 +2316,15 @@ msgstr "您無操作此動作的權限。"
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "You have completed the goal!"
 msgstr "您的目標已達成！"
+
+#. [FirstLoginManual.Step4Description]
+#. defaultMessage is:
+#. You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"You will see the bluetooth icon shown on your band screen when the "
+"connection created successfully. You can now start using your employee band."
+msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line3]
 #. defaultMessage is:
@@ -2499,6 +2510,47 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr "© 2016 MediaTek Inc. All Rights Reserved."
+
+#~ msgid ""
+#~ "1. Scan the QR Code, link to https://ios.mediatek.io/dev/ and download "
+#~ "the app."
+#~ msgstr "1. 掃描 QR Code 連結至 https://ios.mediatek.io/dev/ 下載。"
+
+#~ msgid ""
+#~ "2. Open the Mediatek Health App, you will see a warning message showing "
+#~ "\"Non-trusted enterprise developers\""
+#~ msgstr ""
+#~ "2. 點 Mediatek Health App 開啟，這時會跳出顯示「尚未信任企業級開發者」的警"
+#~ "告視窗"
+
+#~ msgid ""
+#~ "3. Press \"Cancel\" and go to Settings > General > Device Management > "
+#~ "MediaTek Inc. Then press \"Trust Mediatek Inc.\" (Reminder : This step "
+#~ "requires network so that it can connect to https://ppq.Apple.com)"
+#~ msgstr ""
+#~ "3. 按視窗下方的取消後，至手機的 設定 > 一般 > 裝置管理 > MediaTek Inc. 點"
+#~ "選「信任 Mediatek Inc.」(提醒：此步驟需要網路，且可連線至 https://ppq."
+#~ "apple.com)"
+
+#~ msgid ""
+#~ "After connect successfully, you will see a bluetooth icon on the band and "
+#~ "you can start using the band."
+#~ msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
+
+#~ msgid ""
+#~ "MediaTek Health service provides Android and iOS app. Use the following "
+#~ "links to download."
+#~ msgstr ""
+#~ "MediaTek Health 服務提供 Android 和 iOS 兩種版本的手機 App。您可使用以下 "
+#~ "QR code 下載 MediaTek Health App。"
+
+#~ msgid "Open the App, please set your profile and goals when first sign in."
+#~ msgstr "當您第一次登入，請設定您的個人資訊及目標。"
+
+#~ msgid ""
+#~ "Press the connect button in app, the phone will start searching the band "
+#~ "and making connection."
+#~ msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立連線。"
 
 #~ msgid ""
 #~ "3. Press \"Cancel\" and go to Settings > General > Device Management > "

@@ -70,9 +70,9 @@ msgid ""
 "> MediaTek Inc. Tap \"Trust MediaTek Inc.\" to establish trust. (Note that "
 "the network connection is required in this step.)"
 msgstr ""
-"App 安裝完成後，請先在手機上建立企業簽章信任。點一下「設定」>「一般」>「描述"
-"檔」或「描述檔與裝置管理」> 「MediaTek Inc.」，並點選「信任 Mediatek Inc.」。"
-"(提醒：此步驟需要網路)"
+"3. App 安裝完成後，請先在手機上建立企業簽章信任。點一下「設定」>「一般」>「描"
+"述檔」或「描述檔與裝置管理」> 「MediaTek Inc.」，並點選「信任 Mediatek "
+"Inc.」。(提醒：此步驟需要網路)"
 
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:

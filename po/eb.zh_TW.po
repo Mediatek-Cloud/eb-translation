@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-28 09:45+0800\n"
+"POT-Creation-Date: 2017-06-28 13:17+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2319,11 +2319,12 @@ msgstr "您的目標已達成！"
 
 #. [FirstLoginManual.Step4Description]
 #. defaultMessage is:
-#. You will see the bluetooth icon shown on your band screen when the connection created successfully. You can now start using your employee band.
+#. You will see the bluetooth icon shown on your band screen when the connection is created successfully. You can now start using your employee band.
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid ""
 "You will see the bluetooth icon shown on your band screen when the "
-"connection created successfully. You can now start using your employee band."
+"connection is created successfully. You can now start using your employee "
+"band."
 msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line3]

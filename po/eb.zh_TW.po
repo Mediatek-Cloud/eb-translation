@@ -2001,7 +2001,7 @@ msgstr "手環序號格式錯誤。"
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid ""
 "The token is expired. Please contact us to resend a new resetting email."
-msgstr "連結中的認證碼過期，請聯繫我們已取得新的重設連結。"
+msgstr "連結中的認證碼過期，請聯繫我們以取得新的重設連結。"
 
 #. [ResetPasswordPage.tokenInvalid]
 #. defaultMessage is:

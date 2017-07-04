@@ -297,7 +297,7 @@ msgstr "BMR"
 #. BMR + Calorie Burn
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "BMR + Calorie Burn"
-msgstr "基礎代謝率 + 燃燒卡路里"
+msgstr "基礎代謝率 + 燃燒卡洛里"
 
 #. [NotFoundPage.BackToLastPage]
 #. defaultMessage is:
@@ -392,14 +392,14 @@ msgstr "聯繫我們"
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Calorie"
-msgstr "卡路里"
+msgstr "卡洛里"
 
 #. [ExericsePanel.ExerciseBurnedCalorie]
 #. defaultMessage is:
 #. Calorie Burned
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "Calorie Burned"
-msgstr "卡路里燃燒"
+msgstr "卡洛里燃燒"
 
 #. [AccountSetting.ChangePassword]
 #. defaultMessage is:
@@ -881,7 +881,7 @@ msgstr "心率 > (220-年齡)x90%"
 #. Heart Rate, Steps, Calories
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
-msgstr "心率　計步　卡路里"
+msgstr "心率　計步　卡洛里"
 
 #. [ProfileForm.HeightLabel]
 #. defaultMessage is:

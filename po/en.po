@@ -1,453 +1,2542 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"POT-Creation-Date: 2017-07-04 15:08+0800\n"
+"PO-Revision-Date: 2017-07-04 15:27+0800\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
-"Last-Translator: \n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en\n"
 
-#. [Header.AccountSetting] - undefined
-#. [AccountSetting.AccountSetting] - undefined
+#. [MoreInfoOverlay.EfficiencyFormula]
+#. defaultMessage is:
+#. (Aerobics Time + Anaerobics Time) / Exercise Duration
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+msgstr "(Aerobics Time + Anaerobics Time) / Exercise Duration"
+
+#. [SleepStagePanel.ComingSoon]
+#. defaultMessage is:
+#. (Coming soon)
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "(Coming soon)"
+msgstr "(Coming soon)"
+
+#. [LangingPage.StepsContentL2]
+#. defaultMessage is:
+#. * Taipei Office only
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "* Taipei Office only"
+msgstr "* Taipei Office only"
+
+#. [FirstLoginManual.iOSAppPopoverStep1]
+#. defaultMessage is:
+#. 1. Scan the QR code above and click the hyperlink: "Click here to download MediaTek Health iOS App."
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"1. Scan the QR code above and click the hyperlink: \"Click here to download "
+"MediaTek Health iOS App.\""
+msgstr ""
+"1. Scan the QR code above and click the hyperlink: “Click here to download "
+"MediaTek Health iOS App.”"
+
+#. [FirstLoginManual.iOSAppPopoverStep2]
+#. defaultMessage is:
+#. 2. Please select "Install" when the installation notification is shown.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"2. Please select \"Install\" when the installation notification is shown."
+msgstr ""
+"2. Please select “Install” when the installation notification is shown."
+
+#. [landingPage.ProjectIntroDialog.durationContext]
+#. defaultMessage is:
+#. 3 months
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "3 months"
+msgstr "3 months"
+
+#. [FirstLoginManual.iOSAppPopoverStep3]
+#. defaultMessage is:
+#. 3. Please establish trust for the enterprise app when the installation finished. Tap Settings > General > Profiles or Profiles & Device Management > MediaTek Inc. Tap "Trust MediaTek Inc." to establish trust. (Note that the network connection is required in this step.)
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"3. Please establish trust for the enterprise app when the installation "
+"finished. Tap Settings > General > Profiles or Profiles & Device Management "
+"> MediaTek Inc. Tap \"Trust MediaTek Inc.\" to establish trust. (Note that "
+"the network connection is required in this step.)"
+msgstr ""
+"3. Please establish trust for the enterprise app when the installation "
+"finished. Tap Settings > General > Profiles or Profiles & Device Management "
+"> MediaTek Inc. Tap “Trust MediaTek Inc.” to establish trust. (Note that the "
+"network connection is required in this step.)"
+
+#. [FirstLoginManual.iOSAppPopoverStep4]
+#. defaultMessage is:
+#. 4. Open MediaTek Health App after get back to Home screen.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "4. Open MediaTek Health App after get back to Home screen."
+msgstr "4. Open MediaTek Health App after get back to Home screen."
+
+#. [FirstLoginManual.iOSAppPopoverStep5]
+#. defaultMessage is:
+#. 5. If a notification titled "Untrusted Enterprise Developer" is shown, Please follow step 3 to trust enterprise profile.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"5. If a notification titled \"Untrusted Enterprise Developer\" is shown, "
+"Please follow step 3 to trust enterprise profile."
+msgstr ""
+"5. If a notification titled “Untrusted Enterprise Developer” is shown, "
+"Please follow step 3 to trust enterprise profile."
+
+#. [ActivatePage.serialNumberPlaceholder]
+#. defaultMessage is:
+#. 9 Characters numeric string
+#. [ResetSerialNumberPage.serialNumberPlaceholder]
+#. defaultMessage is:
+#. 9 Characters numeric string
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "9 Characters numeric string"
+msgstr "9 Characters numeric string"
+
+#. [landingPage.Footer.about]
+#. defaultMessage is:
+#. About MediaTek Health
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "About MediaTek Health"
+msgstr "About MediaTek Health"
+
+#. [AccountSetting.Account]
+#. defaultMessage is:
+#. Account
+#: build/messages/src/scripts/containers/AccountSetting.json
+msgid "Account"
+msgstr "Account"
+
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
+#. [Header.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
+#. [AccountSetting.AccountSetting]
+#. defaultMessage is:
+#. Account Setting
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Account Setting"
-msgstr ""
+msgstr "Account Setting"
 
-#. [personalReport.Activeness.Activity] - undefined
+#. [HRLoginPage.description]
+#. defaultMessage is:
+#. Account activation and the band returns
+#: build/messages/src/scripts/containers/HRSignInPage.json
+msgid "Account activation and the band returns"
+msgstr "Account activation and the band returns"
+
+#. [HRHeader.Activate]
+#. defaultMessage is:
+#. Activate
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Activate"
+msgstr "Activate"
+
+#. [HRActivateAccountsPage.activateAccount]
+#. defaultMessage is:
+#. Activate Account
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activate Account"
+msgstr "Activate Account"
+
+#. [HRActivateAccountsPage.title]
+#. defaultMessage is:
+#. Activate account
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activate account"
+msgstr "Activate account"
+
+#. [HRActivateAccountsPage.successTitle]
+#. defaultMessage is:
+#. Activation successful!
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Activation successful!"
+msgstr "Activation successful!"
+
+#. [personalReport.Activeness.Activity]
+#. defaultMessage is:
+#. Activity
 #: build/messages/src/scripts/components/personalReport/Activeness.json
 msgid "Activity"
-msgstr ""
+msgstr "Activity"
 
-#. [CalorieChart.Additional] - undefined
+#. [CalorieChart.Additional]
+#. defaultMessage is:
+#. Additional
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "Additional"
-msgstr ""
+msgstr "Additional"
 
-#. [landingPage.SuccessSection.title] - undefined
+#. [ExerciseMetaDetails.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#. [ActivityTypeOverlay.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#. [ExerciseMetaDetails.Aerobics]
+#. defaultMessage is:
+#. Aerobics
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Aerobics"
+msgstr "Aerobics"
+
+#. [FirstLoginManual.Step3Description]
+#. defaultMessage is:
+#. After setting profiles and goals, tap connect button in app to start connecting process. It will search your band and create BLE connection automatically.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"After setting profiles and goals, tap connect button in app to start "
+"connecting process. It will search your band and create BLE connection "
+"automatically."
+msgstr ""
+"After setting profiles and goals, tap connect button in app to start "
+"connecting process. It will search your band and create BLE connection "
+"automatically."
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP4]
+#. defaultMessage is:
+#. After the experimental project ends (3 month), you will get your original badge back. You can keep your gold band as it will be no longer has the badge function, and you can still use the health related function. We would like to collect your feedback joining the wearable badge project, please let us know if you have any suggestion or thought. Thank you!
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"After the experimental project ends (3 month), you will get your original "
+"badge back. You can keep your gold band as it will be no longer has the "
+"badge function, and you can still use the health related function. We would "
+"like to collect your feedback joining the wearable badge project, please let "
+"us know if you have any suggestion or thought. Thank you!"
+msgstr ""
+"After the experimental project ends (3 month), you will get your original "
+"badge back. You can keep your gold band as it will be no longer has the "
+"badge function, and you can still use the health related function. We would "
+"like to collect your feedback joining the wearable badge project, please let "
+"us know if you have any suggestion or thought. Thank you!"
+
+#. [LangingPage.PrivacyContent1]
+#. defaultMessage is:
+#. All of your identifiable personal data in MediaTek Health will be stored in a separate database to which the admin's activities are logged.
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid ""
+"All of your identifiable personal data in MediaTek Health will be stored in "
+"a separate database to which the admin's activities are logged."
+msgstr ""
+"All of your identifiable personal data in MediaTek Health will be stored in "
+"a separate database to which the admin’s activities are logged."
+
+#. [Authentication.Header.askForSignIn]
+#. defaultMessage is:
+#. Already have an account?
+#: build/messages/src/scripts/components/authentication/Header.json
+msgid "Already have an account?"
+msgstr "Already have an account?"
+
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Anaerobics"
+msgstr "Anaerobics"
+
+#. [landingPage.SuccessSection.title]
+#. defaultMessage is:
+#. Application successful !
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "Application successful !"
-msgstr ""
+msgstr "Application successful !"
 
-#. [CalorieChart.BMR] - undefined
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Asleep"
+msgstr "Asleep"
+
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep：
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Asleep："
+msgstr "Asleep："
+
+#. [SleepReportList.Awake]
+#. defaultMessage is:
+#. Awake
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Awake"
+msgstr "Awake"
+
+#. [SleepReportList.Awake]
+#. defaultMessage is:
+#. Awake：
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Awake："
+msgstr "Awake："
+
+#. [CalorieChart.BMR]
+#. defaultMessage is:
+#. BMR
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "BMR"
-msgstr ""
+msgstr "BMR"
 
-#. [NotFoundPage.BackToLastPage] - undefined
+#. [MoreInfoOverlay.CalorieFormula]
+#. defaultMessage is:
+#. BMR + Calorie Burn
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "BMR + Calorie Burn"
+msgstr "BMR + Calorie Burn"
+
+#. [NotFoundPage.BackToLastPage]
+#. defaultMessage is:
+#. Back to the last page
 #: build/messages/src/scripts/components/common/NotFoundPage.json
-msgid "Back to last page"
-msgstr ""
+msgid "Back to the last page"
+msgstr "Back to the last page"
 
-#. [EfficiencyIndicator.Bad] - undefined
+#. [EfficiencyIndicator.Bad]
+#. defaultMessage is:
+#. Bad
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Bad"
-msgstr ""
+msgstr "Bad"
 
-#. [personalReport.HRV.BiologicalAge] - undefined
+#. [ActivityTypeOverlay.Bike]
+#. defaultMessage is:
+#. Bike
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+msgid "Bike"
+msgstr "Bike"
+
+#. [personalReport.HRV.BiologicalAge]
+#. defaultMessage is:
+#. Biological Age: {formattedBioAge}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "Biological Age: {formattedBioAge}"
-msgstr ""
+msgstr "Biological Age: {formattedBioAge}"
 
-#. [BloodPressurePanel.BloodPressure] - undefined
-#. [LangingPage.BloodPressureTitle] - undefined
+#. [ProfileForm.birthdayLabel]
+#. defaultMessage is:
+#. Birthday
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+msgid "Birthday"
+msgstr "Birthday"
+
+#. [BloodPressurePanel.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#: build/messages/src/scripts/containers/LandingPage.json
 msgid "Blood Pressure"
-msgstr ""
+msgstr "Blood Pressure"
 
-#. [landingPage.QuestionnaireSection.option.bloodPressure] - undefined
+#. [landingPage.QuestionnaireSection.option.bloodPressure]
+#. defaultMessage is:
+#. Blood Pressure Measurement
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Blood Pressure Measurement"
-msgstr ""
+msgstr "Blood Pressure Measurement"
 
-#. [CaloriePanel.Calorie] - undefined
-#. [ExericsePanel.Calorie] - undefined
-#. [LangingPage.CalorieTitle] - undefined
+#. [landingPage.EmailSection.policyLine2]
+#. defaultMessage is:
+#. By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid ""
+"By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}."
+msgstr ""
+"By clicking on SUBMIT, I agree to MediaTek Health’s {terms} and {policy}."
+
+#. [ContactUsButton]
+#. defaultMessage is:
+#. CONTACT US
+#: build/messages/src/scripts/components/common/ContactUsButton.json
+msgid "CONTACT US"
+msgstr "CONTACT US"
+
+#. [CaloriePanel.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [ExerciseCharts.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [ExerciseMetaDetails.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [HoverInfo.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [ExerciseMetaDetails.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [Indication.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [DailyActivity.Calorie]
+#. defaultMessage is:
+#. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#: build/messages/src/scripts/containers/LandingPage.json
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/HoverInfo.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Calorie"
-msgstr ""
+msgstr "Calorie"
 
-#. [landingPage.Header.Campaign] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
-msgid "Campaign"
-msgstr ""
+#. [ExericsePanel.ExerciseBurnedCalorie]
+#. defaultMessage is:
+#. Calorie Burned
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+msgid "Calorie Burned"
+msgstr "Calorie Burned"
 
-#. [AccountSetting.ChangePassword] - undefined
+#. [AccountSetting.ChangePassword]
+#. defaultMessage is:
+#. Change Password
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Change Password"
-msgstr ""
+msgstr "Change Password"
 
-#. [StepPanel.DailyAvg] - undefined
+#. [landingPage.EmailSection.chupei]
+#. defaultMessage is:
+#. Chupei
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Chupei"
+msgstr "Chupei"
+
+#. [ResetPasswordPage.password2Label]
+#. defaultMessage is:
+#. Confirm New Password
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+#. [ResetSerialNumberPage.serialNumber2Label]
+#. defaultMessage is:
+#. Confirm New Serial Number
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Confirm New Serial Number"
+msgstr "Confirm New Serial Number"
+
+#. [ActivatePage.serialNumber2Label]
+#. defaultMessage is:
+#. Confirm Serial Number
+#: build/messages/src/scripts/containers/ActivatePage.json
+msgid "Confirm Serial Number"
+msgstr "Confirm Serial Number"
+
+#. [Header.ContactUs]
+#. defaultMessage is:
+#. Contact Us
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#. [Header.Report]
+#. defaultMessage is:
+#. Daily Activity
+#. [DailyActivity.DailyActivity]
+#. defaultMessage is:
+#. Daily Activity
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
+msgid "Daily Activity"
+msgstr "Daily Activity"
+
+#. [StepPanel.DailyAvg]
+#. defaultMessage is:
+#. Daily avg.
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Daily avg."
-msgstr ""
+msgstr "Daily avg."
 
-#. [Header.Dashboard] - undefined
-#. [ExercisePage.Dashboard] - undefined
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [Header.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [SleepReportList.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [ExercisePage.Dashboard]
+#. defaultMessage is:
+#. Dashboard
+#. [SleepReportList.Dashboard]
+#. defaultMessage is:
+#. Dashboard
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/ExercisePage.json
+#: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
-#. [ExercisePanel.Detail] - undefined
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-msgid "Detail"
-msgstr ""
+#. [ProfileForm.Day]
+#. defaultMessage is:
+#. Day
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+msgid "Day"
+msgstr "Day"
 
-#. [LangingPage.CalorieContent] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-msgid ""
-"Detailed analytics help you get in tune with each heartbeat. Not for Medical "
-"use - for Fitness use only!"
-msgstr ""
+#. [SleepStagePanel.Deep]
+#. defaultMessage is:
+#. Deep
+#. [SleepStageMessages.Deep]
+#. defaultMessage is:
+#. Deep
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Deep"
+msgstr "Deep"
 
-#. [BloodPressurePanel.Diastolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [HRActivateAccountsPage.deleteAccount]
+#. defaultMessage is:
+#. Delete Account
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#. [landingPage.ProjectIntroDialog.description]
+#. defaultMessage is:
+#. Description
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Description"
+msgstr "Description"
+
+#. [LangingPage.SleepTrackContentLine1]
+#. defaultMessage is:
+#. Detect your sleeping patterns and provide data evaluation.
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Detect your sleeping patterns and provide data evaluation."
+msgstr "Detect your sleeping patterns and provide data evaluation."
+
+#. [BloodPressureChartMeta.Diastolic]
+#. defaultMessage is:
+#. Diastolic
+#. [BloodPressureTable.Diastolic]
+#. defaultMessage is:
+#. Diastolic
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Diastolic"
-msgstr ""
+msgstr "Diastolic"
 
-#. [landingPage.QuestionnaireSection.option.diet] - undefined
+#. [landingPage.QuestionnaireSection.option.diet]
+#. defaultMessage is:
+#. Diet Control
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Diet Control"
-msgstr ""
+msgstr "Diet Control"
 
-#. [landingPage.ProductOverview.content] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "Download the App for your iPhone or Android smartphone."
-msgstr ""
+#. [Authentication.Header.askForSignUp]
+#. defaultMessage is:
+#. Do not have account?
+#: build/messages/src/scripts/components/authentication/Header.json
+msgid "Do not have account?"
+msgstr "Do not have account?"
 
-#. [ExericsePanel.Duration] - undefined
+#. [landingPage.EmailSection.bandPrefernceTitle]
+#. defaultMessage is:
+#. Do you also want to join the wearable badge experimental project ?
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Do you also want to join the wearable badge experimental project ?"
+msgstr "Do you also want to join the wearable badge experimental project ?"
+
+#. [CsvFileDrop.description]
+#. defaultMessage is:
+#. Drop the file to any place in this page
+#: build/messages/src/scripts/components/hr/CsvFileDrop.json
+msgid "Drop the file to any place in this page"
+msgstr "Drop the file to any place in this page"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line5]
+#. defaultMessage is:
+#. Due to it is an experimental project, you might not be able to get the discount in cooperative shop.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"Due to it is an experimental project, you might not be able to get the "
+"discount in cooperative shop."
+msgstr ""
+"Due to it is an experimental project, you might not be able to get the "
+"discount in cooperative shop."
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line1]
+#. defaultMessage is:
+#. Due to the project is a small scale experimental project, only employee in Taipei office can apply the gold band.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"Due to the project is a small scale experimental project, only employee in "
+"Taipei office can apply the gold band."
+msgstr ""
+"Due to the project is a small scale experimental project, only employee in "
+"Taipei office can apply the gold band."
+
+#. [ExericsePanel.Duration]
+#. defaultMessage is:
+#. Duration
+#. [ExerciseMetaDetails.Duration]
+#. defaultMessage is:
+#. Duration
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 msgid "Duration"
-msgstr ""
+msgstr "Duration"
 
-#. [CalorieChart.Exercise] - undefined
-#. [ExercisePanel.Exercise] - undefined
-#. [StepPanel.Exercise] - undefined
-#. [ExercisePage.Exercise] - undefined
-#. [LangingPage.ExerciseTitle] - undefined
+#. [LangingPage.BloodPressureTitle]
+#. defaultMessage is:
+#. Easy Health Monitoring
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Easy Health Monitoring"
+msgstr "Easy Health Monitoring"
+
+#. [EfficiencyCircle.Efficiency]
+#. defaultMessage is:
+#. Efficiency
+#. [EfficiencyDonutChart.efficiency]
+#. defaultMessage is:
+#. Efficiency
+#. [ExerciseMetaDetails.Efficiency]
+#. defaultMessage is:
+#. Efficiency
+#: build/messages/src/scripts/components/common/EfficiencyCircle.json
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Efficiency"
+msgstr "Efficiency"
+
+#. [LoginPage.emailLabel]
+#. defaultMessage is:
+#. Email
+#. [landingPage.EmailSection.label]
+#. defaultMessage is:
+#. Email
+#. [ForgotPasswordPage.emailLabel]
+#. defaultMessage is:
+#. Email
+#. [ResendEmailVerificationPage.emailLabel]
+#. defaultMessage is:
+#. Email
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "Email"
+msgstr "Email"
+
+#. [HRActivateAccountsPage.invalidEmailFromCsv]
+#. defaultMessage is:
+#. Email {email} invalid. Please try again.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Email {email} invalid. Please try again."
+msgstr "Email {email} invalid. Please try again."
+
+#. [LoginPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
+#. [ForgotPasswordPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
+#. [ResendEmailVerificationPage.emailPlaceholder]
+#. defaultMessage is:
+#. Ex: abc123@mediatek.com
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "Ex: abc123@mediatek.com"
+msgstr "Ex: abc123@mediatek.com"
+
+#. [CalorieChart.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ExercisePanel.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ActivityTypeOverlay.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [DailyActivity.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [ExercisePage.Exercise]
+#. defaultMessage is:
+#. Exercise
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 #: build/messages/src/scripts/containers/ExercisePage.json
-#: build/messages/src/scripts/containers/LandingPage.json
 msgid "Exercise"
-msgstr ""
+msgstr "Exercise"
 
-#. [landingPage.QuestionnaireSection.option.exercise] - undefined
+#. [landingPage.QuestionnaireSection.option.exercise]
+#. defaultMessage is:
+#. Exercise or Fitness
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Exercise or Fitness"
-msgstr ""
+msgstr "Exercise or Fitness"
 
-#. [EfficiencyIndicator.Fair] - undefined
+#. [EfficiencyIndicator.Fair]
+#. defaultMessage is:
+#. Fair
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Fair"
-msgstr ""
+msgstr "Fair"
 
-#. [ExericsePanel.FatBurn] - undefined
-#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExerciseMetaDetails.FatBurn]
+#. defaultMessage is:
+#. Fat Burn
+#. [ExerciseMetaDetails.FatBurn]
+#. defaultMessage is:
+#. Fat Burn
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Fat Burn"
-msgstr ""
+msgstr "Fat Burn"
 
-#. [StepPanel.GoalAchieved] - undefined
+#. [Campaign.BannerTitle]
+#. defaultMessage is:
+#. Fat Burn 30 minutes
+#: build/messages/src/scripts/containers/Campaign.json
+msgid "Fat Burn 30 minutes"
+msgstr "Fat Burn 30 minutes"
+
+#. [GenderSelect.female]
+#. defaultMessage is:
+#. Female
+#: build/messages/src/scripts/components/accountSetting/GenderSelect.json
+msgid "Female"
+msgstr "Female"
+
+#. [ProfilePhoto.fileSizeExceeds]
+#. defaultMessage is:
+#. File size exceed 512kB
+#: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
+msgid "File size exceed 512kB"
+msgstr "File size exceed 512kB"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line4]
+#. defaultMessage is:
+#. For gold band user, if you need your badge for travelling need, please contact the central control room or front desk to take back your badge and get back your gold band after return to Taipei office.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"For gold band user, if you need your badge for travelling need, please "
+"contact the central control room or front desk to take back your badge and "
+"get back your gold band after return to Taipei office."
+msgstr ""
+"For gold band user, if you need your badge for travelling need, please "
+"contact the central control room or front desk to take back your badge and "
+"get back your gold band after return to Taipei office."
+
+#. [LoginPage.forgotpasswordLink]
+#. defaultMessage is:
+#. Forgot Your Password?
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Forgot Your Password?"
+msgstr "Forgot Your Password?"
+
+#. [ForgotPasswordPage.title]
+#. defaultMessage is:
+#. Forgot your password?
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#. [LangingPage.CalorieTitle]
+#. defaultMessage is:
+#. Fun with Group Exercise
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Fun with Group Exercise"
+msgstr "Fun with Group Exercise"
+
+#. [Campaign.BannerDescription]
+#. defaultMessage is:
+#. Gain more than 3 stars to be eligible for the drawing!
+#: build/messages/src/scripts/containers/Campaign.json
+msgid "Gain more than 3 stars to be eligible for the drawing!"
+msgstr "Gain more than 3 stars to be eligible for the drawing!"
+
+#. [ProfileForm.genderLabel]
+#. defaultMessage is:
+#. Gender
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+msgid "Gender"
+msgstr "Gender"
+
+#. [landingPage.VideoJumbo.jumboText]
+#. defaultMessage is:
+#. Get control of your health, anytime, everywhere.
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+msgid "Get control of your health, anytime, everywhere."
+msgstr "Get control of your health, anytime, everywhere."
+
+#. [StepPanel.GoalAchieved]
+#. defaultMessage is:
+#. Goal Achieved
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 msgid "Goal Achieved"
-msgstr ""
+msgstr "Goal Achieved"
 
-#. [EfficiencyIndicator.Good] - undefined
+#. [EfficiencyIndicator.Good]
+#. defaultMessage is:
+#. Good
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Good"
-msgstr ""
+msgstr "Good"
 
-#. [personalReport.HRV.HF] - undefined
+#. [personalReport.HRV.HF]
+#. defaultMessage is:
+#. HF {hf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HF {hf}"
-msgstr ""
+msgstr "HF {hf}"
 
-#. [personalReport.HRV.HRV] - undefined
+#. [personalReport.HRV.HRV]
+#. defaultMessage is:
+#. HRV
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HRV"
-msgstr ""
+msgstr "HRV"
 
-#. [personalReport.HRV.hrvDescription] - undefined
+#. [personalReport.HRV.hrvDescription]
+#. defaultMessage is:
+#. HRV: {formattedDescription}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "HRV: {formattedDescription}"
-msgstr ""
+msgstr "HRV: {formattedDescription}"
 
-#. [landingPage.ProductOverview.title] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "HealthBand"
-msgstr ""
-
-#. [ExericsePanel.HeartRate] - undefined
-#. [HeartRatePanel.HeartRate] - undefined
-#. [LangingPage.HeartRateTitle] - undefined
+#. [ExericsePanel.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [HeartRatePanel.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [ExerciseCharts.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [ExerciseMetaDetails.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [HoverInfo.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [Indication.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
+#. [DailyActivity.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/HeartRatePanel.json
-#: build/messages/src/scripts/containers/LandingPage.json
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/exercise/HoverInfo.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Heart Rate"
-msgstr ""
+msgstr "Heart Rate"
 
-#. [landingPage.VideoJumbo.button] - undefined
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-msgid "JOIN NOW !"
-msgstr ""
+#. [MoreInfoOverlay.FatBurnFormula]
+#. defaultMessage is:
+#. Heart Rate = (220-Age)x60% ~ (220-Age)x80%
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x80%"
+msgstr "Heart Rate = (220-Age)x60% ~ (220-Age)x80%"
 
-#. [landingPage.QuestionnaireSection.submitButton] - undefined
-#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
-msgid "JOIN NOW!"
-msgstr ""
+#. [MoreInfoOverlay.AerobicsFormula]
+#. defaultMessage is:
+#. Heart Rate = (220-Age)x60% ~ (220-Age)x90%
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate = (220-Age)x60% ~ (220-Age)x90%"
+msgstr "Heart Rate = (220-Age)x60% ~ (220-Age)x90%"
 
-#. [landingPage.EmailSection.title] - undefined
+#. [MoreInfoOverlay.AnaerobicsFormula]
+#. defaultMessage is:
+#. Heart Rate > (220-Age)x90%
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "Heart Rate > (220-Age)x90%"
+msgstr "Heart Rate > (220-Age)x90%"
+
+#. [LangingPage.HeartRateTitle]
+#. defaultMessage is:
+#. Heart Rate, Steps, Calories
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Heart Rate, Steps, Calories"
+msgstr "Heart Rate, Steps, Calories"
+
+#. [ProfileForm.HeightLabel]
+#. defaultMessage is:
+#. Height
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+msgid "Height"
+msgstr "Height"
+
+#. [Header.Help]
+#. defaultMessage is:
+#. Help
+#. [Header.Help]
+#. defaultMessage is:
+#. Help
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+msgid "Help"
+msgstr "Help"
+
+#. [FirstLoginManual.HowToInstallIOSApp]
+#. defaultMessage is:
+#. How to install iOS App
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "How to install iOS App"
+msgstr "How to install iOS App"
+
+#. [FirstLoginManual.HowToInstallIOSApp?]
+#. defaultMessage is:
+#. How to install iOS App ?
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "How to install iOS App ?"
+msgstr "How to install iOS App ?"
+
+#. [landingPage.EmailSection.hsinchuHQ]
+#. defaultMessage is:
+#. Hsinchu HQ
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "Join health band and get a band now!"
-msgstr ""
+msgid "Hsinchu HQ"
+msgstr "Hsinchu HQ"
 
-#. [personalReport.HRV.LF] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line6]
+#. defaultMessage is:
+#. If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"If you lost your gold band, for security reason, your old badge will made "
+"invalid. Additional $200 will be charged to make your new badge."
+msgstr ""
+"If you lost your gold band, for security reason, your old badge will made "
+"invalid. Additional $200 will be charged to make your new badge."
+
+#. [EfficiencyIndicator.Incomplete]
+#. defaultMessage is:
+#. Incomplete
+#. [ActivityTypeButton.Incomplete]
+#. defaultMessage is:
+#. Incomplete
+#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
+msgid "Incomplete"
+msgstr "Incomplete"
+
+#. [HRActivateAccountsPage.invalidEmail]
+#. defaultMessage is:
+#. Invalid Email. Please try again.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Invalid Email. Please try again."
+msgstr "Invalid Email. Please try again."
+
+#. [LoginPage.combinationInvalid]
+#. defaultMessage is:
+#. Invalid combination. Please try again
+#. [LoginPage.combinationInvalid]
+#. defaultMessage is:
+#. Invalid combination. Please try again
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Invalid combination. Please try again"
+msgstr "Invalid combination. Please try again"
+
+#. [landingPage.QuestionnaireSection.submitButton]
+#. defaultMessage is:
+#. JOIN NOW!
+#. [landingPage.VideoJumbo.button]
+#. defaultMessage is:
+#. JOIN NOW!
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
+msgid "JOIN NOW!"
+msgstr "JOIN NOW!"
+
+#. [landingPage.EmailSection.title]
+#. defaultMessage is:
+#. Join MediaTek Health and get a band now!
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Join MediaTek Health and get a band now!"
+msgstr "Join MediaTek Health and get a band now!"
+
+#. [Authentication.Header.joinNow]
+#. defaultMessage is:
+#. Join Now
+#: build/messages/src/scripts/components/authentication/Header.json
+msgid "Join Now"
+msgstr "Join Now"
+
+#. [personalReport.HRV.LF]
+#. defaultMessage is:
+#. LF {lf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "LF {lf}"
-msgstr ""
+msgstr "LF {lf}"
 
-#. [personalReport.HRV.LFHF] - undefined
+#. [personalReport.HRV.LFHF]
+#. defaultMessage is:
+#. LF/HF {lfHf}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "LF/HF {lfHf}"
-msgstr ""
+msgstr "LF/HF {lfHf}"
 
-#. [landingPage.Header.Leaderboard] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
+#. [WeekPaginator.LastWeek]
+#. defaultMessage is:
+#. Last Week
+#: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
+msgid "Last Week"
+msgstr "Last Week"
+
+#. [BloodPressureChartMeta.Latest]
+#. defaultMessage is:
+#. Latest
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+msgid "Latest"
+msgstr "Latest"
+
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#. [Header.Leaderboard]
+#. defaultMessage is:
+#. Leaderboard
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 msgid "Leaderboard"
-msgstr ""
+msgstr "Leaderboard"
 
-#. [landingPage.Footer.LegalNotice] - undefined
+#. [landingPage.EmailSection.learnTheDifference]
+#. defaultMessage is:
+#. Learn the difference
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Learn the difference"
+msgstr "Learn the difference"
+
+#. [LoginPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+msgid "Least 8 characters"
+msgstr "Least 8 characters"
+
+#. [ActivatePage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters and a mix of letters and numbers
+#. [ResetPasswordPage.passwordPlaceholder]
+#. defaultMessage is:
+#. Least 8 characters and a mix of letters and numbers
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Least 8 characters and a mix of letters and numbers"
+msgstr "Least 8 characters and a mix of letters and numbers"
+
+#. [landingPage.Footer.LegalNotice]
+#. defaultMessage is:
+#. Legal Notice
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Legal Notice"
-msgstr ""
+msgstr "Legal Notice"
 
-#. [Header.Logout] - undefined
+#. [FirstLoginManual.LetsGetStarted]
+#. defaultMessage is:
+#. Let's get started!
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Let's get started!"
+msgstr "Let's get started!"
+
+#. [SleepStagePanel.Light]
+#. defaultMessage is:
+#. Light
+#. [SleepStageMessages.Light]
+#. defaultMessage is:
+#. Light
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Light"
+msgstr "Light"
+
+#. [LangingPage.StepsContentL1]
+#. defaultMessage is:
+#. Link with your corporate ID for a seamless experience.
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Link with your corporate ID for a seamless experience."
+msgstr "Link with your corporate ID for a seamless experience."
+
+#. [Header.Logout]
+#. defaultMessage is:
+#. Logout
 #: build/messages/src/scripts/components/common/Header.json
 msgid "Logout"
-msgstr ""
+msgstr "Logout"
 
-#. [HeartRateChart.Max] - undefined
+#. [GenderSelect.male]
+#. defaultMessage is:
+#. Male
+#: build/messages/src/scripts/components/accountSetting/GenderSelect.json
+msgid "Male"
+msgstr "Male"
+
+#. [HeartRateChart.Max]
+#. defaultMessage is:
+#. Max
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
-#. [BloodPressurePanel.MeasuredTime] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureTable.MeasuredTime]
+#. defaultMessage is:
+#. Measured time
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Measured time"
-msgstr ""
+msgstr "Measured time"
 
-#. [Layout.MediaTekIncAllRightReserved] - undefined
-#: build/messages/src/scripts/containers/Layout.json
+#. [landingPage.Footer.policy]
+#. defaultMessage is:
+#. MediaTek Health Privacy Policy
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MediaTek Health Privacy Policy"
+msgstr "MediaTek Health Privacy Policy"
+
+#. [landingPage.Footer.terms]
+#. defaultMessage is:
+#. MediaTek Health Terms & Conditions
+#: build/messages/src/scripts/components/landingPage/Footer.json
+msgid "MediaTek Health Terms & Conditions"
+msgstr "MediaTek Health Terms & Conditions"
+
+#. [Layout.MediaTekIncAllRightReserved]
+#. defaultMessage is:
+#. MediaTek Inc. All Rights Reserved.
+#: build/messages/src/scripts/components/common/Footer.json
 msgid "MediaTek Inc. All Rights Reserved."
-msgstr ""
+msgstr "MediaTek Inc. All Rights Reserved."
 
-#. [HeartRateChart.Min] - undefined
+#. [landingPage.ProjectIntroDialog.subjectContext]
+#. defaultMessage is:
+#. MediaTek employees in Taipei office
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "MediaTek employees in Taipei office"
+msgstr "MediaTek employees in Taipei office"
+
+#. [HeartRateChart.Min]
+#. defaultMessage is:
+#. Min
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
-#. [NotFoundPage.SomethingBroke] - undefined
-#: build/messages/src/scripts/components/common/NotFoundPage.json
+#. [ProfileForm.Month]
+#. defaultMessage is:
+#. Month
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+msgid "Month"
+msgstr "Month"
+
+#. [LangingPage.StepsTitle]
+#. defaultMessage is:
+#. Multi-functions All in One
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Multi-functions All in One"
+msgstr "Multi-functions All in One"
+
+#. [validator.INVALID_MTK_EMAIL]
+#. defaultMessage is:
+#. Must be a valid @mediatek.com email.
+#: build/messages/src/scripts/utils/validator.json
+msgid "Must be a valid @mediatek.com email."
+msgstr "Must be a valid @mediatek.com email."
+
+#. [landingPage.EmailSection.preferenceError]
+#. defaultMessage is:
+#. Must select one option from above.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Must select one option from above."
+msgstr "Must select one option from above."
+
+#. [MyRankingList.MyRanking]
+#. defaultMessage is:
+#. My Ranking
+#: build/messages/src/scripts/components/leaderboard/MyRankingPanel.json
+msgid "My Ranking"
+msgstr "My Ranking"
+
+#. [LangingPage.not]
+#. defaultMessage is:
+#. NOT
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid "NOT"
+msgstr "NOT"
+
+#. [ResetPasswordPage.passwordLabel]
+#. defaultMessage is:
+#. New Password
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "New Password"
+msgstr "New Password"
+
+#. [ResetSerialNumberPage.serialNumberLabel]
+#. defaultMessage is:
+#. New Serial Number
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "New Serial Number"
+msgstr "New Serial Number"
+
+#. [WeekPaginator.NextWeek]
+#. defaultMessage is:
+#. Next Week
+#: build/messages/src/scripts/components/leaderboard/WeekPaginator.json
+msgid "Next Week"
+msgstr "Next Week"
+
+#. [ProfileForm.nicknameLabel]
+#. defaultMessage is:
+#. Nickname
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+msgid "Nickname"
+msgstr "Nickname"
+
+#. [landingPage.EmailSection.blackBandLabel]
+#. defaultMessage is:
+#. No (Black band)
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "No (Black band)"
+msgstr "No (Black band)"
+
+#. [SleepReportList.Note]
+#. defaultMessage is:
+#. Note
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Note"
+msgstr "Note"
+
+#. [SleepReportList.Note]
+#. defaultMessage is:
+#. Note：
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "Note："
+msgstr "Note："
+
+#. [FirstLoginManual.OK]
+#. defaultMessage is:
+#. OK
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "OK"
+msgstr "OK"
+
+#. [landingPage.ProductOverview.content]
+#. defaultMessage is:
+#. Obtain real-time data from wristband to smartphone and personalized report through MediaTek Health.
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+msgid ""
+"Obtain real-time data from wristband to smartphone and personalized report "
+"through MediaTek Health."
+msgstr ""
+"Obtain real-time data from wristband to smartphone and personalized report "
+"through MediaTek Health."
+
+#. [ErrorPage.SomethingBroke]
+#. defaultMessage is:
+#. Oops! Looks like something broke.
+#: build/messages/src/scripts/components/common/ErrorPage.json
 msgid "Oops! Looks like something broke."
-msgstr ""
+msgstr "Oops! Looks like something broke."
 
-#. [landingPage.EmailSection.inputEmailPlaceholder] - undefined
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#. [LoginPage.somethingWentWrong]
+#. defaultMessage is:
+#. Oops! Something went wrong. Please try again later.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Oops! Something went wrong. Please try again later."
+msgstr "Oops! Something went wrong. Please try again later."
+
+#. [LoginPage.passwordLabel]
+#. defaultMessage is:
+#. Password
+#. [AccountSetting.Password]
+#. defaultMessage is:
+#. Password
+#. [ActivatePage.passwordLabel]
+#. defaultMessage is:
+#. Password
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#: build/messages/src/scripts/containers/AccountSetting.json
+#: build/messages/src/scripts/containers/ActivatePage.json
+msgid "Password"
+msgstr "Password"
+
+#. [emailPasswordValidator.INVALID_PASSWORD]
+#. defaultMessage is:
+#. Password Least 8 Characters
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+msgid "Password Least 8 Characters"
+msgstr "Password Least 8 Characters"
+
+#. [validator.INVALID_PASSWORD]
+#. defaultMessage is:
+#. Password must be at least 8 characters and contain least one number and one letter
+#: build/messages/src/scripts/utils/validator.json
+msgid ""
+"Password must be at least 8 characters and contain least one number and one "
+"letter"
+msgstr ""
+"Password must be at least 8 characters and contain least one number and one "
+"letter"
+
+#. [landingPage.ProductOverview.title]
+#. defaultMessage is:
+#. Personalized Data
+#: build/messages/src/scripts/components/landingPage/ProductOverview.json
+msgid "Personalized Data"
+msgstr "Personalized Data"
+
+#. [LoginPage.sendEmailSuccessDescription]
+#. defaultMessage is:
+#. Please check your email inbox for the verification email, which is sent to {email}
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid ""
+"Please check your email inbox for the verification email, which is sent to "
+"{email}"
+msgstr ""
+"Please check your email inbox for the verification email, which is sent to "
+"{email}"
+
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#. [LoginPage.pleaseContactUs]
+#. defaultMessage is:
+#. Please contact us.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Please contact us."
+msgstr "Please contact us."
+
+#. [emailPasswordValidator.EMPTY_PASSWORD]
+#. defaultMessage is:
+#. Please enter password
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+msgid "Please enter password"
+msgstr "Please enter password"
+
+#. [HRSendSNReplacementMailPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email and we will send the reset link to applicant.
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid ""
+"Please enter the applicant's email and we will send the reset link to "
+"applicant."
+msgstr ""
+"Please enter the applicant’s email and we will send the reset link to "
+"applicant."
+
+#. [HRActivateAccountsPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email to activate account.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Please enter the applicant's email to activate account."
+msgstr "Please enter the applicant's email to activate account."
+
+#. [hrDeactivateAccountPage.description]
+#. defaultMessage is:
+#. Please enter the applicant's email. Once the account is deleted, the user cannot use the MediaTek Health system anymore.
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid ""
+"Please enter the applicant's email. Once the account is deleted, the user "
+"cannot use the MediaTek Health system anymore."
+msgstr ""
+"Please enter the applicant’s email. Once the account is deleted, the user "
+"cannot use the MediaTek Health system anymore."
+
+#. [ResendEmailVerificationPage.description]
+#. defaultMessage is:
+#. Please enter your email and we will resend the verification link to you.
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid ""
+"Please enter your email and we will resend the verification link to you."
+msgstr ""
+"Please enter your email and we will resend the verification link to you."
+
+#. [ForgotPasswordPage.description]
+#. defaultMessage is:
+#. Please enter your email and we will send you instructions to reset your password.
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+msgid ""
+"Please enter your email and we will send you instructions to reset your "
+"password."
+msgstr ""
+"Please enter your email and we will send you instructions to reset your "
+"password."
+
+#. [validator.EMPTY_PASSWORD]
+#. defaultMessage is:
+#. Please input a password
+#: build/messages/src/scripts/utils/validator.json
+msgid "Please input a password"
+msgstr "Please input a password"
+
+#. [emailPasswordValidator.INVALID_EMAIL]
+#. defaultMessage is:
+#. Please input a valid email
+#. [validator.INVALID_EMAIL]
+#. defaultMessage is:
+#. Please input a valid email
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#: build/messages/src/scripts/utils/validator.json
+msgid "Please input a valid email"
+msgstr "Please input a valid email"
+
+#. [emailPasswordValidator.EMPTY_EMAIL]
+#. defaultMessage is:
+#. Please input an email
+#. [validator.EMPTY_EMAIL]
+#. defaultMessage is:
+#. Please input an email
+#: build/messages/src/scripts/utils/emailPasswordValidator.json
+#: build/messages/src/scripts/utils/validator.json
+msgid "Please input an email"
+msgstr "Please input an email"
+
+#. [landingPage.EmailSection.inputEmailPlaceholder]
+#. defaultMessage is:
+#. Please input your MediaTek email address
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Please input your MediaTek email address"
-msgstr ""
+msgstr "Please input your MediaTek email address"
 
-#. [EfficiencyIndicator.Poor] - undefined
+#. [landingPage.EmailSection.goldBandReminder]
+#. defaultMessage is:
+#. Please make sure you've read the "Learn the differnce".
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Please make sure you've read the \"Learn the differnce\"."
+msgstr "Please make sure you've read the \"Learn the differnce\"."
+
+#. [FirstLoginManual.Step1Description]
+#. defaultMessage is:
+#. Please scan the following QR code to download MediaTek Health App.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Please scan the following QR code to download MediaTek Health App."
+msgstr "Please scan the following QR code to download MediaTek Health App."
+
+#. [ActivatePage.description]
+#. defaultMessage is:
+#. Please set a password and the serial number of the band to complete the registration.
+#. [ResetSerialNumberPage.description]
+#. defaultMessage is:
+#. Please set a password and the serial number of the band to complete the registration.
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid ""
+"Please set a password and the serial number of the band to complete the "
+"registration."
+msgstr ""
+"Please set a password and the serial number of the band to complete the "
+"registration."
+
+#. [EfficiencyIndicator.Poor]
+#. defaultMessage is:
+#. Poor
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 msgid "Poor"
-msgstr ""
+msgstr "Poor"
 
-#. [landingPage.QuestionnaireSection.option.pressure] - undefined
+#. [landingPage.QuestionnaireSection.option.pressure]
+#. defaultMessage is:
+#. Pressure Analytics
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Pressure Analytics"
-msgstr ""
+msgstr "Pressure Analytics"
 
-#. [landingPage.Footer.PrivacyPolicy] - undefined
+#. [LangingPage.PrivacyTitle]
+#. defaultMessage is:
+#. Privacy
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid "Privacy"
+msgstr "Privacy"
+
+#. [landingPage.EmailSection.policy]
+#. defaultMessage is:
+#. Privacy Policy
+#. [landingPage.Footer.PrivacyPolicy]
+#. defaultMessage is:
+#. Privacy Policy
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
-#. [AccountSetting.ProfileDetail] - undefined
+#. [AccountSetting.ProfileDetail]
+#. defaultMessage is:
+#. Profile Detail
 #: build/messages/src/scripts/containers/AccountSetting.json
 msgid "Profile Detail"
-msgstr ""
+msgstr "Profile Detail"
 
-#. [BloodPressurePanel.RecentMeasurements] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [landingPage.ProjectIntroDialog.duration]
+#. defaultMessage is:
+#. Project Duration
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Project Duration"
+msgstr "Project Duration"
+
+#. [landingPage.ProjectIntroDialog.objective]
+#. defaultMessage is:
+#. Project Objective
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Project Objective"
+msgstr "Project Objective"
+
+#. [landingPage.ProjectIntroDialog.subject]
+#. defaultMessage is:
+#. Project Subjects
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Project Subjects"
+msgstr "Project Subjects"
+
+#. [SleepStagePanel.REM]
+#. defaultMessage is:
+#. REM
+#. [SleepStageMessages.REM]
+#. defaultMessage is:
+#. REM
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "REM"
+msgstr "REM"
+
+#. [BloodPressureTable.RecentMeasurements]
+#. defaultMessage is:
+#. Recent measurements
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Recent measurements"
-msgstr ""
+msgstr "Recent measurements"
 
-#. [CalorieChart.Remaining] - undefined
+#. [CalorieChart.Remaining]
+#. defaultMessage is:
+#. Remaining
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "Remaining"
-msgstr ""
+msgstr "Remaining"
 
-#. [Header.Report] - undefined
-#: build/messages/src/scripts/components/common/Header.json
-msgid "Report"
-msgstr ""
+#. [HRHeader.Replace]
+#. defaultMessage is:
+#. Replace
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Replace"
+msgstr "Replace"
 
-#. [personalReport.HRV.SDNN] - undefined
+#. [HRSendSNReplacementMailPage.title]
+#. defaultMessage is:
+#. Replace tha band and reset serial number
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid "Replace tha band and reset serial number"
+msgstr "Replace tha band and reset serial number"
+
+#. [ResendEmailVerificationPage.submitButton]
+#. defaultMessage is:
+#. Resend the Verification Link
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "Resend the Verification Link"
+msgstr "Resend the Verification Link"
+
+#. [ResetPasswordPage.title]
+#. defaultMessage is:
+#. Reset your password
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Reset your password"
+msgstr "Reset your password"
+
+#. [ResetSerialNumberPage.title]
+#. defaultMessage is:
+#. Reset your serial number of the band
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Reset your serial number of the band"
+msgstr "Reset your serial number of the band"
+
+#. [SleepStagePanel.Restless]
+#. defaultMessage is:
+#. Restless
+#. [SleepStageMessages.Restless]
+#. defaultMessage is:
+#. Restless
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Restless"
+msgstr "Restless"
+
+#. [HRHeader.Return]
+#. defaultMessage is:
+#. Return
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Return"
+msgstr "Return"
+
+#. [hrDeactivateAccountPage.title]
+#. defaultMessage is:
+#. Return the band and delete account
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+msgid "Return the band and delete account"
+msgstr "Return the band and delete account"
+
+#. [ActivityTypeOverlay.Run]
+#. defaultMessage is:
+#. Run
+#: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+msgid "Run"
+msgstr "Run"
+
+#. [personalReport.HRV.SDNN]
+#. defaultMessage is:
+#. SDNN {sdnn}
 #: build/messages/src/scripts/components/personalReport/Hrv.json
 msgid "SDNN {sdnn}"
-msgstr ""
+msgstr "SDNN {sdnn}"
 
-#. [landingPage.EmailSection.button] - undefined
+#. [landingPage.EmailSection.button]
+#. defaultMessage is:
+#. SUBMIT
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
-msgid "SEND IT"
-msgstr ""
+msgid "SUBMIT"
+msgstr "SUBMIT"
 
-#. [BloodPressurePanel.ShowMore] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-msgid "Show more"
-msgstr ""
+#. [SaveButton.Save]
+#. defaultMessage is:
+#. Save
+#: build/messages/src/scripts/components/accountSetting/SaveButton.json
+msgid "Save"
+msgstr "Save"
 
-#. [landingPage.Header.signInOrCreateAccount] - undefined
-#: build/messages/src/scripts/components/landingPage/Header.json
+#. [ActivatePage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
+#. [ResetPasswordPage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
+#. [ResetSerialNumberPage.submitButton]
+#. defaultMessage is:
+#. Save and Continue
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Save and Continue"
+msgstr "Save and Continue"
+
+#. [ForgotPasswordPage.submitButton]
+#. defaultMessage is:
+#. Send the Reset Link
+#. [HRActivateAccountsPage.sendTheResetLint]
+#. defaultMessage is:
+#. Send the Reset Link
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid "Send the Reset Link"
+msgstr "Send the Reset Link"
+
+#. [hrDeactivateAccountPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+#. [HRSendSNReplacementMailPage.successTitle]
+#. defaultMessage is:
+#. Sending successful!
+#: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
+#: build/messages/src/scripts/containers/HRSendSNReplacementMailPage.json
+msgid "Sending successful!"
+msgstr "Sending successful!"
+
+#. [LoginPage.sendingSucceessTitle]
+#. defaultMessage is:
+#. Sending successful, just one step away!
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Sending successful, just one step away!"
+msgstr "Sending successful, just one step away!"
+
+#. [ActivatePage.serialNumberLabel]
+#. defaultMessage is:
+#. Serial Number
+#: build/messages/src/scripts/containers/ActivatePage.json
+msgid "Serial Number"
+msgstr "Serial Number"
+
+#. [validator.INVALID_SERIALNUMBER]
+#. defaultMessage is:
+#. Serial number must be 9-character numeric string
+#: build/messages/src/scripts/utils/validator.json
+msgid "Serial number must be 9-character numeric string"
+msgstr "Serial number must be 9-character numeric string"
+
+#. [ActivatePage.title]
+#. defaultMessage is:
+#. Set your password and the SN of the band
+#: build/messages/src/scripts/containers/ActivatePage.json
+msgid "Set your password and the SN of the band"
+msgstr "Set your password and the SN of the band"
+
+#. [LangingPage.CalorieContent]
+#. defaultMessage is:
+#. Share exercise achievements with your network and reach the goals together .
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Share exercise achievements with your network and reach the goals together ."
+msgstr ""
+"Share exercise achievements with your network and reach the goals together ."
+
+#. [BloodPressureTable.ShowMore]
+#. defaultMessage is:
+#. Show All
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+msgid "Show All"
+msgstr "Show All"
+
+#. [ExercisePanel.ShowMore]
+#. defaultMessage is:
+#. Show More
+#. [ExercisePanel.ShowMore]
+#. defaultMessage is:
+#. Show More
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "Show More"
+msgstr "Show More"
+
+#. [LoginPage.signInButton]
+#. defaultMessage is:
+#. Sign In
+#. [Authentication.Header.signIn]
+#. defaultMessage is:
+#. Sign In
+#: build/messages/src/scripts/components/authentication/AuthForm.json
+#: build/messages/src/scripts/components/authentication/Header.json
+msgid "Sign In"
+msgstr "Sign In"
+
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+#. [landingPage.Header.signInOrCreateAccount]
+#. defaultMessage is:
+#. Sign In / Create Account
+#: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 msgid "Sign In / Create Account"
-msgstr ""
+msgstr "Sign In / Create Account"
 
-#. [LangingPage.SleepTrackTitle] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-msgid "Sleep Track"
-msgstr ""
+#. [Header.SignOut]
+#. defaultMessage is:
+#. Sign Out
+#. [HRHeader.signOut]
+#. defaultMessage is:
+#. Sign Out
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#: build/messages/src/scripts/components/hr/Header.json
+msgid "Sign Out"
+msgstr "Sign Out"
 
-#. [landingPage.QuestionnaireSection.option.sleep] - undefined
+#. [HRLoginPage.title]
+#. defaultMessage is:
+#. Sign into your HR account
+#: build/messages/src/scripts/containers/HRSignInPage.json
+msgid "Sign into your HR account"
+msgstr "Sign into your HR account"
+
+#. [SleepStagePanel.Sleep]
+#. defaultMessage is:
+#. Sleep
+#. [SleepStageMessages.Sleep]
+#. defaultMessage is:
+#. Sleep
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Sleep"
+msgstr "Sleep"
+
+#. [SleepReportDetails.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
+#. [SleepReportList.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Efficiency"
+msgstr "Sleep Efficiency"
+
+#. [SleepStagePanel.SleepStaging]
+#. defaultMessage is:
+#. Sleep Staging
+#. [SleepChartPanel.SleepStaging]
+#. defaultMessage is:
+#. Sleep Staging
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepChartPanel.json
+msgid "Sleep Staging"
+msgstr "Sleep Staging"
+
+#. [SleepReportPanel.SleepStagingReport]
+#. defaultMessage is:
+#. Sleep Staging Report
+#. [SleepReportList.SleepStagingReport]
+#. defaultMessage is:
+#. Sleep Staging Report
+#: build/messages/src/scripts/components/sleepReport/SleepReportPanel.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Staging Report"
+msgstr "Sleep Staging Report"
+
+#. [SleepReportList.SleepStagingReportList]
+#. defaultMessage is:
+#. Sleep Staging Report List
+#. [SleepReportList.SleepStagingReportList]
+#. defaultMessage is:
+#. Sleep Staging Report List
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Sleep Staging Report List"
+msgstr "Sleep Staging Report List"
+
+#. [landingPage.QuestionnaireSection.option.sleep]
+#. defaultMessage is:
+#. Sleep Tracking
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Sleep Tracking"
-msgstr ""
+msgstr "Sleep Tracking"
 
-#. [landingPage.QuestionnaireSection.option.social] - undefined
+#. [LangingPage.SleepTrackTitle]
+#. defaultMessage is:
+#. Sleep Well and Sleep Sound
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid "Sleep Well and Sleep Sound"
+msgstr "Sleep Well and Sleep Sound"
+
+#. [landingPage.QuestionnaireSection.option.social]
+#. defaultMessage is:
+#. Social Contest
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 msgid "Social Contest"
-msgstr ""
+msgstr "Social Contest"
 
-#. [StepPanel.Step] - undefined
+#. [landingPage.EmailSection.submitError]
+#. defaultMessage is:
+#. Something is broken, please try again later.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Something is broken, please try again later."
+msgstr "Something is broken, please try again later."
+
+#. [NotFoundPage.PageNotFound]
+#. defaultMessage is:
+#. Sorry! Page not found.
+#: build/messages/src/scripts/components/common/NotFoundPage.json
+msgid "Sorry! Page not found."
+msgstr "Sorry! Page not found."
+
+#. [ExerciseChart.Start]
+#. defaultMessage is:
+#. Start
+#: build/messages/src/scripts/components/exercise/ExerciseCharts.json
+msgid "Start"
+msgstr "Start"
+
+#. [LoginPage.staySignedInLabel]
+#. defaultMessage is:
+#. Stay signed in
+#. [LoginPage.staySignedInLabel]
+#. defaultMessage is:
+#. Stay signed in
+#: build/messages/src/scripts/containers/HRSignInPage.json
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Stay signed in"
+msgstr "Stay signed in"
+
+#. [StepPanel.Step]
+#. defaultMessage is:
+#. Step
+#. [DailyActivity.Step]
+#. defaultMessage is:
+#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Step"
-msgstr ""
+msgstr "Step"
 
-#. [LangingPage.StepsTitle] - undefined
-#: build/messages/src/scripts/containers/LandingPage.json
-msgid "Steps"
-msgstr ""
+#. [StepLabel.Step]
+#. defaultMessage is:
+#. Step {number}
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid "Step {number}"
+msgstr "Step {number}"
 
-#. [BloodPressurePanel.Systolic] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureChartMeta.Systolic]
+#. defaultMessage is:
+#. Systolic
+#. [BloodPressureTable.Systolic]
+#. defaultMessage is:
+#. Systolic
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "Systolic"
-msgstr ""
+msgstr "Systolic"
 
-#. [CalorieChart.Today] - undefined
-#. [ExercisePanel.Today] - undefined
+#. [landingPage.EmailSection.taipeiNeihu]
+#. defaultMessage is:
+#. Taipei Neihu
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Taipei Neihu"
+msgstr "Taipei Neihu"
+
+#. [landingPage.EmailSection.taipeiXingshan]
+#. defaultMessage is:
+#. Taipei Xingshan
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Taipei Xingshan"
+msgstr "Taipei Xingshan"
+
+#. [landingPage.EmailSection.terms]
+#. defaultMessage is:
+#. Terms & Conditions
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#. [LangingPage.PrivacyContent2]
+#. defaultMessage is:
+#. The data will {not} be revealed to anyone, including HR or managers, before getting your approval.
+#: build/messages/src/scripts/components/landingPage/PrivacySection.json
+msgid ""
+"The data will {not} be revealed to anyone, including HR or managers, before "
+"getting your approval."
+msgstr ""
+"The data will {not} be revealed to anyone, including HR or managers, before "
+"getting your approval."
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP2]
+#. defaultMessage is:
+#. The gold band is your employee badge, you can use it to access the taipei office area; and be identified as an MediaTek employee. However, it has the following limitations:
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"The gold band is your employee badge, you can use it to access the taipei "
+"office area; and be identified as an MediaTek employee. However, it has the "
+"following limitations:"
+msgstr ""
+"The gold band is your employee badge, you can use it to access the taipei "
+"office area; and be identified as an MediaTek employee. However, it has the "
+"following limitations:"
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line2]
+#. defaultMessage is:
+#. The gold band is your employee badge. Do not let other people use it.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "The gold band is your employee badge. Do not let other people use it."
+msgstr "The gold band is your employee badge. Do not let other people use it."
+
+#. [ResetSerialNumberPage.serialNumberInvalid]
+#. defaultMessage is:
+#. The serial number is malformatted.
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "The serial number is malformatted."
+msgstr "The serial number is malformatted."
+
+#. [ResetSerialNumberPage.tokenInvalid]
+#. defaultMessage is:
+#. The token is expired. Please contact us to resend a new resetting email.
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid ""
+"The token is expired. Please contact us to resend a new resetting email."
+msgstr ""
+"The token is expired. Please contact us to resend a new resetting email."
+
+#. [ResetPasswordPage.tokenInvalid]
+#. defaultMessage is:
+#. The token is invalid.
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "The token is invalid."
+msgstr "The token is invalid."
+
+#. [landingPage.ProjectIntroDialog.descriptionContextP1]
+#. defaultMessage is:
+#. There are two versions of employee band, the black one and the gold one. These two versions of band are both equipped with health related function, however, {highlight}
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid ""
+"There are two versions of employee band, the black one and the gold one. "
+"These two versions of band are both equipped with health related function, "
+"however, {highlight}"
+msgstr ""
+"There are two versions of employee band, the black one and the gold one. "
+"These two versions of band are both equipped with health related function, "
+"however, {highlight}"
+
+#. [landingPage.EmailSection.alreadyRegisteredError]
+#. defaultMessage is:
+#. This email address has already been registered.
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "This email address has already been registered."
+msgstr "This email address has already been registered."
+
+#. [SleepReportList.Title]
+#. defaultMessage is:
+#. Title
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Title"
+msgstr "Title"
+
+#. [landingPage.ProjectIntroDialog.objectiveContext]
+#. defaultMessage is:
+#. To test the employee reactions and experiences of wearable badge
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "To test the employee reactions and experiences of wearable badge"
+msgstr "To test the employee reactions and experiences of wearable badge"
+
+#. [CalorieChart.Today]
+#. defaultMessage is:
+#. Today
+#. [ExercisePanel.Today]
+#. defaultMessage is:
+#. Today
+#. [SleepStagePanel.Today]
+#. defaultMessage is:
+#. Today
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "Today"
-msgstr ""
+msgstr "Today"
 
-#. [HeartRateChart.TodayAvg] - undefined
+#. [HeartRateChart.TodayAvg]
+#. defaultMessage is:
+#. Today avg.
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
 msgid "Today avg."
-msgstr ""
+msgstr "Today avg."
 
-#. [StepPanel.Walk] - undefined
+#. [Leaderboard.Top100]
+#. defaultMessage is:
+#. Top 100
+#: build/messages/src/scripts/containers/Leaderboard.json
+msgid "Top 100"
+msgstr "Top 100"
+
+#. [SleepReportDetails.Total]
+#. defaultMessage is:
+#. Total
+#. [SleepReportList.Total]
+#. defaultMessage is:
+#. Total
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Total"
+msgstr "Total"
+
+#. [LangingPage.BloodPressureContent]
+#. defaultMessage is:
+#. Track daily blood pressure with built-in optical and ECG bio-sensor solutions for a peach of mind.
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Track daily blood pressure with built-in optical and ECG bio-sensor "
+"solutions for a peach of mind."
+msgstr ""
+"Track daily blood pressure with built-in optical and ECG bio-sensor "
+"solutions for a peach of mind."
+
+#. [ActivatePage.serialNumberInconsistent]
+#. defaultMessage is:
+#. Two Serial Numbers must be same
+#. [ResetSerialNumberPage.serialNumberInconsistent]
+#. defaultMessage is:
+#. Two Serial Numbers must be same
+#: build/messages/src/scripts/containers/ActivatePage.json
+#: build/messages/src/scripts/containers/ResetSerialNumberPage.json
+msgid "Two Serial Numbers must be same"
+msgstr "Two Serial Numbers must be same"
+
+#. [ResetPasswordPage.passwordInconsistent]
+#. defaultMessage is:
+#. Two passwords must be same
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Two passwords must be same"
+msgstr "Two passwords must be same"
+
+#. [ResetPasswordPage.password2Placeholder]
+#. defaultMessage is:
+#. Type again
+#: build/messages/src/scripts/containers/ResetPasswordPage.json
+msgid "Type again"
+msgstr "Type again"
+
+#. [LangingPage.HeartRateContent]
+#. defaultMessage is:
+#. Update your workout data instantly to enjoy brand new exercise experiences.
+#: build/messages/src/scripts/components/landingPage/FeatureSection.json
+msgid ""
+"Update your workout data instantly to enjoy brand new exercise experiences."
+msgstr ""
+"Update your workout data instantly to enjoy brand new exercise experiences."
+
+#. [ProfilePhoto.UploadPicture]
+#. defaultMessage is:
+#. Upload Picture
+#: build/messages/src/scripts/components/accountSetting/ProfilePhoto.json
+msgid "Upload Picture"
+msgstr "Upload Picture"
+
+#. [HRActivateAccountsPage.uploadCSVDescription]
+#. defaultMessage is:
+#. Upload a CSV file.
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "Upload a CSV file."
+msgstr "Upload a CSV file."
+
+#. [ResendEmailVerificationPage.alreadyActivated]
+#. defaultMessage is:
+#. User is already activated.
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "User is already activated."
+msgstr "User is already activated."
+
+#. [HRSendSNReplacementMailPage.userIsNotActive]
+#. defaultMessage is:
+#. User is not active.
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+msgid "User is not active."
+msgstr "User is not active."
+
+#. [ResendEmailVerificationPage.userNotFound]
+#. defaultMessage is:
+#. User is not found.
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "User is not found."
+msgstr "User is not found."
+
+#. [HRSendSNReplacementMailPage.userNotFound]
+#. defaultMessage is:
+#. User not found.
+#. [ForgotPasswordPage.userNotFound]
+#. defaultMessage is:
+#. User not found.
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+msgid "User not found."
+msgstr "User not found."
+
+#. [Campaign.PanelTitle]
+#. defaultMessage is:
+#. Users Eligible for The Drawing
+#: build/messages/src/scripts/containers/Campaign.json
+msgid "Users Eligible for The Drawing"
+msgstr "Users Eligible for The Drawing"
+
+#. [ResendEmailVerificationPage.title]
+#. defaultMessage is:
+#. Verification link has expired!
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid "Verification link has expired!"
+msgstr "Verification link has expired!"
+
+#. [SleepStagePanel.Wake]
+#. defaultMessage is:
+#. Wake
+#. [SleepStageMessages.Wake]
+#. defaultMessage is:
+#. Wake
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Wake"
+msgstr "Wake"
+
+#. [Indication.Walk]
+#. defaultMessage is:
+#. Walk
+#. [StepPanel.Walk]
+#. defaultMessage is:
+#. Walk
+#. [Indication.Walk]
+#. defaultMessage is:
+#. Walk
+#. [DailyActivity.Walk]
+#. defaultMessage is:
+#. Walk
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Walk"
-msgstr ""
+msgstr "Walk"
 
-#. [landingPage.SuccessSection.content] - undefined
+#. [landingPage.SuccessSection.content]
+#. defaultMessage is:
+#. We've received your application for the Health Band, please check your email inbox for the confimation email, which is sent to {formattedEmail}.
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
-msgid "We've received your application for the Health Band"
+msgid ""
+"We've received your application for the Health Band, please check your email "
+"inbox for the confimation email, which is sent to {formattedEmail}."
 msgstr ""
+"We’ve received your application for the Health Band, please check your email "
+"inbox for the confimation email, which is sent to {formattedEmail}."
 
-#. [CalorieChart.goalCompleted] - undefined
+#. [landingPage.ProjectIntroDialog.title]
+#. defaultMessage is:
+#. Wearable Badge Experimental Project
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Wearable Badge Experimental Project"
+msgstr "Wearable Badge Experimental Project"
+
+#. [Leaderboard.BannerTitle]
+#. defaultMessage is:
+#. Weekly Step Count
+#: build/messages/src/scripts/containers/Leaderboard.json
+msgid "Weekly Step Count"
+msgstr "Weekly Step Count"
+
+#. [ProfileForm.WeightLabel]
+#. defaultMessage is:
+#. Weight
+#: build/messages/src/scripts/components/accountSetting/ProfileForm.json
+msgid "Weight"
+msgstr "Weight"
+
+#. [LoginPage.title]
+#. defaultMessage is:
+#. Welcome back! Sign into your account
+#: build/messages/src/scripts/containers/SignInPage.json
+msgid "Welcome back! Sign into your account"
+msgstr "Welcome back! Sign into your account"
+
+#. [MoreInfoOverlay.WhatDoesTheDataMean]
+#. defaultMessage is:
+#. What does the data mean ?
+#: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+msgid "What does the data mean ?"
+msgstr "What does the data mean ?"
+
+#. [FirstLoginManual.Step2Description]
+#. defaultMessage is:
+#. When you first open the app and sign in, please set your personal profiles and activity goals.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"When you first open the app and sign in, please set your personal profiles "
+"and activity goals."
+msgstr ""
+"When you first open the app and sign in, please set your personal profiles "
+"and activity goals."
+
+#. [landingPage.EmailSection.officePlaceTitle]
+#. defaultMessage is:
+#. Where is your office place ?
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Where is your office place ?"
+msgstr "Where is your office place ?"
+
+#. [landingPage.QuestionnaireSection.title]
+#. defaultMessage is:
+#. Which service do you mainly want to use ?
+#: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
+msgid "Which service do you mainly want to use ?"
+msgstr "Which service do you mainly want to use ?"
+
+#. [ProfileForm.Year]
+#. defaultMessage is:
+#. Year
+#: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+msgid "Year"
+msgstr "Year"
+
+#. [landingPage.EmailSection.goldBandLabel]
+#. defaultMessage is:
+#. Yes (Gold band)
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid "Yes (Gold band)"
+msgstr "Yes (Gold band)"
+
+#. [SleepStagePanel.Yesterday]
+#. defaultMessage is:
+#. Yesterday
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+msgid "Yesterday"
+msgstr "Yesterday"
+
+#. [HRSendSNReplacementMailPage.permissionDenied]
+#. defaultMessage is:
+#. You do not have permission to perform this action.
+#: build/messages/src/scripts/components/hr/SendEmailPage.json
+msgid "You do not have permission to perform this action."
+msgstr "You do not have permission to perform this action."
+
+#. [CalorieChart.goalCompleted]
+#. defaultMessage is:
+#. You have completed the goal!
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "You have completed the goal!"
-msgstr ""
+msgstr "You have completed the goal!"
 
-#. [landingPage.VideoJumbo.jumboText] - undefined
-#: build/messages/src/scripts/components/landingPage/VideoJumbo.json
-msgid "Your Activity Tracker And Health Keeper"
+#. [FirstLoginManual.Step4Description]
+#. defaultMessage is:
+#. You will see the bluetooth icon shown on your band screen when the connection is created successfully. You can now start using your employee band.
+#: build/messages/src/scripts/components/common/FirstLoginManual.json
+msgid ""
+"You will see the bluetooth icon shown on your band screen when the "
+"connection is created successfully. You can now start using your employee "
+"band."
 msgstr ""
+"You will see the bluetooth icon shown on your band screen when the "
+"connection is created successfully. You can now start using your employee "
+"band."
 
-#. [ExercisePanel.At] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP3Line3]
+#. defaultMessage is:
+#. Your original badge will be retained in Taipei front desk.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "Your original badge will be retained in Taipei front desk."
+msgstr "Your original badge will be retained in Taipei front desk."
+
+#. [ForgotPasswordPage.pleaseWait]
+#. defaultMessage is:
+#. Your reset password email has been sent in last 5 minutes. Please wait if you would like to resend a new one.
+#. [ResendEmailVerificationPage.pleaseWait]
+#. defaultMessage is:
+#. Your reset password email has been sent in last 5 minutes. Please wait if you would like to resend a new one.
+#: build/messages/src/scripts/containers/ForgotPasswordPage.json
+#: build/messages/src/scripts/containers/ResendEmailVerificationPage.json
+msgid ""
+"Your reset password email has been sent in last 5 minutes. Please wait if "
+"you would like to resend a new one."
+msgstr ""
+"Your reset password email has been sent in last 5 minutes. Please wait if "
+"you would like to resend a new one."
+
+#. [ExercisePanel.At]
+#. defaultMessage is:
+#. at
+#. [ExercisePanel.At]
+#. defaultMessage is:
+#. at
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExercisePanel.json
 msgid "at"
-msgstr ""
+msgstr "at"
 
-#. [ExericsePanel.AvgBpm] - undefined
+#. [ExericsePanel.AvgBpm]
+#. defaultMessage is:
+#. avg bpm
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "avg bpm"
-msgstr ""
+msgstr "avg bpm"
 
-#. [HeartRateChart.Bpm] - undefined
-#. [personalReport.HeartRateChart.bpm] - undefined
+#. [HeartRateChart.Bpm]
+#. defaultMessage is:
+#. bpm
+#. [ExerciseMetaDetails.bpm]
+#. defaultMessage is:
+#. bpm
+#. [Indication.bpm]
+#. defaultMessage is:
+#. bpm
 #: build/messages/src/scripts/components/dashboard/HeartRateChart.json
-#: build/messages/src/scripts/components/personalReport/HeartRateChart.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "bpm"
-msgstr ""
+msgstr "bpm"
 
-#. [landingPage.ProductOverview.subtitle] - undefined
-#: build/messages/src/scripts/components/landingPage/ProductOverview.json
-msgid "by MediaTek"
-msgstr ""
-
-#. [personalReport.CalorieChart.cal] - undefined
-#: build/messages/src/scripts/components/personalReport/CalorieChart.json
-msgid "cal"
-msgstr ""
-
-#. [ExericsePanel.H] - undefined
+#. [ExericsePanel.H]
+#. defaultMessage is:
+#. h
+#. [SleepReportDetails.H]
+#. defaultMessage is:
+#. h
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "h"
-msgstr ""
+msgstr "h"
 
-#. [CalorieChart.kcal] - undefined
-#. [ExericsePanel.Kcal] - undefined
+#. [ExerciseMetaDetails.Hour]
+#. defaultMessage is:
+#. hour
+#. [SleepReportDetails.Hour]
+#. defaultMessage is:
+#. hour
+#: build/messages/src/scripts/components/common/FormattedDuration.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+msgid "hour"
+msgstr "hour"
+
+#. [CalorieChart.kcal]
+#. defaultMessage is:
+#. kcal
+#. [ExericsePanel.Kcal]
+#. defaultMessage is:
+#. kcal
+#. [ExerciseMetaDetails.kcal]
+#. defaultMessage is:
+#. kcal
+#. [Indication.kcal]
+#. defaultMessage is:
+#. kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "kcal"
-msgstr ""
+msgstr "kcal"
 
-#. [CalorieChart.kcalBurned] - undefined
+#. [CalorieChart.kcalBurned]
+#. defaultMessage is:
+#. kcal burned
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "kcal burned"
-msgstr ""
+msgstr "kcal burned"
 
-#. [ExericsePanel.Min] - undefined
+#. [ExerciseMetaDetails.Minute]
+#. defaultMessage is:
+#. min
+#. [ExericsePanel.Min]
+#. defaultMessage is:
+#. min
+#. [ExerciseMetaDetails.min]
+#. defaultMessage is:
+#. min
+#. [SleepReportDetails.Minute]
+#. defaultMessage is:
+#. min
+#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
-msgstr ""
+msgstr "min"
 
-#. [BloodPressurePanel.MmHg] - undefined
-#: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#. [BloodPressureChartMeta.mmHg]
+#. defaultMessage is:
+#. mmHg
+#. [BloodPressureChart.mmHg]
+#. defaultMessage is:
+#. mmHg
+#. [BloodPressureTable.MmHg]
+#. defaultMessage is:
+#. mmHg
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
+#: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 msgid "mmHg"
-msgstr ""
+msgstr "mmHg"
 
-#. [CalorieChart.remainKcal] - undefined
+#. [HRActivateAccountsPage.or]
+#. defaultMessage is:
+#. or
+#: build/messages/src/scripts/containers/HRActivateAccountsPage.json
+msgid "or"
+msgstr "or"
+
+#. [CalorieChart.remainKcal]
+#. defaultMessage is:
+#. remain {remaining} kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 msgid "remain {remaining} kcal"
-msgstr ""
+msgstr "remain {remaining} kcal"
 
-#. [StepPanel.step] - undefined
+#. [CampaignListRow.Stars]
+#. defaultMessage is:
+#. stars
+#: build/messages/src/scripts/components/campaign/CampaignListRow.json
+msgid "stars"
+msgstr "stars"
+
+#. [Indication.step]
+#. defaultMessage is:
+#. step
+#. [StepPanel.step]
+#. defaultMessage is:
+#. step
+#. [Indication.step]
+#. defaultMessage is:
+#. step
+#: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "step"
-msgstr ""
+msgstr "step"
 
-#. [landingPage.Footer.Copyrights] - undefined
+#. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight]
+#. defaultMessage is:
+#. the gold band can be additionally served as employee badge.
+#: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
+msgid "the gold band can be additionally served as employee badge."
+msgstr "the gold band can be additionally served as employee badge."
+
+#. [landingPage.Footer.Copyrights]
+#. defaultMessage is:
+#. © 2016 MediaTek Inc. All Rights Reserved.
 #: build/messages/src/scripts/components/landingPage/Footer.json
 msgid "© 2016 MediaTek Inc. All Rights Reserved."
-msgstr ""
+msgstr "© 2016 MediaTek Inc. All Rights Reserved."

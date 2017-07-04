@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-06-28T05:13:07.517Z\n"
+"POT-Creation-Date: 2017-07-04T06:42:20.250Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -622,14 +622,6 @@ msgstr ""
 #. Exercise
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExercisePanel.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/dashboard/StepChart.json
-#. [Indication.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/dashboard/StepPanel.json
-#. [StepPanel.Exercise]
 #. defaultMessage is:
 #. Exercise
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -1570,10 +1562,6 @@ msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Run]
-#. defaultMessage is:
-#. Run
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Run]
 #. defaultMessage is:
 #. Run
 msgid "Run"

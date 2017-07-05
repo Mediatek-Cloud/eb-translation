@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-07-04 15:08+0800\n"
-"PO-Revision-Date: 2017-07-04 15:27+0800\n"
+"POT-Creation-Date: 2017-07-05 16:01+0800\n"
+"PO-Revision-Date: 2017-07-05 16:01+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -26,6 +26,17 @@ msgstr "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "(Coming soon)"
 msgstr "(Coming soon)"
+
+#. [landingPage.EmailSection.information]
+#. defaultMessage is:
+#. (Our first round of registration is closed and you will be on the waiting list.)
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid ""
+"(Our first round of registration is closed and you will be on the waiting "
+"list.)"
+msgstr ""
+"(Our first round of registration is closed and you will be on the waiting "
+"list.)"
 
 #. [LangingPage.StepsContentL2]
 #. defaultMessage is:
@@ -2409,24 +2420,24 @@ msgstr "avg bpm"
 msgid "bpm"
 msgstr "bpm"
 
+#. [ExerciseMetaDetails.Hour]
+#. defaultMessage is:
+#. h
 #. [ExericsePanel.H]
 #. defaultMessage is:
 #. h
 #. [SleepReportDetails.H]
 #. defaultMessage is:
 #. h
+#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "h"
 msgstr "h"
 
-#. [ExerciseMetaDetails.Hour]
-#. defaultMessage is:
-#. hour
 #. [SleepReportDetails.Hour]
 #. defaultMessage is:
 #. hour
-#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "hour"
 msgstr "hour"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-06-28 13:17+0800\n"
+"POT-Creation-Date: 2017-07-05 16:00+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -25,6 +25,15 @@ msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 msgid "(Coming soon)"
 msgstr " （即將推出）"
+
+#. [landingPage.EmailSection.information]
+#. defaultMessage is:
+#. (Our first round of registration is closed and you will be on the waiting list.)
+#: build/messages/src/scripts/components/landingPage/EmailSection.json
+msgid ""
+"(Our first round of registration is closed and you will be on the waiting "
+"list.)"
+msgstr "（第一波登記已額滿，您仍可以登記為候補名單）"
 
 #. [LangingPage.StepsContentL2]
 #. defaultMessage is:
@@ -664,12 +673,6 @@ msgstr "例如：abc123@mediatek.com"
 #. [ExercisePanel.Exercise]
 #. defaultMessage is:
 #. Exercise
-#. [Indication.Exercise]
-#. defaultMessage is:
-#. Exercise
-#. [StepPanel.Exercise]
-#. defaultMessage is:
-#. Exercise
 #. [ActivityTypeOverlay.Exercise]
 #. defaultMessage is:
 #. Exercise
@@ -681,8 +684,6 @@ msgstr "例如：abc123@mediatek.com"
 #. Exercise
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#: build/messages/src/scripts/components/dashboard/StepChart.json
-#: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 #: build/messages/src/scripts/containers/ExercisePage.json
@@ -1639,11 +1640,7 @@ msgstr "歸還手環並且刪除帳號"
 #. [ActivityTypeOverlay.Run]
 #. defaultMessage is:
 #. Run
-#. [Indication.Run]
-#. defaultMessage is:
-#. Run
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "Run"
 msgstr "跑"
 
@@ -2380,24 +2377,24 @@ msgstr "avg bpm"
 msgid "bpm"
 msgstr "bpm"
 
+#. [ExerciseMetaDetails.Hour]
+#. defaultMessage is:
+#. h
 #. [ExericsePanel.H]
 #. defaultMessage is:
 #. h
 #. [SleepReportDetails.H]
 #. defaultMessage is:
 #. h
+#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "h"
 msgstr "h"
 
-#. [ExerciseMetaDetails.Hour]
-#. defaultMessage is:
-#. hour
 #. [SleepReportDetails.Hour]
 #. defaultMessage is:
 #. hour
-#: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "hour"
 msgstr "小時"

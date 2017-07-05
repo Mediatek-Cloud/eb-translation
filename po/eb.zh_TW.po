@@ -204,7 +204,7 @@ msgid ""
 "After setting profiles and goals, tap connect button in app to start "
 "connecting process. It will search your band and create BLE connection "
 "automatically."
-msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立藍芽連線。"
+msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立藍牙連線。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP4]
 #. defaultMessage is:
@@ -2325,7 +2325,7 @@ msgid ""
 "You will see the bluetooth icon shown on your band screen when the "
 "connection is created successfully. You can now start using your employee "
 "band."
-msgstr "連線成功後，您可在手環螢幕上看到藍芽的圖示，即能開始使用員工手環。"
+msgstr "連線成功後，您可在手環螢幕上看到藍牙的圖示，即能開始使用員工手環。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line3]
 #. defaultMessage is:

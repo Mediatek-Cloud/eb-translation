@@ -204,7 +204,7 @@ msgid ""
 "After setting profiles and goals, tap connect button in app to start "
 "connecting process. It will search your band and create BLE connection "
 "automatically."
-msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立藍牙連線。"
+msgstr "按下手機 App 上的連接按鈕，手機將自動搜尋您的手環並建立藍芽連線。"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP4]
 #. defaultMessage is:

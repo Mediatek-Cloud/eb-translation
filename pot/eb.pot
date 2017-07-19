@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-07-14T09:53:39.629Z\n"
+"POT-Creation-Date: 2017-07-19T10:04:09.229Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -33,13 +33,6 @@ msgstr ""
 #. defaultMessage is:
 #. * Taipei Office only
 msgid "* Taipei Office only"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-#. [UnsubscribePanel.ReturnReminder]
-#. defaultMessage is:
-#. *If so, please return the band to the HR.
-msgid "*If so, please return the band to the HR."
 msgstr ""
 
 #: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
@@ -124,7 +117,7 @@ msgid "9 Characters numeric string"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.about]
+#. [LandingPage.Footer.about]
 #. defaultMessage is:
 #. About MediaTek Health
 msgid "About MediaTek Health"
@@ -1070,7 +1063,7 @@ msgid "Least 8 characters and a mix of letters and numbers"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.LegalNotice]
+#. [LandingPage.Footer.LegalNotice]
 #. defaultMessage is:
 #. Legal Notice
 msgid "Legal Notice"
@@ -1130,14 +1123,14 @@ msgid "Measured time"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.policy]
+#. [LandingPage.Footer.policy]
 #. defaultMessage is:
 #. MediaTek Health Privacy Policy
 msgid "MediaTek Health Privacy Policy"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.terms]
+#. [LandingPage.Footer.terms]
 #. defaultMessage is:
 #. MediaTek Health Terms & Conditions
 msgid "MediaTek Health Terms & Conditions"
@@ -1145,6 +1138,10 @@ msgstr ""
 
 #: build/messages/src/scripts/components/common/Footer.json
 #. [Layout.MediaTekIncAllRightReserved]
+#. defaultMessage is:
+#. MediaTek Inc. All Rights Reserved.
+#: build/messages/src/scripts/components/landingPage/Footer.json
+#. [LandingPage.Footer.Copyrights]
 #. defaultMessage is:
 #. MediaTek Inc. All Rights Reserved.
 msgid "MediaTek Inc. All Rights Reserved."
@@ -1255,10 +1252,6 @@ msgstr ""
 msgid "Note："
 msgstr ""
 
-#: build/messages/src/scripts/components/accountSetting/UnsubscribeDialog.json
-#. [UnsubscribeDialog.OK]
-#. defaultMessage is:
-#. OK
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 #. [FirstLoginManual.OK]
 #. defaultMessage is:
@@ -1533,7 +1526,7 @@ msgstr ""
 #. defaultMessage is:
 #. Privacy Policy
 #: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.PrivacyPolicy]
+#. [LandingPage.Footer.PrivacyPolicy]
 #. defaultMessage is:
 #. Privacy Policy
 msgid "Privacy Policy"
@@ -2571,11 +2564,4 @@ msgstr ""
 #. defaultMessage is:
 #. the gold band can be additionally served as employee badge.
 msgid "the gold band can be additionally served as employee badge."
-msgstr ""
-
-#: build/messages/src/scripts/components/landingPage/Footer.json
-#. [landingPage.Footer.Copyrights]
-#. defaultMessage is:
-#. © 2016 MediaTek Inc. All Rights Reserved.
-msgid "© 2016 MediaTek Inc. All Rights Reserved."
 msgstr ""

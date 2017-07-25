@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-07-19T10:04:09.229Z\n"
+"POT-Creation-Date: 2017-07-25T07:55:02.785Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -504,6 +504,13 @@ msgstr ""
 #. defaultMessage is:
 #. Dashboard
 msgid "Dashboard"
+msgstr ""
+
+#: build/messages/src/scripts/components/exercise/ExercisePanel.json
+#. [ExercisePanel.IncompleteInformation]
+#. defaultMessage is:
+#. Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode.
+msgid "Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
@@ -1961,13 +1968,6 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
-#: build/messages/src/scripts/containers/AccountSetting.json
-#. [AccountSetting.Subscribe]
-#. defaultMessage is:
-#. Subscribe
-msgid "Subscribe"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
@@ -2146,10 +2146,6 @@ msgstr ""
 #. [UnsubscribePanel.Title]
 #. defaultMessage is:
 #. Unsubscribe
-#: build/messages/src/scripts/containers/AccountSetting.json
-#. [AccountSetting.Unsubscribe]
-#. defaultMessage is:
-#. Unsubscribe
 msgid "Unsubscribe"
 msgstr ""
 
@@ -2276,13 +2272,6 @@ msgstr ""
 #. defaultMessage is:
 #. Weekly Step Count
 msgid "Weekly Step Count"
-msgstr ""
-
-#: build/messages/src/scripts/containers/AccountSetting.json
-#. [AccountSetting.WeeklySummary]
-#. defaultMessage is:
-#. Weekly Summary
-msgid "Weekly Summary"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
@@ -2495,10 +2484,6 @@ msgstr ""
 #. min
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #. [ExericsePanel.Min]
-#. defaultMessage is:
-#. min
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
-#. [ExerciseMetaDetails.min]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json

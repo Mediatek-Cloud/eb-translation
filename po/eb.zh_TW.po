@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-07-19 18:13+0800\n"
+"POT-Creation-Date: 2017-07-27 16:31+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -549,6 +549,15 @@ msgstr "每日平均"
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Dashboard"
 msgstr "儀表板"
+
+#. [ExercisePanel.IncompleteInformation]
+#. defaultMessage is:
+#. Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode.
+#: build/messages/src/scripts/components/exercise/ExercisePanel.json
+msgid ""
+"Data is incomplete. Please confirm the band signal is normal before next "
+"time you turn on the exercise mode."
+msgstr "此份資料不完整。下次開啟運動模式時，請確保手環訊號正常。"
 
 #. [ProfileForm.Day]
 #. defaultMessage is:
@@ -2598,15 +2607,11 @@ msgstr "已燃燒熱量"
 #. [ExericsePanel.Min]
 #. defaultMessage is:
 #. min
-#. [ExerciseMetaDetails.min]
-#. defaultMessage is:
-#. min
 #. [SleepReportDetails.Minute]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"

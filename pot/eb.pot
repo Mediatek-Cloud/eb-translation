@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-07-25T07:55:02.785Z\n"
+"POT-Creation-Date: 2017-07-27T08:28:39.579Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -1968,6 +1968,13 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.Subscribe]
+#. defaultMessage is:
+#. Subscribe
+msgid "Subscribe"
+msgstr ""
+
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
@@ -2146,6 +2153,10 @@ msgstr ""
 #. [UnsubscribePanel.Title]
 #. defaultMessage is:
 #. Unsubscribe
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.Unsubscribe]
+#. defaultMessage is:
+#. Unsubscribe
 msgid "Unsubscribe"
 msgstr ""
 
@@ -2272,6 +2283,13 @@ msgstr ""
 #. defaultMessage is:
 #. Weekly Step Count
 msgid "Weekly Step Count"
+msgstr ""
+
+#: build/messages/src/scripts/containers/AccountSetting.json
+#. [AccountSetting.WeeklySummary]
+#. defaultMessage is:
+#. Weekly Summary
+msgid "Weekly Summary"
 msgstr ""
 
 #: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json

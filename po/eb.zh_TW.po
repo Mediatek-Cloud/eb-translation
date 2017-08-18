@@ -317,14 +317,14 @@ msgstr "睡著："
 #. Awake
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Awake"
-msgstr "清醒"
+msgstr "醒著"
 
 #. [SleepReportList.Awake]
 #. defaultMessage is:
 #. Awake：
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 msgid "Awake："
-msgstr "清醒："
+msgstr "醒著："
 
 #. [CalorieChart.BMR]
 #. defaultMessage is:
@@ -2339,7 +2339,7 @@ msgstr "認證連結已過期"
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Wake"
-msgstr "清醒"
+msgstr "醒著"
 
 #. [Indication.Walk]
 #. defaultMessage is:

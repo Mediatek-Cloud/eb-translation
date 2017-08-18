@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-07-27 16:31+0800\n"
+"POT-Creation-Date: 2017-08-18 17:38+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,13 +18,6 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr "(有氧運動時間 + 無氧運動時間 ) / 總運動時間"
-
-#. [SleepStagePanel.ComingSoon]
-#. defaultMessage is:
-#. (Coming soon)
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-msgid "(Coming soon)"
-msgstr " （即將推出）"
 
 #. [landingPage.EmailSection.information]
 #. defaultMessage is:
@@ -301,30 +294,24 @@ msgstr "申請成功！"
 #. [SleepReportList.Asleep]
 #. defaultMessage is:
 #. Asleep
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Asleep"
-msgstr "睡著"
-
 #. [SleepReportList.Asleep]
 #. defaultMessage is:
-#. Asleep：
+#. Asleep
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Asleep："
-msgstr "睡著："
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Asleep"
+msgstr "睡眠開始"
 
 #. [SleepReportList.Awake]
 #. defaultMessage is:
 #. Awake
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Awake"
-msgstr "醒著"
-
 #. [SleepReportList.Awake]
 #. defaultMessage is:
-#. Awake：
+#. Awake
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Awake："
-msgstr "醒著："
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "Awake"
+msgstr "睡眠結束"
 
 #. [CalorieChart.BMR]
 #. defaultMessage is:
@@ -378,7 +365,15 @@ msgstr "生日"
 #. [BloodPressurePanel.BloodPressure]
 #. defaultMessage is:
 #. Blood Pressure
+#. [FilterDropdown.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
+#. [Metas.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Blood Pressure"
 msgstr "血壓"
 
@@ -429,7 +424,13 @@ msgstr "聯繫我們"
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
+#. [FilterDropdown.Calorie]
+#. defaultMessage is:
+#. Calorie
 #. [DailyActivity.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [Metas.Calorie]
 #. defaultMessage is:
 #. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
@@ -438,7 +439,9 @@ msgstr "聯繫我們"
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Calorie"
 msgstr "卡洛里"
 
@@ -514,9 +517,13 @@ msgstr "聯繫我們"
 #. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
+#. [DailyActivity.DailyActivity]
+#. defaultMessage is:
+#. Daily Activity
 #: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
+#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Daily Activity"
 msgstr "每日活動"
 
@@ -562,17 +569,25 @@ msgstr "此份資料不完整。下次開啟運動模式時，請確保手環訊
 #. [ProfileForm.Day]
 #. defaultMessage is:
 #. Day
+#. [PeriodSwitch.Day]
+#. defaultMessage is:
+#. Day
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Day"
 msgstr "日"
 
 #. [SleepStagePanel.Deep]
 #. defaultMessage is:
 #. Deep
+#. [GenderSelect.Deep]
+#. defaultMessage is:
+#. Deep
 #. [SleepStageMessages.Deep]
 #. defaultMessage is:
 #. Deep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
 msgstr "深眠期"
@@ -738,7 +753,13 @@ msgstr "例如：abc123@mediatek.com"
 #. [ActivityTypeOverlay.Exercise]
 #. defaultMessage is:
 #. Exercise
+#. [FilterDropdown.Exercise]
+#. defaultMessage is:
+#. Exercise
 #. [DailyActivity.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [Metas.Exercise]
 #. defaultMessage is:
 #. Exercise
 #. [ExercisePage.Exercise]
@@ -747,7 +768,9 @@ msgstr "例如：abc123@mediatek.com"
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
 msgstr "運動"
@@ -912,6 +935,9 @@ msgstr "HRV： {formattedDescription}"
 #. [Indication.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
+#. [FilterDropdown.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #. [DailyActivity.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
@@ -921,6 +947,7 @@ msgstr "HRV： {formattedDescription}"
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Heart Rate"
 msgstr "心率"
@@ -952,6 +979,13 @@ msgstr "心率 > (220-年齡)x90%"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
 msgstr "心率　計步　卡洛里"
+
+#. [Metas.HeartRateResting]
+#. defaultMessage is:
+#. Heart Rate/Resting
+#: build/messages/src/scripts/components/personalReport/Metas.json
+msgid "Heart Rate/Resting"
+msgstr ""
 
 #. [ProfileForm.HeightLabel]
 #. defaultMessage is:
@@ -1013,10 +1047,14 @@ msgstr ""
 #. [EfficiencyIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
+#. [ExercisePanel.Incomplete]
+#. defaultMessage is:
+#. Incomplete
 #. [ActivityTypeButton.Incomplete]
 #. defaultMessage is:
 #. Incomplete
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
 msgid "Incomplete"
 msgstr "資料不足"
@@ -1145,10 +1183,14 @@ msgstr "開始吧！"
 #. [SleepStagePanel.Light]
 #. defaultMessage is:
 #. Light
+#. [GenderSelect.Light]
+#. defaultMessage is:
+#. Light
 #. [SleepStageMessages.Light]
 #. defaultMessage is:
 #. Light
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Light"
 msgstr "淺眠期"
@@ -1230,7 +1272,11 @@ msgstr "最小值"
 #. [ProfileForm.Month]
 #. defaultMessage is:
 #. Month
+#. [PeriodSwitch.Month]
+#. defaultMessage is:
+#. Month
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Month"
 msgstr "月"
 
@@ -1303,20 +1349,6 @@ msgstr "暱稱"
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "No (Black band)"
 msgstr "否（黑手環）"
-
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Note"
-msgstr "說明"
-
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note：
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Note："
-msgstr "說明："
 
 #. [FirstLoginManual.OK]
 #. defaultMessage is:
@@ -1653,10 +1685,14 @@ msgstr "提供您的建議，幫助我們做得更好！"
 #. [SleepStagePanel.REM]
 #. defaultMessage is:
 #. REM
+#. [GenderSelect.REM]
+#. defaultMessage is:
+#. REM
 #. [SleepStageMessages.REM]
 #. defaultMessage is:
 #. REM
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "REM"
 msgstr "REM"
@@ -1713,10 +1749,14 @@ msgstr "重設手環序號"
 #. [SleepStagePanel.Restless]
 #. defaultMessage is:
 #. Restless
+#. [SleepChart.Restless]
+#. defaultMessage is:
+#. Restless
 #. [SleepStageMessages.Restless]
 #. defaultMessage is:
 #. Restless
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Restless"
 msgstr "不寧"
@@ -1778,6 +1818,20 @@ msgstr "儲存"
 msgid "Save and Continue"
 msgstr "儲存並繼續"
 
+#. [PeriodSwitch.Season]
+#. defaultMessage is:
+#. Season
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
+msgid "Season"
+msgstr "季"
+
+#. [FilterDropdown.SelectAll]
+#. defaultMessage is:
+#. Select All
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+msgid "Select All"
+msgstr "全選"
+
 #. [ForgotPasswordPage.submitButton]
 #. defaultMessage is:
 #. Send the Reset Link
@@ -1835,6 +1889,13 @@ msgstr "請設定您的密碼與手環序號"
 msgid ""
 "Share exercise achievements with your network and reach the goals together ."
 msgstr "隨時與朋友連線分享健身成果，共同努力完成目標"
+
+#. [FilterDropdown.ShowHide]
+#. defaultMessage is:
+#. Show / Hide
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+msgid "Show / Hide"
+msgstr "顯示 / 隱藏"
 
 #. [BloodPressureTable.ShowMore]
 #. defaultMessage is:
@@ -1897,20 +1958,32 @@ msgstr "登入您的 HR 帳號"
 #. [SleepStagePanel.Sleep]
 #. defaultMessage is:
 #. Sleep
+#. [GenderSelect.Sleep]
+#. defaultMessage is:
+#. Sleep
 #. [SleepStageMessages.Sleep]
 #. defaultMessage is:
 #. Sleep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Sleep"
 msgstr "睡眠"
 
+#. [FilterDropdown.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
+#. [Metas.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
 #. [SleepReportDetails.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
 #. [SleepReportList.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Efficiency"
@@ -2012,11 +2085,19 @@ msgstr "保持登入狀態"
 #. [StepPanel.Step]
 #. defaultMessage is:
 #. Step
+#. [FilterDropdown.Step]
+#. defaultMessage is:
+#. Step
 #. [DailyActivity.Step]
 #. defaultMessage is:
 #. Step
+#. [Metas.Step]
+#. defaultMessage is:
+#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Step"
 msgstr "步數"
 
@@ -2179,9 +2260,13 @@ msgstr "了解同仁對健康穿戴式識別證的反應與感受"
 #. [SleepStagePanel.Today]
 #. defaultMessage is:
 #. Today
+#. [DailyActivity.Today]
+#. defaultMessage is:
+#. Today
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Today"
 msgstr "今天"
 
@@ -2243,6 +2328,13 @@ msgstr "兩次輸入的密碼不一致"
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Type again"
 msgstr "請再輸入一次"
+
+#. [UnitDropdown.Unit]
+#. defaultMessage is:
+#. Unit:
+#: build/messages/src/scripts/components/personalReport/UnitDropdown.json
+msgid "Unit:"
+msgstr "單位:"
 
 #. [UnsubscribePanel.Title]
 #. defaultMessage is:
@@ -2333,10 +2425,14 @@ msgstr "認證連結已過期"
 #. [SleepStagePanel.Wake]
 #. defaultMessage is:
 #. Wake
+#. [SleepChart.Wake]
+#. defaultMessage is:
+#. Wake
 #. [SleepStageMessages.Wake]
 #. defaultMessage is:
 #. Wake
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Wake"
 msgstr "醒著"
@@ -2350,12 +2446,16 @@ msgstr "醒著"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
+#. [FilterDropdown.Walk]
+#. defaultMessage is:
+#. Walk
 #. [DailyActivity.Walk]
 #. defaultMessage is:
 #. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Walk"
 msgstr "走路"
@@ -2538,6 +2638,13 @@ msgstr "在"
 msgid "avg bpm"
 msgstr "avg bpm"
 
+#. [Metas.avgbpm]
+#. defaultMessage is:
+#. avg. bpm
+#: build/messages/src/scripts/components/personalReport/Metas.json
+msgid "avg. bpm"
+msgstr "avg bpm"
+
 #. [HeartRateChart.Bpm]
 #. defaultMessage is:
 #. bpm
@@ -2587,10 +2694,14 @@ msgstr "小時"
 #. [Indication.kcal]
 #. defaultMessage is:
 #. kcal
+#. [Metas.Kcal]
+#. defaultMessage is:
+#. kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "kcal"
 msgstr "kcal"
 
@@ -2607,11 +2718,15 @@ msgstr "已燃燒熱量"
 #. [ExericsePanel.Min]
 #. defaultMessage is:
 #. min
+#. [Metas.min]
+#. defaultMessage is:
+#. min
 #. [SleepReportDetails.Minute]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"
@@ -2625,9 +2740,13 @@ msgstr "min"
 #. [BloodPressureTable.MmHg]
 #. defaultMessage is:
 #. mmHg
+#. [Metas.mmHg]
+#. defaultMessage is:
+#. mmHg
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "mmHg"
 msgstr "mmHg"
 
@@ -2661,9 +2780,13 @@ msgstr "星星"
 #. [Indication.step]
 #. defaultMessage is:
 #. step
+#. [Metas.step]
+#. defaultMessage is:
+#. step
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "step"
 msgstr "step"
 
@@ -2673,6 +2796,21 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid "(Coming soon)"
+#~ msgstr " （即將推出）"
+
+#~ msgid "Asleep："
+#~ msgstr "睡著："
+
+#~ msgid "Awake："
+#~ msgstr "醒著："
+
+#~ msgid "Note"
+#~ msgstr "說明"
+
+#~ msgid "Note："
+#~ msgstr "說明："
 
 #~ msgid "© 2016 MediaTek Inc. All Rights Reserved."
 #~ msgstr "© 2016 MediaTek Inc. All Rights Reserved."

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-07-27 16:36+0800\n"
-"PO-Revision-Date: 2017-07-27 16:37+0800\n"
+"POT-Creation-Date: 2017-08-18 17:44+0800\n"
+"PO-Revision-Date: 2017-08-18 17:45+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -19,13 +19,6 @@ msgstr ""
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "(Aerobics Time + Anaerobics Time) / Exercise Duration"
 msgstr "(Aerobics Time + Anaerobics Time) / Exercise Duration"
-
-#. [SleepStagePanel.ComingSoon]
-#. defaultMessage is:
-#. (Coming soon)
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-msgid "(Coming soon)"
-msgstr "(Coming soon)"
 
 #. [landingPage.EmailSection.information]
 #. defaultMessage is:
@@ -314,30 +307,24 @@ msgstr "Application successful !"
 #. [SleepReportList.Asleep]
 #. defaultMessage is:
 #. Asleep
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Asleep"
 msgstr "Asleep"
 
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep：
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Asleep："
-msgstr "Asleep："
-
 #. [SleepReportList.Awake]
 #. defaultMessage is:
 #. Awake
+#. [SleepReportList.Awake]
+#. defaultMessage is:
+#. Awake
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Awake"
 msgstr "Awake"
-
-#. [SleepReportList.Awake]
-#. defaultMessage is:
-#. Awake：
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Awake："
-msgstr "Awake："
 
 #. [CalorieChart.BMR]
 #. defaultMessage is:
@@ -391,7 +378,15 @@ msgstr "Birthday"
 #. [BloodPressurePanel.BloodPressure]
 #. defaultMessage is:
 #. Blood Pressure
+#. [FilterDropdown.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
+#. [Metas.BloodPressure]
+#. defaultMessage is:
+#. Blood Pressure
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Blood Pressure"
 msgstr "Blood Pressure"
 
@@ -443,7 +438,13 @@ msgstr "CONTACT US"
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
+#. [FilterDropdown.Calorie]
+#. defaultMessage is:
+#. Calorie
 #. [DailyActivity.Calorie]
+#. defaultMessage is:
+#. Calorie
+#. [Metas.Calorie]
 #. defaultMessage is:
 #. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
@@ -452,7 +453,9 @@ msgstr "CONTACT US"
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Calorie"
 msgstr "Calorie"
 
@@ -528,9 +531,13 @@ msgstr "Contact Us"
 #. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
+#. [DailyActivity.DailyActivity]
+#. defaultMessage is:
+#. Daily Activity
 #: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
+#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Daily Activity"
 msgstr "Daily Activity"
 
@@ -578,17 +585,25 @@ msgstr ""
 #. [ProfileForm.Day]
 #. defaultMessage is:
 #. Day
+#. [PeriodSwitch.Day]
+#. defaultMessage is:
+#. Day
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Day"
 msgstr "Day"
 
 #. [SleepStagePanel.Deep]
 #. defaultMessage is:
 #. Deep
+#. [GenderSelect.Deep]
+#. defaultMessage is:
+#. Deep
 #. [SleepStageMessages.Deep]
 #. defaultMessage is:
 #. Deep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
 msgstr "Deep"
@@ -758,7 +773,13 @@ msgstr "Ex: abc123@mediatek.com"
 #. [ActivityTypeOverlay.Exercise]
 #. defaultMessage is:
 #. Exercise
+#. [FilterDropdown.Exercise]
+#. defaultMessage is:
+#. Exercise
 #. [DailyActivity.Exercise]
+#. defaultMessage is:
+#. Exercise
+#. [Metas.Exercise]
 #. defaultMessage is:
 #. Exercise
 #. [ExercisePage.Exercise]
@@ -767,7 +788,9 @@ msgstr "Ex: abc123@mediatek.com"
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
 msgstr "Exercise"
@@ -933,6 +956,9 @@ msgstr "HRV: {formattedDescription}"
 #. [Indication.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
+#. [FilterDropdown.HeartRate]
+#. defaultMessage is:
+#. Heart Rate
 #. [DailyActivity.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
@@ -942,6 +968,7 @@ msgstr "HRV: {formattedDescription}"
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Heart Rate"
 msgstr "Heart Rate"
@@ -973,6 +1000,13 @@ msgstr "Heart Rate > (220-Age)x90%"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
 msgstr "Heart Rate, Steps, Calories"
+
+#. [Metas.HeartRateResting]
+#. defaultMessage is:
+#. Heart Rate/Resting
+#: build/messages/src/scripts/components/personalReport/Metas.json
+msgid "Heart Rate/Resting"
+msgstr "Heart Rate/Resting"
 
 #. [ProfileForm.HeightLabel]
 #. defaultMessage is:
@@ -1034,10 +1068,14 @@ msgstr ""
 #. [EfficiencyIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
+#. [ExercisePanel.Incomplete]
+#. defaultMessage is:
+#. Incomplete
 #. [ActivityTypeButton.Incomplete]
 #. defaultMessage is:
 #. Incomplete
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
 msgid "Incomplete"
 msgstr "Incomplete"
@@ -1166,10 +1204,14 @@ msgstr "Let's get started!"
 #. [SleepStagePanel.Light]
 #. defaultMessage is:
 #. Light
+#. [GenderSelect.Light]
+#. defaultMessage is:
+#. Light
 #. [SleepStageMessages.Light]
 #. defaultMessage is:
 #. Light
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Light"
 msgstr "Light"
@@ -1251,7 +1293,11 @@ msgstr "Min"
 #. [ProfileForm.Month]
 #. defaultMessage is:
 #. Month
+#. [PeriodSwitch.Month]
+#. defaultMessage is:
+#. Month
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Month"
 msgstr "Month"
 
@@ -1324,20 +1370,6 @@ msgstr "Nickname"
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "No (Black band)"
 msgstr "No (Black band)"
-
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Note"
-msgstr "Note"
-
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note：
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-msgid "Note："
-msgstr "Note："
 
 #. [FirstLoginManual.OK]
 #. defaultMessage is:
@@ -1687,10 +1719,14 @@ msgstr "Provide your feedback, we can do better!"
 #. [SleepStagePanel.REM]
 #. defaultMessage is:
 #. REM
+#. [GenderSelect.REM]
+#. defaultMessage is:
+#. REM
 #. [SleepStageMessages.REM]
 #. defaultMessage is:
 #. REM
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "REM"
 msgstr "REM"
@@ -1747,10 +1783,14 @@ msgstr "Reset your serial number of the band"
 #. [SleepStagePanel.Restless]
 #. defaultMessage is:
 #. Restless
+#. [SleepChart.Restless]
+#. defaultMessage is:
+#. Restless
 #. [SleepStageMessages.Restless]
 #. defaultMessage is:
 #. Restless
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Restless"
 msgstr "Restless"
@@ -1812,6 +1852,20 @@ msgstr "Save"
 msgid "Save and Continue"
 msgstr "Save and Continue"
 
+#. [PeriodSwitch.Season]
+#. defaultMessage is:
+#. Season
+#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
+msgid "Season"
+msgstr "Season"
+
+#. [FilterDropdown.SelectAll]
+#. defaultMessage is:
+#. Select All
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+msgid "Select All"
+msgstr "Select All"
+
 #. [ForgotPasswordPage.submitButton]
 #. defaultMessage is:
 #. Send the Reset Link
@@ -1870,6 +1924,13 @@ msgid ""
 "Share exercise achievements with your network and reach the goals together ."
 msgstr ""
 "Share exercise achievements with your network and reach the goals together ."
+
+#. [FilterDropdown.ShowHide]
+#. defaultMessage is:
+#. Show / Hide
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+msgid "Show / Hide"
+msgstr "Show / Hide"
 
 #. [BloodPressureTable.ShowMore]
 #. defaultMessage is:
@@ -1932,20 +1993,32 @@ msgstr "Sign into your HR account"
 #. [SleepStagePanel.Sleep]
 #. defaultMessage is:
 #. Sleep
+#. [GenderSelect.Sleep]
+#. defaultMessage is:
+#. Sleep
 #. [SleepStageMessages.Sleep]
 #. defaultMessage is:
 #. Sleep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Sleep"
 msgstr "Sleep"
 
+#. [FilterDropdown.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
+#. [Metas.SleepEfficiency]
+#. defaultMessage is:
+#. Sleep Efficiency
 #. [SleepReportDetails.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
 #. [SleepReportList.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Efficiency"
@@ -2047,11 +2120,19 @@ msgstr "Stay signed in"
 #. [StepPanel.Step]
 #. defaultMessage is:
 #. Step
+#. [FilterDropdown.Step]
+#. defaultMessage is:
+#. Step
 #. [DailyActivity.Step]
 #. defaultMessage is:
 #. Step
+#. [Metas.Step]
+#. defaultMessage is:
+#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Step"
 msgstr "Step"
 
@@ -2216,9 +2297,13 @@ msgstr "To test the employee reactions and experiences of wearable badge"
 #. [SleepStagePanel.Today]
 #. defaultMessage is:
 #. Today
+#. [DailyActivity.Today]
+#. defaultMessage is:
+#. Today
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Today"
 msgstr "Today"
 
@@ -2282,6 +2367,13 @@ msgstr "Two passwords must be same"
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Type again"
 msgstr "Type again"
+
+#. [UnitDropdown.Unit]
+#. defaultMessage is:
+#. Unit:
+#: build/messages/src/scripts/components/personalReport/UnitDropdown.json
+msgid "Unit:"
+msgstr "Unit:"
 
 #. [UnsubscribePanel.Title]
 #. defaultMessage is:
@@ -2373,10 +2465,14 @@ msgstr "Verification link has expired!"
 #. [SleepStagePanel.Wake]
 #. defaultMessage is:
 #. Wake
+#. [SleepChart.Wake]
+#. defaultMessage is:
+#. Wake
 #. [SleepStageMessages.Wake]
 #. defaultMessage is:
 #. Wake
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Wake"
 msgstr "Wake"
@@ -2390,12 +2486,16 @@ msgstr "Wake"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
+#. [FilterDropdown.Walk]
+#. defaultMessage is:
+#. Walk
 #. [DailyActivity.Walk]
 #. defaultMessage is:
 #. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Walk"
 msgstr "Walk"
@@ -2587,6 +2687,13 @@ msgstr "at"
 msgid "avg bpm"
 msgstr "avg bpm"
 
+#. [Metas.avgbpm]
+#. defaultMessage is:
+#. avg. bpm
+#: build/messages/src/scripts/components/personalReport/Metas.json
+msgid "avg. bpm"
+msgstr "avg bpm"
+
 #. [HeartRateChart.Bpm]
 #. defaultMessage is:
 #. bpm
@@ -2636,10 +2743,14 @@ msgstr "hour"
 #. [Indication.kcal]
 #. defaultMessage is:
 #. kcal
+#. [Metas.Kcal]
+#. defaultMessage is:
+#. kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "kcal"
 msgstr "kcal"
 
@@ -2656,11 +2767,15 @@ msgstr "kcal burned"
 #. [ExericsePanel.Min]
 #. defaultMessage is:
 #. min
+#. [Metas.min]
+#. defaultMessage is:
+#. min
 #. [SleepReportDetails.Minute]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"
@@ -2674,9 +2789,13 @@ msgstr "min"
 #. [BloodPressureTable.MmHg]
 #. defaultMessage is:
 #. mmHg
+#. [Metas.mmHg]
+#. defaultMessage is:
+#. mmHg
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "mmHg"
 msgstr "mmHg"
 
@@ -2710,9 +2829,13 @@ msgstr "stars"
 #. [Indication.step]
 #. defaultMessage is:
 #. step
+#. [Metas.step]
+#. defaultMessage is:
+#. step
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
+#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "step"
 msgstr "step"
 
@@ -2722,6 +2845,21 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid "(Coming soon)"
+#~ msgstr "(Coming soon)"
+
+#~ msgid "Asleep："
+#~ msgstr "Asleep："
+
+#~ msgid "Awake："
+#~ msgstr "Awake："
+
+#~ msgid "Note"
+#~ msgstr "Note"
+
+#~ msgid "Note："
+#~ msgstr "Note："
 
 #~ msgid "© 2016 MediaTek Inc. All Rights Reserved."
 #~ msgstr "© 2016 MediaTek Inc. All Rights Reserved."

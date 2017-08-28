@@ -1,18 +1,11 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-08-23T02:33:52.940Z\n"
+"POT-Creation-Date: 2017-08-28T08:34:20.925Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
 "X-Generator: react-intl-po\n"
 
-
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Percentage]
-#. defaultMessage is:
-#. %
-msgid "%"
-msgstr ""
 
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #. [MoreInfoOverlay.EfficiencyFormula]
@@ -255,6 +248,10 @@ msgstr ""
 msgid "Application successful !"
 msgstr ""
 
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.Asleep]
+#. defaultMessage is:
+#. Asleep
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Asleep]
 #. defaultMessage is:
@@ -263,24 +260,14 @@ msgid "Asleep"
 msgstr ""
 
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Asleep]
+#. [SleepReportList.Awake]
 #. defaultMessage is:
-#. Asleep：
-msgid "Asleep："
-msgstr ""
-
+#. Awake
 #: build/messages/src/scripts/containers/SleepReportList.json
 #. [SleepReportList.Awake]
 #. defaultMessage is:
 #. Awake
 msgid "Awake"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Awake]
-#. defaultMessage is:
-#. Awake：
-msgid "Awake："
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -309,6 +296,13 @@ msgstr ""
 #. defaultMessage is:
 #. Bad
 msgid "Bad"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.SleepEfficiency2]
+#. defaultMessage is:
+#. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
+msgid "Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed."
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -564,10 +558,6 @@ msgstr ""
 #. [BloodPressureTable.Diastolic]
 #. defaultMessage is:
 #. Diastolic
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Diastolic]
-#. defaultMessage is:
-#. Diastolic
 msgid "Diastolic"
 msgstr ""
 
@@ -697,10 +687,6 @@ msgstr ""
 #. Exercise
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #. [ActivityTypeOverlay.Exercise]
-#. defaultMessage is:
-#. Exercise
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Exercise]
 #. defaultMessage is:
 #. Exercise
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
@@ -963,8 +949,26 @@ msgstr ""
 msgid "If you lost your gold band, for security reason, your old badge will made invalid. Additional $200 will be charged to make your new badge."
 msgstr ""
 
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.DeepDescription]
+#. defaultMessage is:
+#. In deep sleep stage, the human body is recovered (and growth) and the immune system is enhanced.
+msgid "In deep sleep stage, the human body is recovered (and growth) and the immune system is enhanced."
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.SleepEfficiency3]
+#. defaultMessage is:
+#. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
+msgid "In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep."
+msgstr ""
+
 #: build/messages/src/scripts/components/common/EfficiencyIndicator.json
 #. [EfficiencyIndicator.Incomplete]
+#. defaultMessage is:
+#. Incomplete
+#: build/messages/src/scripts/components/dashboard/ExercisePanel.json
+#. [ExercisePanel.Incomplete]
 #. defaultMessage is:
 #. Incomplete
 #: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
@@ -990,6 +994,13 @@ msgstr ""
 #. defaultMessage is:
 #. Invalid combination. Please try again
 msgid "Invalid combination. Please try again"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.WakeDescription]
+#. defaultMessage is:
+#. It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime.
+msgid "It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -1191,6 +1202,13 @@ msgstr ""
 msgid "Month"
 msgstr ""
 
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.LightDescription]
+#. defaultMessage is:
+#. Most of sleep period lies in the light sleep stage. The mind and body are recovered in this stage.
+msgid "Most of sleep period lies in the light sleep stage. The mind and body are recovered in this stage."
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 #. [LangingPage.StepsTitle]
 #. defaultMessage is:
@@ -1259,20 +1277,6 @@ msgstr ""
 #. defaultMessage is:
 #. No (Black band)
 msgid "No (Black band)"
-msgstr ""
-
-#: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note
-msgid "Note"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Note]
-#. defaultMessage is:
-#. Note：
-msgid "Note："
 msgstr ""
 
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
@@ -1856,10 +1860,6 @@ msgstr ""
 msgid "Sleep"
 msgstr ""
 
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.SleepEfficiency]
-#. defaultMessage is:
-#. Sleep Efficiency
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #. [SleepReportDetails.SleepEfficiency]
 #. defaultMessage is:
@@ -1927,27 +1927,6 @@ msgstr ""
 #. defaultMessage is:
 #. Sleep efficiency trend.
 msgid "Sleep efficiency trend."
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-#. [MoreInfoOverlay.SleepEfficiency1]
-#. defaultMessage is:
-#. SleepEfficiency Description 1
-msgid "SleepEfficiency Description 1"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-#. [MoreInfoOverlay.SleepEfficiency2]
-#. defaultMessage is:
-#. SleepEfficiency Description 2
-msgid "SleepEfficiency Description 2"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-#. [MoreInfoOverlay.SleepEfficiency3]
-#. defaultMessage is:
-#. SleepEfficiency Description 3
-msgid "SleepEfficiency Description 3"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -2040,10 +2019,6 @@ msgstr ""
 #. [BloodPressureTable.Systolic]
 #. defaultMessage is:
 #. Systolic
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Systolic]
-#. defaultMessage is:
-#. Systolic
 msgid "Systolic"
 msgstr ""
 
@@ -2075,6 +2050,13 @@ msgstr ""
 msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
 msgstr ""
 
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.REMDescription]
+#. defaultMessage is:
+#. The function of REM stage aids memory and integrates the message learned by daytime.
+msgid "The function of REM stage aids memory and integrates the message learned by daytime."
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
@@ -2094,6 +2076,13 @@ msgstr ""
 #. defaultMessage is:
 #. The serial number is malformatted.
 msgid "The serial number is malformatted."
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.SleepEfficiency1]
+#. defaultMessage is:
+#. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
+msgid "The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
@@ -2573,10 +2562,6 @@ msgstr ""
 #. [ExericsePanel.Min]
 #. defaultMessage is:
 #. min
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.Min]
-#. defaultMessage is:
-#. min
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #. [SleepReportDetails.Minute]
 #. defaultMessage is:
@@ -2594,10 +2579,6 @@ msgstr ""
 #. mmHg
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
 #. [BloodPressureTable.MmHg]
-#. defaultMessage is:
-#. mmHg
-#: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#. [Indication.mmHg]
 #. defaultMessage is:
 #. mmHg
 msgid "mmHg"

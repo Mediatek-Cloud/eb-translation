@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-08-18 17:38+0800\n"
+"POT-Creation-Date: 2017-08-28 16:49+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -341,6 +341,18 @@ msgstr "回至前一頁"
 msgid "Bad"
 msgstr "差"
 
+#. [MoreInfoOverlay.SleepEfficiency2]
+#. defaultMessage is:
+#. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid ""
+"Before going to bed, there are some factors that can improve the sleep "
+"stability: First, to prepare a comfortable sleep environment. Second, to "
+"prevent to take stimulating foods. Third, to be relaxed."
+msgstr ""
+"睡前若能準備舒適的睡眠環境，避免攝入太過刺激的食物，帶著輕鬆的心情入睡，將有"
+"效提升睡眠穩定度。"
+
 #. [ActivityTypeOverlay.Bike]
 #. defaultMessage is:
 #. Bike
@@ -365,15 +377,7 @@ msgstr "生日"
 #. [BloodPressurePanel.BloodPressure]
 #. defaultMessage is:
 #. Blood Pressure
-#. [FilterDropdown.BloodPressure]
-#. defaultMessage is:
-#. Blood Pressure
-#. [Metas.BloodPressure]
-#. defaultMessage is:
-#. Blood Pressure
 #: build/messages/src/scripts/components/dashboard/BloodPressurePanel.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Blood Pressure"
 msgstr "血壓"
 
@@ -424,13 +428,7 @@ msgstr "聯繫我們"
 #. [Indication.Calorie]
 #. defaultMessage is:
 #. Calorie
-#. [FilterDropdown.Calorie]
-#. defaultMessage is:
-#. Calorie
 #. [DailyActivity.Calorie]
-#. defaultMessage is:
-#. Calorie
-#. [Metas.Calorie]
 #. defaultMessage is:
 #. Calorie
 #: build/messages/src/scripts/components/dashboard/CaloriePanel.json
@@ -439,9 +437,7 @@ msgstr "聯繫我們"
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Calorie"
 msgstr "卡洛里"
 
@@ -517,13 +513,9 @@ msgstr "聯繫我們"
 #. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
-#. [DailyActivity.DailyActivity]
-#. defaultMessage is:
-#. Daily Activity
 #: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/components/personalReport/DailyActivityPanelTitle.json
-#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Daily Activity"
 msgstr "每日活動"
 
@@ -569,11 +561,7 @@ msgstr "此份資料不完整。下次開啟運動模式時，請確保手環訊
 #. [ProfileForm.Day]
 #. defaultMessage is:
 #. Day
-#. [PeriodSwitch.Day]
-#. defaultMessage is:
-#. Day
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
-#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Day"
 msgstr "日"
 
@@ -753,13 +741,7 @@ msgstr "例如：abc123@mediatek.com"
 #. [ActivityTypeOverlay.Exercise]
 #. defaultMessage is:
 #. Exercise
-#. [FilterDropdown.Exercise]
-#. defaultMessage is:
-#. Exercise
 #. [DailyActivity.Exercise]
-#. defaultMessage is:
-#. Exercise
-#. [Metas.Exercise]
 #. defaultMessage is:
 #. Exercise
 #. [ExercisePage.Exercise]
@@ -768,9 +750,7 @@ msgstr "例如：abc123@mediatek.com"
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/containers/ExercisePage.json
 msgid "Exercise"
 msgstr "運動"
@@ -935,9 +915,6 @@ msgstr "HRV： {formattedDescription}"
 #. [Indication.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
-#. [FilterDropdown.HeartRate]
-#. defaultMessage is:
-#. Heart Rate
 #. [DailyActivity.HeartRate]
 #. defaultMessage is:
 #. Heart Rate
@@ -947,7 +924,6 @@ msgstr "HRV： {formattedDescription}"
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/HoverInfo.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Heart Rate"
 msgstr "心率"
@@ -979,13 +955,6 @@ msgstr "心率 > (220-年齡)x90%"
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
 msgid "Heart Rate, Steps, Calories"
 msgstr "心率　計步　卡洛里"
-
-#. [Metas.HeartRateResting]
-#. defaultMessage is:
-#. Heart Rate/Resting
-#: build/messages/src/scripts/components/personalReport/Metas.json
-msgid "Heart Rate/Resting"
-msgstr ""
 
 #. [ProfileForm.HeightLabel]
 #. defaultMessage is:
@@ -1044,6 +1013,32 @@ msgstr ""
 "若同仁遺失金手環，原識別證將一起作廢以取消權限，並收取 200 元工本費製作新識別"
 "證。"
 
+#. [SleepStageMessages.DeepDescription]
+#. defaultMessage is:
+#. In deep sleep stage, the human body is recovered (and growth) and the immune system is enhanced.
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid ""
+"In deep sleep stage, the human body is recovered (and growth) and the immune "
+"system is enhanced."
+msgstr ""
+"為身體休息、修復的主要睡眠期間，而此期間也會刺激生長發育並促強免疫系統。"
+
+#. [MoreInfoOverlay.SleepEfficiency3]
+#. defaultMessage is:
+#. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid ""
+"In scientific view, the sleep stability is an active index of the "
+"parasympathetic nervous system. In the autonomic nervous system, when the "
+"parasympathetic nervous system gets more active than sympathetic nervous "
+"systems, the heart rate, blood pressure, and respiratory decrease, leading "
+"to a relaxed condition for rest or sleep."
+msgstr ""
+"學理上，自律神經系統主要是由交感神經與副交感神經共同組成，大部分的器官受到兩"
+"者的共同支配與調控。睡眠穩定度即為副交感神經活性指標，表示當次睡眠副交感神經"
+"的旺盛程度。當副交感神經旺盛時，人會顯得放鬆、心跳變慢、呼吸緩和、血壓降低、"
+"能夠平靜得休息或入睡。"
+
 #. [EfficiencyIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
@@ -1076,6 +1071,23 @@ msgstr "錯誤的電子郵件，請再試一次。"
 #: build/messages/src/scripts/containers/SignInPage.json
 msgid "Invalid combination. Please try again"
 msgstr "帳號或密碼錯誤，請再試一次。"
+
+#. [SleepStageMessages.WakeDescription]
+#. defaultMessage is:
+#. It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime.
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid ""
+"It's normal to have awake stages during the whole sleep period. Since the "
+"stages are mostly short, you won't recognize them at most time. Typically, "
+"the awake occurrence is below 30 times; however, the occurrence increases "
+"when aged. When the awake occurrence is too high, you may feel tired since "
+"the body cannot be fully recovered. This may further impacts you in the "
+"daytime."
+msgstr ""
+"人的睡眠會隨著不同時間而進入不同睡眠週期狀態，一個晚上的睡眠會有30次以內由睡"
+"轉醒屬於正常現象，但由於醒著的時間短暫，您通常不會記得。而此現象也會隨著年齡"
+"增加而次數變多。如果每晚醒來次數過多，您可能會無法得到充份休息而感到疲累，甚"
+"至影響白天精神狀況。"
 
 #. [landingPage.QuestionnaireSection.submitButton]
 #. defaultMessage is:
@@ -1272,13 +1284,18 @@ msgstr "最小值"
 #. [ProfileForm.Month]
 #. defaultMessage is:
 #. Month
-#. [PeriodSwitch.Month]
-#. defaultMessage is:
-#. Month
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json
-#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
 msgid "Month"
 msgstr "月"
+
+#. [SleepStageMessages.LightDescription]
+#. defaultMessage is:
+#. Most of sleep period lies in the light sleep stage. The mind and body are recovered in this stage.
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid ""
+"Most of sleep period lies in the light sleep stage. The mind and body are "
+"recovered in this stage."
+msgstr "大部分睡眠所佔的期間。心理及身體皆在此期間進行修復。"
 
 #. [LangingPage.StepsTitle]
 #. defaultMessage is:
@@ -1818,20 +1835,6 @@ msgstr "儲存"
 msgid "Save and Continue"
 msgstr "儲存並繼續"
 
-#. [PeriodSwitch.Season]
-#. defaultMessage is:
-#. Season
-#: build/messages/src/scripts/components/personalReport/PeriodSwitch.json
-msgid "Season"
-msgstr "季"
-
-#. [FilterDropdown.SelectAll]
-#. defaultMessage is:
-#. Select All
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
-msgid "Select All"
-msgstr "全選"
-
 #. [ForgotPasswordPage.submitButton]
 #. defaultMessage is:
 #. Send the Reset Link
@@ -1889,13 +1892,6 @@ msgstr "請設定您的密碼與手環序號"
 msgid ""
 "Share exercise achievements with your network and reach the goals together ."
 msgstr "隨時與朋友連線分享健身成果，共同努力完成目標"
-
-#. [FilterDropdown.ShowHide]
-#. defaultMessage is:
-#. Show / Hide
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
-msgid "Show / Hide"
-msgstr "顯示 / 隱藏"
 
 #. [BloodPressureTable.ShowMore]
 #. defaultMessage is:
@@ -1970,10 +1966,7 @@ msgstr "登入您的 HR 帳號"
 msgid "Sleep"
 msgstr "睡眠"
 
-#. [FilterDropdown.SleepEfficiency]
-#. defaultMessage is:
-#. Sleep Efficiency
-#. [Metas.SleepEfficiency]
+#. [SleepReportDetails.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
 #. [SleepReportDetails.SleepEfficiency]
@@ -1982,8 +1975,7 @@ msgstr "睡眠"
 #. [SleepReportList.SleepEfficiency]
 #. defaultMessage is:
 #. Sleep Efficiency
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
 msgid "Sleep Efficiency"
@@ -2085,19 +2077,11 @@ msgstr "保持登入狀態"
 #. [StepPanel.Step]
 #. defaultMessage is:
 #. Step
-#. [FilterDropdown.Step]
-#. defaultMessage is:
-#. Step
 #. [DailyActivity.Step]
 #. defaultMessage is:
 #. Step
-#. [Metas.Step]
-#. defaultMessage is:
-#. Step
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "Step"
 msgstr "步數"
 
@@ -2175,6 +2159,15 @@ msgid ""
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
 
+#. [SleepStageMessages.REMDescription]
+#. defaultMessage is:
+#. The function of REM stage aids memory and integrates the message learned by daytime.
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid ""
+"The function of REM stage aids memory and integrates the message learned by "
+"daytime."
+msgstr "強化記憶並整合日間學習訊息的睡眠期間。"
+
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
 #. The gold band is your employee badge, you can use it to access the taipei office area; and be identified as an MediaTek employee. However, it has the following limitations:
@@ -2202,6 +2195,17 @@ msgstr ""
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
 msgid "The serial number is malformatted."
 msgstr "手環序號格式錯誤。"
+
+#. [MoreInfoOverlay.SleepEfficiency1]
+#. defaultMessage is:
+#. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid ""
+"The sleep stability describes the recovery capability of human body. The "
+"higher stability implies the better recovery, and vice versa."
+msgstr ""
+"睡眠穩定度闡述睡眠過程中，身體休息的安穩程度以及恢復力。穩定度高表示睡得安"
+"穩，體力恢復的程度較好，若是穩定度太低則表示睡得不太安穩，恢復的程度較差。"
 
 #. [ResetSerialNumberPage.tokenInvalid]
 #. defaultMessage is:
@@ -2260,13 +2264,9 @@ msgstr "了解同仁對健康穿戴式識別證的反應與感受"
 #. [SleepStagePanel.Today]
 #. defaultMessage is:
 #. Today
-#. [DailyActivity.Today]
-#. defaultMessage is:
-#. Today
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Today"
 msgstr "今天"
 
@@ -2328,13 +2328,6 @@ msgstr "兩次輸入的密碼不一致"
 #: build/messages/src/scripts/containers/ResetPasswordPage.json
 msgid "Type again"
 msgstr "請再輸入一次"
-
-#. [UnitDropdown.Unit]
-#. defaultMessage is:
-#. Unit:
-#: build/messages/src/scripts/components/personalReport/UnitDropdown.json
-msgid "Unit:"
-msgstr "單位:"
 
 #. [UnsubscribePanel.Title]
 #. defaultMessage is:
@@ -2446,16 +2439,12 @@ msgstr "醒著"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
-#. [FilterDropdown.Walk]
-#. defaultMessage is:
-#. Walk
 #. [DailyActivity.Walk]
 #. defaultMessage is:
 #. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/MetaPanel.json
 msgid "Walk"
 msgstr "走路"
@@ -2521,7 +2510,11 @@ msgstr "歡迎回來！請登入您的帳戶"
 #. [MoreInfoOverlay.WhatDoesTheDataMean]
 #. defaultMessage is:
 #. What does the data mean ?
+#. [MoreInfoOverlay.WhatDoesTheDataMean]
+#. defaultMessage is:
+#. What does the data mean ?
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 msgid "What does the data mean ?"
 msgstr "這些資料代表什麼意思呢？"
 
@@ -2638,13 +2631,6 @@ msgstr "在"
 msgid "avg bpm"
 msgstr "avg bpm"
 
-#. [Metas.avgbpm]
-#. defaultMessage is:
-#. avg. bpm
-#: build/messages/src/scripts/components/personalReport/Metas.json
-msgid "avg. bpm"
-msgstr "avg bpm"
-
 #. [HeartRateChart.Bpm]
 #. defaultMessage is:
 #. bpm
@@ -2694,14 +2680,10 @@ msgstr "小時"
 #. [Indication.kcal]
 #. defaultMessage is:
 #. kcal
-#. [Metas.Kcal]
-#. defaultMessage is:
-#. kcal
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "kcal"
 msgstr "kcal"
 
@@ -2718,15 +2700,11 @@ msgstr "已燃燒熱量"
 #. [ExericsePanel.Min]
 #. defaultMessage is:
 #. min
-#. [Metas.min]
-#. defaultMessage is:
-#. min
 #. [SleepReportDetails.Minute]
 #. defaultMessage is:
 #. min
 #: build/messages/src/scripts/components/common/FormattedDuration.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
 msgstr "min"
@@ -2740,13 +2718,9 @@ msgstr "min"
 #. [BloodPressureTable.MmHg]
 #. defaultMessage is:
 #. mmHg
-#. [Metas.mmHg]
-#. defaultMessage is:
-#. mmHg
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartMeta.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureChartTooltipContent.json
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "mmHg"
 msgstr "mmHg"
 
@@ -2780,13 +2754,9 @@ msgstr "星星"
 #. [Indication.step]
 #. defaultMessage is:
 #. step
-#. [Metas.step]
-#. defaultMessage is:
-#. step
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/Metas.json
 msgid "step"
 msgstr "step"
 
@@ -2796,6 +2766,21 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid "Season"
+#~ msgstr "季"
+
+#~ msgid "Select All"
+#~ msgstr "全選"
+
+#~ msgid "Show / Hide"
+#~ msgstr "顯示 / 隱藏"
+
+#~ msgid "Unit:"
+#~ msgstr "單位:"
+
+#~ msgid "avg. bpm"
+#~ msgstr "avg bpm"
 
 #~ msgid "(Coming soon)"
 #~ msgstr " （即將推出）"

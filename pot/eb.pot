@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-09-01T07:38:17.042Z\n"
+"POT-Creation-Date: 2017-09-05T01:26:44.912Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -472,21 +472,6 @@ msgstr ""
 #. defaultMessage is:
 #. Contact Us
 msgid "Contact Us"
-msgstr ""
-
-#: build/messages/src/scripts/components/common/Header.json
-#. [Header.Report]
-#. defaultMessage is:
-#. Daily Activity
-#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
-#. [Header.Report]
-#. defaultMessage is:
-#. Daily Activity
-#: build/messages/src/scripts/containers/PersonalReport.json
-#. [DailyActivity.DailyActivity]
-#. defaultMessage is:
-#. Daily Activity
-msgid "Daily Activity"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
@@ -1408,6 +1393,21 @@ msgstr ""
 #. defaultMessage is:
 #. Password must be at least 8 characters and contain least one number and one letter
 msgid "Password must be at least 8 characters and contain least one number and one letter"
+msgstr ""
+
+#: build/messages/src/scripts/components/common/Header.json
+#. [Header.Report]
+#. defaultMessage is:
+#. Personal Report
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#. [Header.Report]
+#. defaultMessage is:
+#. Personal Report
+#: build/messages/src/scripts/containers/PersonalReport.json
+#. [DailyActivity.Report]
+#. defaultMessage is:
+#. Personal Report
+msgid "Personal Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/ProductOverview.json

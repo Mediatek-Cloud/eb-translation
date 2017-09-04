@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-01 15:52+0800\n"
-"PO-Revision-Date: 2017-09-01 15:52+0800\n"
+"POT-Creation-Date: 2017-09-04 17:57+0800\n"
+"PO-Revision-Date: 2017-09-04 17:58+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -541,13 +541,9 @@ msgstr "Contact Us"
 #. [Header.Report]
 #. defaultMessage is:
 #. Daily Activity
-#. [Header.Report]
-#. defaultMessage is:
-#. Daily Activity
 #. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
-#: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Daily Activity"
@@ -1533,6 +1529,13 @@ msgid ""
 msgstr ""
 "Password must be at least 8 characters and contain least one number and one "
 "letter"
+
+#. [Header.Report]
+#. defaultMessage is:
+#. Personal Report
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Personal Report"
+msgstr "Personal Report"
 
 #. [landingPage.ProductOverview.title]
 #. defaultMessage is:

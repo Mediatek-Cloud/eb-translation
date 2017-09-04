@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-01 17:29+0800\n"
+"POT-Creation-Date: 2017-09-04 18:00+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -526,13 +526,9 @@ msgstr "聯繫我們"
 #. [Header.Report]
 #. defaultMessage is:
 #. Daily Activity
-#. [Header.Report]
-#. defaultMessage is:
-#. Daily Activity
 #. [DailyActivity.DailyActivity]
 #. defaultMessage is:
 #. Daily Activity
-#: build/messages/src/scripts/components/common/Header.json
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 #: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Daily Activity"
@@ -1501,6 +1497,13 @@ msgid ""
 "Password must be at least 8 characters and contain least one number and one "
 "letter"
 msgstr "密碼需為 8 個字元包含數字和字母"
+
+#. [Header.Report]
+#. defaultMessage is:
+#. Personal Report
+#: build/messages/src/scripts/components/common/Header.json
+msgid "Personal Report"
+msgstr "個人報告"
 
 #. [landingPage.ProductOverview.title]
 #. defaultMessage is:

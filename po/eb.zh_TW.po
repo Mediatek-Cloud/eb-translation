@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-04 18:00+0800\n"
+"POT-Creation-Date: 2017-09-05 09:31+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -17,7 +17,7 @@ msgstr ""
 #. %
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #. [MoreInfoOverlay.EfficiencyFormula]
 #. defaultMessage is:
@@ -522,17 +522,6 @@ msgstr "請再輸入一次序號"
 #: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
 msgid "Contact Us"
 msgstr "聯繫我們"
-
-#. [Header.Report]
-#. defaultMessage is:
-#. Daily Activity
-#. [DailyActivity.DailyActivity]
-#. defaultMessage is:
-#. Daily Activity
-#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
-#: build/messages/src/scripts/containers/PersonalReport.json
-msgid "Daily Activity"
-msgstr "每日活動"
 
 #. [StepPanel.DailyAvg]
 #. defaultMessage is:
@@ -1501,7 +1490,15 @@ msgstr "密碼需為 8 個字元包含數字和字母"
 #. [Header.Report]
 #. defaultMessage is:
 #. Personal Report
+#. [Header.Report]
+#. defaultMessage is:
+#. Personal Report
+#. [DailyActivity.Report]
+#. defaultMessage is:
+#. Personal Report
 #: build/messages/src/scripts/components/common/Header.json
+#: build/messages/src/scripts/components/common/MobileHeaderNavigation.json
+#: build/messages/src/scripts/containers/PersonalReport.json
 msgid "Personal Report"
 msgstr "個人報告"
 
@@ -2898,6 +2895,9 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid "Daily Activity"
+#~ msgstr "每日活動"
 
 #~ msgid "(Coming soon)"
 #~ msgstr " （即將推出）"

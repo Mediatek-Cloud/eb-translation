@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-05 09:31+0800\n"
+"POT-Creation-Date: 2017-09-08 10:13+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -222,6 +222,9 @@ msgstr "活動"
 msgid "Additional"
 msgstr "其他"
 
+#. [EfficiencyDonutChart.Aerobics]
+#. defaultMessage is:
+#. Aerobics
 #. [ExerciseMetaDetails.Aerobics]
 #. defaultMessage is:
 #. Aerobics
@@ -231,6 +234,7 @@ msgstr "其他"
 #. [ExerciseMetaDetails.Aerobics]
 #. defaultMessage is:
 #. Aerobics
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
@@ -280,12 +284,16 @@ msgstr ""
 msgid "Already have an account?"
 msgstr "已經有帳號了嗎？"
 
-#. [ExerciseMetaDetails.Anaerobics]
+#. [EfficiencyDonutChart.Anaerobics]
 #. defaultMessage is:
 #. Anaerobics
 #. [ExerciseMetaDetails.Anaerobics]
 #. defaultMessage is:
 #. Anaerobics
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Anaerobics"
@@ -341,14 +349,14 @@ msgstr "基礎代謝率 + 燃燒卡洛里"
 msgid "Back to the last page"
 msgstr "回至前一頁"
 
-#. [EfficiencyIndicator.Bad]
+#. [StabilityIndicator.Bad]
 #. defaultMessage is:
 #. Bad
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Bad"
 msgstr "差"
 
-#. [MoreInfoOverlay.SleepEfficiency2]
+#. [MoreInfoOverlay.sleepStability2]
 #. defaultMessage is:
 #. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -789,13 +797,6 @@ msgstr "運動或健身"
 msgid "Exercise."
 msgstr "運動時間統計"
 
-#. [EfficiencyIndicator.Fair]
-#. defaultMessage is:
-#. Fair
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
-msgid "Fair"
-msgstr "普通"
-
 #. [ExerciseMetaDetails.FatBurn]
 #. defaultMessage is:
 #. Fat Burn
@@ -889,11 +890,18 @@ msgstr "任何地點　任何時刻　掌握您的健康"
 msgid "Goal Achieved"
 msgstr "目標達成"
 
-#. [EfficiencyIndicator.Good]
+#. [StabilityIndicator.Good]
 #. defaultMessage is:
 #. Good
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Good"
+msgstr "不錯"
+
+#. [StabilityIndicator.Great]
+#. defaultMessage is:
+#. Great
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
+msgid "Great"
 msgstr "好"
 
 #. [personalReport.HRV.HF]
@@ -1050,7 +1058,7 @@ msgid ""
 msgstr ""
 "為身體休息、修復的主要睡眠期間，而此期間也會刺激生長發育並促強免疫系統。"
 
-#. [MoreInfoOverlay.SleepEfficiency3]
+#. [MoreInfoOverlay.sleepStability3]
 #. defaultMessage is:
 #. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -1066,7 +1074,7 @@ msgstr ""
 "的旺盛程度。當副交感神經旺盛時，人會顯得放鬆、心跳變慢、呼吸緩和、血壓降低、"
 "能夠平靜得休息或入睡。"
 
-#. [EfficiencyIndicator.Incomplete]
+#. [StabilityIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
 #. [ExercisePanel.Incomplete]
@@ -1075,7 +1083,7 @@ msgstr ""
 #. [ActivityTypeButton.Incomplete]
 #. defaultMessage is:
 #. Incomplete
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
 msgid "Incomplete"
@@ -1678,12 +1686,12 @@ msgid ""
 "registration."
 msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
 
-#. [EfficiencyIndicator.Poor]
+#. [StabilityIndicator.Poor]
 #. defaultMessage is:
 #. Poor
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Poor"
-msgstr "很差"
+msgstr "稍差"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -2033,32 +2041,32 @@ msgstr "登入您的 HR 帳號"
 msgid "Sleep"
 msgstr "睡眠"
 
-#. [Indication.SleepEfficiency]
+#. [Indication.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [FilterDropdown.SleepEfficiency]
+#. Sleep Stability
+#. [FilterDropdown.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [Metadatas.SleepEfficiency]
+#. Sleep Stability
+#. [Metadatas.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportDetails.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportDetails.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportDetails.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportDetails.SleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportList.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportList.SleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
+#. Sleep Stability
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Sleep Efficiency"
-msgstr "睡眠效率"
+msgid "Sleep Stability"
+msgstr "睡眠穩定度"
 
 #. [SleepStagePanel.SleepStaging]
 #. defaultMessage is:
@@ -2134,6 +2142,13 @@ msgstr "出錯了，請再試一次。"
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 msgid "Sorry! Page not found."
 msgstr "抱歉！找不到此頁面。"
+
+#. [StabilityCircle.Stability]
+#. defaultMessage is:
+#. Stability
+#: build/messages/src/scripts/components/common/StabilityCircle.json
+msgid "Stability"
+msgstr "穩定度"
 
 #. [ExerciseChart.Start]
 #. defaultMessage is:
@@ -2283,7 +2298,7 @@ msgstr ""
 msgid "The serial number is malformatted."
 msgstr "手環序號格式錯誤。"
 
-#. [MoreInfoOverlay.SleepEfficiency1]
+#. [MoreInfoOverlay.sleepStability1]
 #. defaultMessage is:
 #. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -2537,13 +2552,9 @@ msgstr "醒著"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
-#. [FilterDropdown.Walk]
-#. defaultMessage is:
-#. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 msgid "Walk"
 msgstr "走路"
 
@@ -2895,6 +2906,12 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid "Fair"
+#~ msgstr "普通"
+
+#~ msgid "Sleep Efficiency"
+#~ msgstr "睡眠效率"
 
 #~ msgid "Daily Activity"
 #~ msgstr "每日活動"

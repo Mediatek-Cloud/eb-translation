@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-05 09:29+0800\n"
-"PO-Revision-Date: 2017-09-05 09:37+0800\n"
+"POT-Creation-Date: 2017-09-08 09:57+0800\n"
+"PO-Revision-Date: 2017-09-08 10:11+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -230,6 +230,9 @@ msgstr "Activity"
 msgid "Additional"
 msgstr "Additional"
 
+#. [EfficiencyDonutChart.Aerobics]
+#. defaultMessage is:
+#. Aerobics
 #. [ExerciseMetaDetails.Aerobics]
 #. defaultMessage is:
 #. Aerobics
@@ -239,6 +242,7 @@ msgstr "Additional"
 #. [ExerciseMetaDetails.Aerobics]
 #. defaultMessage is:
 #. Aerobics
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
@@ -293,12 +297,16 @@ msgstr ""
 msgid "Already have an account?"
 msgstr "Already have an account?"
 
-#. [ExerciseMetaDetails.Anaerobics]
+#. [EfficiencyDonutChart.Anaerobics]
 #. defaultMessage is:
 #. Anaerobics
 #. [ExerciseMetaDetails.Anaerobics]
 #. defaultMessage is:
 #. Anaerobics
+#. [ExerciseMetaDetails.Anaerobics]
+#. defaultMessage is:
+#. Anaerobics
+#: build/messages/src/scripts/components/exercise/EfficiencyDonutChart.json
 #: build/messages/src/scripts/components/exercise/ExerciseMetaDetails.json
 #: build/messages/src/scripts/components/exercise/MoreInfoOverlay.json
 msgid "Anaerobics"
@@ -354,14 +362,14 @@ msgstr "BMR + Calorie Burn"
 msgid "Back to the last page"
 msgstr "Back to the last page"
 
-#. [EfficiencyIndicator.Bad]
+#. [StabilityIndicator.Bad]
 #. defaultMessage is:
 #. Bad
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Bad"
 msgstr "Bad"
 
-#. [MoreInfoOverlay.SleepEfficiency2]
+#. [MoreInfoOverlay.sleepStability2]
 #. defaultMessage is:
 #. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -810,13 +818,6 @@ msgstr "Exercise or Fitness"
 msgid "Exercise."
 msgstr "Exercise."
 
-#. [EfficiencyIndicator.Fair]
-#. defaultMessage is:
-#. Fair
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
-msgid "Fair"
-msgstr "Fair"
-
 #. [ExerciseMetaDetails.FatBurn]
 #. defaultMessage is:
 #. Fat Burn
@@ -911,12 +912,19 @@ msgstr "Get control of your health, anytime, everywhere."
 msgid "Goal Achieved"
 msgstr "Goal Achieved"
 
-#. [EfficiencyIndicator.Good]
+#. [StabilityIndicator.Good]
 #. defaultMessage is:
 #. Good
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Good"
 msgstr "Good"
+
+#. [StabilityIndicator.Great]
+#. defaultMessage is:
+#. Great
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
+msgid "Great"
+msgstr "Great"
 
 #. [personalReport.HRV.HF]
 #. defaultMessage is:
@@ -1073,7 +1081,7 @@ msgstr ""
 "In deep sleep stage, the human body is recovered (and growth) and the immune "
 "system is enhanced."
 
-#. [MoreInfoOverlay.SleepEfficiency3]
+#. [MoreInfoOverlay.sleepStability3]
 #. defaultMessage is:
 #. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -1090,7 +1098,7 @@ msgstr ""
 "systems, the heart rate, blood pressure, and respiratory decrease, leading "
 "to a relaxed condition for rest or sleep."
 
-#. [EfficiencyIndicator.Incomplete]
+#. [StabilityIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
 #. [ExercisePanel.Incomplete]
@@ -1099,7 +1107,7 @@ msgstr ""
 #. [ActivityTypeButton.Incomplete]
 #. defaultMessage is:
 #. Incomplete
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 #: build/messages/src/scripts/components/exercise/ActivityTypeButton.json
 msgid "Incomplete"
@@ -1719,10 +1727,10 @@ msgstr ""
 "Please set a password and the serial number of the band to complete the "
 "registration."
 
-#. [EfficiencyIndicator.Poor]
+#. [StabilityIndicator.Poor]
 #. defaultMessage is:
 #. Poor
-#: build/messages/src/scripts/components/common/EfficiencyIndicator.json
+#: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Poor"
 msgstr "Poor"
 
@@ -2075,32 +2083,32 @@ msgstr "Sign into your HR account"
 msgid "Sleep"
 msgstr "Sleep"
 
-#. [Indication.SleepEfficiency]
+#. [Indication.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [FilterDropdown.SleepEfficiency]
+#. Sleep Stability
+#. [FilterDropdown.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [Metadatas.SleepEfficiency]
+#. Sleep Stability
+#. [Metadatas.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportDetails.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportDetails.sleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportDetails.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportDetails.SleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
-#. [SleepReportList.SleepEfficiency]
+#. Sleep Stability
+#. [SleepReportList.SleepStability]
 #. defaultMessage is:
-#. Sleep Efficiency
+#. Sleep Stability
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 #: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Sleep Efficiency"
-msgstr "Sleep Efficiency"
+msgid "Sleep Stability"
+msgstr "Sleep Stability"
 
 #. [SleepStagePanel.SleepStaging]
 #. defaultMessage is:
@@ -2176,6 +2184,13 @@ msgstr "Something is broken, please try again later."
 #: build/messages/src/scripts/components/common/NotFoundPage.json
 msgid "Sorry! Page not found."
 msgstr "Sorry! Page not found."
+
+#. [StabilityCircle.Stability]
+#. defaultMessage is:
+#. Stability
+#: build/messages/src/scripts/components/common/StabilityCircle.json
+msgid "Stability"
+msgstr "Stability"
 
 #. [ExerciseChart.Start]
 #. defaultMessage is:
@@ -2327,7 +2342,7 @@ msgstr "The gold band is your employee badge. Do not let other people use it."
 msgid "The serial number is malformatted."
 msgstr "The serial number is malformatted."
 
-#. [MoreInfoOverlay.SleepEfficiency1]
+#. [MoreInfoOverlay.sleepStability1]
 #. defaultMessage is:
 #. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
@@ -2586,13 +2601,9 @@ msgstr "Wake"
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
-#. [FilterDropdown.Walk]
-#. defaultMessage is:
-#. Walk
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #: build/messages/src/scripts/components/dashboard/StepPanel.json
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
-#: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 msgid "Walk"
 msgstr "Walk"
 
@@ -2953,6 +2964,12 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid "Fair"
+#~ msgstr "Fair"
+
+#~ msgid "Sleep Efficiency"
+#~ msgstr "Sleep Efficiency"
 
 #~ msgid "Daily Activity"
 #~ msgstr "Daily Activity"

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-08 09:57+0800\n"
-"PO-Revision-Date: 2017-09-08 10:11+0800\n"
+"POT-Creation-Date: 2017-09-12 11:21+0800\n"
+"PO-Revision-Date: 2017-09-12 11:21+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -330,14 +330,18 @@ msgstr "Application successful !"
 msgid "Asleep"
 msgstr "Asleep"
 
-#. [SleepReportList.Awake]
+#. [SleepStagePanel.Awake]
 #. defaultMessage is:
 #. Awake
-#. [SleepReportList.Awake]
+#. [SleepChart.Awake]
 #. defaultMessage is:
 #. Awake
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepStageMessages.Awake]
+#. defaultMessage is:
+#. Awake
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Awake"
 msgstr "Awake"
 
@@ -2164,6 +2168,17 @@ msgstr "Sleep Well and Sleep Sound"
 msgid "Sleep efficiency trend."
 msgstr "Sleep efficiency trend."
 
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "SleepEnd"
+msgstr "Awake"
+
 #. [landingPage.QuestionnaireSection.option.social]
 #. defaultMessage is:
 #. Social Contest
@@ -2577,21 +2592,6 @@ msgstr "Users Eligible for The Drawing"
 msgid "Verification link has expired!"
 msgstr "Verification link has expired!"
 
-#. [SleepStagePanel.Wake]
-#. defaultMessage is:
-#. Wake
-#. [SleepChart.Wake]
-#. defaultMessage is:
-#. Wake
-#. [SleepStageMessages.Wake]
-#. defaultMessage is:
-#. Wake
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-msgid "Wake"
-msgstr "Wake"
-
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
@@ -2835,13 +2835,6 @@ msgstr "bpm"
 msgid "h"
 msgstr "h"
 
-#. [SleepReportDetails.Hour]
-#. defaultMessage is:
-#. hour
-#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
-msgid "hour"
-msgstr "hour"
-
 #. [CalorieChart.kcal]
 #. defaultMessage is:
 #. kcal
@@ -2964,6 +2957,12 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid "Wake"
+#~ msgstr "Wake"
+
+#~ msgid "hour"
+#~ msgstr "hour"
 
 #~ msgid "Fair"
 #~ msgstr "Fair"

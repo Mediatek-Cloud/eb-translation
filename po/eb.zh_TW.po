@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-08 10:13+0800\n"
+"POT-Creation-Date: 2017-09-12 11:22+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -317,16 +317,20 @@ msgstr "申請成功！"
 msgid "Asleep"
 msgstr "睡眠開始"
 
-#. [SleepReportList.Awake]
+#. [SleepStagePanel.Awake]
 #. defaultMessage is:
 #. Awake
-#. [SleepReportList.Awake]
+#. [SleepChart.Awake]
 #. defaultMessage is:
 #. Awake
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepStageMessages.Awake]
+#. defaultMessage is:
+#. Awake
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Awake"
-msgstr "睡眠結束"
+msgstr "醒著"
 
 #. [CalorieChart.BMR]
 #. defaultMessage is:
@@ -2122,6 +2126,17 @@ msgstr "追求更好的睡眠品質"
 msgid "Sleep efficiency trend."
 msgstr "睡眠效率趨勢"
 
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "SleepEnd"
+msgstr "睡眠結束"
+
 #. [landingPage.QuestionnaireSection.option.social]
 #. defaultMessage is:
 #. Social Contest
@@ -2528,21 +2543,6 @@ msgstr "可參加抽獎名單"
 msgid "Verification link has expired!"
 msgstr "認證連結已過期"
 
-#. [SleepStagePanel.Wake]
-#. defaultMessage is:
-#. Wake
-#. [SleepChart.Wake]
-#. defaultMessage is:
-#. Wake
-#. [SleepStageMessages.Wake]
-#. defaultMessage is:
-#. Wake
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-msgid "Wake"
-msgstr "醒著"
-
 #. [Indication.Walk]
 #. defaultMessage is:
 #. Walk
@@ -2777,13 +2777,6 @@ msgstr "bpm"
 msgid "h"
 msgstr "h"
 
-#. [SleepReportDetails.Hour]
-#. defaultMessage is:
-#. hour
-#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
-msgid "hour"
-msgstr "小時"
-
 #. [CalorieChart.kcal]
 #. defaultMessage is:
 #. kcal
@@ -2906,6 +2899,12 @@ msgstr "step"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid "Wake"
+#~ msgstr "醒著"
+
+#~ msgid "hour"
+#~ msgstr "小時"
 
 #~ msgid "Fair"
 #~ msgstr "普通"

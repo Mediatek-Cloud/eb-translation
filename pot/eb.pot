@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-09-08T01:42:08.299Z\n"
+"POT-Creation-Date: 2017-09-12T03:15:28.565Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -274,12 +274,16 @@ msgstr ""
 msgid "Asleep"
 msgstr ""
 
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Awake]
+#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
+#. [SleepStagePanel.Awake]
 #. defaultMessage is:
 #. Awake
-#: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.Awake]
+#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
+#. [SleepChart.Awake]
+#. defaultMessage is:
+#. Awake
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.Awake]
 #. defaultMessage is:
 #. Awake
 msgid "Awake"
@@ -2016,6 +2020,17 @@ msgstr ""
 msgid "Sleep efficiency trend."
 msgstr ""
 
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.SleepEnd]
+#. defaultMessage is:
+#. SleepEnd
+msgid "SleepEnd"
+msgstr ""
+
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
 #. [landingPage.QuestionnaireSection.option.social]
 #. defaultMessage is:
@@ -2397,21 +2412,6 @@ msgstr ""
 msgid "Verification link has expired!"
 msgstr ""
 
-#: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
-#. [SleepStagePanel.Wake]
-#. defaultMessage is:
-#. Wake
-#: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#. [SleepChart.Wake]
-#. defaultMessage is:
-#. Wake
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Wake]
-#. defaultMessage is:
-#. Wake
-msgid "Wake"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/StepChart.json
 #. [Indication.Walk]
 #. defaultMessage is:
@@ -2635,13 +2635,6 @@ msgstr ""
 #. defaultMessage is:
 #. h
 msgid "h"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
-#. [SleepReportDetails.Hour]
-#. defaultMessage is:
-#. hour
-msgid "hour"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json

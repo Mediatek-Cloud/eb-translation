@@ -572,7 +572,7 @@ msgstr "儀表板"
 msgid ""
 "Data is incomplete. Please confirm the band signal is normal before next "
 "time you turn on the exercise mode."
-msgstr "此份資料不完整。下次開啟運動模式時，請確保手環訊號正常。"
+msgstr "資料不完整，請確認手環配戴鬆緊度適中，使量測結果更加準確完整。"
 
 #. [ProfileForm.Day]
 #. defaultMessage is:

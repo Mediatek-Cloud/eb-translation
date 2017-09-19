@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-09-12T03:15:28.565Z\n"
+"POT-Creation-Date: 2017-09-19T07:31:26.127Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -282,11 +282,14 @@ msgstr ""
 #. [SleepChart.Awake]
 #. defaultMessage is:
 #. Awake
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Awake]
-#. defaultMessage is:
-#. Awake
 msgid "Awake"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.AwakeStage]
+#. defaultMessage is:
+#. Awake stage
+msgid "Awake stage"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/CalorieChart.json
@@ -315,13 +318,6 @@ msgstr ""
 #. defaultMessage is:
 #. Bad
 msgid "Bad"
-msgstr ""
-
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-#. [MoreInfoOverlay.sleepStability2]
-#. defaultMessage is:
-#. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
-msgid "Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed."
 msgstr ""
 
 #: build/messages/src/scripts/components/exercise/ExerciseTypeMessages.json
@@ -542,11 +538,14 @@ msgstr ""
 #. [GenderSelect.Deep]
 #. defaultMessage is:
 #. Deep
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Deep]
-#. defaultMessage is:
-#. Deep
 msgid "Deep"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.DeepSleepStage]
+#. defaultMessage is:
+#. Deep sleep stage
+msgid "Deep sleep stage"
 msgstr ""
 
 #: build/messages/src/scripts/containers/HRDeactivateAccountPage.json
@@ -995,13 +994,6 @@ msgstr ""
 msgid "In deep sleep stage, the human body is recovered (and growth) and the immune system is enhanced."
 msgstr ""
 
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-#. [MoreInfoOverlay.sleepStability3]
-#. defaultMessage is:
-#. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
-msgid "In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep."
-msgstr ""
-
 #: build/messages/src/scripts/components/common/StabilityIndicator.json
 #. [StabilityIndicator.Incomplete]
 #. defaultMessage is:
@@ -1038,8 +1030,8 @@ msgstr ""
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 #. [SleepStageMessages.WakeDescription]
 #. defaultMessage is:
-#. It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime.
-msgid "It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime."
+#. It's normal to have below 30 times awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. However, the occurrence increases when aged.
+msgid "It's normal to have below 30 times awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. However, the occurrence increases when aged."
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json
@@ -1153,11 +1145,14 @@ msgstr ""
 #. [GenderSelect.Light]
 #. defaultMessage is:
 #. Light
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Light]
-#. defaultMessage is:
-#. Light
 msgid "Light"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.LightSleepStage]
+#. defaultMessage is:
+#. Light sleep stage
+msgid "Light sleep stage"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
@@ -1660,11 +1655,21 @@ msgstr ""
 #. [GenderSelect.REM]
 #. defaultMessage is:
 #. REM
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.REM]
-#. defaultMessage is:
-#. REM
 msgid "REM"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.REMDescription]
+#. defaultMessage is:
+#. REM stage aids memory and integrates the message learned during daytime.
+msgid "REM stage aids memory and integrates the message learned during daytime."
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+#. [SleepStageMessages.REMStage]
+#. defaultMessage is:
+#. Rapid eye movement (REM) stage
+msgid "Rapid eye movement (REM) stage"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/BloodPressureTable.json
@@ -1725,7 +1730,7 @@ msgstr ""
 #. defaultMessage is:
 #. Restless
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Restless]
+#. [SleepStageMessages.RestlessStage]
 #. defaultMessage is:
 #. Restless
 msgid "Restless"
@@ -1933,7 +1938,7 @@ msgstr ""
 #. defaultMessage is:
 #. Sleep
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.Sleep]
+#. [SleepStageMessages.SleepStage]
 #. defaultMessage is:
 #. Sleep
 msgid "Sleep"
@@ -2167,13 +2172,6 @@ msgstr ""
 msgid "The data will {not} be revealed to anyone, including HR or managers, before getting your approval."
 msgstr ""
 
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-#. [SleepStageMessages.REMDescription]
-#. defaultMessage is:
-#. The function of REM stage aids memory and integrates the message learned by daytime.
-msgid "The function of REM stage aids memory and integrates the message learned by daytime."
-msgstr ""
-
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
@@ -2198,8 +2196,8 @@ msgstr ""
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #. [MoreInfoOverlay.sleepStability1]
 #. defaultMessage is:
-#. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
-msgid "The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa."
+#. The sleep stability is an active index of the parasympathetic nervous system. When it gets more active, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
+msgid "The sleep stability is an active index of the parasympathetic nervous system. When it gets more active, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json
@@ -2228,6 +2226,13 @@ msgstr ""
 #. defaultMessage is:
 #. This email address has already been registered.
 msgid "This email address has already been registered."
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.sleepStability2]
+#. defaultMessage is:
+#. Thus, higher stability implies better recovery and vice versa. There are some factors that can improve the sleep stability. For example, be relaxed, prevent taking stimulating foods and prepare a comfortable sleep environment.
+msgid "Thus, higher stability implies better recovery and vice versa. There are some factors that can improve the sleep stability. For example, be relaxed, prevent taking stimulating foods and prepare a comfortable sleep environment."
 msgstr ""
 
 #: build/messages/src/scripts/containers/SleepReportList.json

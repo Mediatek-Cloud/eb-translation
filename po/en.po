@@ -2237,7 +2237,7 @@ msgstr "Stay signed in"
 #: build/messages/src/scripts/components/personalReport/FilterDropdown.json
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 msgid "Step"
-msgstr "Step"
+msgstr "Steps"
 
 #. [StepLabel.Step]
 #. defaultMessage is:
@@ -2885,7 +2885,7 @@ msgstr "kcal burned"
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
-msgstr "min"
+msgstr "mins"
 
 #. [BloodPressureChartMeta.mmHg]
 #. defaultMessage is:
@@ -2948,7 +2948,7 @@ msgstr "stars"
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 msgid "step"
-msgstr "step"
+msgstr "steps"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight]
 #. defaultMessage is:

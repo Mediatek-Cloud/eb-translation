@@ -2828,7 +2828,7 @@ msgstr "已燃燒熱量"
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
 msgid "min"
-msgstr "min"
+msgstr "mins"
 
 #. [BloodPressureChartMeta.mmHg]
 #. defaultMessage is:
@@ -2891,7 +2891,7 @@ msgstr "星星"
 #: build/messages/src/scripts/components/personalReport/CombinedChart.json
 #: build/messages/src/scripts/components/personalReport/Metadatas.json
 msgid "step"
-msgstr "step"
+msgstr "steps"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP1Highlight]
 #. defaultMessage is:

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-12 11:22+0800\n"
+"POT-Creation-Date: 2017-09-19 15:32+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -323,13 +323,16 @@ msgstr "睡眠開始"
 #. [SleepChart.Awake]
 #. defaultMessage is:
 #. Awake
-#. [SleepStageMessages.Awake]
-#. defaultMessage is:
-#. Awake
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Awake"
+msgstr "醒著"
+
+#. [SleepStageMessages.AwakeStage]
+#. defaultMessage is:
+#. Awake stage
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Awake stage"
 msgstr "醒著"
 
 #. [CalorieChart.BMR]
@@ -359,18 +362,6 @@ msgstr "回至前一頁"
 #: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Bad"
 msgstr "差"
-
-#. [MoreInfoOverlay.sleepStability2]
-#. defaultMessage is:
-#. Before going to bed, there are some factors that can improve the sleep stability: First, to prepare a comfortable sleep environment. Second, to prevent to take stimulating foods. Third, to be relaxed.
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-msgid ""
-"Before going to bed, there are some factors that can improve the sleep "
-"stability: First, to prepare a comfortable sleep environment. Second, to "
-"prevent to take stimulating foods. Third, to be relaxed."
-msgstr ""
-"睡前若能準備舒適的睡眠環境，避免攝入太過刺激的食物，帶著輕鬆的心情入睡，將有"
-"效提升睡眠穩定度。"
 
 #. [ActivityTypeOverlay.Bike]
 #. defaultMessage is:
@@ -591,13 +582,16 @@ msgstr "日"
 #. [GenderSelect.Deep]
 #. defaultMessage is:
 #. Deep
-#. [SleepStageMessages.Deep]
-#. defaultMessage is:
-#. Deep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Deep"
+msgstr "深眠期"
+
+#. [SleepStageMessages.DeepSleepStage]
+#. defaultMessage is:
+#. Deep sleep stage
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Deep sleep stage"
 msgstr "深眠期"
 
 #. [HRActivateAccountsPage.deleteAccount]
@@ -1062,22 +1056,6 @@ msgid ""
 msgstr ""
 "為身體休息、修復的主要睡眠期間，而此期間也會刺激生長發育並促強免疫系統。"
 
-#. [MoreInfoOverlay.sleepStability3]
-#. defaultMessage is:
-#. In scientific view, the sleep stability is an active index of the parasympathetic nervous system. In the autonomic nervous system, when the parasympathetic nervous system gets more active than sympathetic nervous systems, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-msgid ""
-"In scientific view, the sleep stability is an active index of the "
-"parasympathetic nervous system. In the autonomic nervous system, when the "
-"parasympathetic nervous system gets more active than sympathetic nervous "
-"systems, the heart rate, blood pressure, and respiratory decrease, leading "
-"to a relaxed condition for rest or sleep."
-msgstr ""
-"學理上，自律神經系統主要是由交感神經與副交感神經共同組成，大部分的器官受到兩"
-"者的共同支配與調控。睡眠穩定度即為副交感神經活性指標，表示當次睡眠副交感神經"
-"的旺盛程度。當副交感神經旺盛時，人會顯得放鬆、心跳變慢、呼吸緩和、血壓降低、"
-"能夠平靜得休息或入睡。"
-
 #. [StabilityIndicator.Incomplete]
 #. defaultMessage is:
 #. Incomplete
@@ -1113,20 +1091,15 @@ msgstr "帳號或密碼錯誤，請再試一次。"
 
 #. [SleepStageMessages.WakeDescription]
 #. defaultMessage is:
-#. It's normal to have awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. Typically, the awake occurrence is below 30 times; however, the occurrence increases when aged. When the awake occurrence is too high, you may feel tired since the body cannot be fully recovered. This may further impacts you in the daytime.
+#. It's normal to have below 30 times awake stages during the whole sleep period. Since the stages are mostly short, you won't recognize them at most time. However, the occurrence increases when aged.
 #: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid ""
-"It's normal to have awake stages during the whole sleep period. Since the "
-"stages are mostly short, you won't recognize them at most time. Typically, "
-"the awake occurrence is below 30 times; however, the occurrence increases "
-"when aged. When the awake occurrence is too high, you may feel tired since "
-"the body cannot be fully recovered. This may further impacts you in the "
-"daytime."
+"It's normal to have below 30 times awake stages during the whole sleep "
+"period. Since the stages are mostly short, you won't recognize them at most "
+"time. However, the occurrence increases when aged."
 msgstr ""
-"人的睡眠會隨著不同時間而進入不同睡眠週期狀態，一個晚上的睡眠會有30次以內由睡"
-"轉醒屬於正常現象，但由於醒著的時間短暫，您通常不會記得。而此現象也會隨著年齡"
-"增加而次數變多。如果每晚醒來次數過多，您可能會無法得到充份休息而感到疲累，甚"
-"至影響白天精神狀況。"
+"隨著不同時間將有不同睡眠週期狀態，一個晚上中， 由睡轉醒 30 次內屬正常現象，因"
+"時間過於短暫所以通常您不會記得，此現象將隨年齡增加而次數變多。"
 
 #. [landingPage.QuestionnaireSection.submitButton]
 #. defaultMessage is:
@@ -1237,13 +1210,16 @@ msgstr "開始吧！"
 #. [GenderSelect.Light]
 #. defaultMessage is:
 #. Light
-#. [SleepStageMessages.Light]
-#. defaultMessage is:
-#. Light
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "Light"
+msgstr "淺眠期"
+
+#. [SleepStageMessages.LightSleepStage]
+#. defaultMessage is:
+#. Light sleep stage
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Light sleep stage"
 msgstr "淺眠期"
 
 #. [LangingPage.StepsContentL1]
@@ -1763,14 +1739,25 @@ msgstr "提供您的建議，幫助我們做得更好！"
 #. [GenderSelect.REM]
 #. defaultMessage is:
 #. REM
-#. [SleepStageMessages.REM]
-#. defaultMessage is:
-#. REM
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #: build/messages/src/scripts/components/sleepReport/charts/YAxis.json
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
 msgid "REM"
 msgstr "REM"
+
+#. [SleepStageMessages.REMDescription]
+#. defaultMessage is:
+#. REM stage aids memory and integrates the message learned during daytime.
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid ""
+"REM stage aids memory and integrates the message learned during daytime."
+msgstr "強化記憶並整合日間學習訊息的睡眠期間。"
+
+#. [SleepStageMessages.REMStage]
+#. defaultMessage is:
+#. Rapid eye movement (REM) stage
+#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
+msgid "Rapid eye movement (REM) stage"
+msgstr "快速動眼期 (REM)"
 
 #. [BloodPressureTable.RecentMeasurements]
 #. defaultMessage is:
@@ -1827,7 +1814,7 @@ msgstr "重設手環序號"
 #. [SleepChart.Restless]
 #. defaultMessage is:
 #. Restless
-#. [SleepStageMessages.Restless]
+#. [SleepStageMessages.RestlessStage]
 #. defaultMessage is:
 #. Restless
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -2036,7 +2023,7 @@ msgstr "登入您的 HR 帳號"
 #. [GenderSelect.Sleep]
 #. defaultMessage is:
 #. Sleep
-#. [SleepStageMessages.Sleep]
+#. [SleepStageMessages.SleepStage]
 #. defaultMessage is:
 #. Sleep
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -2276,15 +2263,6 @@ msgid ""
 msgstr ""
 "在取得您同意之前，您的資料{not}被洩露給任何人，包括 HR 同仁與您的主管。"
 
-#. [SleepStageMessages.REMDescription]
-#. defaultMessage is:
-#. The function of REM stage aids memory and integrates the message learned by daytime.
-#: build/messages/src/scripts/components/sleepReport/SleepStageProperties.json
-msgid ""
-"The function of REM stage aids memory and integrates the message learned by "
-"daytime."
-msgstr "強化記憶並整合日間學習訊息的睡眠期間。"
-
 #. [landingPage.ProjectIntroDialog.descriptionContextP2]
 #. defaultMessage is:
 #. The gold band is your employee badge, you can use it to access the taipei office area; and be identified as an MediaTek employee. However, it has the following limitations:
@@ -2315,14 +2293,15 @@ msgstr "手環序號格式錯誤。"
 
 #. [MoreInfoOverlay.sleepStability1]
 #. defaultMessage is:
-#. The sleep stability describes the recovery capability of human body. The higher stability implies the better recovery, and vice versa.
+#. The sleep stability is an active index of the parasympathetic nervous system. When it gets more active, the heart rate, blood pressure, and respiratory decrease, leading to a relaxed condition for rest or sleep.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 msgid ""
-"The sleep stability describes the recovery capability of human body. The "
-"higher stability implies the better recovery, and vice versa."
+"The sleep stability is an active index of the parasympathetic nervous "
+"system. When it gets more active, the heart rate, blood pressure, and "
+"respiratory decrease, leading to a relaxed condition for rest or sleep."
 msgstr ""
-"睡眠穩定度闡述睡眠過程中，身體休息的安穩程度以及恢復力。穩定度高表示睡得安"
-"穩，體力恢復的程度較好，若是穩定度太低則表示睡得不太安穩，恢復的程度較差。"
+"為自律神經系統中副交感神經的活性指標，表示當次睡眠副交感神經的旺盛程度，當副"
+"交感神經旺盛時，人會顯得放鬆、心跳變慢、呼吸緩和及血壓降低；"
 
 #. [ResetSerialNumberPage.tokenInvalid]
 #. defaultMessage is:
@@ -2357,6 +2336,18 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "This email address has already been registered."
 msgstr "此電子郵件已被申請。"
+
+#. [MoreInfoOverlay.sleepStability2]
+#. defaultMessage is:
+#. Thus, higher stability implies better recovery and vice versa. There are some factors that can improve the sleep stability. For example, be relaxed, prevent taking stimulating foods and prepare a comfortable sleep environment.
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid ""
+"Thus, higher stability implies better recovery and vice versa. There are "
+"some factors that can improve the sleep stability. For example, be relaxed, "
+"prevent taking stimulating foods and prepare a comfortable sleep environment."
+msgstr ""
+"因而，穩定度越高，表示睡得安穩，體力恢復的程度較好。保有輕鬆的心情、避免攝入"
+"太過刺激的食物及備有舒適的睡眠環境，將有效提升睡眠穩定度。"
 
 #. [SleepReportList.Title]
 #. defaultMessage is:
@@ -2899,6 +2890,31 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid ""
+#~ "For example, be relaxed, prevent taking stimulating foods and prepare a "
+#~ "comfortable sleep environment."
+#~ msgstr ""
+#~ "保有輕鬆的心情、避免攝入太過刺激的食物及備有舒適的睡眠環境，將有效提升睡眠"
+#~ "穩定度。"
+
+#~ msgid "REM stage"
+#~ msgstr "快速動眼期 (REM)"
+
+#~ msgid ""
+#~ "Before going to bed, there are some factors that can improve the sleep "
+#~ "stability: First, to prepare a comfortable sleep environment. Second, to "
+#~ "prevent to take stimulating foods. Third, to be relaxed."
+#~ msgstr ""
+#~ "睡前若能準備舒適的睡眠環境，避免攝入太過刺激的食物，帶著輕鬆的心情入睡，將"
+#~ "有效提升睡眠穩定度。"
+
+#~ msgid ""
+#~ "The sleep stability describes the recovery capability of human body. The "
+#~ "higher stability implies the better recovery, and vice versa."
+#~ msgstr ""
+#~ "睡眠穩定度闡述睡眠過程中，身體休息的安穩程度以及恢復力。穩定度高表示睡得安"
+#~ "穩，體力恢復的程度較好，若是穩定度太低則表示睡得不太安穩，恢復的程度較差。"
 
 #~ msgid "Wake"
 #~ msgstr "醒著"

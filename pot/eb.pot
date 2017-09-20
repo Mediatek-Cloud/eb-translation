@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-09-19T07:31:26.127Z\n"
+"POT-Creation-Date: 2017-09-20T01:28:59.081Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -512,11 +512,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: build/messages/src/scripts/components/exercise/ExercisePanel.json
-#. [ExercisePanel.IncompleteInformation]
+#: build/messages/src/scripts/components/common/DataIncompleteInformation.json
+#. [DataIncompleteInformation.DataIncompleteInformation]
 #. defaultMessage is:
-#. Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode.
-msgid "Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode."
+#. Data is incomplete. Please make sure your band is snug but comfortable.
+msgid "Data is incomplete. Please make sure your band is snug but comfortable."
 msgstr ""
 
 #: build/messages/src/scripts/components/accountSetting/BirthdaySelect.json

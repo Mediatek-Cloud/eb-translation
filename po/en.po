@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-19 15:34+0800\n"
-"PO-Revision-Date: 2017-09-19 15:44+0800\n"
+"POT-Creation-Date: 2017-09-20 09:33+0800\n"
+"PO-Revision-Date: 2017-09-20 09:33+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -570,13 +570,11 @@ msgstr "Daily avg."
 msgid "Dashboard"
 msgstr "Dashboard"
 
-#. [ExercisePanel.IncompleteInformation]
+#. [DataIncompleteInformation.DataIncompleteInformation]
 #. defaultMessage is:
-#. Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode.
-#: build/messages/src/scripts/components/exercise/ExercisePanel.json
-msgid ""
-"Data is incomplete. Please confirm the band signal is normal before next "
-"time you turn on the exercise mode."
+#. Data is incomplete. Please make sure your band is snug but comfortable.
+#: build/messages/src/scripts/components/common/DataIncompleteInformation.json
+msgid "Data is incomplete. Please make sure your band is snug but comfortable."
 msgstr ""
 "Data is incomplete. Please make sure your band is snug but comfortable."
 
@@ -1120,8 +1118,8 @@ msgid ""
 "time. However, the occurrence increases when aged."
 msgstr ""
 "It is normal to have below 30 times awake stages during the whole sleep "
-"period. Since the stages are mostly short, you will not recognize them at most "
-"time. However, the occurrence increases when aged."
+"period. Since the stages are mostly short, you will not recognize them at "
+"most time. However, the occurrence increases when aged."
 
 #. [landingPage.QuestionnaireSection.submitButton]
 #. defaultMessage is:
@@ -2945,6 +2943,12 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid ""
+#~ "Data is incomplete. Please confirm the band signal is normal before next "
+#~ "time you turn on the exercise mode."
+#~ msgstr ""
+#~ "Data is incomplete. Please make sure your band is snug but comfortable."
 
 #~ msgid ""
 #~ "For example, be relaxed, prevent taking stimulating foods and prepare a "

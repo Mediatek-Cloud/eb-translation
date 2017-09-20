@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-19 15:32+0800\n"
+"POT-Creation-Date: 2017-09-20 09:31+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -556,13 +556,11 @@ msgstr "每日平均"
 msgid "Dashboard"
 msgstr "儀表板"
 
-#. [ExercisePanel.IncompleteInformation]
+#. [DataIncompleteInformation.DataIncompleteInformation]
 #. defaultMessage is:
-#. Data is incomplete. Please confirm the band signal is normal before next time you turn on the exercise mode.
-#: build/messages/src/scripts/components/exercise/ExercisePanel.json
-msgid ""
-"Data is incomplete. Please confirm the band signal is normal before next "
-"time you turn on the exercise mode."
+#. Data is incomplete. Please make sure your band is snug but comfortable.
+#: build/messages/src/scripts/components/common/DataIncompleteInformation.json
+msgid "Data is incomplete. Please make sure your band is snug but comfortable."
 msgstr "資料不完整，請確認手環配戴鬆緊度適中，使量測結果更加準確完整。"
 
 #. [ProfileForm.Day]
@@ -2890,6 +2888,11 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid ""
+#~ "Data is incomplete. Please confirm the band signal is normal before next "
+#~ "time you turn on the exercise mode."
+#~ msgstr "資料不完整，請確認手環配戴鬆緊度適中，使量測結果更加準確完整。"
 
 #~ msgid ""
 #~ "For example, be relaxed, prevent taking stimulating foods and prepare a "

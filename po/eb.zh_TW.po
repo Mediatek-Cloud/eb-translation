@@ -1051,8 +1051,7 @@ msgstr ""
 msgid ""
 "In deep sleep stage, the human body is recovered (and growth) and the immune "
 "system is enhanced."
-msgstr ""
-"為身體休息、修復的主要睡眠期間，而此期間也會刺激生長發育並促強免疫系統。"
+msgstr "為身體休息、修復的重要期間，刺激生長發育並強健免疫系統。"
 
 #. [StabilityIndicator.Incomplete]
 #. defaultMessage is:
@@ -1096,7 +1095,7 @@ msgid ""
 "period. Since the stages are mostly short, you won't recognize them at most "
 "time. However, the occurrence increases when aged."
 msgstr ""
-"隨著不同時間將有不同睡眠週期狀態，一個晚上中， 由睡轉醒 30 次內屬正常現象，因"
+"隨著不同時間將有不同睡眠週期狀態，一個晚上中，由睡轉醒 30 次內屬正常現象，因"
 "時間過於短暫所以通常您不會記得，此現象將隨年齡增加而次數變多。"
 
 #. [landingPage.QuestionnaireSection.submitButton]
@@ -1312,7 +1311,7 @@ msgstr "月"
 msgid ""
 "Most of sleep period lies in the light sleep stage. The mind and body are "
 "recovered in this stage."
-msgstr "大部分睡眠所佔的期間。心理及身體皆在此期間進行修復。"
+msgstr "睡眠絕大部分的期間，心理及身體皆在此期間進行修復。"
 
 #. [LangingPage.StepsTitle]
 #. defaultMessage is:

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-09-20T01:28:59.081Z\n"
+"POT-Creation-Date: 2017-09-22T08:46:28.099Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -263,17 +263,6 @@ msgstr ""
 msgid "Application successful !"
 msgstr ""
 
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-#: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-msgid "Asleep"
-msgstr ""
-
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
 #. [SleepStagePanel.Awake]
 #. defaultMessage is:
@@ -498,7 +487,7 @@ msgstr ""
 #. defaultMessage is:
 #. Dashboard
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.Dashboard]
+#. [SleepReportInformation.Dashboard]
 #. defaultMessage is:
 #. Dashboard
 #: build/messages/src/scripts/containers/ExercisePage.json
@@ -1994,7 +1983,7 @@ msgid "Sleep Staging Report"
 msgstr ""
 
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.SleepStagingReportList]
+#. [SleepReportInformation.SleepStagingReportList]
 #. defaultMessage is:
 #. Sleep Staging Report List
 #: build/messages/src/scripts/containers/SleepReportList.json
@@ -2026,14 +2015,45 @@ msgid "Sleep efficiency trend."
 msgstr ""
 
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#. [SleepReportList.SleepEnd]
+#. [SleepReportInformation.Asleep]
 #. defaultMessage is:
-#. SleepEnd
+#. SleepReportInformation: Asleep
+msgid "SleepReportInformation: Asleep"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportInformation.Awake]
+#. defaultMessage is:
+#. SleepReportInformation: Awake
+msgid "SleepReportInformation: Awake"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportInformation.Ended]
+#. defaultMessage is:
+#. SleepReportInformation: Ended
+msgid "SleepReportInformation: Ended"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+#. [SleepReportInformation.Started]
+#. defaultMessage is:
+#. SleepReportInformation: Started
+msgid "SleepReportInformation: Started"
+msgstr ""
+
 #: build/messages/src/scripts/containers/SleepReportList.json
-#. [SleepReportList.SleepEnd]
+#. [SleepReportList.EndTime]
 #. defaultMessage is:
-#. SleepEnd
-msgid "SleepEnd"
+#. SleepReportList: End Time
+msgid "SleepReportList: End Time"
+msgstr ""
+
+#: build/messages/src/scripts/containers/SleepReportList.json
+#. [SleepReportList.StartTime]
+#. defaultMessage is:
+#. SleepReportList: Start Time
+msgid "SleepReportList: Start Time"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/QuestionnaireSection.json

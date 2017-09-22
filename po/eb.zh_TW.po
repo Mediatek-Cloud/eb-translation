@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-20 09:31+0800\n"
+"POT-Creation-Date: 2017-09-22 16:58+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -306,17 +306,6 @@ msgstr "無氧運動"
 msgid "Application successful !"
 msgstr "申請成功！"
 
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Asleep"
-msgstr "睡眠開始"
-
 #. [SleepStagePanel.Awake]
 #. defaultMessage is:
 #. Awake
@@ -539,7 +528,7 @@ msgstr "每日平均"
 #. [Header.Dashboard]
 #. defaultMessage is:
 #. Dashboard
-#. [SleepReportList.Dashboard]
+#. [SleepReportInformation.Dashboard]
 #. defaultMessage is:
 #. Dashboard
 #. [ExercisePage.Dashboard]
@@ -2078,7 +2067,7 @@ msgstr "睡眠分期"
 msgid "Sleep Staging Report"
 msgstr "睡眠分期報告"
 
-#. [SleepReportList.SleepStagingReportList]
+#. [SleepReportInformation.SleepStagingReportList]
 #. defaultMessage is:
 #. Sleep Staging Report List
 #. [SleepReportList.SleepStagingReportList]
@@ -2110,16 +2099,47 @@ msgstr "追求更好的睡眠品質"
 msgid "Sleep efficiency trend."
 msgstr "睡眠效率趨勢"
 
-#. [SleepReportList.SleepEnd]
+#. [SleepReportInformation.Asleep]
 #. defaultMessage is:
-#. SleepEnd
-#. [SleepReportList.SleepEnd]
-#. defaultMessage is:
-#. SleepEnd
+#. SleepReportInformation: Asleep
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Asleep"
+msgstr "睡著"
+
+#. [SleepReportInformation.Awake]
+#. defaultMessage is:
+#. SleepReportInformation: Awake
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Awake"
+msgstr "醒著"
+
+#. [SleepReportInformation.Ended]
+#. defaultMessage is:
+#. SleepReportInformation: Ended
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Ended"
+msgstr "記錄結束"
+
+#. [SleepReportInformation.Started]
+#. defaultMessage is:
+#. SleepReportInformation: Started
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Started"
+msgstr "記錄開始"
+
+#. [SleepReportList.EndTime]
+#. defaultMessage is:
+#. SleepReportList: End Time
 #: build/messages/src/scripts/containers/SleepReportList.json
-msgid "SleepEnd"
+msgid "SleepReportList: End Time"
 msgstr "睡眠結束"
+
+#. [SleepReportList.StartTime]
+#. defaultMessage is:
+#. SleepReportList: Start Time
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "SleepReportList: Start Time"
+msgstr "睡眠開始"
 
 #. [landingPage.QuestionnaireSection.option.social]
 #. defaultMessage is:
@@ -2888,6 +2908,12 @@ msgstr "steps"
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 
+#~ msgid "Asleep"
+#~ msgstr "睡眠開始"
+
+#~ msgid "SleepEnd"
+#~ msgstr "睡眠結束"
+
 #~ msgid ""
 #~ "Data is incomplete. Please confirm the band signal is normal before next "
 #~ "time you turn on the exercise mode."
@@ -3194,9 +3220,6 @@ msgstr "聯發金手環有識別證功能，黑手環則沒有。"
 
 #~ msgid "Sleep Report"
 #~ msgstr "睡眠報告"
-
-#~ msgid "Sleep Report List"
-#~ msgstr "睡眠報告清單"
 
 #~ msgid "Taipei"
 #~ msgstr "台北"

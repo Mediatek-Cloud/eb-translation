@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-20 09:33+0800\n"
-"PO-Revision-Date: 2017-09-20 09:33+0800\n"
+"POT-Creation-Date: 2017-09-22 16:56+0800\n"
+"PO-Revision-Date: 2017-09-22 16:57+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -319,17 +319,6 @@ msgstr "Anaerobics"
 msgid "Application successful !"
 msgstr "Application successful !"
 
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-#. [SleepReportList.Asleep]
-#. defaultMessage is:
-#. Asleep
-#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "Asleep"
-msgstr "Asleep"
-
 #. [SleepStagePanel.Awake]
 #. defaultMessage is:
 #. Awake
@@ -553,7 +542,7 @@ msgstr "Daily avg."
 #. [Header.Dashboard]
 #. defaultMessage is:
 #. Dashboard
-#. [SleepReportList.Dashboard]
+#. [SleepReportInformation.Dashboard]
 #. defaultMessage is:
 #. Dashboard
 #. [ExercisePage.Dashboard]
@@ -2118,7 +2107,7 @@ msgstr "Sleep Staging"
 msgid "Sleep Staging Report"
 msgstr "Sleep Staging Report"
 
-#. [SleepReportList.SleepStagingReportList]
+#. [SleepReportInformation.SleepStagingReportList]
 #. defaultMessage is:
 #. Sleep Staging Report List
 #. [SleepReportList.SleepStagingReportList]
@@ -2150,16 +2139,47 @@ msgstr "Sleep Well and Sleep Sound"
 msgid "Sleep efficiency trend."
 msgstr "Sleep efficiency trend."
 
-#. [SleepReportList.SleepEnd]
+#. [SleepReportInformation.Asleep]
 #. defaultMessage is:
-#. SleepEnd
-#. [SleepReportList.SleepEnd]
-#. defaultMessage is:
-#. SleepEnd
+#. SleepReportInformation: Asleep
 #: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
-#: build/messages/src/scripts/containers/SleepReportList.json
-msgid "SleepEnd"
+msgid "SleepReportInformation: Asleep"
+msgstr "Asleep"
+
+#. [SleepReportInformation.Awake]
+#. defaultMessage is:
+#. SleepReportInformation: Awake
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Awake"
 msgstr "Awake"
+
+#. [SleepReportInformation.Ended]
+#. defaultMessage is:
+#. SleepReportInformation: Ended
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Ended"
+msgstr "Ended"
+
+#. [SleepReportInformation.Started]
+#. defaultMessage is:
+#. SleepReportInformation: Started
+#: build/messages/src/scripts/components/sleepReport/SleepReportInformation.json
+msgid "SleepReportInformation: Started"
+msgstr "Started"
+
+#. [SleepReportList.EndTime]
+#. defaultMessage is:
+#. SleepReportList: End Time
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "SleepReportList: End Time"
+msgstr "End Time"
+
+#. [SleepReportList.StartTime]
+#. defaultMessage is:
+#. SleepReportList: Start Time
+#: build/messages/src/scripts/containers/SleepReportList.json
+msgid "SleepReportList: Start Time"
+msgstr "Start Time"
 
 #. [landingPage.QuestionnaireSection.option.social]
 #. defaultMessage is:
@@ -2943,6 +2963,12 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid "Asleep"
+#~ msgstr "Asleep"
+
+#~ msgid "SleepEnd"
+#~ msgstr "Awake"
 
 #~ msgid ""
 #~ "Data is incomplete. Please confirm the band signal is normal before next "

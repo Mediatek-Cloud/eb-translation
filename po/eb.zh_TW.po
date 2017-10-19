@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-22 16:58+0800\n"
+"POT-Creation-Date: 2017-10-19 11:27+0800\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -42,15 +42,6 @@ msgstr "（第一波登記已額滿，您仍可以登記為候補名單）"
 msgid "* Taipei Office only"
 msgstr "* 目前僅限台北辦公區域"
 
-#. [UnsubscribeEmailPage.ResubscriobeReminder]
-#. defaultMessage is:
-#. *If you change your mind, you can go to the {accountSetting} to change the subscription.
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid ""
-"*If you change your mind, you can go to the {accountSetting} to change the "
-"subscription."
-msgstr "若您日後改變心意，您可以在{accountSetting}中修改訂閱狀態。"
-
 #. [FirstLoginManual.iOSAppPopoverStep1]
 #. defaultMessage is:
 #. 1. Scan the QR code above and click the hyperlink: "Click here to download MediaTek Health iOS App."
@@ -62,13 +53,6 @@ msgstr ""
 "1. 掃描 QR Code 並點選網頁中連結 “Click here to download MediaTek Health iOS "
 "App”。"
 
-#. [UnsubscribePanel.Question1]
-#. defaultMessage is:
-#. 1. Why do you not want to receive weekly summary? (Multiple choice)
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "1. Why do you not want to receive weekly summary? (Multiple choice)"
-msgstr "1. 為什麼不想再收到每週總覽信件？ (多選)"
-
 #. [FirstLoginManual.iOSAppPopoverStep2]
 #. defaultMessage is:
 #. 2. Please select "Install" when the installation notification is shown.
@@ -77,15 +61,6 @@ msgid ""
 "2. Please select \"Install\" when the installation notification is shown."
 msgstr ""
 "2. 手機畫面將跳出安裝 MediaTek Health 通知視窗，按下「安裝」開始安裝程序。"
-
-#. [UnsubscribePanel.Question2]
-#. defaultMessage is:
-#. 2. Which information is more important that should be included in the weekly summary?
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid ""
-"2. Which information is more important that should be included in the weekly "
-"summary?"
-msgstr "2. 您認為哪項資訊更適合放在每週總覽中？(單選)"
 
 #. [landingPage.ProjectIntroDialog.durationContext]
 #. defaultMessage is:
@@ -107,13 +82,6 @@ msgstr ""
 "3. App 安裝完成後，請先在手機上建立企業簽章信任。點一下「設定」>「一般」>「描"
 "述檔」或「描述檔與裝置管理」> 「MediaTek Inc.」，並點選「信任 Mediatek "
 "Inc.」。(提醒：此步驟需要網路)"
-
-#. [UnsubscribePanel.Question3]
-#. defaultMessage is:
-#. 3. Which information do you not care about most in the weekly summary?
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "3. Which information do you not care about most in the weekly summary?"
-msgstr "3. 目前每週總覽的資訊中，哪項您最不在乎？ (單選)"
 
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:
@@ -395,13 +363,6 @@ msgstr "血壓"
 msgid "Blood Pressure Measurement"
 msgstr "血壓量測"
 
-#. [UnsubscribePanel.Answer2-1]
-#. defaultMessage is:
-#. Blood pressure trend.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Blood pressure trend."
-msgstr "血壓趨勢"
-
 #. [landingPage.EmailSection.policyLine2]
 #. defaultMessage is:
 #. By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}.
@@ -458,20 +419,6 @@ msgstr "卡洛里"
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "Calorie Burned"
 msgstr "卡洛里燃燒"
-
-#. [UnsubscribePanel.Answer3-3]
-#. defaultMessage is:
-#. Calorie.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Calorie."
-msgstr "卡洛里統計"
-
-#. [UnsubscribeDialog.Cancel]
-#. defaultMessage is:
-#. Cancel
-#: build/messages/src/scripts/components/accountSetting/UnsubscribeDialog.json
-msgid "Cancel"
-msgstr "取消"
 
 #. [AccountSetting.ChangePassword]
 #. defaultMessage is:
@@ -775,13 +722,6 @@ msgstr "運動"
 msgid "Exercise or Fitness"
 msgstr "運動或健身"
 
-#. [UnsubscribePanel.Answer3-2]
-#. defaultMessage is:
-#. Exercise.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Exercise."
-msgstr "運動時間統計"
-
 #. [ExerciseMetaDetails.FatBurn]
 #. defaultMessage is:
 #. Fat Burn
@@ -1014,13 +954,6 @@ msgstr "如何安裝 iOS App？"
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Hsinchu HQ"
 msgstr "新竹總部"
-
-#. [UnsubscribePanel.Answer1-3]
-#. defaultMessage is:
-#. I do not use the band and MediaTek Health service anymore.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "I do not use the band and MediaTek Health service anymore."
-msgstr "已經沒在使用手環和 MediaTek Health"
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line6]
 #. defaultMessage is:
@@ -1628,17 +1561,6 @@ msgstr "申請金手環需繳回識別證，送出申請前請詳閱「了解差
 msgid "Please scan the following QR code to download MediaTek Health App."
 msgstr "您可以掃描下列 QR code 並下載 MediaTek Health App。"
 
-#. [UnsubscribePanel.ErrorMessage]
-#. defaultMessage is:
-#. Please select at least one option
-#. [SingleChoice.ErrorMessage]
-#. defaultMessage is:
-#. Please select at least one option
-#: build/messages/src/scripts/components/common/MultipleChoice.json
-#: build/messages/src/scripts/components/common/SingleChoice.json
-msgid "Please select at least one option"
-msgstr "請選擇至少一個選項"
-
 #. [ActivatePage.description]
 #. defaultMessage is:
 #. Please set a password and the serial number of the band to complete the registration.
@@ -1658,6 +1580,13 @@ msgstr "請替您的帳號設定密碼與手環序號以完成註冊流程。"
 #: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Poor"
 msgstr "稍差"
+
+#. [SleepReportDetails.PossibleRiskOfArrhythmia]
+#. defaultMessage is:
+#. Possible risk of arrhythmia
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+msgid "Possible risk of arrhythmia"
+msgstr "心律不整風險機率"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -1711,13 +1640,6 @@ msgstr "實驗目的"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Subjects"
 msgstr "實驗對象"
-
-#. [UnsubscribePanel.SubTitle]
-#. defaultMessage is:
-#. Provide your feedback, we can do better!
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Provide your feedback, we can do better!"
-msgstr "提供您的建議，幫助我們做得更好！"
 
 #. [SleepStagePanel.REM]
 #. defaultMessage is:
@@ -2092,13 +2014,6 @@ msgstr "睡眠追蹤"
 msgid "Sleep Well and Sleep Sound"
 msgstr "追求更好的睡眠品質"
 
-#. [UnsubscribePanel.Answer2-2]
-#. defaultMessage is:
-#. Sleep efficiency trend.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Sleep efficiency trend."
-msgstr "睡眠效率趨勢"
-
 #. [SleepReportInformation.Asleep]
 #. defaultMessage is:
 #. SleepReportInformation: Asleep
@@ -2208,31 +2123,6 @@ msgstr "步數"
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid "Step {number}"
 msgstr "步驟 {number}"
-
-#. [UnsubscribePanel.Answer3-1]
-#. defaultMessage is:
-#. Step.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Step."
-msgstr "步數統計"
-
-#. [UnsubscribeDialog.Submit]
-#. defaultMessage is:
-#. Submit
-#. [UnsubscribeEmailPage.Submit]
-#. defaultMessage is:
-#. Submit
-#: build/messages/src/scripts/components/accountSetting/UnsubscribeDialog.json
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid "Submit"
-msgstr "送出"
-
-#. [AccountSetting.Subscribe]
-#. defaultMessage is:
-#. Subscribe
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Subscribe"
-msgstr "訂閱"
 
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
@@ -2465,24 +2355,6 @@ msgstr "請再輸入一次"
 msgid "Unit:"
 msgstr "單位:"
 
-#. [UnsubscribePanel.Title]
-#. defaultMessage is:
-#. Unsubscribe
-#. [AccountSetting.Unsubscribe]
-#. defaultMessage is:
-#. Unsubscribe
-#: build/messages/src/scripts/components/common/UnsubscribePanel.json
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Unsubscribe"
-msgstr "取消訂閱"
-
-#. [UnsubscribePanel.SuccessMessage]
-#. defaultMessage is:
-#. Unsubscribe successfully !
-#: build/messages/src/scripts/components/common/UnsubscribePanel.json
-msgid "Unsubscribe successfully !"
-msgstr "取消訂閱成功"
-
 #. [LangingPage.HeartRateContent]
 #. defaultMessage is:
 #. Update your workout data instantly to enjoy brand new exercise experiences.
@@ -2588,27 +2460,6 @@ msgstr "穿戴式識別證實驗計畫"
 #: build/messages/src/scripts/containers/Leaderboard.json
 msgid "Weekly Step Count"
 msgstr "每週總步數"
-
-#. [AccountSetting.WeeklySummary]
-#. defaultMessage is:
-#. Weekly Summary
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Weekly Summary"
-msgstr "每周總覽"
-
-#. [UnsubscribePanel.Answer1-1]
-#. defaultMessage is:
-#. Weekly frequency is too often.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Weekly frequency is too often."
-msgstr "每週收到太頻繁"
-
-#. [UnsubscribePanel.Answer1-2]
-#. defaultMessage is:
-#. Weekly summary doesn't have the information I care about.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Weekly summary doesn't have the information I care about."
-msgstr "每週總覽沒有我在意的資訊 "
 
 #. [ProfileForm.WeightLabel]
 #. defaultMessage is:
@@ -2722,13 +2573,6 @@ msgid ""
 "Your reset password email has been sent in last 5 minutes. Please wait if "
 "you would like to resend a new one."
 msgstr "重設密碼郵件不久前才剛被寄送，必須等待五分鐘後才可再發送一次。"
-
-#. [UnsubscribeEmailPage.AccountSetting]
-#. defaultMessage is:
-#. account setting
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid "account setting"
-msgstr "帳號設定"
 
 #. [ExercisePanel.At]
 #. defaultMessage is:
@@ -2907,6 +2751,74 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "聯發金手環有識別證功能，黑手環則沒有。"
+
+#~ msgid ""
+#~ "*If you change your mind, you can go to the {accountSetting} to change "
+#~ "the subscription."
+#~ msgstr "若您日後改變心意，您可以在{accountSetting}中修改訂閱狀態。"
+
+#~ msgid "1. Why do you not want to receive weekly summary? (Multiple choice)"
+#~ msgstr "1. 為什麼不想再收到每週總覽信件？ (多選)"
+
+#~ msgid ""
+#~ "2. Which information is more important that should be included in the "
+#~ "weekly summary?"
+#~ msgstr "2. 您認為哪項資訊更適合放在每週總覽中？(單選)"
+
+#~ msgid ""
+#~ "3. Which information do you not care about most in the weekly summary?"
+#~ msgstr "3. 目前每週總覽的資訊中，哪項您最不在乎？ (單選)"
+
+#~ msgid "Blood pressure trend."
+#~ msgstr "血壓趨勢"
+
+#~ msgid "Calorie."
+#~ msgstr "卡洛里統計"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Exercise."
+#~ msgstr "運動時間統計"
+
+#~ msgid "I do not use the band and MediaTek Health service anymore."
+#~ msgstr "已經沒在使用手環和 MediaTek Health"
+
+#~ msgid "Please select at least one option"
+#~ msgstr "請選擇至少一個選項"
+
+#~ msgid "Provide your feedback, we can do better!"
+#~ msgstr "提供您的建議，幫助我們做得更好！"
+
+#~ msgid "Sleep efficiency trend."
+#~ msgstr "睡眠效率趨勢"
+
+#~ msgid "Step."
+#~ msgstr "步數統計"
+
+#~ msgid "Submit"
+#~ msgstr "送出"
+
+#~ msgid "Subscribe"
+#~ msgstr "訂閱"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "取消訂閱"
+
+#~ msgid "Unsubscribe successfully !"
+#~ msgstr "取消訂閱成功"
+
+#~ msgid "Weekly Summary"
+#~ msgstr "每周總覽"
+
+#~ msgid "Weekly frequency is too often."
+#~ msgstr "每週收到太頻繁"
+
+#~ msgid "Weekly summary doesn't have the information I care about."
+#~ msgstr "每週總覽沒有我在意的資訊 "
+
+#~ msgid "account setting"
+#~ msgstr "帳號設定"
 
 #~ msgid "Asleep"
 #~ msgstr "睡眠開始"

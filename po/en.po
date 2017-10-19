@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-09-22 16:56+0800\n"
-"PO-Revision-Date: 2017-09-22 16:57+0800\n"
+"POT-Creation-Date: 2017-10-19 11:30+0800\n"
+"PO-Revision-Date: 2017-10-19 11:30+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -45,17 +45,6 @@ msgstr ""
 msgid "* Taipei Office only"
 msgstr "* Taipei Office only"
 
-#. [UnsubscribeEmailPage.ResubscriobeReminder]
-#. defaultMessage is:
-#. *If you change your mind, you can go to the {accountSetting} to change the subscription.
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid ""
-"*If you change your mind, you can go to the {accountSetting} to change the "
-"subscription."
-msgstr ""
-"*If you change your mind, you can go to the {accountSetting} to change the "
-"subscription."
-
 #. [FirstLoginManual.iOSAppPopoverStep1]
 #. defaultMessage is:
 #. 1. Scan the QR code above and click the hyperlink: "Click here to download MediaTek Health iOS App."
@@ -67,13 +56,6 @@ msgstr ""
 "1. Scan the QR code above and click the hyperlink: “Click here to download "
 "MediaTek Health iOS App.”"
 
-#. [UnsubscribePanel.Question1]
-#. defaultMessage is:
-#. 1. Why do you not want to receive weekly summary? (Multiple choice)
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "1. Why do you not want to receive weekly summary? (Multiple choice)"
-msgstr "1. Why do you not want to receive weekly summary? (Multiple choice)"
-
 #. [FirstLoginManual.iOSAppPopoverStep2]
 #. defaultMessage is:
 #. 2. Please select "Install" when the installation notification is shown.
@@ -82,17 +64,6 @@ msgid ""
 "2. Please select \"Install\" when the installation notification is shown."
 msgstr ""
 "2. Please select “Install” when the installation notification is shown."
-
-#. [UnsubscribePanel.Question2]
-#. defaultMessage is:
-#. 2. Which information is more important that should be included in the weekly summary?
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid ""
-"2. Which information is more important that should be included in the weekly "
-"summary?"
-msgstr ""
-"2. Which information is more important that should be included in the weekly "
-"summary?"
 
 #. [landingPage.ProjectIntroDialog.durationContext]
 #. defaultMessage is:
@@ -115,13 +86,6 @@ msgstr ""
 "finished. Tap Settings > General > Profiles or Profiles & Device Management "
 "> MediaTek Inc. Tap “Trust MediaTek Inc.” to establish trust. (Note that the "
 "network connection is required in this step.)"
-
-#. [UnsubscribePanel.Question3]
-#. defaultMessage is:
-#. 3. Which information do you not care about most in the weekly summary?
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "3. Which information do you not care about most in the weekly summary?"
-msgstr "3. Which information do you not care about most in the weekly summary?"
 
 #. [FirstLoginManual.iOSAppPopoverStep4]
 #. defaultMessage is:
@@ -408,13 +372,6 @@ msgstr "Blood Pressure"
 msgid "Blood Pressure Measurement"
 msgstr "Blood Pressure Measurement"
 
-#. [UnsubscribePanel.Answer2-1]
-#. defaultMessage is:
-#. Blood pressure trend.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Blood pressure trend."
-msgstr "Blood pressure trend."
-
 #. [landingPage.EmailSection.policyLine2]
 #. defaultMessage is:
 #. By clicking on SUBMIT, I agree to MediaTek Health's {terms} and {policy}.
@@ -472,20 +429,6 @@ msgstr "Calorie"
 #: build/messages/src/scripts/components/dashboard/ExercisePanel.json
 msgid "Calorie Burned"
 msgstr "Calorie Burned"
-
-#. [UnsubscribePanel.Answer3-3]
-#. defaultMessage is:
-#. Calorie.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Calorie."
-msgstr "Calorie."
-
-#. [UnsubscribeDialog.Cancel]
-#. defaultMessage is:
-#. Cancel
-#: build/messages/src/scripts/components/accountSetting/UnsubscribeDialog.json
-msgid "Cancel"
-msgstr "Cancel"
 
 #. [AccountSetting.ChangePassword]
 #. defaultMessage is:
@@ -794,13 +737,6 @@ msgstr "Exercise"
 msgid "Exercise or Fitness"
 msgstr "Exercise or Fitness"
 
-#. [UnsubscribePanel.Answer3-2]
-#. defaultMessage is:
-#. Exercise.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Exercise."
-msgstr "Exercise."
-
 #. [ExerciseMetaDetails.FatBurn]
 #. defaultMessage is:
 #. Fat Burn
@@ -1034,13 +970,6 @@ msgstr "How to install iOS App ?"
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 msgid "Hsinchu HQ"
 msgstr "Hsinchu HQ"
-
-#. [UnsubscribePanel.Answer1-3]
-#. defaultMessage is:
-#. I do not use the band and MediaTek Health service anymore.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "I do not use the band and MediaTek Health service anymore."
-msgstr "I do not use the band and MediaTek Health service anymore."
 
 #. [landingPage.ProjectIntroDialog.descriptionContextP3Line6]
 #. defaultMessage is:
@@ -1664,17 +1593,6 @@ msgstr "Please make sure you've read the \"Learn the differnce\"."
 msgid "Please scan the following QR code to download MediaTek Health App."
 msgstr "Please scan the following QR code to download MediaTek Health App."
 
-#. [UnsubscribePanel.ErrorMessage]
-#. defaultMessage is:
-#. Please select at least one option
-#. [SingleChoice.ErrorMessage]
-#. defaultMessage is:
-#. Please select at least one option
-#: build/messages/src/scripts/components/common/MultipleChoice.json
-#: build/messages/src/scripts/components/common/SingleChoice.json
-msgid "Please select at least one option"
-msgstr "Please select at least one option"
-
 #. [ActivatePage.description]
 #. defaultMessage is:
 #. Please set a password and the serial number of the band to complete the registration.
@@ -1696,6 +1614,13 @@ msgstr ""
 #: build/messages/src/scripts/components/common/StabilityIndicator.json
 msgid "Poor"
 msgstr "Poor"
+
+#. [SleepReportDetails.PossibleRiskOfArrhythmia]
+#. defaultMessage is:
+#. Possible risk of arrhythmia
+#: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
+msgid "Possible risk of arrhythmia"
+msgstr "Possible risk of arrhythmia"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -1749,13 +1674,6 @@ msgstr "Project Objective"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "Project Subjects"
 msgstr "Project Subjects"
-
-#. [UnsubscribePanel.SubTitle]
-#. defaultMessage is:
-#. Provide your feedback, we can do better!
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Provide your feedback, we can do better!"
-msgstr "Provide your feedback, we can do better!"
 
 #. [SleepStagePanel.REM]
 #. defaultMessage is:
@@ -2132,13 +2050,6 @@ msgstr "Sleep Tracking"
 msgid "Sleep Well and Sleep Sound"
 msgstr "Sleep Well and Sleep Sound"
 
-#. [UnsubscribePanel.Answer2-2]
-#. defaultMessage is:
-#. Sleep efficiency trend.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Sleep efficiency trend."
-msgstr "Sleep efficiency trend."
-
 #. [SleepReportInformation.Asleep]
 #. defaultMessage is:
 #. SleepReportInformation: Asleep
@@ -2248,31 +2159,6 @@ msgstr "Steps"
 #: build/messages/src/scripts/components/common/FirstLoginManual.json
 msgid "Step {number}"
 msgstr "Step {number}"
-
-#. [UnsubscribePanel.Answer3-1]
-#. defaultMessage is:
-#. Step.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Step."
-msgstr "Step."
-
-#. [UnsubscribeDialog.Submit]
-#. defaultMessage is:
-#. Submit
-#. [UnsubscribeEmailPage.Submit]
-#. defaultMessage is:
-#. Submit
-#: build/messages/src/scripts/components/accountSetting/UnsubscribeDialog.json
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid "Submit"
-msgstr "Submit"
-
-#. [AccountSetting.Subscribe]
-#. defaultMessage is:
-#. Subscribe
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Subscribe"
-msgstr "Subscribe"
 
 #. [BloodPressureChartMeta.Systolic]
 #. defaultMessage is:
@@ -2511,24 +2397,6 @@ msgstr "Type again"
 msgid "Unit:"
 msgstr "Unit:"
 
-#. [UnsubscribePanel.Title]
-#. defaultMessage is:
-#. Unsubscribe
-#. [AccountSetting.Unsubscribe]
-#. defaultMessage is:
-#. Unsubscribe
-#: build/messages/src/scripts/components/common/UnsubscribePanel.json
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Unsubscribe"
-msgstr "Unsubscribe"
-
-#. [UnsubscribePanel.SuccessMessage]
-#. defaultMessage is:
-#. Unsubscribe successfully !
-#: build/messages/src/scripts/components/common/UnsubscribePanel.json
-msgid "Unsubscribe successfully !"
-msgstr "Unsubscribe successfully !"
-
 #. [LangingPage.HeartRateContent]
 #. defaultMessage is:
 #. Update your workout data instantly to enjoy brand new exercise experiences.
@@ -2637,27 +2505,6 @@ msgstr "Wearable Badge Experimental Project"
 #: build/messages/src/scripts/containers/Leaderboard.json
 msgid "Weekly Step Count"
 msgstr "Weekly Step Count"
-
-#. [AccountSetting.WeeklySummary]
-#. defaultMessage is:
-#. Weekly Summary
-#: build/messages/src/scripts/containers/AccountSetting.json
-msgid "Weekly Summary"
-msgstr "Weekly Summary"
-
-#. [UnsubscribePanel.Answer1-1]
-#. defaultMessage is:
-#. Weekly frequency is too often.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Weekly frequency is too often."
-msgstr "Weekly frequency is too often."
-
-#. [UnsubscribePanel.Answer1-2]
-#. defaultMessage is:
-#. Weekly summary doesn't have the information I care about.
-#: build/messages/src/scripts/components/common/UnsubscribeQuestionnaire.json
-msgid "Weekly summary doesn't have the information I care about."
-msgstr "Weekly summary doesn’t have the information I care about."
 
 #. [ProfileForm.WeightLabel]
 #. defaultMessage is:
@@ -2778,13 +2625,6 @@ msgid ""
 msgstr ""
 "Your reset password email has been sent in last 5 minutes. Please wait if "
 "you would like to resend a new one."
-
-#. [UnsubscribeEmailPage.AccountSetting]
-#. defaultMessage is:
-#. account setting
-#: build/messages/src/scripts/containers/UnsubscribeEmailPage.json
-msgid "account setting"
-msgstr "account setting"
 
 #. [ExercisePanel.At]
 #. defaultMessage is:
@@ -2963,6 +2803,79 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid ""
+#~ "*If you change your mind, you can go to the {accountSetting} to change "
+#~ "the subscription."
+#~ msgstr ""
+#~ "*If you change your mind, you can go to the {accountSetting} to change "
+#~ "the subscription."
+
+#~ msgid "1. Why do you not want to receive weekly summary? (Multiple choice)"
+#~ msgstr "1. Why do you not want to receive weekly summary? (Multiple choice)"
+
+#~ msgid ""
+#~ "2. Which information is more important that should be included in the "
+#~ "weekly summary?"
+#~ msgstr ""
+#~ "2. Which information is more important that should be included in the "
+#~ "weekly summary?"
+
+#~ msgid ""
+#~ "3. Which information do you not care about most in the weekly summary?"
+#~ msgstr ""
+#~ "3. Which information do you not care about most in the weekly summary?"
+
+#~ msgid "Blood pressure trend."
+#~ msgstr "Blood pressure trend."
+
+#~ msgid "Calorie."
+#~ msgstr "Calorie."
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Exercise."
+#~ msgstr "Exercise."
+
+#~ msgid "I do not use the band and MediaTek Health service anymore."
+#~ msgstr "I do not use the band and MediaTek Health service anymore."
+
+#~ msgid "Please select at least one option"
+#~ msgstr "Please select at least one option"
+
+#~ msgid "Provide your feedback, we can do better!"
+#~ msgstr "Provide your feedback, we can do better!"
+
+#~ msgid "Sleep efficiency trend."
+#~ msgstr "Sleep efficiency trend."
+
+#~ msgid "Step."
+#~ msgstr "Step."
+
+#~ msgid "Submit"
+#~ msgstr "Submit"
+
+#~ msgid "Subscribe"
+#~ msgstr "Subscribe"
+
+#~ msgid "Unsubscribe"
+#~ msgstr "Unsubscribe"
+
+#~ msgid "Unsubscribe successfully !"
+#~ msgstr "Unsubscribe successfully !"
+
+#~ msgid "Weekly Summary"
+#~ msgstr "Weekly Summary"
+
+#~ msgid "Weekly frequency is too often."
+#~ msgstr "Weekly frequency is too often."
+
+#~ msgid "Weekly summary doesn't have the information I care about."
+#~ msgstr "Weekly summary doesn’t have the information I care about."
+
+#~ msgid "account setting"
+#~ msgstr "account setting"
 
 #~ msgid "Asleep"
 #~ msgstr "Asleep"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-10-19 11:27+0800\n"
+"POT-Creation-Date: 2017-11-13T01:33:45.562Z\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [Indication.Percentage]
@@ -273,6 +273,13 @@ msgstr "無氧運動"
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "Application successful !"
 msgstr "申請成功！"
+
+#. [MoreInfoOverlay.Arrhythmia]
+#. defaultMessage is:
+#. Arrhythmia
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid "Arrhythmia"
+msgstr "心律不整"
 
 #. [SleepStagePanel.Awake]
 #. defaultMessage is:
@@ -2190,6 +2197,25 @@ msgid "The gold band is your employee badge. Do not let other people use it."
 msgstr ""
 "金手環等同識別證，限本人使用，請勿交由他人使用，台北辦公室保全也會以金手環做"
 "為辨識依據。"
+
+#. [MoreInfoOverlay.ArrhythmiaDescription]
+#. defaultMessage is:
+#. The possible risk of arrhythmia is defined by the abnormal period over the measurement time. Arrhythmias are abnormal beats, such as too fast, too slow, or even irregular beats. Arrhythmia occurs with different risk levels. The high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats.
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+msgid ""
+"The possible risk of arrhythmia is defined by the abnormal period over the "
+"measurement time. Arrhythmias are abnormal beats, such as too fast, too "
+"slow, or even irregular beats. Arrhythmia occurs with different risk levels. "
+"The high risk level may induce cardiovascular diseases or stroke. Please "
+"seek professional medical assistance if you have the following symptoms: "
+"palpitations, chest pain, sudden dizziness or cold sweats."
+msgstr ""
+"心律不整風險機率，代表在單位時間內，心臟節律為不正常的比例。心臟中的竇性節律"
+"點，會自發性規律的跳動且供應血液到全身，使所有臟器及組織能有充足的氧氣與營"
+"養；而心律不整，是一種心跳過快、過慢或不規則跳動的現象，一般身體健康的人也會"
+"發生(低風險)，但嚴重者(高風險)容易引發相關心臟、心血管和腦中風疾病，當日常生"
+"活中出現心悸、胸部不適、悶痛、頭暈或昏倒等情況 (尤其是在運動中或壓力大時需特"
+"別注意)，建議您至心臟內科做進一步的檢查。"
 
 #. [ResetSerialNumberPage.serialNumberInvalid]
 #. defaultMessage is:

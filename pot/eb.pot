@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2017-10-19T03:25:12.843Z\n"
+"POT-Creation-Date: 2017-11-13T01:33:45.562Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -233,6 +233,13 @@ msgstr ""
 #. defaultMessage is:
 #. Application successful !
 msgid "Application successful !"
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.Arrhythmia]
+#. defaultMessage is:
+#. Arrhythmia
+msgid "Arrhythmia"
 msgstr ""
 
 #: build/messages/src/scripts/components/dashboard/SleepStagePanel.json
@@ -2098,6 +2105,13 @@ msgstr ""
 #. defaultMessage is:
 #. The gold band is your employee badge. Do not let other people use it.
 msgid "The gold band is your employee badge. Do not let other people use it."
+msgstr ""
+
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
+#. [MoreInfoOverlay.ArrhythmiaDescription]
+#. defaultMessage is:
+#. The possible risk of arrhythmia is defined by the abnormal period over the measurement time. Arrhythmias are abnormal beats, such as too fast, too slow, or even irregular beats. Arrhythmia occurs with different risk levels. The high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats.
+msgid "The possible risk of arrhythmia is defined by the abnormal period over the measurement time. Arrhythmias are abnormal beats, such as too fast, too slow, or even irregular beats. Arrhythmia occurs with different risk levels. The high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json

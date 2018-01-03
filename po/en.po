@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2017-11-13T01:33:45.562Z\n"
-"PO-Revision-Date: 2017-11-13 11:12+0800\n"
+"POT-Creation-Date: 2018-01-03T09:44:26.649Z\n"
+"PO-Revision-Date: 2018-01-03 17:47+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.0.5\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -282,13 +282,6 @@ msgstr "Anaerobics"
 #: build/messages/src/scripts/components/landingPage/SuccessSection.json
 msgid "Application successful !"
 msgstr "Application successful !"
-
-#. [MoreInfoOverlay.Arrhythmia]
-#. defaultMessage is:
-#. Arrhythmia
-#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
-msgid "Arrhythmia"
-msgstr "Arrhythmia"
 
 #. [SleepStagePanel.Awake]
 #. defaultMessage is:
@@ -1622,12 +1615,16 @@ msgstr ""
 msgid "Poor"
 msgstr "Poor"
 
-#. [SleepReportDetails.PossibleRiskOfArrhythmia]
+#. [MoreInfoOverlay.AtrialFibrillationRisk]
 #. defaultMessage is:
-#. Possible risk of arrhythmia
+#. Possible Risk of Atrial Fibrillation
+#. [SleepReportDetails.AtrialFibrillationRisk]
+#. defaultMessage is:
+#. Possible Risk of Atrial Fibrillation
+#: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #: build/messages/src/scripts/components/sleepReport/SleepReportDetails.json
-msgid "Possible risk of arrhythmia"
-msgstr "Possible risk of arrhythmia"
+msgid "Possible Risk of Atrial Fibrillation"
+msgstr "Possible Risk of Atrial Fibrillation"
 
 #. [landingPage.QuestionnaireSection.option.pressure]
 #. defaultMessage is:
@@ -2234,24 +2231,28 @@ msgstr ""
 msgid "The gold band is your employee badge. Do not let other people use it."
 msgstr "The gold band is your employee badge. Do not let other people use it."
 
-#. [MoreInfoOverlay.ArrhythmiaDescription]
+#. [MoreInfoOverlay.AtrialFibrillationRiskDescription]
 #. defaultMessage is:
-#. The possible risk of arrhythmia is defined by the abnormal period over the measurement time. Arrhythmias are abnormal beats, such as too fast, too slow, or even irregular beats. Arrhythmia occurs with different risk levels. The high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats.
+#. The possible risk of Atrial fibrillation (AF) is defined by the abnormal period over the measurement time. AF is abnormal beats, such as too fast, too slow, or even irregular beats. AF occurs with different risk levels, the high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats. Feel free to contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your result is overhigh.
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 msgid ""
-"The possible risk of arrhythmia is defined by the abnormal period over the "
-"measurement time. Arrhythmias are abnormal beats, such as too fast, too "
-"slow, or even irregular beats. Arrhythmia occurs with different risk levels. "
-"The high risk level may induce cardiovascular diseases or stroke. Please "
-"seek professional medical assistance if you have the following symptoms: "
-"palpitations, chest pain, sudden dizziness or cold sweats."
+"The possible risk of Atrial fibrillation (AF) is defined by the abnormal "
+"period over the measurement time. AF is abnormal beats, such as too fast, "
+"too slow, or even irregular beats. AF occurs with different risk levels, the "
+"high risk level may induce cardiovascular diseases or stroke. Please seek "
+"professional medical assistance if you have the following symptoms: "
+"palpitations, chest pain, sudden dizziness or cold sweats. Feel free to "
+"contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your result "
+"is overhigh."
 msgstr ""
-"The possible risk of arrhythmia is defined by the abnormal period over the "
-"measurement time. Arrhythmias are abnormal beats, such as too fast, too "
-"slow, or even irregular beats. Arrhythmia occurs with different risk levels. "
-"The high risk level may induce cardiovascular diseases or stroke. Please "
-"seek professional medical assistance if you have the following symptoms: "
-"palpitations, chest pain, sudden dizziness or cold sweats."
+"The possible risk of Atrial fibrillation (AF) is defined by the abnormal "
+"period over the measurement time. AF is abnormal beats, such as too fast, "
+"too slow, or even irregular beats. AF occurs with different risk levels, the "
+"high risk level may induce cardiovascular diseases or stroke. Please seek "
+"professional medical assistance if you have the following symptoms: "
+"palpitations, chest pain, sudden dizziness or cold sweats. Feel free to "
+"contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your result "
+"is overhigh."
 
 #. [ResetSerialNumberPage.serialNumberInvalid]
 #. defaultMessage is:
@@ -2829,6 +2830,15 @@ msgstr "steps"
 #: build/messages/src/scripts/components/landingPage/ProjectIntroDialog.json
 msgid "the gold band can be additionally served as employee badge."
 msgstr "the gold band can be additionally served as employee badge."
+
+#~ msgid "Atrial Fibrillation Risk"
+#~ msgstr "Atrial Fibrillation Risk"
+
+#~ msgid "Arrhythmia"
+#~ msgstr "Arrhythmia"
+
+#~ msgid "Possible risk of arrhythmia"
+#~ msgstr "Possible risk of arrhythmia"
 
 #~ msgid ""
 #~ "*If you change your mind, you can go to the {accountSetting} to change "

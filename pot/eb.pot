@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2018-01-03T09:44:26.649Z\n"
+"POT-Creation-Date: 2018-03-12T09:20:52.802Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -2107,8 +2107,8 @@ msgstr ""
 #: build/messages/src/scripts/components/sleepReport/MoreInfoOverlay.json
 #. [MoreInfoOverlay.AtrialFibrillationRiskDescription]
 #. defaultMessage is:
-#. The possible risk of Atrial fibrillation (AF) is defined by the abnormal period over the measurement time. AF is abnormal beats, such as too fast, too slow, or even irregular beats. AF occurs with different risk levels, the high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats. Feel free to contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your result is overhigh.
-msgid "The possible risk of Atrial fibrillation (AF) is defined by the abnormal period over the measurement time. AF is abnormal beats, such as too fast, too slow, or even irregular beats. AF occurs with different risk levels, the high risk level may induce cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, sudden dizziness or cold sweats. Feel free to contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your result is overhigh."
+#. The risk of Atrial fibrillation (Af) shows the possibility of abnormal heart rhythm which contains irregular heartbeats. AF may increase the risk of cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, dizziness or cold sweat. NOTE: Please contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your reading is higher than 50% and lasts for three-day measurement.
+msgid "The risk of Atrial fibrillation (Af) shows the possibility of abnormal heart rhythm which contains irregular heartbeats. AF may increase the risk of cardiovascular diseases or stroke. Please seek professional medical assistance if you have the following symptoms: palpitations, chest pain, dizziness or cold sweat. NOTE: Please contact MM/MTD/BSP Yu-Cheng Lin #35668 for more information if your reading is higher than 50% and lasts for three-day measurement."
 msgstr ""
 
 #: build/messages/src/scripts/containers/ResetSerialNumberPage.json

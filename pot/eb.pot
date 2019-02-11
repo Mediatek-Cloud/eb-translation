@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2018-03-12T09:20:52.802Z\n"
+"POT-Creation-Date: 2019-02-11T06:42:31.682Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -24,8 +24,8 @@ msgstr ""
 #: build/messages/src/scripts/components/landingPage/EmailSection.json
 #. [landingPage.EmailSection.information]
 #. defaultMessage is:
-#. (Our first round of registration is closed and you will be on the waiting list.)
-msgid "(Our first round of registration is closed and you will be on the waiting list.)"
+#. (The registration is closed.)
+msgid "(The registration is closed.)"
 msgstr ""
 
 #: build/messages/src/scripts/components/landingPage/FeatureSection.json
